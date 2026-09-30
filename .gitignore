@@ -1,0 +1,17 @@
+# 发布/部署拷贝（冗余，不纳入版本管理）
+_deploy/
+_deploy_web/
+
+# 自检截图与过程产物
+_shots/
+_audio_progress/
+audio_baseline_hashes.json
+gap_report.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统与日志
+.DS_Store
+*.log
