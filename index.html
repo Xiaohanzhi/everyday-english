@@ -561,8 +561,7 @@ function wireUnit(u,c){
     window.print();
     setTimeout(()=>document.body.classList.remove("print-all"),500);
   })}
-  const it=$("#view").querySelector("[data-ipatoggle]");
-  if(it){it.addEventListener("click",()=>setIPA(!IPA))}
+  $("#view").querySelectorAll("[data-ipatoggle]").forEach(it=>it.addEventListener("click",()=>setIPA(!IPA)))
   const drill=$("#drillbtn");if(drill){drill.addEventListener("click",()=>openDrill(u))}
   const flip=$("#flipbtn");if(flip){flip.addEventListener("click",()=>location.hash="#review")}
   const mic=$("#micbtn");if(mic){mic.addEventListener("click",()=>openMic(u))}
