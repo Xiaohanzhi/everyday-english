@@ -7002,29 +7002,37 @@
    "img": "assets/img/unit28.jpg",
    "grammar": "SIMPLE PAST",
    "grammarNote": {
-    "en": "Simple past narration (chose, took, loaded, picked up, punched in, listened, ejected) describes playing a CD in the evening.",
-    "zh": "用一般过去时（chose 选、took 取出、loaded 装入、picked up 拿起、punched in 按入、listened 听、ejected 弹出）描述晚上听 CD 的过程。"
+    "en": "Simple past narration (chose, put on, pressed, listened, paused, stopped, put down) describes listening to songs on a phone in the evening.",
+    "zh": "用一般过去时（chose 选择、put on 戴上、pressed 按下、listened 听、paused 暂停、stopped 停止、put down 放下）描述晚上用手机听歌的过程。"
    },
    "steps": [
     {
-     "en": "I chose a CD from the shelf, held the disc at the edge and took it out of the case.",
-     "zh": "我从架子上选了一张 CD，捏着边缘从盒子里取出来。"
+     "en": "I chose a song on my mom's phone.",
+     "zh": "我在妈妈手机上选了一首歌。"
     },
     {
-     "en": "Then I loaded the disc into the tray.",
-     "zh": "然后我把碟片放进 CD 机的托盘里。"
+     "en": "I put on my earphones.",
+     "zh": "我戴上耳机。"
     },
     {
-     "en": "I picked up the remote and punched in the number of the track I wanted to listen to.",
-     "zh": "我拿起遥控器，按入我想听的曲目编号。"
+     "en": "I pressed play.",
+     "zh": "我按下播放键。"
     },
     {
      "en": "I listened to the music.",
      "zh": "我听着音乐。"
     },
     {
-     "en": "Finally, I ejected the CD.",
-     "zh": "最后我把 CD 退了出来。"
+     "en": "When Dad called me, I pressed pause.",
+     "zh": "爸爸叫我时，我按了暂停。"
+    },
+    {
+     "en": "Then I pressed play again.",
+     "zh": "然后我又按下播放键。"
+    },
+    {
+     "en": "At night, I stopped the music and put the phone down.",
+     "zh": "晚上，我停掉音乐，把手机放下。"
     }
    ],
    "vocab": {
@@ -7035,272 +7043,9 @@
       "zh": "选择"
      },
      {
-      "w": "eject",
-      "ipa": "/ɪˈdʒekt/",
-      "zh": "弹出（碟片）"
-     },
-     {
-      "w": "go",
-      "ipa": "/ɡoʊ/",
-      "zh": "去；进行"
-     },
-     {
-      "w": "hold",
-      "ipa": "/hoʊld/",
-      "zh": "握住；拿着"
-     },
-     {
       "w": "listen to",
       "ipa": "/ˈlɪsn tuː/",
       "zh": "听"
-     },
-     {
-      "w": "load",
-      "ipa": "/loʊd/",
-      "zh": "装入（碟片）"
-     },
-     {
-      "w": "open",
-      "ipa": "/ˈoʊpən/",
-      "zh": "打开"
-     },
-     {
-      "w": "pick up",
-      "ipa": "/pɪk ʌp/",
-      "zh": "拿起"
-     },
-     {
-      "w": "play",
-      "ipa": "/pleɪ/",
-      "zh": "播放"
-     },
-     {
-      "w": "punch in",
-      "ipa": "/pʌntʃ ɪn/",
-      "zh": "按入（号码）"
-     },
-     {
-      "w": "put back",
-      "ipa": "/pʊt bæk/",
-      "zh": "放回"
-     },
-     {
-      "w": "repeat",
-      "ipa": "/rɪˈpiːt/",
-      "zh": "重复播放"
-     },
-     {
-      "w": "skip",
-      "ipa": "/skɪp/",
-      "zh": "跳（到下一曲）"
-     },
-     {
-      "w": "stop",
-      "ipa": "/stɑːp/",
-      "zh": "停止"
-     },
-     {
-      "w": "take out",
-      "ipa": "/teɪk aʊt/",
-      "zh": "取出"
-     },
-     {
-      "w": "use",
-      "ipa": "/juːz/",
-      "zh": "使用"
-     },
-     {
-      "w": "want",
-      "ipa": "/wɑːnt/",
-      "zh": "想要"
-     }
-    ],
-    "nouns": [
-     {
-      "w": "button",
-      "ipa": "/ˈbʌtn/",
-      "zh": "按钮"
-     },
-     {
-      "w": "CD",
-      "ipa": "/ˌsiː ˈdiː/",
-      "zh": "激光唱片"
-     },
-     {
-      "w": "case",
-      "ipa": "/keɪs/",
-      "zh": "盒子； CD 盒"
-     },
-     {
-      "w": "disc",
-      "ipa": "/dɪsk/",
-      "zh": "碟片"
-     },
-     {
-      "w": "edge",
-      "ipa": "/edʒ/",
-      "zh": "边缘"
-     },
-     {
-      "w": "music",
-      "ipa": "/ˈmjuːzɪk/",
-      "zh": "音乐"
-     },
-     {
-      "w": "number",
-      "ipa": "/ˈnʌmbər/",
-      "zh": "数字；编号"
-     },
-     {
-      "w": "player",
-      "ipa": "/ˈpleɪər/",
-      "zh": "播放器"
-     },
-     {
-      "w": "remote",
-      "ipa": "/rɪˈmoʊt/",
-      "zh": "遥控器"
-     },
-     {
-      "w": "shelf",
-      "ipa": "/ʃelf/",
-      "zh": "架子"
-     },
-     {
-      "w": "track",
-      "ipa": "/træk/",
-      "zh": "（唱片上的）一首曲目"
-     },
-     {
-      "w": "tray",
-      "ipa": "/treɪ/",
-      "zh": "（碟机的）托盘"
-     }
-    ],
-    "others": [
-     {
-      "w": "back (adv.)",
-      "ipa": "/bæk/",
-      "zh": "回到；向后"
-     },
-     {
-      "w": "early (adj.)",
-      "ipa": "/ˈɜːrli/",
-      "zh": "早先的；前面的"
-     },
-     {
-      "w": "finally (adv.)",
-      "ipa": "/ˈfaɪnəli/",
-      "zh": "最后"
-     },
-     {
-      "w": "forward (adv.)",
-      "ipa": "/ˈfɔːrwərd/",
-      "zh": "向前"
-     },
-     {
-      "w": "next (adj.)",
-      "ipa": "/nekst/",
-      "zh": "下一个的"
-     }
-    ]
-   },
-   "notes": [
-    {
-     "en": "A remote is also called a 'remote control.'",
-     "zh": "remote 也叫 remote control（遥控器）。"
-    },
-    {
-     "en": "Each song or piece on a CD is a track. Each track has a number.",
-     "zh": "CD 上的每首歌叫一个 track（曲目），每首都有编号。"
-    },
-    {
-     "en": "To punch in the numbers, you press buttons with your finger.",
-     "zh": "punch in the numbers 就是用手指按键输入数字。"
-    }
-   ],
-   "dialogue": [],
-   "china": [
-    {
-     "en": "Few people in China still play CDs at home; most listen to music on phones via WeChat, QQ Music or NetEase Cloud Music.",
-     "zh": "现在中国人家里很少放 CD，大多用手机通过 QQ 音乐、网易云音乐听歌。"
-    },
-    {
-     "en": "Car stereos in China also mostly support Bluetooth and USB; CD players are rarely sold new.",
-     "zh": "中国的车载音响也以蓝牙和 U 盘为主，全新的 CD 机已经很少卖了。"
-    },
-    {
-     "en": "Older Chinese millennials may still remember buying VCDs and DVDs of movies, which replaced audio CDs at home.",
-     "zh": "不少 80、90 后中国人还记得当年买 VCD、DVD 看电影的经历，它们在家用播放器里基本取代了 CD。"
-    }
-   ],
-   "en": "Playing a CD (Compact Disc)",
-   "zh": "播放CD",
-   "grammarZh": "一般过去时"
-  },
-  {
-   "id": 29,
-   "section": 3,
-   "level": 1,
-   "img": "assets/img/unit29.jpg",
-   "grammar": "SIMPLE PAST",
-   "grammarNote": {
-    "en": "Simple past (put, plugged, started, adjusted, turned up/down, took out) describes operating a Walkman-style cassette player.",
-    "zh": "用一般过去时（put 放入、plugged 插入、started 启动、adjusted 调节、turned up/down 调大/小、took out 取出）描述操作随身听录音机的过程。"
-   },
-   "steps": [
-    {
-     "en": "I put a cassette (a tape) into the player.",
-     "zh": "我把磁带放进随身听。"
-    },
-    {
-     "en": "I plugged the earphones into the jack and put them on.",
-     "zh": "我把耳机插头插进耳机孔，戴上耳机。"
-    },
-    {
-     "en": "Then I started the tape.",
-     "zh": "然后我按下播放键，磁带开始转。"
-    },
-    {
-     "en": "I adjusted the volume—turned it up to make the music louder, and turned it down to make the music softer.",
-     "zh": "我调节音量——调大让音乐更响，调小让音乐更轻。"
-    },
-    {
-     "en": "When I was done listening, I took the tape out and put it back in the case.",
-     "zh": "听完后，我把磁带取出来，放回磁带盒里。"
-    }
-   ],
-   "vocab": {
-    "verbs": [
-     {
-      "w": "adjust",
-      "ipa": "/əˈdʒʌst/",
-      "zh": "调节；调整"
-     },
-     {
-      "w": "eject",
-      "ipa": "/ɪˈdʒekt/",
-      "zh": "弹出；取出"
-     },
-     {
-      "w": "fast-forward",
-      "ipa": "/fæst ˈfɔːrwərd/",
-      "zh": "快进"
-     },
-     {
-      "w": "listen",
-      "ipa": "/ˈlɪsn/",
-      "zh": "听"
-     },
-     {
-      "w": "make",
-      "ipa": "/meɪk/",
-      "zh": "使；让"
-     },
-     {
-      "w": "open",
-      "ipa": "/ˈoʊpən/",
-      "zh": "打开"
      },
      {
       "w": "pause",
@@ -7313,14 +7058,14 @@
       "zh": "播放"
      },
      {
-      "w": "plug",
-      "ipa": "/plʌɡ/",
-      "zh": "插入（插头）"
+      "w": "press",
+      "ipa": "/pres/",
+      "zh": "按（按钮）"
      },
      {
-      "w": "put in",
-      "ipa": "/pʊt ɪn/",
-      "zh": "放入"
+      "w": "put down",
+      "ipa": "/pʊt daʊn/",
+      "zh": "放下"
      },
      {
       "w": "put on",
@@ -7328,14 +7073,9 @@
       "zh": "戴上（耳机）"
      },
      {
-      "w": "rewind",
-      "ipa": "/ˌriːˈwaɪnd/",
-      "zh": "倒带"
-     },
-     {
-      "w": "start",
-      "ipa": "/stɑːrt/",
-      "zh": "开始；启动"
+      "w": "skip",
+      "ipa": "/skɪp/",
+      "zh": "跳（到下一首）"
      },
      {
       "w": "stop",
@@ -7343,9 +7083,161 @@
       "zh": "停止"
      },
      {
-      "w": "take out",
-      "ipa": "/teɪk aʊt/",
-      "zh": "取出"
+      "w": "turn up",
+      "ipa": "/tɜːrn ʌp/",
+      "zh": "调大（音量）"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "app",
+      "ipa": "/æp/",
+      "zh": "应用程序"
+     },
+     {
+      "w": "button",
+      "ipa": "/ˈbʌtn/",
+      "zh": "按钮"
+     },
+     {
+      "w": "earphone(s)",
+      "ipa": "/ˈɪrfoʊnz/",
+      "zh": "耳机"
+     },
+     {
+      "w": "music",
+      "ipa": "/ˈmjuːzɪk/",
+      "zh": "音乐"
+     },
+     {
+      "w": "phone",
+      "ipa": "/foʊn/",
+      "zh": "手机"
+     },
+     {
+      "w": "song",
+      "ipa": "/sɔːŋ/",
+      "zh": "歌曲"
+     }
+    ],
+    "others": [
+     {
+      "w": "again (adv.)",
+      "ipa": "/əˈɡen/",
+      "zh": "再一次"
+     },
+     {
+      "w": "finally (adv.)",
+      "ipa": "/ˈfaɪnəli/",
+      "zh": "最后"
+     },
+     {
+      "w": "next (adj.)",
+      "ipa": "/nekst/",
+      "zh": "下一首的"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "A music app on the phone, like QQ Music or NetEase Cloud Music, lets you choose songs and press play.",
+     "zh": "手机上的音乐 App（如 QQ 音乐、网易云音乐）可以让你选歌并按下播放。"
+    },
+    {
+     "en": "Pause means to stop for a short time. You can press play again to continue.",
+     "zh": "pause 是暂停一会儿，再按播放键可以继续。"
+    },
+    {
+     "en": "Put on your earphones before you press play, so the music is only for you.",
+     "zh": "按播放前先戴上耳机，这样音乐只属于你自己。"
+    }
+   ],
+   "dialogue": [],
+   "china": [
+    {
+     "en": "In China, children listen to songs and audio stories on their parents' phones with apps like QQ Music and NetEase Cloud Music.",
+     "zh": "在中国，孩子常用爸爸妈妈的手机，通过 QQ 音乐、网易云音乐等 App 听歌和听故事。"
+    },
+    {
+     "en": "Many Chinese families limit screen time for kids, so the phone is often Mom or Dad's, not the child's own.",
+     "zh": "很多中国家庭会控制孩子看屏幕的时间，手机通常是爸爸妈妈的，不是孩子自己的。"
+    }
+   ],
+   "en": "Listening to Music on a Phone",
+   "zh": "用手机听歌",
+   "grammarZh": "一般过去时"
+  },
+  {
+   "id": 29,
+   "section": 3,
+   "level": 1,
+   "img": "assets/img/unit29.jpg",
+   "grammar": "SIMPLE PAST",
+   "grammarNote": {
+    "en": "Simple past (put on, chose, pressed, turned up, turned down, listened, took off) describes listening to songs with earphones on a phone.",
+    "zh": "用一般过去时（put on 戴上、chose 选择、pressed 按下、turned up 调大、turned down 调小、listened 听、took off 摘下）描述戴耳机用手机听歌的过程。"
+   },
+   "steps": [
+    {
+     "en": "I put on my earphones.",
+     "zh": "我戴上耳机。"
+    },
+    {
+     "en": "I chose a song on the phone.",
+     "zh": "我在手机上选了一首歌。"
+    },
+    {
+     "en": "I pressed play.",
+     "zh": "我按下播放键。"
+    },
+    {
+     "en": "I turned the volume up a little to hear it better.",
+     "zh": "我把音量调大一点，听得更清楚。"
+    },
+    {
+     "en": "Then I turned it down a little.",
+     "zh": "然后我又调小了一点。"
+    },
+    {
+     "en": "I listened to the songs for a while.",
+     "zh": "我听了一会儿歌。"
+    },
+    {
+     "en": "When I finished, I took off my earphones.",
+     "zh": "听完后，我摘下耳机。"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "choose / chose",
+      "ipa": "/tʃuːz / tʃoʊz/",
+      "zh": "选择"
+     },
+     {
+      "w": "listen",
+      "ipa": "/ˈlɪsn/",
+      "zh": "听"
+     },
+     {
+      "w": "play",
+      "ipa": "/pleɪ/",
+      "zh": "播放"
+     },
+     {
+      "w": "press",
+      "ipa": "/pres/",
+      "zh": "按（按钮）"
+     },
+     {
+      "w": "put on",
+      "ipa": "/pʊt ɑːn/",
+      "zh": "戴上（耳机）"
+     },
+     {
+      "w": "take off",
+      "ipa": "/teɪk ɔːf/",
+      "zh": "摘下"
      },
      {
       "w": "turn down",
@@ -7356,11 +7248,6 @@
       "w": "turn up",
       "ipa": "/tɜːrn ʌp/",
       "zh": "调大（音量）"
-     },
-     {
-      "w": "use",
-      "ipa": "/juːz/",
-      "zh": "使用"
      }
     ],
     "nouns": [
@@ -7370,24 +7257,9 @@
       "zh": "按钮"
      },
      {
-      "w": "case",
-      "ipa": "/keɪs/",
-      "zh": "盒子；磁带盒"
-     },
-     {
-      "w": "cassette",
-      "ipa": "/kəˈset/",
-      "zh": "磁带；卡带"
-     },
-     {
       "w": "earphone(s)",
       "ipa": "/ˈɪrfoʊnz/",
       "zh": "耳机"
-     },
-     {
-      "w": "jack",
-      "ipa": "/dʒæk/",
-      "zh": "耳机插孔"
      },
      {
       "w": "music",
@@ -7395,29 +7267,14 @@
       "zh": "音乐"
      },
      {
-      "w": "part",
-      "ipa": "/pɑːrt/",
-      "zh": "部分"
+      "w": "phone",
+      "ipa": "/foʊn/",
+      "zh": "手机"
      },
      {
-      "w": "personal",
-      "ipa": "/ˈpɜːrsənl/",
-      "zh": "个人的；随身的"
-     },
-     {
-      "w": "player",
-      "ipa": "/ˈpleɪər/",
-      "zh": "播放器；随身听"
-     },
-     {
-      "w": "plug",
-      "ipa": "/plʌɡ/",
-      "zh": "插头"
-     },
-     {
-      "w": "tape",
-      "ipa": "/teɪp/",
-      "zh": "磁带"
+      "w": "song",
+      "ipa": "/sɔːŋ/",
+      "zh": "歌曲"
      },
      {
       "w": "volume",
@@ -7427,78 +7284,49 @@
     ],
     "others": [
      {
-      "w": "back (adv.)",
-      "ipa": "/bæk/",
-      "zh": "向后；回到"
+      "w": "a little (adverbial)",
+      "ipa": "/ə ˈlɪtl/",
+      "zh": "一点点"
      },
      {
-      "w": "early (adj.)",
-      "ipa": "/ˈɜːrli/",
-      "zh": "前面的；早先的"
+      "w": "better (adj.)",
+      "ipa": "/ˈbetər/",
+      "zh": "更清楚的"
      },
      {
-      "w": "forward (adv.)",
-      "ipa": "/ˈfɔːrwərd/",
-      "zh": "向前"
-     },
-     {
-      "w": "for a short time (adverbial)",
-      "ipa": "/fɔːr ə ʃɔːrt taɪm/",
-      "zh": "一小会儿"
-     },
-     {
-      "w": "late (adj.)",
-      "ipa": "/leɪt/",
-      "zh": "后面的；晚的"
-     },
-     {
-      "w": "loud (adj.)",
-      "ipa": "/laʊd/",
-      "zh": "大声的；响的"
-     },
-     {
-      "w": "personal (adj.)",
-      "ipa": "/ˈpɜːrsənl/",
-      "zh": "个人的"
-     },
-     {
-      "w": "soft (adj.)",
-      "ipa": "/sɔːft/",
-      "zh": "轻柔的；小声的"
+      "w": "for a while (adverbial)",
+      "ipa": "/fər ə waɪl/",
+      "zh": "一会儿"
      }
     ]
    },
    "notes": [
     {
-     "en": "One popular kind of personal cassette player is the Sony Walkman.",
-     "zh": "最有名的随身听是索尼 Walkman。"
+     "en": "Turn up means to make the sound louder. Turn down means to make the sound softer.",
+     "zh": "turn up 是把声音调大，turn down 是把声音调小。"
     },
     {
-     "en": "When you speak of music, the opposite of loud is soft.",
-     "zh": "形容音乐时，loud（响）的反义词是 soft（轻）。"
+     "en": "Wearing earphones helps others in the room enjoy quiet. You hear the music only yourself.",
+     "zh": "戴上耳机不会吵到房间里的其他人，音乐只属于你自己。"
     },
     {
-     "en": "The volume of a sound is its loudness. A sound with high volume is very loud.",
-     "zh": "volume（音量）就是声音的大小；音量高就是很响。"
+     "en": "Too much loud music is bad for your ears, so keep the volume low.",
+     "zh": "音乐太响会伤耳朵，所以要控制音量。"
     }
    ],
    "dialogue": [],
    "china": [
     {
-     "en": "Cassette tapes and Walkmans are now nostalgic items in China; young people stream music on smartphones with wireless (Bluetooth) earbuds.",
-     "zh": "磁带和随身听在今天的中国已经成了怀旧物件；年轻人用手机配无线蓝牙耳机听歌。"
+     "en": "In China, most people listen to music with Bluetooth earphones or earbuds; wired earphone jacks are disappearing from new phones.",
+     "zh": "在中国，大家主要用蓝牙耳机听歌，新手机几乎没有了耳机孔。"
     },
     {
-     "en": "In the 1990s and 2000s, cassette tapes were very popular among Chinese students, especially for listening to pop music and English textbooks.",
-     "zh": "上世纪 90 年代到 2000 年代，随身听和磁带给中国学生带来很多回忆，既用来听流行歌，也用来学英语课本。"
-    },
-    {
-     "en": "Wired earphone jacks are disappearing from new phones; most modern earbuds connect via Bluetooth.",
-     "zh": "现在新手机几乎取消了 3.5mm 耳机孔，耳机大多是蓝牙无线的。"
+     "en": "Kids' listening time on the phone is often limited by parents, for eye and ear health.",
+     "zh": "为了保护视力和听力，中国家长常会限制孩子用手机听音频的时间。"
     }
    ],
-   "en": "Using a Personal Cassette Player",
-   "zh": "使用随身听",
+   "en": "Listening with Earphones",
+   "zh": "戴耳机听音频",
    "grammarZh": "一般过去时"
   },
   {
@@ -8003,75 +7831,50 @@
    "img": "assets/img/unit32.jpg",
    "grammar": "Simple Past",
    "grammarNote": {
-    "en": "The simple past tense describes completed actions that happened and finished at a specific time in the past. Regular verbs add -ed (e.g., watched, returned), while irregular verbs change form (e.g., take→took, leave→left). / 一般过去时描述过去某个时间发生并已完成的动作。规则动词加 -ed（如 watched、returned），不规则动词改变形式（如 take→took、leave→left）。",
-    "zh": "一般过去时"
+    "en": "The simple past tense describes completed actions: chose, pressed, watched, replayed, paused, stopped, closed. Irregular verbs: choose→chose, see→saw.",
+    "zh": "一般过去时描述已完成的动作：chose、pressed、watched、replayed、paused、stopped、closed。不规则动词：choose→chose。"
    },
    "steps": [
     {
-     "en": "Jenny rented a video from a video store.",
-     "zh": "珍妮从录像带店租了一盘录像带。"
+     "en": "Jenny chose a cartoon on the tablet.",
+     "zh": "珍妮在平板上选了一部动画片。"
     },
     {
-     "en": "At home, she took the tape out of the case.",
-     "zh": "回到家，她把录像带从盒子里取出来。"
-    },
-    {
-     "en": "With the remote, she switched to the video setting...",
-     "zh": "她用遥控器切换到视频设置……"
-    },
-    {
-     "en": "...and turned the VCR on.",
-     "zh": "然后打开了录像机。"
-    },
-    {
-     "en": "She loaded the video into it...",
-     "zh": "她把录像带放进去……"
-    },
-    {
-     "en": "...and started the tape.",
-     "zh": "然后开始播放。"
+     "en": "She pressed play.",
+     "zh": "她按下播放键。"
     },
     {
      "en": "She and Tom watched the video.",
-     "zh": "她和汤姆一起看录像带。"
+     "zh": "她和汤姆一起看视频。"
     },
     {
-     "en": "To see something again, they rewound the tape.",
-     "zh": "为了重看某个片段，他们倒带。"
+     "en": "To see something again, she tapped replay.",
+     "zh": "为了再看一遍某段，她点了重播。"
     },
     {
-     "en": "Jenny paused it when Tom left for a minute.",
-     "zh": "汤姆离开一会儿时，珍妮按了暂停。"
+     "en": "Jenny paused it when Mom called her.",
+     "zh": "妈妈叫她时，珍妮按了暂停。"
     },
     {
-     "en": "At the end of the video, she stopped the tape,...",
-     "zh": "录像带结束时，她停了带……"
+     "en": "At the end of the video, she stopped it.",
+     "zh": "视频结束时，她按了停止。"
     },
     {
-     "en": "...rewound and ejected it.",
-     "zh": "倒带并取出。"
-    },
-    {
-     "en": "Later, she returned it to the store.",
-     "zh": "后来，她把它还回店里。"
+     "en": "She closed the app and put the tablet down.",
+     "zh": "她关掉应用，放下平板。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "eject",
-      "ipa": "/ɪˈdʒekt/",
-      "zh": "弹出；取出"
+      "w": "choose / chose",
+      "ipa": "/tʃuːz / tʃoʊz/",
+      "zh": "选择"
      },
      {
-      "w": "leave / left",
-      "ipa": "/liːv/",
-      "zh": "离开"
-     },
-     {
-      "w": "load",
-      "ipa": "/loʊd/",
-      "zh": "装入"
+      "w": "close",
+      "ipa": "/kloʊz/",
+      "zh": "关闭（应用）"
      },
      {
       "w": "pause",
@@ -8079,24 +7882,24 @@
       "zh": "暂停"
      },
      {
-      "w": "rent",
-      "ipa": "/rent/",
-      "zh": "租用；租借"
+      "w": "play",
+      "ipa": "/pleɪ/",
+      "zh": "播放"
      },
      {
-      "w": "return",
-      "ipa": "/rɪˈtɜːrn/",
-      "zh": "归还"
+      "w": "press",
+      "ipa": "/pres/",
+      "zh": "按（按钮）"
      },
      {
-      "w": "rewind / rewound",
-      "ipa": "/riːˈwaɪnd/",
-      "zh": "倒带"
+      "w": "put down",
+      "ipa": "/pʊt daʊn/",
+      "zh": "放下"
      },
      {
-      "w": "start",
-      "ipa": "/stɑːrt/",
-      "zh": "开始"
+      "w": "replay",
+      "ipa": "/ˌriːˈpleɪ/",
+      "zh": "重播"
      },
      {
       "w": "stop",
@@ -8104,19 +7907,9 @@
       "zh": "停止"
      },
      {
-      "w": "switch",
-      "ipa": "/swɪtʃ/",
-      "zh": "切换"
-     },
-     {
-      "w": "take / took out",
-      "ipa": "/teɪk/",
-      "zh": "取出"
-     },
-     {
-      "w": "turn on",
-      "ipa": "/tɜːrn ɑːn/",
-      "zh": "打开"
+      "w": "tap",
+      "ipa": "/tæp/",
+      "zh": "轻点"
      },
      {
       "w": "watch",
@@ -8126,9 +7919,14 @@
     ],
     "nouns": [
      {
-      "w": "case",
-      "ipa": "/keɪs/",
-      "zh": "盒子；套"
+      "w": "app",
+      "ipa": "/æp/",
+      "zh": "应用程序"
+     },
+     {
+      "w": "cartoon",
+      "ipa": "/kɑːrˈtuːn/",
+      "zh": "动画片"
      },
      {
       "w": "end",
@@ -8136,46 +7934,21 @@
       "zh": "结尾；结束"
      },
      {
-      "w": "home",
-      "ipa": "/hoʊm/",
-      "zh": "家"
-     },
-     {
-      "w": "remote",
-      "ipa": "/rɪˈmoʊt/",
-      "zh": "遥控器"
-     },
-     {
-      "w": "setting",
-      "ipa": "/ˈsetɪŋ/",
-      "zh": "设置"
-     },
-     {
-      "w": "store",
-      "ipa": "/stɔːr/",
-      "zh": "商店"
-     },
-     {
-      "w": "tape",
-      "ipa": "/teɪp/",
-      "zh": "磁带；录像带"
-     },
-     {
-      "w": "VCR",
-      "ipa": "/ˌviːsiːˈɑːr/",
-      "zh": "录像机"
+      "w": "tablet",
+      "ipa": "/ˈtæblət/",
+      "zh": "平板电脑"
      },
      {
       "w": "video",
       "ipa": "/ˈvɪdioʊ/",
-      "zh": "录像（带）"
+      "zh": "视频"
      }
     ],
     "others": [
      {
-      "w": "for a minute (adverbial)",
-      "ipa": "/fər ə ˈmɪnɪt/",
-      "zh": "一会儿"
+      "w": "again (adv.)",
+      "ipa": "/əˈɡen/",
+      "zh": "再一次"
      },
      {
       "w": "later (adv.)",
@@ -8186,48 +7959,38 @@
    },
    "notes": [
     {
-     "en": "When you rent something, you pay money to use it for a short time. After you use it, you return it to the store.",
-     "zh": "租用某物时，你付钱在短时间内使用它，用完后再还回店里。"
+     "en": "Replay means to play something again from the beginning or from where you tapped.",
+     "zh": "replay 是从头或从你点的地方再播放一遍。"
     },
     {
-     "en": "\"Video\" and \"tape\" are short ways of saying \"videotape.\"",
-     "zh": "video 和 tape 是 videotape 的简称。"
+     "en": "When you pause a video, the picture stops but stays on the screen. Press play to go on.",
+     "zh": "暂停视频时画面停下来但还在屏幕上，按播放键继续。"
     },
     {
-     "en": "A VCR is what people usually call a Video Cassette Recorder.",
-     "zh": "VCR 就是人们通常所说的录像机（Video Cassette Recorder）。"
-    },
-    {
-     "en": "When you pause a tape, you stop it, but a picture stays on the TV. The picture does not move.",
-     "zh": "暂停录像带时，画面停在电视上不动。"
+     "en": "Watching too long is bad for your eyes. Take a break after a while.",
+     "zh": "看太久伤眼睛，看一会儿要休息一下。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "video store clerk",
-     "role": "录像店店员",
-     "en": "There you are, ma'am.",
-     "zh": "给您，女士。"
-    },
-    {
      "speaker": "Tom",
-     "role": "汤姆",
+     "role": "clerk",
      "en": "I'd like to see that again.",
      "zh": "我想再看一遍那段。"
     }
    ],
    "china": [
     {
-     "en": "In China, VCRs and video tapes are rarely seen today; people stream movies online on apps like iQiyi, Tencent Video, or Douyin.",
-     "zh": "在中国，录像机和录像带如今已很少见；人们在爱奇艺、腾讯视频或抖音等应用上在线看电影。"
+     "en": "In China, kids watch cartoons on a tablet or phone with apps like iQiyi Kids, Tencent Video, or Bilibili; video stores are long gone.",
+     "zh": "在中国，孩子用平板或手机在爱奇艺儿童、腾讯视频、哔哩哔哩等应用上看动画片，实体影碟店早已消失。"
     },
     {
-     "en": "Many Chinese people watch shows on their phones or laptops on the subway instead of renting physical media.",
-     "zh": "很多中国人在地铁上用手机或笔记本追剧，而不是租实体影碟。"
+     "en": "Many Chinese parents set a screen-time limit and a kids mode on the tablet.",
+     "zh": "很多中国家长会给平板设置使用时长限制和儿童模式。"
     }
    ],
    "en": "Watching a Video",
-   "zh": "看录像",
+   "zh": "看视频",
    "grammarZh": "一般过去时"
   },
   {
@@ -10127,41 +9890,37 @@
    "img": "assets/img/unit39.jpg",
    "grammar": "Simple Past",
    "grammarNote": {
-    "en": "The simple past tense describes completed yard work actions. Irregular verbs include: put→put, spread→spread, take→took. / 一般过去时描述已完成的庭院劳动动作。不规则动词包括：put→put、spread→spread、take→took。",
-    "zh": "一般过去时"
+    "en": "The simple past tense describes completed plant-care actions. Irregular verbs include: fill→filled, water→watered, pull→pulled, loosen→loosened, pick→picked.",
+    "zh": "一般过去时描述已完成的养花动作：filled 装满、watered 浇水、pulled 拔、loosened 松、picked 摘。"
    },
    "steps": [
     {
-     "en": "Pam filled her lawn mower's gas tank,...",
-     "zh": "帕姆给割草机加满汽油……"
+     "en": "Jenny helped Grandma water the potted plants on the balcony.",
+     "zh": "珍妮帮奶奶给阳台上的盆栽浇水。"
     },
     {
-     "en": "...then started the mower by pulling the cord.",
-     "zh": "然后拉拉绳启动割草机。"
+     "en": "She filled a small watering can with water.",
+     "zh": "她用喷壶装满水。"
     },
     {
-     "en": "She mowed the lawn by pushing the mower back and forth.",
-     "zh": "她推着割草机来回割草。"
+     "en": "She watered the plants.",
+     "zh": "她给花浇水。"
     },
     {
-     "en": "Where the mower couldn't reach, she trimmed the grass by hand.",
-     "zh": "割草机够不到的地方，她用手剪草。"
+     "en": "She pulled the small weeds out of the pots.",
+     "zh": "她把花盆里的小杂草拔掉。"
     },
     {
-     "en": "She raked up the grass clippings...",
-     "zh": "她把碎草耙拢……"
+     "en": "She loosened the soil with a small stick.",
+     "zh": "她用小木棍松了松土。"
     },
     {
-     "en": "...and put them on a compost pile.",
-     "zh": "堆到堆肥堆上。"
+     "en": "She picked a flower for Grandma.",
+     "zh": "她给奶奶摘了一朵花。"
     },
     {
-     "en": "She spread some grass seed on bare spots...",
-     "zh": "她在光秃秃的地方撒草种……"
-    },
-    {
-     "en": "...and then watered the lawn.",
-     "zh": "然后给草坪浇水。"
+     "en": "Grandma said, \"Thank you! You are a good helper.\"",
+     "zh": "奶奶说：“谢谢你！你真是个好帮手。”"
     }
    ],
    "vocab": {
@@ -10169,57 +9928,32 @@
      {
       "w": "fill",
       "ipa": "/fɪl/",
-      "zh": "加满"
+      "zh": "装满"
      },
      {
-      "w": "mow",
-      "ipa": "/moʊ/",
-      "zh": "割（草）"
+      "w": "help",
+      "ipa": "/help/",
+      "zh": "帮助"
+     },
+     {
+      "w": "loosen",
+      "ipa": "/ˈluːsn/",
+      "zh": "松开（土）"
+     },
+     {
+      "w": "pick",
+      "ipa": "/pɪk/",
+      "zh": "摘"
      },
      {
       "w": "pull",
       "ipa": "/pʊl/",
-      "zh": "拉"
+      "zh": "拔"
      },
      {
-      "w": "push",
-      "ipa": "/pʊʃ/",
-      "zh": "推"
-     },
-     {
-      "w": "put / put on",
-      "ipa": "/pʊt/",
-      "zh": "撒在……上"
-     },
-     {
-      "w": "rake up",
-      "ipa": "/reɪk/",
-      "zh": "耙拢"
-     },
-     {
-      "w": "reach",
-      "ipa": "/riːtʃ/",
-      "zh": "够到"
-     },
-     {
-      "w": "spread / spread",
-      "ipa": "/spred/",
-      "zh": "撒；铺开"
-     },
-     {
-      "w": "start",
-      "ipa": "/stɑːrt/",
-      "zh": "启动"
-     },
-     {
-      "w": "take / took care of",
-      "ipa": "/teɪk/",
-      "zh": "照顾"
-     },
-     {
-      "w": "trim",
-      "ipa": "/trɪm/",
-      "zh": "修剪"
+      "w": "take care of",
+      "ipa": "/teɪk ker əv/",
+      "zh": "照顾；养护"
      },
      {
       "w": "water",
@@ -10229,142 +9963,93 @@
     ],
     "nouns": [
      {
-      "w": "clippers",
-      "ipa": "/ˈklɪpərz/",
-      "zh": "剪刀；修枝剪"
+      "w": "balcony",
+      "ipa": "/ˈbælkəni/",
+      "zh": "阳台"
      },
      {
-      "w": "clippings",
-      "ipa": "/ˈklɪpɪŋz/",
-      "zh": "剪下物（草屑）"
+      "w": "flower",
+      "ipa": "/ˈflaʊər/",
+      "zh": "花"
      },
      {
-      "w": "compost pile",
-      "ipa": "/ˈkɑːmpoʊst paɪl/",
-      "zh": "堆肥堆"
+      "w": "plant",
+      "ipa": "/plænt/",
+      "zh": "植物"
      },
      {
-      "w": "cord",
-      "ipa": "/kɔːrd/",
-      "zh": "拉绳"
+      "w": "pot",
+      "ipa": "/pɑːt/",
+      "zh": "花盆"
      },
      {
-      "w": "gas",
-      "ipa": "/ɡæs/",
-      "zh": "汽油"
+      "w": "potted plant",
+      "ipa": "/ˈpɑːtɪd plænt/",
+      "zh": "盆栽"
      },
      {
-      "w": "grass",
-      "ipa": "/ɡræs/",
-      "zh": "草"
+      "w": "soil",
+      "ipa": "/sɔɪl/",
+      "zh": "土壤"
      },
      {
-      "w": "hose",
-      "ipa": "/hoʊz/",
-      "zh": "水管"
+      "w": "stick",
+      "ipa": "/stɪk/",
+      "zh": "小棍"
      },
      {
-      "w": "lawn",
-      "ipa": "/lɔːn/",
-      "zh": "草坪"
-     },
-     {
-      "w": "mower",
-      "ipa": "/ˈmoʊər/",
-      "zh": "割草机"
-     },
-     {
-      "w": "nozzle",
-      "ipa": "/ˈnɑːzl/",
-      "zh": "喷头"
-     },
-     {
-      "w": "pile",
-      "ipa": "/paɪl/",
-      "zh": "堆"
-     },
-     {
-      "w": "rake",
-      "ipa": "/reɪk/",
-      "zh": "耙子"
-     },
-     {
-      "w": "seed",
-      "ipa": "/siːd/",
-      "zh": "种子"
-     },
-     {
-      "w": "spot",
-      "ipa": "/spɑːt/",
-      "zh": "地点；斑块"
-     },
-     {
-      "w": "tank",
-      "ipa": "/tæŋk/",
-      "zh": "油箱"
+      "w": "watering can",
+      "ipa": "/ˈwɔːtərɪŋ kæn/",
+      "zh": "喷壶"
      }
     ],
     "others": [
      {
-      "w": "back and forth (adverbial)",
-      "ipa": "/bæk ənd fɔːrθ/",
-      "zh": "来回地"
+      "w": "small (adj.)",
+      "ipa": "/smɔːl/",
+      "zh": "小的"
      },
      {
-      "w": "bare (adj.)",
-      "ipa": "/ber/",
-      "zh": "光秃的"
-     },
-     {
-      "w": "by hand (adverbial)",
-      "ipa": "/baɪ hænd/",
-      "zh": "用手"
+      "w": "with (prep.)",
+      "ipa": "/wɪð/",
+      "zh": "用……"
      }
     ]
    },
    "notes": [
     {
-     "en": "mow the lawn = cut the grass",
-     "zh": "mow the lawn 就是割草。"
+     "en": "A watering can is a small container with a spout, used to water plants.",
+     "zh": "watering can（喷壶）是带嘴的小容器，用来给植物浇水。"
     },
     {
-     "en": "Notice by hand: no \"a,\" no \"the,\" no \"her.\"",
-     "zh": "注意 by hand：前面不加 a、the 或 her。"
+     "en": "A weed is a plant you don't want. Weeds grow between flowers and take their food.",
+     "zh": "weed 是你不想要的植物（杂草），它长在花中间抢养分。"
     },
     {
-     "en": "A compost pile contains old leaves, grass, twigs, etc.",
-     "zh": "堆肥堆里有旧叶子、草、小树枝等。"
-    },
-    {
-     "en": "\"Clip\" as in clippers and clippings means \"cut.\"",
-     "zh": "clippers 和 clippings 里的 clip 意思是\"剪\"。"
-    },
-    {
-     "en": "Grass seed grows to become grass.",
-     "zh": "草种会长成草。"
-    },
-    {
-     "en": "To water the lawn is to put water on it. This is also called \"sprinkling\" the lawn.",
-     "zh": "给草坪浇水就是往上面放水，也叫 sprinkling（喷灌）。"
-    },
-    {
-     "en": "A lawn is an area of land, near a house, where grass grows.",
-     "zh": "lawn 就是房子附近长草的一片地。"
+     "en": "Plants need water, sunlight and good soil to grow well.",
+     "zh": "植物需要水、阳光和好土壤才能长得好。"
     }
    ],
-   "dialogue": [],
+   "dialogue": [
+    {
+     "speaker": "Grandma",
+     "role": "mom",
+     "en": "Thank you! You are a good helper.",
+     "zh": "谢谢你！你真是个好帮手。"
+    }
+   ],
    "china": [
     {
-     "en": "In Chinese cities, apartment complexes have communal green areas maintained by property management, so residents rarely mow their own lawns.",
-     "zh": "在中国城市，公寓小区有物业统一维护的公共绿地，居民很少自己割草。"
+     "en": "In Chinese cities, most families live in apartments and grow flowers in pots on the balcony; lawns are rare and maintained by property management.",
+     "zh": "在中国城市，多数家庭住楼房，在阳台用花盆栽花；草坪很少见，由物业统一维护。"
     },
     {
-     "en": "Wealthier Chinese villa communities may have private lawns, and professional gardeners are hired to mow and water them.",
-     "zh": "较富裕的别墅区可能有私人草坪，会雇专业园丁来修剪和浇水。"
+     "en": "Potted plants like pothos, lucky bamboo and mint are common choices for Chinese homes.",
+     "zh": "绿萝、富贵竹、薄荷等盆栽是中国家庭常见的选择。"
     }
    ],
-   "en": "Taking Care of a Lawn",
-   "zh": "养护草坪",
+   "en": "Taking Care of Potted Plants",
+   "zh": "养护盆栽",
    "grammarZh": "一般过去时"
   },
   {
@@ -12397,8 +12082,8 @@
    "img": "assets/img/unit48.jpg",
    "grammar": "simple present",
    "grammarNote": {
-    "en": "The simple present tense describes the standard, repeated procedures of paying in a store—with cash, by check, and by credit card.",
-    "zh": "这里用一般现在时描述在商店付款的三种常见流程：现金、支票和信用卡。"
+    "en": "The simple present tense describes the standard, repeated procedure of paying in a store—with cash or by scanning a payment code with the phone.",
+    "zh": "这里用一般现在时描述在商店付款的两种常见流程：现金和手机扫码支付。"
    },
    "steps": [
     {
@@ -12406,7 +12091,7 @@
      "zh": "收银员把汤姆买的东西扫码录入……"
     },
     {
-     "en": "...by scanning bar codes...",
+     "en": "...by scanning the bar codes...",
      "zh": "……通过扫描条形码……"
     },
     {
@@ -12418,292 +12103,124 @@
      "zh": "她告诉他应付的总金额。"
     },
     {
-     "en": "He takes some money out of his wallet...",
-     "zh": "他从钱包里拿出一些钱……"
+     "en": "Tom takes out his wallet, gives her the money...",
+     "zh": "汤姆拿出钱包，把钱递给她……"
     },
     {
-     "en": "...and gives it to her.",
-     "zh": "……然后递给她。"
+     "en": "...and she gives him his change.",
+     "zh": "……她给他找零。"
     },
     {
-     "en": "She puts it into the register...",
-     "zh": "她把钱放进收银机……"
+     "en": "Then Tom takes out his phone and shows the payment code.",
+     "zh": "然后汤姆拿出手机，出示付款码。"
     },
     {
-     "en": "...and takes out his change.",
-     "zh": "……然后找零。"
+     "en": "The cashier scans the code with her scanner...",
+     "zh": "收银员用扫码器扫他的付款码……"
     },
     {
-     "en": "She counts it out to him...",
-     "zh": "她当面把零钱数给他……"
-    },
-    {
-     "en": "...and gives it to him with his receipt.",
-     "zh": "……连同收据一起给他。"
-    },
-    {
-     "en": "He writes out a check.",
-     "zh": "他开支票。"
-    },
-    {
-     "en": "After he signs the check...",
-     "zh": "他签好支票后……"
-    },
-    {
-     "en": "...the cashier checks his driver's license as identification.",
-     "zh": "……收银员核对他的驾照作为身份证明。"
-    },
-    {
-     "en": "He records the check in his checkbook.",
-     "zh": "他在支票簿上登记这笔支票。"
-    },
-    {
-     "en": "She returns his license and gives him a receipt.",
-     "zh": "她归还他的驾照并给他收据。"
-    },
-    {
-     "en": "He gives his card to the cashier.",
-     "zh": "他把卡递给收银员。"
-    },
-    {
-     "en": "She swipes the card through the reader.",
-     "zh": "她在刷卡机上刷卡。"
-    },
-    {
-     "en": "When the approval code comes, the payment slip is printed.",
-     "zh": "授权码出来后，打印出签购单。"
-    },
-    {
-     "en": "He signs the payment slip.",
-     "zh": "他在签购单上签字。"
-    },
-    {
-     "en": "Then she gives him a copy of the slip,...",
-     "zh": "然后她把签购单的一联给他……"
-    },
-    {
-     "en": "...the receipt and his card back.",
-     "zh": "……还有收据和他的卡。"
+     "en": "...and gives him a receipt.",
+     "zh": "……并给他一张小票。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "check",
-      "ipa": "/tʃek/",
-      "zh": "v. 核对，检查"
-     },
-     {
-      "w": "come",
-      "ipa": "/kʌm/",
-      "zh": "v. 来，出现"
-     },
-     {
-      "w": "count out",
-      "ipa": "/kaʊt aʊt/",
-      "zh": "v. 点清，数出"
-     },
-     {
       "w": "give",
       "ipa": "/ɡɪv/",
-      "zh": "v. 给"
+      "zh": "给"
      },
      {
       "w": "pay",
       "ipa": "/peɪ/",
-      "zh": "v. 付款"
+      "zh": "付款"
      },
      {
       "w": "press",
       "ipa": "/pres/",
-      "zh": "v. 按（键）"
-     },
-     {
-      "w": "print",
-      "ipa": "/prɪnt/",
-      "zh": "v. 打印"
-     },
-     {
-      "w": "put into",
-      "ipa": "/pʊt ˈɪntuː/",
-      "zh": "v. 放入"
-     },
-     {
-      "w": "record",
-      "ipa": "/rɪˈkɔːrd/",
-      "zh": "v. 记录，登记"
-     },
-     {
-      "w": "return",
-      "ipa": "/rɪˈtɜːrn/",
-      "zh": "v. 归还，退还"
+      "zh": "按（键）"
      },
      {
       "w": "ring up",
       "ipa": "/rɪŋ ʌp/",
-      "zh": "v. 把（货款）记入收银机"
+      "zh": "把（货款）记入收银机"
      },
      {
       "w": "scan",
       "ipa": "/skæn/",
-      "zh": "v. 扫描"
+      "zh": "扫描"
      },
      {
-      "w": "sign",
-      "ipa": "/saɪn/",
-      "zh": "v. 签字"
-     },
-     {
-      "w": "swipe",
-      "ipa": "/swaɪp/",
-      "zh": "v. 刷（卡）"
-     },
-     {
-      "w": "take",
-      "ipa": "/teɪk/",
-      "zh": "v. 拿，取"
+      "w": "show",
+      "ipa": "/ʃoʊ/",
+      "zh": "出示"
      },
      {
       "w": "take out",
       "ipa": "/teɪk aʊt/",
-      "zh": "v. 取出"
+      "zh": "取出"
      },
      {
       "w": "tell",
       "ipa": "/tel/",
-      "zh": "v. 告诉"
-     },
-     {
-      "w": "write",
-      "ipa": "/raɪt/",
-      "zh": "v. 写，开（支票）"
+      "zh": "告诉"
      }
     ],
     "nouns": [
      {
-      "w": "approval",
-      "ipa": "/əˈpruːvl/",
-      "zh": "n. 授权，批准"
-     },
-     {
       "w": "bar code",
       "ipa": "/bɑːr koʊd/",
-      "zh": "n. 条形码"
-     },
-     {
-      "w": "card",
-      "ipa": "/kɑːrd/",
-      "zh": "n. 卡"
+      "zh": "条形码"
      },
      {
       "w": "cash",
       "ipa": "/kæʃ/",
-      "zh": "n. 现金"
+      "zh": "现金"
      },
      {
       "w": "cashier",
       "ipa": "/kæˈʃɪr/",
-      "zh": "n. 收银员"
+      "zh": "收银员"
      },
      {
       "w": "change",
       "ipa": "/tʃeɪndʒ/",
-      "zh": "n. 找零，零钱"
+      "zh": "找零；零钱"
      },
      {
-      "w": "check",
-      "ipa": "/tʃek/",
-      "zh": "n. 支票"
-     },
-     {
-      "w": "checkbook",
-      "ipa": "/ˈtʃekbʊk/",
-      "zh": "n. 支票簿"
-     },
-     {
-      "w": "code",
-      "ipa": "/koʊd/",
-      "zh": "n. 代码，密码"
-     },
-     {
-      "w": "copy",
-      "ipa": "/ˈkɑːpi/",
-      "zh": "n. 副本，联单"
-     },
-     {
-      "w": "credit card",
-      "ipa": "/ˈkredɪt kɑːrd/",
-      "zh": "n. 信用卡"
-     },
-     {
-      "w": "driver's license",
-      "ipa": "/ˈdraɪvərz ˈlaɪsns/",
-      "zh": "n. 驾照"
-     },
-     {
-      "w": "identification/ID",
-      "ipa": "/aɪˌdentɪfɪˈkeɪʃn/",
-      "zh": "n. 身份证明"
-     },
-     {
-      "w": "key",
-      "ipa": "/kiː/",
-      "zh": "n. 键，按键"
-     },
-     {
-      "w": "license",
-      "ipa": "/ˈlaɪsns/",
-      "zh": "n. 执照，证件"
-     },
-     {
-      "w": "money",
-      "ipa": "/ˈmʌni/",
-      "zh": "n. 钱"
-     },
-     {
-      "w": "payment",
-      "ipa": "/ˈpeɪmənt/",
-      "zh": "n. 付款，支付"
-     },
-     {
-      "w": "purchase",
-      "ipa": "/ˈpɜːrtʃəs/",
-      "zh": "n. 购买的商品"
-     },
-     {
-      "w": "reader",
-      "ipa": "/ˈriːdər/",
-      "zh": "n. 读卡器"
+      "w": "payment code",
+      "ipa": "/ˈpeɪmənt koʊd/",
+      "zh": "付款码"
      },
      {
       "w": "receipt",
       "ipa": "/rɪˈsiːt/",
-      "zh": "n. 收据，小票"
+      "zh": "收据；小票"
      },
      {
       "w": "register",
       "ipa": "/ˈredʒɪstər/",
-      "zh": "n. 收银机"
+      "zh": "收银机"
      },
      {
       "w": "scanner",
       "ipa": "/ˈskænər/",
-      "zh": "n. 扫码器"
-     },
-     {
-      "w": "slip",
-      "ipa": "/slɪp/",
-      "zh": "n. 单据，纸条"
+      "zh": "扫码器"
      },
      {
       "w": "total",
       "ipa": "/ˈtoʊtl/",
-      "zh": "n. 总计，总额"
+      "zh": "总计；总额"
      },
      {
       "w": "wallet",
       "ipa": "/ˈwɑːlɪt/",
-      "zh": "n. 钱包"
+      "zh": "钱包"
+     },
+     {
+      "w": "yuan",
+      "ipa": "/juˈɑːn/",
+      "zh": "元（人民币）"
      }
     ],
     "others": []
@@ -12714,74 +12231,54 @@
      "zh": "ring something up 意思是用收银机把商品价格录入并计算总额。"
     },
     {
-     "en": "A machine scans a bar code by shining light quickly on it.",
-     "zh": "scanner（扫码器）通过快速在条形码上照射光线来识别它。"
-    },
-    {
      "en": "The money I give the cashier is more than the total price. The difference is my change.",
      "zh": "我付给收银员的钱比应付总额多，多出来的部分就是找零（change）。"
     },
     {
-     "en": "A code is a set of symbols that has a meaning. Usually, this meaning is clear only if you have special knowledge. A bar code uses dark bars as its symbols. An approval code uses numbers.",
-     "zh": "code 是一组有特定含义的符号，通常只有具备专业知识的人才能看懂。bar code（条形码）用黑条作符号，approval code（授权码）用数字。"
+     "en": "In China, people usually pay by showing a payment code on the phone; the cashier scans it.",
+     "zh": "在中国，大家通常出示手机付款码，收银员扫一下就能完成支付。"
     }
    ],
    "dialogue": [
     {
      "speaker": "Cashier",
-     "role": "收银员",
-     "en": "That'll be $23.50.",
-     "zh": "一共23.50美元。"
+     "role": "mom",
+     "en": "That'll be 23 yuan.",
+     "zh": "一共 23 元。"
     },
     {
-     "speaker": "Customer",
-     "role": "顾客",
-     "en": "Here's $30.",
-     "zh": "这是30美元。"
-    },
-    {
-     "speaker": "Cashier",
-     "role": "收银员",
-     "en": "$23.50, 24, 25 and 5 makes $30.",
-     "zh": "23.50，24，25，再加5块凑够30。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Here's 30.",
+     "zh": "这是 30 元。"
     },
     {
      "speaker": "Cashier",
-     "role": "收银员",
-     "en": "Can I see some ID, please?",
-     "zh": "请出示一下证件好吗？"
-    },
-    {
-     "speaker": "Customer",
-     "role": "顾客",
-     "en": "Sure. Here's my driver's license.",
-     "zh": "好的。这是我的驾照。"
+     "role": "mom",
+     "en": "23, 24, 25 and 5 makes 30.",
+     "zh": "23，24，25，再加 5 块凑够 30。"
     },
     {
      "speaker": "Cashier",
-     "role": "收银员",
-     "en": "Thank you.",
-     "zh": "谢谢。"
+     "role": "mom",
+     "en": "Here's your change and your receipt.",
+     "zh": "这是找零和小票。"
     },
     {
-     "speaker": "Customer",
-     "role": "顾客",
+     "speaker": "Tom",
+     "role": "clerk",
      "en": "Thanks. Bye.",
      "zh": "谢谢，再见。"
     }
    ],
    "china": [
     {
-     "en": "In China, checks are almost never used; WeChat Pay and Alipay dominate, even at street food stalls.",
-     "zh": "在中国，几乎没人用支票；微信支付和支付宝无处不在，连路边摊都能扫码。"
+     "en": "In China, WeChat Pay and Alipay dominate; showing a payment code or scanning the merchant's code is the norm, even at small shops.",
+     "zh": "在中国，微信支付和支付宝无处不在；出示付款码或扫商家二维码是主流，小店也一样。"
     },
     {
-     "en": "Paying by QR code—either showing your payment code or scanning the merchant's code—is the norm; cash and bank cards are rarely seen.",
-     "zh": "出示付款码或扫商家二维码是主流支付方式，现金和银行卡很少用。"
-    },
-    {
-     "en": "Many Chinese chain supermarkets offer self-checkout with facial recognition (\"shualian zhifu\").",
-     "zh": "很多中国连锁超市支持自助结账，甚至可以刷脸支付。"
+     "en": "The cashier often says the amount aloud, and the phone says \"Payment received\" (收款 X 元).",
+     "zh": "收银员常会报出金额，手机也会语音提示“收款 X 元”。"
     }
    ],
    "en": "Paying for Things",
@@ -12795,45 +12292,41 @@
    "img": "assets/img/unit49.jpg",
    "grammar": "simple past",
    "grammarNote": {
-    "en": "The simple past tense narrates Paul's one-time trip to the bank to make a deposit.",
-    "zh": "这里用一般过去时讲述保罗一次去银行存钱的经历。"
+    "en": "The simple past tense narrates one trip to the bank with Dad: took a number, waited, went to the counter, gave the ID card, checked, got the money and a receipt.",
+    "zh": "这里用一般过去时讲述和爸爸去银行办业务的一次经历：取号、等待、去柜台、递身份证、核对、拿到钱和回执。"
    },
    "steps": [
     {
-     "en": "Paul went to the bank.",
-     "zh": "保罗去了银行。"
+     "en": "Tom went to the bank with his dad.",
+     "zh": "汤姆和爸爸去了银行。"
     },
     {
-     "en": "At a counter, he filled out a deposit slip.",
-     "zh": "在柜台，他填写了一张存款单。"
+     "en": "He took a number ticket from the machine.",
+     "zh": "他在取号机上取了一张号。"
     },
     {
-     "en": "He filled it out by writing his account number, the amounts of his cash and checks, and the total.",
-     "zh": "他填上账号、现金和支票金额，以及合计数。"
+     "en": "They waited in the waiting area.",
+     "zh": "他们在等候区等待。"
     },
     {
-     "en": "At the teller window...",
-     "zh": "在柜员窗口……"
+     "en": "When the screen showed their number, they went to the counter.",
+     "zh": "屏幕显示他们的号时，他们走到柜台。"
     },
     {
-     "en": "...he endorsed the checks by signing them on the back.",
-     "zh": "……他在支票背面签名背书。"
+     "en": "Dad gave the teller his ID card.",
+     "zh": "爸爸把身份证递给柜员。"
     },
     {
-     "en": "Then he gave the teller his deposit.",
-     "zh": "然后他把存款单递给柜员。"
+     "en": "The teller checked the information on the computer.",
+     "zh": "柜员在电脑上核对信息。"
     },
     {
-     "en": "She checked the amounts on the slip,...",
-     "zh": "她核对了单子上的金额……"
+     "en": "She gave Dad the money and a receipt.",
+     "zh": "她把钱和回执交给爸爸。"
     },
     {
-     "en": "...printed the amount of deposit in his passbook...",
-     "zh": "……把存款金额打印到他的存折上……"
-    },
-    {
-     "en": "...and gave him back his passbook.",
-     "zh": "……然后把存折还给他。"
+     "en": "Tom helped Dad count the money.",
+     "zh": "汤姆帮爸爸数钱。"
     }
    ],
    "vocab": {
@@ -12841,169 +12334,140 @@
      {
       "w": "check",
       "ipa": "/tʃek/",
-      "zh": "v. 核对，检查"
+      "zh": "核对；检查"
      },
      {
-      "w": "endorse",
-      "ipa": "/ɪnˈdɔːrs/",
-      "zh": "v. （在支票背面）背书，签字"
+      "w": "count",
+      "ipa": "/kaʊnt/",
+      "zh": "数"
      },
      {
-      "w": "fill out",
-      "ipa": "/fɪl aʊt/",
-      "zh": "v. 填写（表格）"
-     },
-     {
-      "w": "give-gave",
+      "w": "give",
       "ipa": "/ɡɪv/",
-      "zh": "v. 给（过去式 gave）"
+      "zh": "给"
      },
      {
-      "w": "give back",
-      "ipa": "/ɡɪv bæk/",
-      "zh": "v. 归还，退还"
+      "w": "go to",
+      "ipa": "/ɡoʊ tuː/",
+      "zh": "去；前往"
      },
      {
-      "w": "go-went to",
-      "ipa": "/ɡoʊ/",
-      "zh": "v. 去（过去式 went）"
+      "w": "help",
+      "ipa": "/help/",
+      "zh": "帮助"
      },
      {
-      "w": "print",
-      "ipa": "/prɪnt/",
-      "zh": "v. 打印，记录"
+      "w": "take",
+      "ipa": "/teɪk/",
+      "zh": "取（号）"
      },
      {
-      "w": "sign",
-      "ipa": "/saɪn/",
-      "zh": "v. 签字"
-     },
-     {
-      "w": "write-wrote",
-      "ipa": "/raɪt/",
-      "zh": "v. 写（过去式 wrote）"
+      "w": "wait",
+      "ipa": "/weɪt/",
+      "zh": "等待"
      }
     ],
     "nouns": [
      {
-      "w": "account",
-      "ipa": "/əˈkaʊnt/",
-      "zh": "n. 账户"
-     },
-     {
-      "w": "amount",
-      "ipa": "/əˈmaʊnt/",
-      "zh": "n. 金额，数量"
-     },
-     {
-      "w": "back",
-      "ipa": "/bæk/",
-      "zh": "n. 背面，后面"
-     },
-     {
       "w": "bank",
       "ipa": "/bæŋk/",
-      "zh": "n. 银行"
-     },
-     {
-      "w": "cash",
-      "ipa": "/kæʃ/",
-      "zh": "n. 现金"
-     },
-     {
-      "w": "check",
-      "ipa": "/tʃek/",
-      "zh": "n. 支票"
+      "zh": "银行"
      },
      {
       "w": "counter",
       "ipa": "/ˈkaʊntər/",
-      "zh": "n. 柜台"
+      "zh": "柜台"
      },
      {
-      "w": "deposit",
-      "ipa": "/dɪˈpɑːzɪt/",
-      "zh": "n. 存款，押金"
+      "w": "ID card",
+      "ipa": "/ˌaɪˈdiː kɑːrd/",
+      "zh": "身份证"
+     },
+     {
+      "w": "machine",
+      "ipa": "/məˈʃiːn/",
+      "zh": "机器"
+     },
+     {
+      "w": "money",
+      "ipa": "/ˈmʌni/",
+      "zh": "钱"
      },
      {
       "w": "number",
       "ipa": "/ˈnʌmbər/",
-      "zh": "n. 号码，数字"
+      "zh": "号码；数字"
      },
      {
-      "w": "passbook",
-      "ipa": "/ˈpæsbʊk/",
-      "zh": "n. 存折"
+      "w": "number ticket",
+      "ipa": "/ˈnʌmbər ˈtɪkɪt/",
+      "zh": "排队号"
      },
      {
-      "w": "slip",
-      "ipa": "/slɪp/",
-      "zh": "n. 单据，纸条"
+      "w": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "zh": "回执"
+     },
+     {
+      "w": "screen",
+      "ipa": "/skriːn/",
+      "zh": "屏幕"
      },
      {
       "w": "teller",
       "ipa": "/ˈtelər/",
-      "zh": "n. （银行）柜员"
+      "zh": "（银行）柜员"
      },
      {
-      "w": "total",
-      "ipa": "/ˈtoʊtl/",
-      "zh": "n. 合计，总数"
-     },
-     {
-      "w": "window",
-      "ipa": "/ˈwɪndoʊ/",
-      "zh": "n. （服务）窗口"
+      "w": "waiting area",
+      "ipa": "/ˈweɪtɪŋ ˈeriə/",
+      "zh": "等候区"
      }
     ],
     "others": []
    },
    "notes": [
     {
-     "en": "Paul's account is the bank's record of how much of his money they have.",
-     "zh": "account（账户）是银行对客户存款金额的记录。"
+     "en": "A number ticket tells you your turn. The screen calls your number, then you go to the counter.",
+     "zh": "排队号告诉你轮到你没有，屏幕叫号后你再去柜台。"
     },
     {
-     "en": "When he deposits money, he puts it into the account. If he takes money out of his account, he withdraws it — or \"makes a withdrawal.\"",
-     "zh": "deposit money 是把钱存进账户；从账户里取钱叫 withdraw（make a withdrawal，取款）。"
+     "en": "A teller is a bank worker who helps people do business at the counter.",
+     "zh": "teller（柜员）是在柜台帮客户办理业务的银行工作人员。"
     },
     {
-     "en": "A deposit slip is a kind of form — a piece of paper with spaces for certain information.",
-     "zh": "deposit slip（存款单）是一种表格，上面留有填写各项信息的空格。"
-    },
-    {
-     "en": "You fill out a form by writing information in the spaces.",
-     "zh": "fill out a form 是在表格的空格里填写信息。"
-    },
-    {
-     "en": "Paul uses a passbook at his bank, but some banks use a different system. They send customers a statement every month to tell them how much is in their account.",
-     "zh": "保罗用的是存折，但有些银行不用存折，而是每月寄对账单（statement）告诉客户账户余额。"
-    },
-    {
-     "en": "A teller is a bank worker who helps people put money into their accounts and take it out.",
-     "zh": "teller（柜员）是银行里帮客户办理存取款业务的工作人员。"
+     "en": "Many people in China do banking on their phones, so banks are not very busy now.",
+     "zh": "现在很多中国人用手机银行办业务，银行柜台不太忙了。"
     }
    ],
    "dialogue": [
     {
      "speaker": "Teller",
-     "role": "银行柜员",
+     "role": "mom",
+     "en": "Number 32, please go to Counter 3.",
+     "zh": "32 号，请到 3 号柜台。"
+    },
+    {
+     "speaker": "Dad",
+     "role": "clerk",
+     "en": "That's us. Come on, Tom!",
+     "zh": "到我们了。走吧，汤姆！"
+    },
+    {
+     "speaker": "Teller",
+     "role": "mom",
      "en": "Thanks. Have a nice day!",
      "zh": "谢谢。祝您愉快！"
     }
    ],
    "china": [
     {
-     "en": "In China, most people do banking on their phones (mobile banking apps); few visit a physical branch for routine transactions.",
-     "zh": "在中国，大部分人用手机银行 App 办业务，日常存取款很少跑网点。"
+     "en": "In Chinese banks, you take a number ticket, wait in the waiting area, and watch the screen for your number.",
+     "zh": "在中国银行，你要取号、在等候区等待、看屏幕叫号。"
     },
     {
-     "en": "Chinese banks have largely replaced passbooks with digital records and push notifications; branch visits are mainly for large cash amounts or foreign currency.",
-     "zh": "中国银行多用电子记录和短信提醒代替存折，去柜台主要是为了大额现金或外币业务。"
-    },
-    {
-     "en": "Daily transfers and bill payments are usually done through WeChat or Alipay instead of bank visits.",
-     "zh": "日常转账、缴费一般通过微信或支付宝完成，不用跑银行。"
+     "en": "Chinese banks use ID cards and electronic records instead of passbooks; kids usually go with parents for big money or new cards.",
+     "zh": "中国银行用身份证和电子记录，不用存折；孩子通常是陪家长去办大额业务或开新卡。"
     }
    ],
    "en": "Going to a Bank",
@@ -14082,40 +13546,36 @@
    "img": "assets/img/unit55.jpg",
    "grammar": "Simple Past",
    "grammarNote": {
-    "en": "The past tense tells a complete story of using an answering machine: recorded, called, heard, left, got, saw, pressed, listened, took, erased. Irregular verbs: get→got, have→had, hear→heard, leave→left, see→saw, take→took.",
-    "zh": "过去时完整讲述使用答录机的过程：recorded、called、heard、left、got、saw、pressed、listened、took、erased。不规则动词：get→got、have→had、hear→heard、leave→left、see→saw、take→took。"
+    "en": "The past tense tells a complete story of voice messages: recorded, heard, left, got home, saw, tapped, played, listened, took, deleted. Irregular verbs: get→got, hear→heard, leave→left, see→saw, take→took.",
+    "zh": "过去时完整讲述语音留言的过程：recorded、heard、left、got home、saw、tapped、played、listened、took、deleted。不规则动词：get→got、hear→heard、leave→left、see→saw、take→took。"
    },
    "steps": [
     {
-     "en": "Tom recorded an outgoing message on his machine.",
-     "zh": "汤姆在他的答录机上录了一段外出留言。"
+     "en": "Tom recorded a voice message on his phone.",
+     "zh": "汤姆在手机上录了一段语音留言。"
     },
     {
-     "en": "When Jenny called, she heard the message...",
-     "zh": "珍妮打电话时，听到了留言……"
+     "en": "When Jenny called him, she heard the message...",
+     "zh": "珍妮打电话给他时，听到了这段留言……"
     },
     {
-     "en": "...and left her own message for him.",
-     "zh": "……并给他留了自己的留言。"
+     "en": "...and left her own voice message for him.",
+     "zh": "……并给他留了自己的语音留言。"
     },
     {
-     "en": "When Tom got home, he saw a light showing that he had a message.",
-     "zh": "汤姆回到家时，看到一盏灯亮着，显示他有留言。"
+     "en": "When Tom got home, he saw a red dot on his phone.",
+     "zh": "汤姆回家时，看到手机上有红点。"
     },
     {
-     "en": "He pressed the button to play the message.",
-     "zh": "他按下按钮播放留言。"
+     "en": "He tapped the message to play it.",
+     "zh": "他点开留言播放。"
     },
     {
-     "en": "As he listened to it...",
-     "zh": "他听着留言的时候……"
+     "en": "As he listened to it, he took some notes.",
+     "zh": "他听留言时，记了一些笔记。"
     },
     {
-     "en": "...he took some notes.",
-     "zh": "……他记了一些笔记。"
-    },
-    {
-     "en": "Then he erased the message.",
+     "en": "Then he deleted the message.",
      "zh": "然后他删除了留言。"
     }
    ],
@@ -14127,19 +13587,14 @@
       "zh": "打电话"
      },
      {
-      "w": "erase",
-      "ipa": "/ɪˈreɪs/",
-      "zh": "抹去；删除"
+      "w": "delete",
+      "ipa": "/dɪˈliːt/",
+      "zh": "删除"
      },
      {
       "w": "get / got home",
       "ipa": "/ɡet / ɡɑːt/",
       "zh": "回到家"
-     },
-     {
-      "w": "have / had",
-      "ipa": "/hæv / hæd/",
-      "zh": "有"
      },
      {
       "w": "hear / heard",
@@ -14152,14 +13607,9 @@
       "zh": "留下"
      },
      {
-      "w": "listen",
-      "ipa": "/ˈlɪsn/",
+      "w": "listen to",
+      "ipa": "/ˈlɪsn tuː/",
       "zh": "听"
-     },
-     {
-      "w": "press",
-      "ipa": "/pres/",
-      "zh": "按（按钮）"
      },
      {
       "w": "play",
@@ -14177,116 +13627,102 @@
       "zh": "看见"
      },
      {
-      "w": "show",
-      "ipa": "/ʃoʊ/",
-      "zh": "显示；表明"
-     },
-     {
       "w": "take / took notes",
       "ipa": "/teɪk / tʊk noʊts/",
       "zh": "记笔记"
      },
      {
-      "w": "use",
-      "ipa": "/juːz/",
-      "zh": "使用"
+      "w": "tap",
+      "ipa": "/tæp/",
+      "zh": "轻点"
      }
     ],
     "nouns": [
      {
-      "w": "answering machine",
-      "ipa": "/ˈænsərɪŋ məˈʃiːn/",
-      "zh": "电话答录机"
-     },
-     {
-      "w": "button",
-      "ipa": "/ˈbʌtn/",
-      "zh": "按钮"
-     },
-     {
-      "w": "light",
-      "ipa": "/laɪt/",
-      "zh": "指示灯；灯"
-     },
-     {
-      "w": "machine",
-      "ipa": "/məˈʃiːn/",
-      "zh": "机器"
-     },
-     {
       "w": "message",
       "ipa": "/ˈmesɪdʒ/",
-      "zh": "留言"
+      "zh": "留言；消息"
      },
      {
       "w": "notes",
       "ipa": "/noʊts/",
       "zh": "笔记；记录"
+     },
+     {
+      "w": "phone",
+      "ipa": "/foʊn/",
+      "zh": "手机"
+     },
+     {
+      "w": "red dot",
+      "ipa": "/red dɑːt/",
+      "zh": "红点（新消息提示）"
+     },
+     {
+      "w": "voice message",
+      "ipa": "/vɔɪs ˈmesɪdʒ/",
+      "zh": "语音留言"
      }
     ],
     "others": [
      {
-      "w": "outgoing (adj.)",
-      "ipa": "/ˈaʊtɡoʊɪŋ/",
-      "zh": "外出的；对外录制的"
+      "w": "right now (adverbial)",
+      "ipa": "/raɪt naʊ/",
+      "zh": "现在"
      },
      {
-      "w": "own (adj.)",
-      "ipa": "/oʊn/",
-      "zh": "自己的"
+      "w": "together (adv.)",
+      "ipa": "/təˈɡeðər/",
+      "zh": "一起"
      }
     ]
    },
    "notes": [
     {
-     "en": "When you record a message, you put it on a tape. When you erase a message, you take it off a tape.",
-     "zh": "录制留言就是把它录到磁带上；删除留言就是把它从磁带上抹掉。"
+     "en": "When you record a voice message, you put it on the phone. When you delete it, you take it off.",
+     "zh": "录制语音留言就是把它存进手机，删除就是把它清掉。"
     },
     {
-     "en": "An outgoing message is what someone hears when a machine answers the phone.",
-     "zh": "外出留言就是答录机接电话时对方听到的那段话。"
+     "en": "In WeChat, a red dot shows that a new voice message is waiting for you.",
+     "zh": "在微信里，红点提示你有新的语音留言等着听。"
     },
     {
-     "en": "When there is a message recorded on the answering machine, the light shows you it is there to listen to.",
-     "zh": "当答录机里录有留言时，指示灯会亮起来提示你有留言可听。"
+     "en": "A voice message can be played again and again, and it is saved automatically.",
+     "zh": "语音留言可以反复播放，而且会自动保存。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Tom's Machine",
-     "role": "machine",
-     "en": "We can't come to the phone right now. After the beep, please leave a message.",
-     "zh": "我们现在无法接听电话。请在嘀声后留言。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "I can't answer the phone right now. Please leave a message.",
+     "zh": "我现在不能接电话，请留言。"
     },
     {
      "speaker": "Jenny",
      "role": "girl",
-     "en": "Tom, this is Jenny. Please call me back at the office before six o'clock.",
-     "zh": "汤姆，我是珍妮。请六点前打我办公室电话回我。"
+     "en": "Tom, this is Jenny. Please call me back. Let's play basketball together!",
+     "zh": "汤姆，我是珍妮。请给我回电话，我们一起打篮球吧！"
     },
     {
      "speaker": "Tom",
-     "role": "man",
-     "en": "Don't need that anymore.",
+     "role": "clerk",
+     "en": "I don't need that anymore.",
      "zh": "不再需要这条留言了。"
     }
    ],
    "china": [
     {
-     "en": "In China, answering machines are almost obsolete; callers who can't reach you just leave a WeChat message or SMS.",
-     "zh": "在中国，答录机几乎已被淘汰；没接通的人直接发微信或短信。"
+     "en": "In China, answering machines are almost gone; people leave WeChat voice messages instead.",
+     "zh": "在中国，答录机几乎绝迹，大家改用微信语音留言。"
     },
     {
-     "en": "WeChat voice messages can be replayed and saved automatically, so there is no need to erase old ones.",
-     "zh": "微信语音可以自动保存和重听，无需手动删除。"
-    },
-    {
-     "en": "Call forwarding and voicemail are carrier services, but most people prefer text messages.",
-     "zh": "呼叫转移和语音信箱是运营商服务，但大多数人更偏爱短信。"
+     "en": "WeChat voice messages are saved and can be replayed anytime, so no one needs to erase them by hand.",
+     "zh": "微信语音会自动保存、随时重听，不需要手动删除。"
     }
    ],
-   "en": "Using an Answering Machine",
-   "zh": "使用答录机",
+   "en": "Leaving a Voice Message",
+   "zh": "微信语音留言",
    "grammarZh": "一般过去时"
   },
   {
@@ -14497,73 +13933,49 @@
    "img": "assets/img/unit57.jpg",
    "grammar": "Simple Present",
    "grammarNote": {
-    "en": "Unlike previous units, mailing a letter is described as a routine procedure using the simple present tense (I enclose, I fold, I stand, I buy).",
-    "zh": "与前几单元不同，寄信作为一种常规流程使用一般现在时叙述（I enclose、I fold、I stand、I buy）。"
+    "en": "Sending a package is described as a routine procedure using the simple present tense (I put, I write, I seal, I stand, I weigh, I pay).",
+    "zh": "寄包裹作为一种常规流程使用一般现在时叙述（I put、I write、I seal、I stand、I weigh、I pay）。"
    },
    "steps": [
     {
-     "en": "I enclose some pictures.",
-     "zh": "我把一些照片装了进去。"
+     "en": "I put a picture in a small box.",
+     "zh": "我把一幅画放进小盒子里。"
     },
     {
-     "en": "I fold up my letter...",
-     "zh": "我把信折起来……"
+     "en": "I write Grandma's address on the box.",
+     "zh": "我在盒子上写奶奶的地址。"
     },
     {
-     "en": "...and put it in the envelope with the pictures.",
-     "zh": "……和照片一起装进信封。"
+     "en": "I seal the box with tape.",
+     "zh": "我用胶带封好盒子。"
     },
     {
-     "en": "I write my friend's address in the middle of the envelope and my return address at the upper left.",
-     "zh": "我把朋友的地址写在信封中间，把我的回信地址写在左上角。"
-    },
-    {
-     "en": "I seal the envelope.",
-     "zh": "我封好信封。"
-    },
-    {
-     "en": "I don't know how much postage I need, so I take the letter to the post office.",
-     "zh": "我不知道需要多少邮资，于是把信带到邮局。"
+     "en": "I take the box to the express station.",
+     "zh": "我把盒子带到快递驿站。"
     },
     {
      "en": "I stand in line.",
      "zh": "我排队。"
     },
     {
-     "en": "When it's my turn...",
-     "zh": "轮到我时……"
+     "en": "When it's my turn, I give the box to the clerk.",
+     "zh": "轮到我时，我把盒子递给工作人员。"
     },
     {
-     "en": "...I go to the window.",
-     "zh": "……我走到窗口。"
+     "en": "He asks me where I want to send it...",
+     "zh": "他问我寄到哪里……"
     },
     {
-     "en": "I ask the clerk how much postage I need.",
-     "zh": "我问职员需要多少邮资。"
+     "en": "...and weighs the box.",
+     "zh": "……然后称了盒子的重量。"
     },
     {
-     "en": "He asks me how I want the letter to go...",
-     "zh": "他问我想寄哪种信……"
+     "en": "I pay the fee with my mom's phone.",
+     "zh": "我用妈妈的手机扫码付款。"
     },
     {
-     "en": "...and weighs the letter.",
-     "zh": "……然后称了信的重量。"
-    },
-    {
-     "en": "I buy enough stamps for the postage.",
-     "zh": "我买了足够邮资的邮票。"
-    },
-    {
-     "en": "I lick the stamps...",
-     "zh": "我舔了舔邮票……"
-    },
-    {
-     "en": "...and stick them on the envelope.",
-     "zh": "……然后把它们贴在信封上。"
-    },
-    {
-     "en": "I put the letter in the mailbox.",
-     "zh": "我把信投进邮箱。"
+     "en": "He gives me a receipt and a tracking number.",
+     "zh": "他给我回执和快递单号。"
     }
    ],
    "vocab": {
@@ -14574,44 +13986,19 @@
       "zh": "问"
      },
      {
-      "w": "buy",
-      "ipa": "/baɪ/",
-      "zh": "买"
+      "w": "give",
+      "ipa": "/ɡɪv/",
+      "zh": "给"
      },
      {
-      "w": "enclose",
-      "ipa": "/ɪnˈkloʊz/",
-      "zh": "把……封入"
+      "w": "hope",
+      "ipa": "/hoʊp/",
+      "zh": "希望"
      },
      {
-      "w": "fold",
-      "ipa": "/foʊld/",
-      "zh": "折叠"
-     },
-     {
-      "w": "go to",
-      "ipa": "/ɡoʊ tuː/",
-      "zh": "去；前往"
-     },
-     {
-      "w": "know",
-      "ipa": "/noʊ/",
-      "zh": "知道"
-     },
-     {
-      "w": "lick",
-      "ipa": "/lɪk/",
-      "zh": "舔（邮票背面）"
-     },
-     {
-      "w": "mail",
-      "ipa": "/meɪl/",
-      "zh": "邮寄"
-     },
-     {
-      "w": "need",
-      "ipa": "/niːd/",
-      "zh": "需要"
+      "w": "pay",
+      "ipa": "/peɪ/",
+      "zh": "付款"
      },
      {
       "w": "put in",
@@ -14621,7 +14008,12 @@
      {
       "w": "seal",
       "ipa": "/siːl/",
-      "zh": "封（信封）"
+      "zh": "封（盒子）"
+     },
+     {
+      "w": "send",
+      "ipa": "/send/",
+      "zh": "寄送"
      },
      {
       "w": "stand in line",
@@ -14629,19 +14021,9 @@
       "zh": "排队"
      },
      {
-      "w": "stick",
-      "ipa": "/stɪk/",
-      "zh": "粘贴"
-     },
-     {
       "w": "take",
       "ipa": "/teɪk/",
       "zh": "带去；拿"
-     },
-     {
-      "w": "want",
-      "ipa": "/wɑːnt/",
-      "zh": "想要"
      },
      {
       "w": "weigh",
@@ -14661,74 +14043,49 @@
       "zh": "地址"
      },
      {
+      "w": "box",
+      "ipa": "/bɑːks/",
+      "zh": "盒子"
+     },
+     {
       "w": "clerk",
       "ipa": "/klɜːrk/",
-      "zh": "职员；窗口服务员"
+      "zh": "工作人员"
      },
      {
-      "w": "envelope",
-      "ipa": "/ˈenvəloʊp/",
-      "zh": "信封"
+      "w": "express station",
+      "ipa": "/ɪkˈspres ˈsteɪʃn/",
+      "zh": "快递驿站"
      },
      {
-      "w": "friend",
-      "ipa": "/frend/",
-      "zh": "朋友"
+      "w": "fee",
+      "ipa": "/fiː/",
+      "zh": "费用"
      },
      {
-      "w": "letter",
-      "ipa": "/ˈletər/",
-      "zh": "信"
+      "w": "picture",
+      "ipa": "/ˈpɪktʃər/",
+      "zh": "画；图片"
      },
      {
-      "w": "mailbox",
-      "ipa": "/ˈmeɪlbɑːks/",
-      "zh": "邮箱；邮筒"
+      "w": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "zh": "回执"
      },
      {
-      "w": "middle",
-      "ipa": "/ˈmɪdl/",
-      "zh": "中间"
+      "w": "tape",
+      "ipa": "/teɪp/",
+      "zh": "胶带"
      },
      {
-      "w": "pictures",
-      "ipa": "/ˈpɪktʃərz/",
-      "zh": "照片；图片"
-     },
-     {
-      "w": "postage",
-      "ipa": "/ˈpoʊstɪdʒ/",
-      "zh": "邮资；邮费"
-     },
-     {
-      "w": "post office",
-      "ipa": "/poʊst ˈɔːfɪs/",
-      "zh": "邮局"
-     },
-     {
-      "w": "return address",
-      "ipa": "/rɪˈtɜːrn əˈdres/",
-      "zh": "寄件人回邮地址"
-     },
-     {
-      "w": "scale",
-      "ipa": "/skeɪl/",
-      "zh": "秤"
-     },
-     {
-      "w": "stamp",
-      "ipa": "/stæmp/",
-      "zh": "邮票"
+      "w": "tracking number",
+      "ipa": "/ˈtrækɪŋ ˈnʌmbər/",
+      "zh": "快递单号"
      },
      {
       "w": "turn",
       "ipa": "/tɜːrn/",
       "zh": "轮到的机会"
-     },
-     {
-      "w": "window",
-      "ipa": "/ˈwɪndoʊ/",
-      "zh": "（办事）窗口"
      }
     ],
     "others": [
@@ -14736,91 +14093,67 @@
       "w": "enough (adj.)",
       "ipa": "/ɪˈnʌf/",
       "zh": "足够的"
-     },
-     {
-      "w": "left (adj.)",
-      "ipa": "/left/",
-      "zh": "左边的"
-     },
-     {
-      "w": "upper (adj.)",
-      "ipa": "/ˈʌpər/",
-      "zh": "上面的"
      }
     ]
    },
    "notes": [
     {
-     "en": "Stand in line — usually without \"a\" or \"the.\" When you stand in line, you wait for your turn — your chance to be served.",
-     "zh": "stand in line（排队）通常不加 a 或 the。排队就是等待轮到你接受服务。"
+     "en": "Stand in line — usually without \"a\" or \"the.\" When you stand in line, you wait for your turn.",
+     "zh": "stand in line（排队）通常不加 a 或 the，排队就是等待轮到你。"
     },
     {
-     "en": "Many Americans lick stamps. In other cultures, people prefer to get the stamp wet by putting it on a wet sponge.",
-     "zh": "很多美国人用舌头舔邮票。在其他文化中，人们更喜欢用湿海绵把邮票弄湿。"
+     "en": "An express station (快递驿站) is a small shop where you can send and pick up packages.",
+     "zh": "express station（快递驿站）是收发包裹的小店。"
     },
     {
-     "en": "When the clerk asks \"regular or express?\" he wants to know if the letter should be delivered fast. Express mail goes fast and costs more. Regular means \"usual\" or \"normal.\"",
-     "zh": "当职员问 regular 还是 express 时，他想知道信是否需要特快专递。特快邮件快但更贵，regular 意思是“普通”“平常”。"
-    },
-    {
-     "en": "A scale is a machine for weighing things — finding out how heavy they are.",
-     "zh": "秤是用来称东西——即查出它们有多重——的机器。"
+     "en": "A tracking number lets you follow the package on your phone until it arrives.",
+     "zh": "快递单号可以让你在手机上跟踪包裹，直到它送达。"
     }
    ],
    "dialogue": [
     {
      "speaker": "Alex",
-     "role": "narrator",
-     "en": "I hope she likes the pictures.",
-     "zh": "希望她喜欢这些照片。"
-    },
-    {
-     "speaker": "Alex",
-     "role": "narrator",
-     "en": "How much do I need on this?",
-     "zh": "这个要贴多少邮资？"
+     "role": "clerk",
+     "en": "I hope Grandma likes the picture!",
+     "zh": "希望奶奶喜欢这幅画！"
     },
     {
      "speaker": "Clerk",
-     "role": "clerk",
-     "en": "Regular mail or express?",
-     "zh": "普通邮件还是特快？"
+     "role": "mom",
+     "en": "Where do you want to send it?",
+     "zh": "您要寄到哪里？"
     },
     {
-     "speaker": "Alex",
-     "role": "narrator",
-     "en": "Regular.",
-     "zh": "普通的。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "To Zhengzhou.",
+     "zh": "寄到郑州。"
     },
     {
      "speaker": "Clerk",
-     "role": "clerk",
-     "en": "A dollar twenty.",
-     "zh": "一块二。"
+     "role": "mom",
+     "en": "It's 10 yuan, please.",
+     "zh": "10 元。"
     },
     {
-     "speaker": "Alex",
-     "role": "narrator",
-     "en": "Okay.",
-     "zh": "好的。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Okay. Here's the payment code.",
+     "zh": "好的，付款码在这。"
     }
    ],
    "china": [
     {
-     "en": "In China, mailing is mostly handled by express companies like SF Express; parcels are picked up at your door.",
-     "zh": "在中国，寄东西主要靠顺丰等快递公司，包裹可以上门取件。"
+     "en": "In China, sending things is mostly done at express stations or by door pickup; stamps and post offices are rare.",
+     "zh": "在中国，寄东西主要去快递驿站或上门取件，邮票和邮局很少见了。"
     },
     {
-     "en": "Stamps and licking envelopes are rare; most people use phone apps to print shipping labels and pay online.",
-     "zh": "舔邮票、贴信封很少见，多数人用手机 App 打印快递单并在线支付。"
-    },
-    {
-     "en": "Tracking numbers let you follow delivery on the phone, and packages arrive at your home or a pickup locker.",
-     "zh": "快递单号可以在手机上跟踪物流，包裹送到家或快递柜。"
+     "en": "People pay the delivery fee by scanning a code, and track the package with the tracking number on the phone.",
+     "zh": "大家扫码付快递费，再用快递单号在手机上跟踪物流。"
     }
    ],
-   "en": "Mailing a Letter",
-   "zh": "寄信",
+   "en": "Sending a Package",
+   "zh": "寄包裹",
    "grammarZh": "一般现在时"
   },
   {
