@@ -65,6 +65,29 @@ eea-app/
 - **中国场景对照**：每单元附有贴合中国真实生活的场景对照（扫码支付、外卖、自动挡、地铁等），为原创扩展内容；
 - 本仓库整体采用 **MIT 协议**开源（见 LICENSE），使用/转载时请同时保留原书版权声明与本说明。
 
+## 版本发布 / Release
+
+每次功能提交推送到 GitHub 后，用仓库内的发布脚本一键记录历史变化（打 tag + 创建中文 Release notes）：
+
+```bash
+./scripts/release.sh --dry-run              # 先预览：检测未发布提交 + 建议版本号
+./scripts/release.sh                        # 自动发布（按建议版本号）
+./scripts/release.sh --version v1.2.0       # 手动指定版本号
+```
+
+**版本号规则（语义化版本）**：`v主版本.次版本.修订号`。功能新增（feat/新增）→ 次版本 +1；修复/整理/文档（chore/fix/docs）→ 修订号 +1；重大重构 → 主版本 +1。
+
+**流程说明**：
+1. 提交并推送代码（`git push origin main`）
+2. 运行 `./scripts/release.sh --dry-run` 检查建议版本与 Release notes
+3. 运行 `./scripts/release.sh` 完成：自动 `git tag` → 推送 tag → 用 GitHub API 创建 Release（中文 notes 自动取自本次 commit message，可用 `--notes-file` 补充）
+
+**为什么不自动（post-push hook）**：若在 `.git/hooks/post-push` 里每次推送都自动建 Release，会把中间的开发提交、小修补也全部发布成 Release，日常推送不稳定且历史噪音大；因此采用"显式脚本"方案——需要发布时运行一次脚本即可，稳定可控。
+
+**权限说明**：脚本通过 `~/.git-credentials` 中的 GitHub PAT 调用 Releases API，需保证该 PAT 拥有 `repo` 权限（GitHub → Settings → Developer settings → Personal access tokens 中查看/调整）。
+
+历史 Releases 见：https://github.com/Xiaohanzhi/everyday-english/releases
+
 ## 后续规划
 
 - [ ] 中国场景拓展单元（扫码支付、外卖、高铁、共享单车等）
