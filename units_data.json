@@ -35,6 +35,12 @@
    "en": "Having Fun with Friends",
    "zh": "与友同乐",
    "desc": "生日派对、晚宴、看电影、快餐"
+  },
+  {
+   "id": 7,
+   "en": "School Life",
+   "zh": "学校生活",
+   "desc": "上学路上、上课与课间"
   }
  ],
  "units": [
@@ -15795,9 +15801,1136 @@
      "zh": "中国很多人用手机 App 点快餐外卖（order food delivery），在家就能吃。也可以说 order food on the app。"
     }
    ]
+  },
+  {
+   "id": 62,
+   "section": 7,
+   "level": 1,
+   "en": "Going to School",
+   "zh": "上学路上",
+   "grammar": "SIMPLE PRESENT",
+   "grammarZh": "一般现在时",
+   "img": "assets/img/unit62.jpg",
+   "grammarNote": {
+    "en": "We use the simple present to talk about what we do every day. Examples: Jenny puts on her schoolbag. She walks to the school gate. Her friend waves to her. Time words: every morning, every day, always, usually.",
+    "zh": "一般现在时用来描述每天都会做的事。例句：Jenny puts on her schoolbag.（珍妮背上书包。）She walks to the school gate.（她走到学校门口。）常搭配时间词：every morning 每天早上、every day 每天、always 总是、usually 通常。"
+   },
+   "steps": [
+    {
+     "en": "Jenny puts on her schoolbag.",
+     "zh": "珍妮背上书包。"
+    },
+    {
+     "en": "She goes downstairs with her mom.",
+     "zh": "她和妈妈一起下楼。"
+    },
+    {
+     "en": "They walk to the school gate.",
+     "zh": "她们走到学校门口。"
+    },
+    {
+     "en": "Jenny says goodbye to her mom.",
+     "zh": "珍妮和妈妈道别。"
+    },
+    {
+     "en": "She walks into the school.",
+     "zh": "她走进学校。"
+    },
+    {
+     "en": "Her friend waves to her.",
+     "zh": "她的朋友向她挥手。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Bye, Mom! Have a good day!",
+     "zh": "再见，妈妈！祝你今天愉快！"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "Bye, sweetie! Be good at school.",
+     "zh": "再见，宝贝！在学校要乖哦。"
+    },
+    {
+     "speaker": "Friend",
+     "role": "clerk",
+     "en": "Hi, Jenny! Good morning!",
+     "zh": "嗨，珍妮！早上好！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Good morning! Let's go to class.",
+     "zh": "早上好！我们一起去上课吧。"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "go downstairs",
+      "ipa": "/ɡoʊ ˌdaʊnˈsterz/",
+      "zh": "下楼"
+     },
+     {
+      "w": "put on",
+      "ipa": "/pʊt ɑːn/",
+      "zh": "背上；穿上"
+     },
+     {
+      "w": "say goodbye",
+      "ipa": "/seɪ ˌɡʊdˈbaɪ/",
+      "zh": "道别；说再见"
+     },
+     {
+      "w": "walk",
+      "ipa": "/wɔːk/",
+      "zh": "走路；步行"
+     },
+     {
+      "w": "walk into",
+      "ipa": "/wɔːk ˈɪntuː/",
+      "zh": "走进"
+     },
+     {
+      "w": "wave",
+      "ipa": "/weɪv/",
+      "zh": "挥手"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "class",
+      "ipa": "/klæs/",
+      "zh": "课；上课"
+     },
+     {
+      "w": "friend",
+      "ipa": "/frend/",
+      "zh": "朋友"
+     },
+     {
+      "w": "mom",
+      "ipa": "/mɑːm/",
+      "zh": "妈妈"
+     },
+     {
+      "w": "school",
+      "ipa": "/skuːl/",
+      "zh": "学校"
+     },
+     {
+      "w": "schoolbag",
+      "ipa": "/ˈskuːlbæɡ/",
+      "zh": "书包"
+     },
+     {
+      "w": "school gate",
+      "ipa": "/skuːl ɡeɪt/",
+      "zh": "校门口"
+     }
+    ],
+    "others": [
+     {
+      "w": "every day",
+      "ipa": "/ˈevri deɪ/",
+      "zh": "每天"
+     },
+     {
+      "w": "good morning",
+      "ipa": "/ˌɡʊd ˈmɔːrnɪŋ/",
+      "zh": "早上好"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "“Have a good day!” is a friendly way to say goodbye in the morning.",
+     "zh": "Have a good day!（祝你今天愉快！）是早上告别时的友好说法。"
+    },
+    {
+     "en": "A parent calls a child “sweetie” to show love.",
+     "zh": "爸爸妈妈会叫孩子 sweetie（宝贝）表示疼爱。"
+    },
+    {
+     "en": "“Let's” is short for “let us”. It means “we should do this together”.",
+     "zh": "Let's 是 let us 的缩写，表示“我们一起做某事吧”。"
+    }
+   ],
+   "china": [
+    {
+     "en": "In Chinese cities, many parents walk or ride an e-bike with their child to the school gate, and parents usually stop outside the gate.",
+     "zh": "在中国城市，很多家长走路或骑电动车送孩子到校门口，家长一般不进校。"
+    },
+    {
+     "en": "Chinese students say goodbye at the gate and walk into school by themselves, just like Jenny.",
+     "zh": "中国学生在校门口和家长道别后自己走进学校，就像珍妮一样。"
+    },
+    {
+     "en": "“Have a good day!” is like saying “好好学习，再见！” at the school gate.",
+     "zh": "Have a good day! 就像在校门口说“好好学习，再见！”"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "section": 7,
+   "level": 1,
+   "en": "At School — Class and Recess",
+   "zh": "在学校——上课与课间",
+   "grammar": "IMPERATIVE",
+   "grammarZh": "祈使句",
+   "img": "assets/img/unit63.jpg",
+   "grammarNote": {
+    "en": "We use the imperative to give instructions. The verb comes first, without “you”. Examples: Open your books. Raise your hand. Line up, please. We can add “please” to be polite: Open your books, please.",
+    "zh": "祈使句用来发出指令，动词开头、不加主语 you。例句：Open your books.（打开课本。）Raise your hand.（举手。）Line up, please.（请排队。）加 please 更有礼貌。"
+   },
+   "steps": [
+    {
+     "en": "The bell rings.",
+     "zh": "上课铃响了。"
+    },
+    {
+     "en": "Jenny sits at her desk.",
+     "zh": "珍妮坐到座位上。"
+    },
+    {
+     "en": "The teacher says, “Open your books.”",
+     "zh": "老师说：“打开课本。”"
+    },
+    {
+     "en": "Jenny raises her hand.",
+     "zh": "珍妮举起手。"
+    },
+    {
+     "en": "She writes in her notebook.",
+     "zh": "她在笔记本上写字。"
+    },
+    {
+     "en": "The bell rings again.",
+     "zh": "下课铃又响了。"
+    },
+    {
+     "en": "The children line up.",
+     "zh": "孩子们排队。"
+    },
+    {
+     "en": "They play on the playground.",
+     "zh": "他们在操场上玩。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Teacher",
+     "role": "clerk",
+     "en": "Good morning, class. Open your books, please.",
+     "zh": "同学们早上好。请打开课本。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "May I ask a question?",
+     "zh": "我可以问个问题吗？"
+    },
+    {
+     "speaker": "Teacher",
+     "role": "clerk",
+     "en": "Yes, of course.",
+     "zh": "当然可以。"
+    },
+    {
+     "speaker": "Friend",
+     "role": "clerk",
+     "en": "The bell is ringing! Let's go out to play.",
+     "zh": "铃响了！我们出去玩吧。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "OK! Let's go!",
+     "zh": "好呀！走吧！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "line up",
+      "ipa": "/laɪn ʌp/",
+      "zh": "排队"
+     },
+     {
+      "w": "open",
+      "ipa": "/ˈoʊpən/",
+      "zh": "打开"
+     },
+     {
+      "w": "play",
+      "ipa": "/pleɪ/",
+      "zh": "玩"
+     },
+     {
+      "w": "raise",
+      "ipa": "/reɪz/",
+      "zh": "举起"
+     },
+     {
+      "w": "ring",
+      "ipa": "/rɪŋ/",
+      "zh": "（铃）响"
+     },
+     {
+      "w": "sit",
+      "ipa": "/sɪt/",
+      "zh": "坐"
+     },
+     {
+      "w": "write",
+      "ipa": "/raɪt/",
+      "zh": "写"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "bell",
+      "ipa": "/bel/",
+      "zh": "铃；铃声"
+     },
+     {
+      "w": "class",
+      "ipa": "/klæs/",
+      "zh": "班级；上课"
+     },
+     {
+      "w": "desk",
+      "ipa": "/desk/",
+      "zh": "课桌"
+     },
+     {
+      "w": "notebook",
+      "ipa": "/ˈnoʊtbʊk/",
+      "zh": "笔记本"
+     },
+     {
+      "w": "playground",
+      "ipa": "/ˈpleɪɡraʊnd/",
+      "zh": "操场"
+     },
+     {
+      "w": "question",
+      "ipa": "/ˈkwestʃən/",
+      "zh": "问题"
+     },
+     {
+      "w": "teacher",
+      "ipa": "/ˈtiːtʃər/",
+      "zh": "老师"
+     }
+    ],
+    "others": [
+     {
+      "w": "again",
+      "ipa": "/əˈɡen/",
+      "zh": "又；再"
+     },
+     {
+      "w": "out",
+      "ipa": "/aʊt/",
+      "zh": "出去；在外面"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "“May I…?” is a polite way to ask for permission. It is more polite than “Can I…?”.",
+     "zh": "May I…?（我可以……吗？）是比 Can I…? 更礼貌的请求许可的说法。"
+    },
+    {
+     "en": "“Line up” means to stand one behind another to make a line.",
+     "zh": "line up（排队）指一个接一个站成一条队。"
+    },
+    {
+     "en": "Recess is the short break between classes, when children can play.",
+     "zh": "recess（课间）是两节课之间的短休息时间，孩子们可以玩。"
+    }
+   ],
+   "china": [
+    {
+     "en": "In Chinese primary schools, students stand up and say hello to the teacher when the bell rings.",
+     "zh": "中国小学上课铃响后，学生起立向老师问好。"
+    },
+    {
+     "en": "Chinese students raise their hand and say “May I ask a question?” before speaking in class.",
+     "zh": "中国学生在课堂上先举手，说“May I ask a question?”（我可以问个问题吗？）再发言。"
+    },
+    {
+     "en": "During the ten-minute recess, children play in the hallway or on the playground.",
+     "zh": "课间十分钟，孩子们在走廊或操场上玩。"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "section": 4,
+   "level": 1,
+   "en": "Helping Mom at the Supermarket",
+   "zh": "帮妈妈逛超市",
+   "grammar": "SIMPLE PRESENT",
+   "grammarZh": "一般现在时",
+   "img": "assets/img/unit64.jpg",
+   "grammarNote": {
+    "en": "We use the simple present to talk about things we do and happen every time. Examples: Jenny makes a shopping list. She gets a shopping cart. Mom picks out some apples. The verbs stay in the base form for “I, you, we, they”, and add -s for “he, she, it”: Mom picks out some apples.",
+    "zh": "一般现在时描述经常做的事。例句：Jenny makes a shopping list.（珍妮列购物清单。）第三人称单数（he/she/it）动词要加 -s：Mom picks out some apples.（妈妈挑了一些苹果。）"
+   },
+   "steps": [
+    {
+     "en": "Jenny makes a shopping list with her mom.",
+     "zh": "珍妮和妈妈一起列购物清单。"
+    },
+    {
+     "en": "She gets a shopping cart.",
+     "zh": "她推来一辆购物车。"
+    },
+    {
+     "en": "Mom picks out some apples.",
+     "zh": "妈妈挑了一些苹果。"
+    },
+    {
+     "en": "Jenny puts the apples in the cart.",
+     "zh": "珍妮把苹果放进购物车。"
+    },
+    {
+     "en": "They weigh the fruit.",
+     "zh": "她们给水果称重。"
+    },
+    {
+     "en": "They pay at the counter.",
+     "zh": "她们在收银台付款。"
+    },
+    {
+     "en": "Jenny helps carry the bags home.",
+     "zh": "珍妮帮忙把袋子拎回家。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Mom, can I push the cart?",
+     "zh": "妈妈，我可以推购物车吗？"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "Yes, you can. Be careful!",
+     "zh": "可以，小心一点！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "We need some apples.",
+     "zh": "我们需要一些苹果。"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "Let's get some fruit, too.",
+     "zh": "我们再买点水果吧。"
+    },
+    {
+     "speaker": "Clerk",
+     "role": "clerk",
+     "en": "That'll be sixty-eight yuan.",
+     "zh": "一共六十八元。"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "carry",
+      "ipa": "/ˈkæri/",
+      "zh": "提；搬"
+     },
+     {
+      "w": "get",
+      "ipa": "/ɡet/",
+      "zh": "拿；取"
+     },
+     {
+      "w": "help",
+      "ipa": "/help/",
+      "zh": "帮助"
+     },
+     {
+      "w": "make a list",
+      "ipa": "/meɪk ə lɪst/",
+      "zh": "列清单"
+     },
+     {
+      "w": "pay",
+      "ipa": "/peɪ/",
+      "zh": "付款"
+     },
+     {
+      "w": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "zh": "挑出；挑选"
+     },
+     {
+      "w": "push",
+      "ipa": "/pʊʃ/",
+      "zh": "推"
+     },
+     {
+      "w": "put in",
+      "ipa": "/pʊt ɪn/",
+      "zh": "放进"
+     },
+     {
+      "w": "weigh",
+      "ipa": "/weɪ/",
+      "zh": "称重"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "apple",
+      "ipa": "/ˈæpəl/",
+      "zh": "苹果"
+     },
+     {
+      "w": "bag",
+      "ipa": "/bæɡ/",
+      "zh": "袋子"
+     },
+     {
+      "w": "counter",
+      "ipa": "/ˈkaʊntər/",
+      "zh": "收银台"
+     },
+     {
+      "w": "fruit",
+      "ipa": "/fruːt/",
+      "zh": "水果"
+     },
+     {
+      "w": "shopping cart",
+      "ipa": "/ˈʃɑːpɪŋ kɑːrt/",
+      "zh": "购物车"
+     },
+     {
+      "w": "shopping list",
+      "ipa": "/ˈʃɑːpɪŋ lɪst/",
+      "zh": "购物清单"
+     },
+     {
+      "w": "supermarket",
+      "ipa": "/ˈsuːpərmɑːrkɪt/",
+      "zh": "超市"
+     },
+     {
+      "w": "yuan",
+      "ipa": "/juˈɑːn/",
+      "zh": "元（人民币）"
+     }
+    ],
+    "others": [
+     {
+      "w": "some",
+      "ipa": "/sʌm/",
+      "zh": "一些"
+     },
+     {
+      "w": "careful",
+      "ipa": "/ˈkerfəl/",
+      "zh": "小心的"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "“Can I…?” is used to ask for permission: Can I push the cart? — Yes, you can.",
+     "zh": "Can I…?（我可以……吗？）用来请求许可：Can I push the cart?——Yes, you can.（可以。）"
+    },
+    {
+     "en": "“Let's get some fruit” means “we should buy some fruit together”.",
+     "zh": "Let's get some fruit（我们买点水果吧）表示“我们一起去买”。"
+    },
+    {
+     "en": "In many supermarkets, fruit and vegetables are weighed before paying.",
+     "zh": "很多超市的水果蔬菜要先称重再付款。"
+    }
+   ],
+   "china": [
+    {
+     "en": "In Chinese supermarkets, fresh fruit is weighed at a scale station and a price tag is printed before you go to the counter.",
+     "zh": "中国超市的生鲜水果要在称重台称重并贴价格标签，再去收银台付款。"
+    },
+    {
+     "en": "People in China usually pay by scanning a QR code with WeChat Pay or Alipay.",
+     "zh": "中国人在超市通常用微信或支付宝扫码付款（scan the QR code）。"
+    },
+    {
+     "en": "Many supermarkets charge a little for plastic bags, so people bring their own shopping bags.",
+     "zh": "很多中国超市塑料袋收费，所以大家会自己带购物袋（环保袋）。"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "section": 6,
+   "level": 1,
+   "en": "At the Playground",
+   "zh": "在游乐场玩",
+   "grammar": "SIMPLE PRESENT",
+   "grammarZh": "一般现在时",
+   "img": "assets/img/unit65.jpg",
+   "grammarNote": {
+    "en": "We use the simple present for things we do again and again. Examples: Jenny climbs up the ladder. She goes down the slide. They play on the seesaw. Remember: he / she / it verbs add -s: She goes down the slide.",
+    "zh": "一般现在时描述反复做的事。例句：Jenny climbs up the ladder.（珍妮爬上梯子。）She goes down the slide.（她滑下滑梯。）第三人称单数动词加 -s：She goes down the slide. 注意 go 变成 goes。"
+   },
+   "steps": [
+    {
+     "en": "Jenny goes to the playground with her friend.",
+     "zh": "珍妮和朋友一起去游乐场。"
+    },
+    {
+     "en": "She climbs up the ladder.",
+     "zh": "她爬上梯子。"
+    },
+    {
+     "en": "She goes down the slide.",
+     "zh": "她滑下滑梯。"
+    },
+    {
+     "en": "They play on the seesaw.",
+     "zh": "她们玩跷跷板。"
+    },
+    {
+     "en": "Jenny swings on the swing.",
+     "zh": "珍妮荡秋千。"
+    },
+    {
+     "en": "Her friend pushes her.",
+     "zh": "朋友推着她荡秋千。"
+    },
+    {
+     "en": "They go home before dark.",
+     "zh": "天黑前她们回家。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Friend",
+     "role": "clerk",
+     "en": "Let's play on the slide!",
+     "zh": "我们去玩滑梯吧！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "OK! My turn!",
+     "zh": "好呀！该我了！"
+    },
+    {
+     "speaker": "Friend",
+     "role": "clerk",
+     "en": "OK, your turn now!",
+     "zh": "好，现在轮到你啦！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Can I play on the swing, too?",
+     "zh": "我也可以荡秋千吗？"
+    },
+    {
+     "speaker": "Friend",
+     "role": "clerk",
+     "en": "Sure! Let's go!",
+     "zh": "当然！走吧！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "climb",
+      "ipa": "/klaɪm/",
+      "zh": "爬"
+     },
+     {
+      "w": "go down",
+      "ipa": "/ɡoʊ daʊn/",
+      "zh": "滑下；下来"
+     },
+     {
+      "w": "play",
+      "ipa": "/pleɪ/",
+      "zh": "玩"
+     },
+     {
+      "w": "push",
+      "ipa": "/pʊʃ/",
+      "zh": "推"
+     },
+     {
+      "w": "swing",
+      "ipa": "/swɪŋ/",
+      "zh": "荡（秋千）"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "friend",
+      "ipa": "/frend/",
+      "zh": "朋友"
+     },
+     {
+      "w": "ladder",
+      "ipa": "/ˈlædər/",
+      "zh": "梯子"
+     },
+     {
+      "w": "playground",
+      "ipa": "/ˈpleɪɡraʊnd/",
+      "zh": "游乐场"
+     },
+     {
+      "w": "seesaw",
+      "ipa": "/ˈsiːsɔː/",
+      "zh": "跷跷板"
+     },
+     {
+      "w": "slide",
+      "ipa": "/slaɪd/",
+      "zh": "滑梯"
+     },
+     {
+      "w": "swing",
+      "ipa": "/swɪŋ/",
+      "zh": "秋千"
+     },
+     {
+      "w": "turn",
+      "ipa": "/tɜːrn/",
+      "zh": "轮到的机会"
+     }
+    ],
+    "others": [
+     {
+      "w": "before dark",
+      "ipa": "/bɪˈfɔːr dɑːrk/",
+      "zh": "天黑前"
+     },
+     {
+      "w": "too",
+      "ipa": "/tuː/",
+      "zh": "也"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "“My turn!” means it is my chance to play. “Your turn!” means it is your chance.",
+     "zh": "My turn!（该我了！）表示轮到我玩；Your turn!（该你了！）表示轮到你。"
+    },
+    {
+     "en": "A seesaw goes up and down when two children sit on the two ends.",
+     "zh": "seesaw（跷跷板）是两人分坐两端、一起一落的玩具。"
+    },
+    {
+     "en": "“Before dark” means before the sky gets dark at night.",
+     "zh": "before dark（天黑前）指夜晚天空变暗之前。"
+    }
+   ],
+   "china": [
+    {
+     "en": "In China, children often play at the playground in a park or near their apartment building after school.",
+     "zh": "在中国，孩子放学后常在公园或小区里的儿童游乐区玩。"
+    },
+    {
+     "en": "Children wait in line and take turns on the slide and the swing.",
+     "zh": "中国孩子玩滑梯、秋千要排队轮流（take turns），先来后到。"
+    },
+    {
+     "en": "Parents usually call their children home before dark.",
+     "zh": "天黑前家长一般会叫孩子回家。"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "section": 4,
+   "level": 1,
+   "en": "Tidying Up Toys",
+   "zh": "玩完玩具收起来",
+   "grammar": "IMPERATIVE",
+   "grammarZh": "祈使句",
+   "img": "assets/img/unit66.jpg",
+   "grammarNote": {
+    "en": "We use the imperative to tell someone what to do. The verb comes first: Put your toys away. Pick up the blocks. Put the blocks in the box. To be polite, we can say “please”: Put your toys away, please.",
+    "zh": "祈使句用来告诉别人做什么，动词开头：Put your toys away.（把玩具收好。）Pick up the blocks.（捡起积木。）加 please 更礼貌：Put your toys away, please."
+   },
+   "steps": [
+    {
+     "en": "Mom says, “Put your toys away.”",
+     "zh": "妈妈说：“把玩具收好。”"
+    },
+    {
+     "en": "Jenny picks up the blocks.",
+     "zh": "珍妮捡起积木。"
+    },
+    {
+     "en": "She puts the blocks in the box.",
+     "zh": "她把积木放进盒子里。"
+    },
+    {
+     "en": "She puts the teddy bear on the shelf.",
+     "zh": "她把泰迪熊放到架子上。"
+    },
+    {
+     "en": "She puts the picture books on the desk.",
+     "zh": "她把绘本放到桌上。"
+    },
+    {
+     "en": "The room is clean now.",
+     "zh": "房间现在干净了。"
+    },
+    {
+     "en": "Mom says, “Good job!”",
+     "zh": "妈妈说：“真棒！”"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "Put your toys away, please.",
+     "zh": "请把玩具收好。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "OK, Mom.",
+     "zh": "好的，妈妈。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Where do the blocks go?",
+     "zh": "积木放在哪里呀？"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "They go in the box.",
+     "zh": "放进那个盒子里。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "All done!",
+     "zh": "全部收好啦！"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "Good job!",
+     "zh": "真棒！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "zh": "捡起"
+     },
+     {
+      "w": "put away",
+      "ipa": "/pʊt əˈweɪ/",
+      "zh": "收好；放回原处"
+     },
+     {
+      "w": "put in",
+      "ipa": "/pʊt ɪn/",
+      "zh": "放进"
+     },
+     {
+      "w": "tidy up",
+      "ipa": "/ˈtaɪdi ʌp/",
+      "zh": "整理；收拾"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "blocks",
+      "ipa": "/blɑːks/",
+      "zh": "积木"
+     },
+     {
+      "w": "box",
+      "ipa": "/bɑːks/",
+      "zh": "盒子"
+     },
+     {
+      "w": "desk",
+      "ipa": "/desk/",
+      "zh": "书桌"
+     },
+     {
+      "w": "picture book",
+      "ipa": "/ˈpɪktʃər bʊk/",
+      "zh": "绘本；图画书"
+     },
+     {
+      "w": "room",
+      "ipa": "/ruːm/",
+      "zh": "房间"
+     },
+     {
+      "w": "shelf",
+      "ipa": "/ʃelf/",
+      "zh": "架子"
+     },
+     {
+      "w": "teddy bear",
+      "ipa": "/ˈtedi ber/",
+      "zh": "泰迪熊"
+     },
+     {
+      "w": "toy",
+      "ipa": "/tɔɪ/",
+      "zh": "玩具"
+     }
+    ],
+    "others": [
+     {
+      "w": "clean",
+      "ipa": "/kliːn/",
+      "zh": "干净的"
+     },
+     {
+      "w": "good job",
+      "ipa": "/ˌɡʊd ˈdʒɑːb/",
+      "zh": "做得好；真棒"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "“Put away” means to put things back in their proper place.",
+     "zh": "put away（收好）指把东西放回该放的地方。"
+    },
+    {
+     "en": "“Good job!” is what we say to praise a child for doing something well.",
+     "zh": "Good job!（真棒！）是孩子做得好时用来表扬的话。"
+    },
+    {
+     "en": "“All done!” means everything is finished.",
+     "zh": "All done!（都做好了！）表示全部完成。"
+    }
+   ],
+   "china": [
+    {
+     "en": "Chinese parents often ask children to tidy up their toys before dinner or before bed.",
+     "zh": "中国家长常让孩子在吃饭前或睡觉前把玩具收好。"
+    },
+    {
+     "en": "Many Chinese families keep toys in storage boxes or on a toy shelf in the children's room.",
+     "zh": "很多中国家庭把玩具收在收纳箱或儿童房的玩具架上。"
+    },
+    {
+     "en": "Tidying up toys is usually the first chore a Chinese child learns at home.",
+     "zh": "收玩具通常是中国孩子在家学会的第一件家务。"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "section": 3,
+   "level": 1,
+   "en": "A Bedtime Story and Goodnight",
+   "zh": "睡前故事·道晚安",
+   "grammar": "SIMPLE PRESENT",
+   "grammarZh": "一般现在时",
+   "img": "assets/img/unit67.jpg",
+   "grammarNote": {
+    "en": "We use the simple present to describe a bedtime routine. Examples: Jenny puts on her pajamas. She sits on the bed. Mom reads her a story. Notice the double object: reads her a story (her = Jenny, a story = the thing read).",
+    "zh": "一般现在时描述睡前的固定流程。例句：Jenny puts on her pajamas.（珍妮穿上睡衣。）Mom reads her a story.（妈妈给她读故事。）注意双宾语结构 reads her a story：her 指珍妮，a story 是读的内容。"
+   },
+   "steps": [
+    {
+     "en": "Jenny puts on her pajamas.",
+     "zh": "珍妮穿上睡衣。"
+    },
+    {
+     "en": "She sits on the bed.",
+     "zh": "她坐在床上。"
+    },
+    {
+     "en": "Mom reads her a story.",
+     "zh": "妈妈给她读故事。"
+    },
+    {
+     "en": "Jenny hugs her teddy bear.",
+     "zh": "珍妮抱着泰迪熊。"
+    },
+    {
+     "en": "Mom turns off the light.",
+     "zh": "妈妈关灯。"
+    },
+    {
+     "en": "Jenny says, “Goodnight, Mom.”",
+     "zh": "珍妮说：“晚安，妈妈。”"
+    },
+    {
+     "en": "Mom says, “Sweet dreams.”",
+     "zh": "妈妈说：“做个好梦。”"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Mom, read me a story, please.",
+     "zh": "妈妈，请给我读个故事吧。"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "OK. Which story do you want?",
+     "zh": "好啊，你想听哪个故事？"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "The bear story!",
+     "zh": "小熊的故事！"
+    },
+    {
+     "speaker": "Mom",
+     "role": "clerk",
+     "en": "Goodnight, sweetie.",
+     "zh": "晚安，宝贝。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Goodnight, Mom. Sweet dreams!",
+     "zh": "晚安，妈妈。做个好梦！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "hug",
+      "ipa": "/hʌɡ/",
+      "zh": "拥抱；抱"
+     },
+     {
+      "w": "put on",
+      "ipa": "/pʊt ɑːn/",
+      "zh": "穿上"
+     },
+     {
+      "w": "read",
+      "ipa": "/riːd/",
+      "zh": "读；朗读"
+     },
+     {
+      "w": "sit",
+      "ipa": "/sɪt/",
+      "zh": "坐"
+     },
+     {
+      "w": "say",
+      "ipa": "/seɪ/",
+      "zh": "说"
+     },
+     {
+      "w": "turn off",
+      "ipa": "/tɜːrn ɔːf/",
+      "zh": "关掉（灯）"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "bed",
+      "ipa": "/bed/",
+      "zh": "床"
+     },
+     {
+      "w": "light",
+      "ipa": "/laɪt/",
+      "zh": "灯"
+     },
+     {
+      "w": "mom",
+      "ipa": "/mɑːm/",
+      "zh": "妈妈"
+     },
+     {
+      "w": "pajamas",
+      "ipa": "/pəˈdʒɑːməz/",
+      "zh": "睡衣"
+     },
+     {
+      "w": "story",
+      "ipa": "/ˈstɔːri/",
+      "zh": "故事"
+     },
+     {
+      "w": "teddy bear",
+      "ipa": "/ˈtedi ber/",
+      "zh": "泰迪熊"
+     }
+    ],
+    "others": [
+     {
+      "w": "goodnight",
+      "ipa": "/ˌɡʊdˈnaɪt/",
+      "zh": "晚安"
+     },
+     {
+      "w": "sweet dreams",
+      "ipa": "/ˌswiːt ˈdriːmz/",
+      "zh": "做个好梦"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "“Read me a story” = “read a story to me”. The person comes first: read me a story.",
+     "zh": "Read me a story 等于 read a story to me（给我读个故事），人放在前面。"
+    },
+    {
+     "en": "“Sweet dreams” is what parents say to children at night. It means “sleep well and dream nice dreams”.",
+     "zh": "Sweet dreams（做个好梦）是家长晚上对孩子说的祝福语。"
+    },
+    {
+     "en": "“Goodnight” is said when someone is going to bed at night.",
+     "zh": "Goodnight（晚安）是晚上睡觉前说的话。"
+    }
+   ],
+   "china": [
+    {
+     "en": "Reading picture books before bed is a common parenting activity in Chinese families.",
+     "zh": "睡前读绘本是中国家庭常见的亲子活动。"
+    },
+    {
+     "en": "Chinese children often hug a soft toy or a favorite blanket when they sleep.",
+     "zh": "中国孩子睡觉时常抱着玩偶或喜欢的毯子。"
+    },
+    {
+     "en": "Saying “晚安，妈妈” and “做个好梦” is just like Jenny's goodnight in the unit.",
+     "zh": "“晚安，妈妈”“做个好梦”正是本单元里珍妮和妈妈的对话。"
+    }
+   ]
   }
  ],
- "totalUnits": 61,
+ "totalUnits": 67,
  "availableUnits": [
   1,
   2,
@@ -15859,6 +16992,12 @@
   58,
   59,
   60,
-  61
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67
  ]
 }

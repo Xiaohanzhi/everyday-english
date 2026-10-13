@@ -2,7 +2,9 @@
  "voices": {
   "narrator": "一位9岁左右男孩的清脆童声，发音清晰标准的美式英语，语调自然活泼、略带童趣，逐句朗读：",
   "girl": "一位9岁左右女孩的甜美清脆童声，发音清晰的美式英语，用角色扮演的语气朗读：",
-  "clerk": "一位11岁左右男孩的童声，发音清晰的美式英语，用店员角色礼貌询问的语气朗读："
+  "clerk": "一位11岁左右男孩的童声，发音清晰的美式英语，用店员角色礼貌询问的语气朗读：",
+  "mom": "一位温柔亲切的年轻妈妈声音，发音清晰标准的美式英语，用妈妈对孩子说话的语气朗读：",
+  "teacher": "一位温和友善的年轻老师声音，发音清晰标准的美式英语，用老师上课时清楚温和的语气朗读："
  },
  "outDir": "/home/user/Doubao/chats/38443904742728450/eea-app/assets/audio",
  "items": [
@@ -15197,6 +15199,984 @@
    "voice": "narrator",
    "text": "other",
    "src_text": "unit61 vocab other"
+  },
+  {
+   "file": "assets/audio/u062_s1.mp3",
+   "voice": "narrator",
+   "text": "Jenny puts on her schoolbag.",
+   "src_text": "unit62 step1"
+  },
+  {
+   "file": "assets/audio/u062_s2.mp3",
+   "voice": "narrator",
+   "text": "She goes downstairs with her mom.",
+   "src_text": "unit62 step2"
+  },
+  {
+   "file": "assets/audio/u062_s3.mp3",
+   "voice": "narrator",
+   "text": "They walk to the school gate.",
+   "src_text": "unit62 step3"
+  },
+  {
+   "file": "assets/audio/u062_s4.mp3",
+   "voice": "narrator",
+   "text": "Jenny says goodbye to her mom.",
+   "src_text": "unit62 step4"
+  },
+  {
+   "file": "assets/audio/u062_s5.mp3",
+   "voice": "narrator",
+   "text": "She walks into the school.",
+   "src_text": "unit62 step5"
+  },
+  {
+   "file": "assets/audio/u062_s6.mp3",
+   "voice": "narrator",
+   "text": "Her friend waves to her.",
+   "src_text": "unit62 step6"
+  },
+  {
+   "file": "assets/audio/u062_d1.mp3",
+   "voice": "girl",
+   "text": "Bye, Mom! Have a good day!",
+   "src_text": "unit62 dialogue1 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u062_d2.mp3",
+   "voice": "clerk",
+   "text": "Bye, sweetie! Be good at school.",
+   "src_text": "unit62 dialogue2 (Mom)"
+  },
+  {
+   "file": "assets/audio/u062_d3.mp3",
+   "voice": "clerk",
+   "text": "Hi, Jenny! Good morning!",
+   "src_text": "unit62 dialogue3 (Friend)"
+  },
+  {
+   "file": "assets/audio/u062_d4.mp3",
+   "voice": "girl",
+   "text": "Good morning! Let's go to class.",
+   "src_text": "unit62 dialogue4 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u062_v1.mp3",
+   "voice": "narrator",
+   "text": "go downstairs",
+   "src_text": "unit62 vocab go downstairs"
+  },
+  {
+   "file": "assets/audio/u062_v2.mp3",
+   "voice": "narrator",
+   "text": "put on",
+   "src_text": "unit62 vocab put on"
+  },
+  {
+   "file": "assets/audio/u062_v3.mp3",
+   "voice": "narrator",
+   "text": "say goodbye",
+   "src_text": "unit62 vocab say goodbye"
+  },
+  {
+   "file": "assets/audio/u062_v4.mp3",
+   "voice": "narrator",
+   "text": "walk",
+   "src_text": "unit62 vocab walk"
+  },
+  {
+   "file": "assets/audio/u062_v5.mp3",
+   "voice": "narrator",
+   "text": "walk into",
+   "src_text": "unit62 vocab walk into"
+  },
+  {
+   "file": "assets/audio/u062_v6.mp3",
+   "voice": "narrator",
+   "text": "wave",
+   "src_text": "unit62 vocab wave"
+  },
+  {
+   "file": "assets/audio/u062_v7.mp3",
+   "voice": "narrator",
+   "text": "class",
+   "src_text": "unit62 vocab class"
+  },
+  {
+   "file": "assets/audio/u062_v8.mp3",
+   "voice": "narrator",
+   "text": "friend",
+   "src_text": "unit62 vocab friend"
+  },
+  {
+   "file": "assets/audio/u062_v9.mp3",
+   "voice": "narrator",
+   "text": "mom",
+   "src_text": "unit62 vocab mom"
+  },
+  {
+   "file": "assets/audio/u062_v10.mp3",
+   "voice": "narrator",
+   "text": "school",
+   "src_text": "unit62 vocab school"
+  },
+  {
+   "file": "assets/audio/u062_v11.mp3",
+   "voice": "narrator",
+   "text": "schoolbag",
+   "src_text": "unit62 vocab schoolbag"
+  },
+  {
+   "file": "assets/audio/u062_v12.mp3",
+   "voice": "narrator",
+   "text": "school gate",
+   "src_text": "unit62 vocab school gate"
+  },
+  {
+   "file": "assets/audio/u062_v13.mp3",
+   "voice": "narrator",
+   "text": "every day",
+   "src_text": "unit62 vocab every day"
+  },
+  {
+   "file": "assets/audio/u062_v14.mp3",
+   "voice": "narrator",
+   "text": "good morning",
+   "src_text": "unit62 vocab good morning"
+  },
+  {
+   "file": "assets/audio/u063_s1.mp3",
+   "voice": "narrator",
+   "text": "The bell rings.",
+   "src_text": "unit63 step1"
+  },
+  {
+   "file": "assets/audio/u063_s2.mp3",
+   "voice": "narrator",
+   "text": "Jenny sits at her desk.",
+   "src_text": "unit63 step2"
+  },
+  {
+   "file": "assets/audio/u063_s3.mp3",
+   "voice": "narrator",
+   "text": "The teacher says, “Open your books.”",
+   "src_text": "unit63 step3"
+  },
+  {
+   "file": "assets/audio/u063_s4.mp3",
+   "voice": "narrator",
+   "text": "Jenny raises her hand.",
+   "src_text": "unit63 step4"
+  },
+  {
+   "file": "assets/audio/u063_s5.mp3",
+   "voice": "narrator",
+   "text": "She writes in her notebook.",
+   "src_text": "unit63 step5"
+  },
+  {
+   "file": "assets/audio/u063_s6.mp3",
+   "voice": "narrator",
+   "text": "The bell rings again.",
+   "src_text": "unit63 step6"
+  },
+  {
+   "file": "assets/audio/u063_s7.mp3",
+   "voice": "narrator",
+   "text": "The children line up.",
+   "src_text": "unit63 step7"
+  },
+  {
+   "file": "assets/audio/u063_s8.mp3",
+   "voice": "narrator",
+   "text": "They play on the playground.",
+   "src_text": "unit63 step8"
+  },
+  {
+   "file": "assets/audio/u063_d1.mp3",
+   "voice": "clerk",
+   "text": "Good morning, class. Open your books, please.",
+   "src_text": "unit63 dialogue1 (Teacher)"
+  },
+  {
+   "file": "assets/audio/u063_d2.mp3",
+   "voice": "girl",
+   "text": "May I ask a question?",
+   "src_text": "unit63 dialogue2 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u063_d3.mp3",
+   "voice": "clerk",
+   "text": "Yes, of course.",
+   "src_text": "unit63 dialogue3 (Teacher)"
+  },
+  {
+   "file": "assets/audio/u063_d4.mp3",
+   "voice": "clerk",
+   "text": "The bell is ringing! Let's go out to play.",
+   "src_text": "unit63 dialogue4 (Friend)"
+  },
+  {
+   "file": "assets/audio/u063_d5.mp3",
+   "voice": "girl",
+   "text": "OK! Let's go!",
+   "src_text": "unit63 dialogue5 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u063_v1.mp3",
+   "voice": "narrator",
+   "text": "line up",
+   "src_text": "unit63 vocab line up"
+  },
+  {
+   "file": "assets/audio/u063_v2.mp3",
+   "voice": "narrator",
+   "text": "open",
+   "src_text": "unit63 vocab open"
+  },
+  {
+   "file": "assets/audio/u063_v3.mp3",
+   "voice": "narrator",
+   "text": "play",
+   "src_text": "unit63 vocab play"
+  },
+  {
+   "file": "assets/audio/u063_v4.mp3",
+   "voice": "narrator",
+   "text": "raise",
+   "src_text": "unit63 vocab raise"
+  },
+  {
+   "file": "assets/audio/u063_v5.mp3",
+   "voice": "narrator",
+   "text": "ring",
+   "src_text": "unit63 vocab ring"
+  },
+  {
+   "file": "assets/audio/u063_v6.mp3",
+   "voice": "narrator",
+   "text": "sit",
+   "src_text": "unit63 vocab sit"
+  },
+  {
+   "file": "assets/audio/u063_v7.mp3",
+   "voice": "narrator",
+   "text": "write",
+   "src_text": "unit63 vocab write"
+  },
+  {
+   "file": "assets/audio/u063_v8.mp3",
+   "voice": "narrator",
+   "text": "bell",
+   "src_text": "unit63 vocab bell"
+  },
+  {
+   "file": "assets/audio/u063_v9.mp3",
+   "voice": "narrator",
+   "text": "class",
+   "src_text": "unit63 vocab class"
+  },
+  {
+   "file": "assets/audio/u063_v10.mp3",
+   "voice": "narrator",
+   "text": "desk",
+   "src_text": "unit63 vocab desk"
+  },
+  {
+   "file": "assets/audio/u063_v11.mp3",
+   "voice": "narrator",
+   "text": "notebook",
+   "src_text": "unit63 vocab notebook"
+  },
+  {
+   "file": "assets/audio/u063_v12.mp3",
+   "voice": "narrator",
+   "text": "playground",
+   "src_text": "unit63 vocab playground"
+  },
+  {
+   "file": "assets/audio/u063_v13.mp3",
+   "voice": "narrator",
+   "text": "question",
+   "src_text": "unit63 vocab question"
+  },
+  {
+   "file": "assets/audio/u063_v14.mp3",
+   "voice": "narrator",
+   "text": "teacher",
+   "src_text": "unit63 vocab teacher"
+  },
+  {
+   "file": "assets/audio/u063_v15.mp3",
+   "voice": "narrator",
+   "text": "again",
+   "src_text": "unit63 vocab again"
+  },
+  {
+   "file": "assets/audio/u063_v16.mp3",
+   "voice": "narrator",
+   "text": "out",
+   "src_text": "unit63 vocab out"
+  },
+  {
+   "file": "assets/audio/u064_s1.mp3",
+   "voice": "narrator",
+   "text": "Jenny makes a shopping list with her mom.",
+   "src_text": "unit64 step1"
+  },
+  {
+   "file": "assets/audio/u064_s2.mp3",
+   "voice": "narrator",
+   "text": "She gets a shopping cart.",
+   "src_text": "unit64 step2"
+  },
+  {
+   "file": "assets/audio/u064_s3.mp3",
+   "voice": "narrator",
+   "text": "Mom picks out some apples.",
+   "src_text": "unit64 step3"
+  },
+  {
+   "file": "assets/audio/u064_s4.mp3",
+   "voice": "narrator",
+   "text": "Jenny puts the apples in the cart.",
+   "src_text": "unit64 step4"
+  },
+  {
+   "file": "assets/audio/u064_s5.mp3",
+   "voice": "narrator",
+   "text": "They weigh the fruit.",
+   "src_text": "unit64 step5"
+  },
+  {
+   "file": "assets/audio/u064_s6.mp3",
+   "voice": "narrator",
+   "text": "They pay at the counter.",
+   "src_text": "unit64 step6"
+  },
+  {
+   "file": "assets/audio/u064_s7.mp3",
+   "voice": "narrator",
+   "text": "Jenny helps carry the bags home.",
+   "src_text": "unit64 step7"
+  },
+  {
+   "file": "assets/audio/u064_d1.mp3",
+   "voice": "girl",
+   "text": "Mom, can I push the cart?",
+   "src_text": "unit64 dialogue1 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u064_d2.mp3",
+   "voice": "clerk",
+   "text": "Yes, you can. Be careful!",
+   "src_text": "unit64 dialogue2 (Mom)"
+  },
+  {
+   "file": "assets/audio/u064_d3.mp3",
+   "voice": "girl",
+   "text": "We need some apples.",
+   "src_text": "unit64 dialogue3 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u064_d4.mp3",
+   "voice": "clerk",
+   "text": "Let's get some fruit, too.",
+   "src_text": "unit64 dialogue4 (Mom)"
+  },
+  {
+   "file": "assets/audio/u064_d5.mp3",
+   "voice": "clerk",
+   "text": "That'll be sixty-eight yuan.",
+   "src_text": "unit64 dialogue5 (Clerk)"
+  },
+  {
+   "file": "assets/audio/u064_v1.mp3",
+   "voice": "narrator",
+   "text": "carry",
+   "src_text": "unit64 vocab carry"
+  },
+  {
+   "file": "assets/audio/u064_v2.mp3",
+   "voice": "narrator",
+   "text": "get",
+   "src_text": "unit64 vocab get"
+  },
+  {
+   "file": "assets/audio/u064_v3.mp3",
+   "voice": "narrator",
+   "text": "help",
+   "src_text": "unit64 vocab help"
+  },
+  {
+   "file": "assets/audio/u064_v4.mp3",
+   "voice": "narrator",
+   "text": "make a list",
+   "src_text": "unit64 vocab make a list"
+  },
+  {
+   "file": "assets/audio/u064_v5.mp3",
+   "voice": "narrator",
+   "text": "pay",
+   "src_text": "unit64 vocab pay"
+  },
+  {
+   "file": "assets/audio/u064_v6.mp3",
+   "voice": "narrator",
+   "text": "pick out",
+   "src_text": "unit64 vocab pick out"
+  },
+  {
+   "file": "assets/audio/u064_v7.mp3",
+   "voice": "narrator",
+   "text": "push",
+   "src_text": "unit64 vocab push"
+  },
+  {
+   "file": "assets/audio/u064_v8.mp3",
+   "voice": "narrator",
+   "text": "put in",
+   "src_text": "unit64 vocab put in"
+  },
+  {
+   "file": "assets/audio/u064_v9.mp3",
+   "voice": "narrator",
+   "text": "weigh",
+   "src_text": "unit64 vocab weigh"
+  },
+  {
+   "file": "assets/audio/u064_v10.mp3",
+   "voice": "narrator",
+   "text": "apple",
+   "src_text": "unit64 vocab apple"
+  },
+  {
+   "file": "assets/audio/u064_v11.mp3",
+   "voice": "narrator",
+   "text": "bag",
+   "src_text": "unit64 vocab bag"
+  },
+  {
+   "file": "assets/audio/u064_v12.mp3",
+   "voice": "narrator",
+   "text": "counter",
+   "src_text": "unit64 vocab counter"
+  },
+  {
+   "file": "assets/audio/u064_v13.mp3",
+   "voice": "narrator",
+   "text": "fruit",
+   "src_text": "unit64 vocab fruit"
+  },
+  {
+   "file": "assets/audio/u064_v14.mp3",
+   "voice": "narrator",
+   "text": "shopping cart",
+   "src_text": "unit64 vocab shopping cart"
+  },
+  {
+   "file": "assets/audio/u064_v15.mp3",
+   "voice": "narrator",
+   "text": "shopping list",
+   "src_text": "unit64 vocab shopping list"
+  },
+  {
+   "file": "assets/audio/u064_v16.mp3",
+   "voice": "narrator",
+   "text": "supermarket",
+   "src_text": "unit64 vocab supermarket"
+  },
+  {
+   "file": "assets/audio/u064_v17.mp3",
+   "voice": "narrator",
+   "text": "yuan",
+   "src_text": "unit64 vocab yuan"
+  },
+  {
+   "file": "assets/audio/u064_v18.mp3",
+   "voice": "narrator",
+   "text": "some",
+   "src_text": "unit64 vocab some"
+  },
+  {
+   "file": "assets/audio/u064_v19.mp3",
+   "voice": "narrator",
+   "text": "careful",
+   "src_text": "unit64 vocab careful"
+  },
+  {
+   "file": "assets/audio/u065_s1.mp3",
+   "voice": "narrator",
+   "text": "Jenny goes to the playground with her friend.",
+   "src_text": "unit65 step1"
+  },
+  {
+   "file": "assets/audio/u065_s2.mp3",
+   "voice": "narrator",
+   "text": "She climbs up the ladder.",
+   "src_text": "unit65 step2"
+  },
+  {
+   "file": "assets/audio/u065_s3.mp3",
+   "voice": "narrator",
+   "text": "She goes down the slide.",
+   "src_text": "unit65 step3"
+  },
+  {
+   "file": "assets/audio/u065_s4.mp3",
+   "voice": "narrator",
+   "text": "They play on the seesaw.",
+   "src_text": "unit65 step4"
+  },
+  {
+   "file": "assets/audio/u065_s5.mp3",
+   "voice": "narrator",
+   "text": "Jenny swings on the swing.",
+   "src_text": "unit65 step5"
+  },
+  {
+   "file": "assets/audio/u065_s6.mp3",
+   "voice": "narrator",
+   "text": "Her friend pushes her.",
+   "src_text": "unit65 step6"
+  },
+  {
+   "file": "assets/audio/u065_s7.mp3",
+   "voice": "narrator",
+   "text": "They go home before dark.",
+   "src_text": "unit65 step7"
+  },
+  {
+   "file": "assets/audio/u065_d1.mp3",
+   "voice": "clerk",
+   "text": "Let's play on the slide!",
+   "src_text": "unit65 dialogue1 (Friend)"
+  },
+  {
+   "file": "assets/audio/u065_d2.mp3",
+   "voice": "girl",
+   "text": "OK! My turn!",
+   "src_text": "unit65 dialogue2 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u065_d3.mp3",
+   "voice": "clerk",
+   "text": "OK, your turn now!",
+   "src_text": "unit65 dialogue3 (Friend)"
+  },
+  {
+   "file": "assets/audio/u065_d4.mp3",
+   "voice": "girl",
+   "text": "Can I play on the swing, too?",
+   "src_text": "unit65 dialogue4 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u065_d5.mp3",
+   "voice": "clerk",
+   "text": "Sure! Let's go!",
+   "src_text": "unit65 dialogue5 (Friend)"
+  },
+  {
+   "file": "assets/audio/u065_v1.mp3",
+   "voice": "narrator",
+   "text": "climb",
+   "src_text": "unit65 vocab climb"
+  },
+  {
+   "file": "assets/audio/u065_v2.mp3",
+   "voice": "narrator",
+   "text": "go down",
+   "src_text": "unit65 vocab go down"
+  },
+  {
+   "file": "assets/audio/u065_v3.mp3",
+   "voice": "narrator",
+   "text": "play",
+   "src_text": "unit65 vocab play"
+  },
+  {
+   "file": "assets/audio/u065_v4.mp3",
+   "voice": "narrator",
+   "text": "push",
+   "src_text": "unit65 vocab push"
+  },
+  {
+   "file": "assets/audio/u065_v5.mp3",
+   "voice": "narrator",
+   "text": "swing",
+   "src_text": "unit65 vocab swing"
+  },
+  {
+   "file": "assets/audio/u065_v6.mp3",
+   "voice": "narrator",
+   "text": "friend",
+   "src_text": "unit65 vocab friend"
+  },
+  {
+   "file": "assets/audio/u065_v7.mp3",
+   "voice": "narrator",
+   "text": "ladder",
+   "src_text": "unit65 vocab ladder"
+  },
+  {
+   "file": "assets/audio/u065_v8.mp3",
+   "voice": "narrator",
+   "text": "playground",
+   "src_text": "unit65 vocab playground"
+  },
+  {
+   "file": "assets/audio/u065_v9.mp3",
+   "voice": "narrator",
+   "text": "seesaw",
+   "src_text": "unit65 vocab seesaw"
+  },
+  {
+   "file": "assets/audio/u065_v10.mp3",
+   "voice": "narrator",
+   "text": "slide",
+   "src_text": "unit65 vocab slide"
+  },
+  {
+   "file": "assets/audio/u065_v11.mp3",
+   "voice": "narrator",
+   "text": "swing",
+   "src_text": "unit65 vocab swing"
+  },
+  {
+   "file": "assets/audio/u065_v12.mp3",
+   "voice": "narrator",
+   "text": "turn",
+   "src_text": "unit65 vocab turn"
+  },
+  {
+   "file": "assets/audio/u065_v13.mp3",
+   "voice": "narrator",
+   "text": "before dark",
+   "src_text": "unit65 vocab before dark"
+  },
+  {
+   "file": "assets/audio/u065_v14.mp3",
+   "voice": "narrator",
+   "text": "too",
+   "src_text": "unit65 vocab too"
+  },
+  {
+   "file": "assets/audio/u066_s1.mp3",
+   "voice": "narrator",
+   "text": "Mom says, “Put your toys away.”",
+   "src_text": "unit66 step1"
+  },
+  {
+   "file": "assets/audio/u066_s2.mp3",
+   "voice": "narrator",
+   "text": "Jenny picks up the blocks.",
+   "src_text": "unit66 step2"
+  },
+  {
+   "file": "assets/audio/u066_s3.mp3",
+   "voice": "narrator",
+   "text": "She puts the blocks in the box.",
+   "src_text": "unit66 step3"
+  },
+  {
+   "file": "assets/audio/u066_s4.mp3",
+   "voice": "narrator",
+   "text": "She puts the teddy bear on the shelf.",
+   "src_text": "unit66 step4"
+  },
+  {
+   "file": "assets/audio/u066_s5.mp3",
+   "voice": "narrator",
+   "text": "She puts the picture books on the desk.",
+   "src_text": "unit66 step5"
+  },
+  {
+   "file": "assets/audio/u066_s6.mp3",
+   "voice": "narrator",
+   "text": "The room is clean now.",
+   "src_text": "unit66 step6"
+  },
+  {
+   "file": "assets/audio/u066_s7.mp3",
+   "voice": "narrator",
+   "text": "Mom says, “Good job!”",
+   "src_text": "unit66 step7"
+  },
+  {
+   "file": "assets/audio/u066_d1.mp3",
+   "voice": "clerk",
+   "text": "Put your toys away, please.",
+   "src_text": "unit66 dialogue1 (Mom)"
+  },
+  {
+   "file": "assets/audio/u066_d2.mp3",
+   "voice": "girl",
+   "text": "OK, Mom.",
+   "src_text": "unit66 dialogue2 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u066_d3.mp3",
+   "voice": "girl",
+   "text": "Where do the blocks go?",
+   "src_text": "unit66 dialogue3 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u066_d4.mp3",
+   "voice": "clerk",
+   "text": "They go in the box.",
+   "src_text": "unit66 dialogue4 (Mom)"
+  },
+  {
+   "file": "assets/audio/u066_d5.mp3",
+   "voice": "girl",
+   "text": "All done!",
+   "src_text": "unit66 dialogue5 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u066_d6.mp3",
+   "voice": "clerk",
+   "text": "Good job!",
+   "src_text": "unit66 dialogue6 (Mom)"
+  },
+  {
+   "file": "assets/audio/u066_v1.mp3",
+   "voice": "narrator",
+   "text": "pick up",
+   "src_text": "unit66 vocab pick up"
+  },
+  {
+   "file": "assets/audio/u066_v2.mp3",
+   "voice": "narrator",
+   "text": "put away",
+   "src_text": "unit66 vocab put away"
+  },
+  {
+   "file": "assets/audio/u066_v3.mp3",
+   "voice": "narrator",
+   "text": "put in",
+   "src_text": "unit66 vocab put in"
+  },
+  {
+   "file": "assets/audio/u066_v4.mp3",
+   "voice": "narrator",
+   "text": "tidy up",
+   "src_text": "unit66 vocab tidy up"
+  },
+  {
+   "file": "assets/audio/u066_v5.mp3",
+   "voice": "narrator",
+   "text": "blocks",
+   "src_text": "unit66 vocab blocks"
+  },
+  {
+   "file": "assets/audio/u066_v6.mp3",
+   "voice": "narrator",
+   "text": "box",
+   "src_text": "unit66 vocab box"
+  },
+  {
+   "file": "assets/audio/u066_v7.mp3",
+   "voice": "narrator",
+   "text": "desk",
+   "src_text": "unit66 vocab desk"
+  },
+  {
+   "file": "assets/audio/u066_v8.mp3",
+   "voice": "narrator",
+   "text": "picture book",
+   "src_text": "unit66 vocab picture book"
+  },
+  {
+   "file": "assets/audio/u066_v9.mp3",
+   "voice": "narrator",
+   "text": "room",
+   "src_text": "unit66 vocab room"
+  },
+  {
+   "file": "assets/audio/u066_v10.mp3",
+   "voice": "narrator",
+   "text": "shelf",
+   "src_text": "unit66 vocab shelf"
+  },
+  {
+   "file": "assets/audio/u066_v11.mp3",
+   "voice": "narrator",
+   "text": "teddy bear",
+   "src_text": "unit66 vocab teddy bear"
+  },
+  {
+   "file": "assets/audio/u066_v12.mp3",
+   "voice": "narrator",
+   "text": "toy",
+   "src_text": "unit66 vocab toy"
+  },
+  {
+   "file": "assets/audio/u066_v13.mp3",
+   "voice": "narrator",
+   "text": "clean",
+   "src_text": "unit66 vocab clean"
+  },
+  {
+   "file": "assets/audio/u066_v14.mp3",
+   "voice": "narrator",
+   "text": "good job",
+   "src_text": "unit66 vocab good job"
+  },
+  {
+   "file": "assets/audio/u067_s1.mp3",
+   "voice": "narrator",
+   "text": "Jenny puts on her pajamas.",
+   "src_text": "unit67 step1"
+  },
+  {
+   "file": "assets/audio/u067_s2.mp3",
+   "voice": "narrator",
+   "text": "She sits on the bed.",
+   "src_text": "unit67 step2"
+  },
+  {
+   "file": "assets/audio/u067_s3.mp3",
+   "voice": "narrator",
+   "text": "Mom reads her a story.",
+   "src_text": "unit67 step3"
+  },
+  {
+   "file": "assets/audio/u067_s4.mp3",
+   "voice": "narrator",
+   "text": "Jenny hugs her teddy bear.",
+   "src_text": "unit67 step4"
+  },
+  {
+   "file": "assets/audio/u067_s5.mp3",
+   "voice": "narrator",
+   "text": "Mom turns off the light.",
+   "src_text": "unit67 step5"
+  },
+  {
+   "file": "assets/audio/u067_s6.mp3",
+   "voice": "narrator",
+   "text": "Jenny says, “Goodnight, Mom.”",
+   "src_text": "unit67 step6"
+  },
+  {
+   "file": "assets/audio/u067_s7.mp3",
+   "voice": "narrator",
+   "text": "Mom says, “Sweet dreams.”",
+   "src_text": "unit67 step7"
+  },
+  {
+   "file": "assets/audio/u067_d1.mp3",
+   "voice": "girl",
+   "text": "Mom, read me a story, please.",
+   "src_text": "unit67 dialogue1 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u067_d2.mp3",
+   "voice": "clerk",
+   "text": "OK. Which story do you want?",
+   "src_text": "unit67 dialogue2 (Mom)"
+  },
+  {
+   "file": "assets/audio/u067_d3.mp3",
+   "voice": "girl",
+   "text": "The bear story!",
+   "src_text": "unit67 dialogue3 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u067_d4.mp3",
+   "voice": "clerk",
+   "text": "Goodnight, sweetie.",
+   "src_text": "unit67 dialogue4 (Mom)"
+  },
+  {
+   "file": "assets/audio/u067_d5.mp3",
+   "voice": "girl",
+   "text": "Goodnight, Mom. Sweet dreams!",
+   "src_text": "unit67 dialogue5 (Jenny)"
+  },
+  {
+   "file": "assets/audio/u067_v1.mp3",
+   "voice": "narrator",
+   "text": "hug",
+   "src_text": "unit67 vocab hug"
+  },
+  {
+   "file": "assets/audio/u067_v2.mp3",
+   "voice": "narrator",
+   "text": "put on",
+   "src_text": "unit67 vocab put on"
+  },
+  {
+   "file": "assets/audio/u067_v3.mp3",
+   "voice": "narrator",
+   "text": "read",
+   "src_text": "unit67 vocab read"
+  },
+  {
+   "file": "assets/audio/u067_v4.mp3",
+   "voice": "narrator",
+   "text": "sit",
+   "src_text": "unit67 vocab sit"
+  },
+  {
+   "file": "assets/audio/u067_v5.mp3",
+   "voice": "narrator",
+   "text": "say",
+   "src_text": "unit67 vocab say"
+  },
+  {
+   "file": "assets/audio/u067_v6.mp3",
+   "voice": "narrator",
+   "text": "turn off",
+   "src_text": "unit67 vocab turn off"
+  },
+  {
+   "file": "assets/audio/u067_v7.mp3",
+   "voice": "narrator",
+   "text": "bed",
+   "src_text": "unit67 vocab bed"
+  },
+  {
+   "file": "assets/audio/u067_v8.mp3",
+   "voice": "narrator",
+   "text": "light",
+   "src_text": "unit67 vocab light"
+  },
+  {
+   "file": "assets/audio/u067_v9.mp3",
+   "voice": "narrator",
+   "text": "mom",
+   "src_text": "unit67 vocab mom"
+  },
+  {
+   "file": "assets/audio/u067_v10.mp3",
+   "voice": "narrator",
+   "text": "pajamas",
+   "src_text": "unit67 vocab pajamas"
+  },
+  {
+   "file": "assets/audio/u067_v11.mp3",
+   "voice": "narrator",
+   "text": "story",
+   "src_text": "unit67 vocab story"
+  },
+  {
+   "file": "assets/audio/u067_v12.mp3",
+   "voice": "narrator",
+   "text": "teddy bear",
+   "src_text": "unit67 vocab teddy bear"
+  },
+  {
+   "file": "assets/audio/u067_v13.mp3",
+   "voice": "narrator",
+   "text": "goodnight",
+   "src_text": "unit67 vocab goodnight"
+  },
+  {
+   "file": "assets/audio/u067_v14.mp3",
+   "voice": "narrator",
+   "text": "sweet dreams",
+   "src_text": "unit67 vocab sweet dreams"
   }
  ]
 }

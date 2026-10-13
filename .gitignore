@@ -15,3 +15,6 @@ __pycache__/
 # 系统与日志
 .DS_Store
 *.log
+
+# 分析/计划工作目录（不纳入版本管理）
+_suggestions/
