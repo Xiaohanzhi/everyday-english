@@ -17218,9 +17218,208 @@
     }
    ],
    "img": "assets/img/unit72.jpg"
+  },
+  {
+   "id": 73,
+   "section": 2,
+   "level": 1,
+   "img": "assets/img/unit73.jpg",
+   "en": "Traveling by Plane",
+   "zh": "坐飞机出行",
+   "grammar": "Simple Past",
+   "grammarZh": "一般过去时",
+   "grammarNote": {
+    "en": "The simple past tense tells the story of the flight: went, checked in, went through, got on, found, fastened, took off. Irregular verbs: go→went, get→got, find→found, take off→took off. / 一般过去时讲述坐飞机的过程：went、checked in、went through、got on、found、fastened、took off。不规则动词：go→went、get→got、find→found、take off→took off。",
+    "zh": "一般过去时"
+   },
+   "steps": [
+    {
+     "en": "Jenny and Mom went to the airport.",
+     "zh": "珍妮和妈妈去了机场。"
+    },
+    {
+     "en": "They checked in and got their boarding passes.",
+     "zh": "她们办了值机，拿到了登机牌。"
+    },
+    {
+     "en": "They went through security.",
+     "zh": "她们通过了安检。"
+    },
+    {
+     "en": "They got on the plane.",
+     "zh": "她们上了飞机。"
+    },
+    {
+     "en": "Jenny found her seat by the window.",
+     "zh": "珍妮找到了靠窗的座位。"
+    },
+    {
+     "en": "She fastened her seatbelt.",
+     "zh": "她系好了安全带。"
+    },
+    {
+     "en": "The plane took off. Jenny looked out the window.",
+     "zh": "飞机起飞了，珍妮看着窗外。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Where are we going, Mom?",
+     "zh": "妈妈，我们要去哪儿呀？"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "We're going to see Grandma in Shanghai.",
+     "zh": "我们要去上海看外婆。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Can I sit by the window?",
+     "zh": "我能坐靠窗的位置吗？"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Sure. Fasten your seatbelt, please.",
+     "zh": "当然可以。请系好安全带。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Look, Mom! The clouds are below us!",
+     "zh": "妈妈你看！云在我们下面！"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Yes, we're flying. Enjoy the trip!",
+     "zh": "是啊，我们在飞呢。旅途愉快！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "check in",
+      "ipa": "/tʃek ɪn/",
+      "zh": "办理值机"
+     },
+     {
+      "w": "fasten",
+      "ipa": "/ˈfæsn/",
+      "zh": "系紧"
+     },
+     {
+      "w": "find / found",
+      "ipa": "/faɪnd / faʊnd/",
+      "zh": "找到"
+     },
+     {
+      "w": "get on",
+      "ipa": "/ɡet ɑːn/",
+      "zh": "登上（交通工具）"
+     },
+     {
+      "w": "go through",
+      "ipa": "/ɡoʊ θruː/",
+      "zh": "通过"
+     },
+     {
+      "w": "look out",
+      "ipa": "/lʊk aʊt/",
+      "zh": "向外看"
+     },
+     {
+      "w": "take off / took off",
+      "ipa": "/teɪk ɔːf/",
+      "zh": "起飞"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "airport",
+      "ipa": "/ˈerpɔːrt/",
+      "zh": "机场"
+     },
+     {
+      "w": "boarding pass",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "zh": "登机牌"
+     },
+     {
+      "w": "cloud",
+      "ipa": "/klaʊd/",
+      "zh": "云"
+     },
+     {
+      "w": "plane",
+      "ipa": "/pleɪn/",
+      "zh": "飞机"
+     },
+     {
+      "w": "seat",
+      "ipa": "/siːt/",
+      "zh": "座位"
+     },
+     {
+      "w": "seatbelt",
+      "ipa": "/ˈsiːtbelt/",
+      "zh": "安全带"
+     },
+     {
+      "w": "security",
+      "ipa": "/sɪˈkjʊrəti/",
+      "zh": "安检"
+     },
+     {
+      "w": "window",
+      "ipa": "/ˈwɪndoʊ/",
+      "zh": "窗户"
+     }
+    ],
+    "others": [
+     {
+      "w": "below (prep.)",
+      "ipa": "/bɪˈloʊ/",
+      "zh": "在……下方"
+     },
+     {
+      "w": "by the window (adverbial)",
+      "ipa": "/baɪ ðə ˈwɪndoʊ/",
+      "zh": "靠窗"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "At the airport you check in first, then go through security, then get on the plane.",
+     "zh": "在机场要先办值机，再过安检，最后登机。"
+    },
+    {
+     "en": "\"Can I sit by the window?\" is a polite way to ask for the window seat.",
+     "zh": "Can I sit by the window?（我能坐靠窗吗？）是礼貌地要靠窗座位。"
+    },
+    {
+     "en": "The seatbelt keeps you safe when the plane takes off and lands.",
+     "zh": "安全带在飞机起飞和降落时保护你的安全。"
+    }
+   ],
+   "china": [
+    {
+     "en": "In China, children fly with an ID card or a household register book, and put their jackets and bags in trays at security.",
+     "zh": "在中国，孩子凭身份证或户口本坐飞机，过安检时把外套和包放进筐里。"
+    },
+    {
+     "en": "Many Chinese families fly to visit grandparents or travel during summer and winter vacations.",
+     "zh": "很多中国家庭在寒暑假坐飞机探亲或旅行。"
+    }
+   ]
   }
  ],
- "totalUnits": 72,
+ "totalUnits": 73,
  "availableUnits": [
   1,
   2,
@@ -17293,6 +17492,7 @@
   69,
   70,
   71,
-  72
+  72,
+  73
  ]
 }

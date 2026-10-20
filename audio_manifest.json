@@ -16285,6 +16285,186 @@
    "text": "a little longer (adverbial)",
    "voice": "narrator",
    "src_text": "unit72 vocab a little longer (adverbial)"
+  },
+  {
+   "file": "assets/audio/u073_s1.mp3",
+   "text": "Jenny and Mom went to the airport.",
+   "voice": "narrator",
+   "src_text": "unit73 step1"
+  },
+  {
+   "file": "assets/audio/u073_s2.mp3",
+   "text": "They checked in and got their boarding passes.",
+   "voice": "narrator",
+   "src_text": "unit73 step2"
+  },
+  {
+   "file": "assets/audio/u073_s3.mp3",
+   "text": "They went through security.",
+   "voice": "narrator",
+   "src_text": "unit73 step3"
+  },
+  {
+   "file": "assets/audio/u073_s4.mp3",
+   "text": "They got on the plane.",
+   "voice": "narrator",
+   "src_text": "unit73 step4"
+  },
+  {
+   "file": "assets/audio/u073_s5.mp3",
+   "text": "Jenny found her seat by the window.",
+   "voice": "narrator",
+   "src_text": "unit73 step5"
+  },
+  {
+   "file": "assets/audio/u073_s6.mp3",
+   "text": "She fastened her seatbelt.",
+   "voice": "narrator",
+   "src_text": "unit73 step6"
+  },
+  {
+   "file": "assets/audio/u073_s7.mp3",
+   "text": "The plane took off. Jenny looked out the window.",
+   "voice": "narrator",
+   "src_text": "unit73 step7"
+  },
+  {
+   "file": "assets/audio/u073_d1.mp3",
+   "text": "Where are we going, Mom?",
+   "voice": "girl",
+   "src_text": "unit73 dialogue1"
+  },
+  {
+   "file": "assets/audio/u073_d2.mp3",
+   "text": "We're going to see Grandma in Shanghai.",
+   "voice": "mom",
+   "src_text": "unit73 dialogue2"
+  },
+  {
+   "file": "assets/audio/u073_d3.mp3",
+   "text": "Can I sit by the window?",
+   "voice": "girl",
+   "src_text": "unit73 dialogue3"
+  },
+  {
+   "file": "assets/audio/u073_d4.mp3",
+   "text": "Sure. Fasten your seatbelt, please.",
+   "voice": "mom",
+   "src_text": "unit73 dialogue4"
+  },
+  {
+   "file": "assets/audio/u073_d5.mp3",
+   "text": "Look, Mom! The clouds are below us!",
+   "voice": "girl",
+   "src_text": "unit73 dialogue5"
+  },
+  {
+   "file": "assets/audio/u073_d6.mp3",
+   "text": "Yes, we're flying. Enjoy the trip!",
+   "voice": "mom",
+   "src_text": "unit73 dialogue6"
+  },
+  {
+   "file": "assets/audio/u073_v1.mp3",
+   "text": "check in",
+   "voice": "narrator",
+   "src_text": "unit73 vocab check in"
+  },
+  {
+   "file": "assets/audio/u073_v2.mp3",
+   "text": "fasten",
+   "voice": "narrator",
+   "src_text": "unit73 vocab fasten"
+  },
+  {
+   "file": "assets/audio/u073_v3.mp3",
+   "text": "find / found",
+   "voice": "narrator",
+   "src_text": "unit73 vocab find / found"
+  },
+  {
+   "file": "assets/audio/u073_v4.mp3",
+   "text": "get on",
+   "voice": "narrator",
+   "src_text": "unit73 vocab get on"
+  },
+  {
+   "file": "assets/audio/u073_v5.mp3",
+   "text": "go through",
+   "voice": "narrator",
+   "src_text": "unit73 vocab go through"
+  },
+  {
+   "file": "assets/audio/u073_v6.mp3",
+   "text": "look out",
+   "voice": "narrator",
+   "src_text": "unit73 vocab look out"
+  },
+  {
+   "file": "assets/audio/u073_v7.mp3",
+   "text": "take off / took off",
+   "voice": "narrator",
+   "src_text": "unit73 vocab take off / took off"
+  },
+  {
+   "file": "assets/audio/u073_v8.mp3",
+   "text": "airport",
+   "voice": "narrator",
+   "src_text": "unit73 vocab airport"
+  },
+  {
+   "file": "assets/audio/u073_v9.mp3",
+   "text": "boarding pass",
+   "voice": "narrator",
+   "src_text": "unit73 vocab boarding pass"
+  },
+  {
+   "file": "assets/audio/u073_v10.mp3",
+   "text": "cloud",
+   "voice": "narrator",
+   "src_text": "unit73 vocab cloud"
+  },
+  {
+   "file": "assets/audio/u073_v11.mp3",
+   "text": "plane",
+   "voice": "narrator",
+   "src_text": "unit73 vocab plane"
+  },
+  {
+   "file": "assets/audio/u073_v12.mp3",
+   "text": "seat",
+   "voice": "narrator",
+   "src_text": "unit73 vocab seat"
+  },
+  {
+   "file": "assets/audio/u073_v13.mp3",
+   "text": "seatbelt",
+   "voice": "narrator",
+   "src_text": "unit73 vocab seatbelt"
+  },
+  {
+   "file": "assets/audio/u073_v14.mp3",
+   "text": "security",
+   "voice": "narrator",
+   "src_text": "unit73 vocab security"
+  },
+  {
+   "file": "assets/audio/u073_v15.mp3",
+   "text": "window",
+   "voice": "narrator",
+   "src_text": "unit73 vocab window"
+  },
+  {
+   "file": "assets/audio/u073_v16.mp3",
+   "text": "below (prep.)",
+   "voice": "narrator",
+   "src_text": "unit73 vocab below (prep.)"
+  },
+  {
+   "file": "assets/audio/u073_v17.mp3",
+   "text": "by the window (adverbial)",
+   "voice": "narrator",
+   "src_text": "unit73 vocab by the window (adverbial)"
   }
  ]
 }
