@@ -15427,6 +15427,864 @@
    "text": "enough (adj.)",
    "voice": "narrator",
    "src_text": "unit57 vocab enough (adj.)"
+  },
+  {
+   "file": "assets/audio/u068_s1.mp3",
+   "text": "Jenny goes to an art class on Saturday.",
+   "voice": "narrator",
+   "src_text": "unit68 step1"
+  },
+  {
+   "file": "assets/audio/u068_s2.mp3",
+   "text": "She sits at the table and takes out her crayons.",
+   "voice": "narrator",
+   "src_text": "unit68 step2"
+  },
+  {
+   "file": "assets/audio/u068_s3.mp3",
+   "text": "She draws a picture of her family.",
+   "voice": "narrator",
+   "src_text": "unit68 step3"
+  },
+  {
+   "file": "assets/audio/u068_s4.mp3",
+   "text": "She shows the picture to her teacher.",
+   "voice": "narrator",
+   "src_text": "unit68 step4"
+  },
+  {
+   "file": "assets/audio/u068_s5.mp3",
+   "text": "The teacher says, \"Good job! What a nice drawing!\"",
+   "voice": "narrator",
+   "src_text": "unit68 step5"
+  },
+  {
+   "file": "assets/audio/u068_s6.mp3",
+   "text": "After class, Mom picks her up.",
+   "voice": "narrator",
+   "src_text": "unit68 step6"
+  },
+  {
+   "file": "assets/audio/u068_s7.mp3",
+   "text": "Jenny says, \"I like drawing! Can I practice more?\"",
+   "voice": "narrator",
+   "src_text": "unit68 step7"
+  },
+  {
+   "file": "assets/audio/u068_d1.mp3",
+   "text": "What are you drawing, Jenny?",
+   "voice": "teacher",
+   "src_text": "unit68 dialogue1"
+  },
+  {
+   "file": "assets/audio/u068_d2.mp3",
+   "text": "A picture of my family.",
+   "voice": "girl",
+   "src_text": "unit68 dialogue2"
+  },
+  {
+   "file": "assets/audio/u068_d3.mp3",
+   "text": "Good job! What a nice drawing!",
+   "voice": "teacher",
+   "src_text": "unit68 dialogue3"
+  },
+  {
+   "file": "assets/audio/u068_d4.mp3",
+   "text": "Thank you. I like drawing.",
+   "voice": "girl",
+   "src_text": "unit68 dialogue4"
+  },
+  {
+   "file": "assets/audio/u068_v1.mp3",
+   "text": "draw",
+   "voice": "narrator",
+   "src_text": "unit68 vocab draw"
+  },
+  {
+   "file": "assets/audio/u068_v2.mp3",
+   "text": "go to",
+   "voice": "narrator",
+   "src_text": "unit68 vocab go to"
+  },
+  {
+   "file": "assets/audio/u068_v3.mp3",
+   "text": "pick up",
+   "voice": "narrator",
+   "src_text": "unit68 vocab pick up"
+  },
+  {
+   "file": "assets/audio/u068_v4.mp3",
+   "text": "practice",
+   "voice": "narrator",
+   "src_text": "unit68 vocab practice"
+  },
+  {
+   "file": "assets/audio/u068_v5.mp3",
+   "text": "show",
+   "voice": "narrator",
+   "src_text": "unit68 vocab show"
+  },
+  {
+   "file": "assets/audio/u068_v6.mp3",
+   "text": "sit",
+   "voice": "narrator",
+   "src_text": "unit68 vocab sit"
+  },
+  {
+   "file": "assets/audio/u068_v7.mp3",
+   "text": "take out",
+   "voice": "narrator",
+   "src_text": "unit68 vocab take out"
+  },
+  {
+   "file": "assets/audio/u068_v8.mp3",
+   "text": "art class",
+   "voice": "narrator",
+   "src_text": "unit68 vocab art class"
+  },
+  {
+   "file": "assets/audio/u068_v9.mp3",
+   "text": "crayon",
+   "voice": "narrator",
+   "src_text": "unit68 vocab crayon"
+  },
+  {
+   "file": "assets/audio/u068_v10.mp3",
+   "text": "drawing",
+   "voice": "narrator",
+   "src_text": "unit68 vocab drawing"
+  },
+  {
+   "file": "assets/audio/u068_v11.mp3",
+   "text": "family",
+   "voice": "narrator",
+   "src_text": "unit68 vocab family"
+  },
+  {
+   "file": "assets/audio/u068_v12.mp3",
+   "text": "picture",
+   "voice": "narrator",
+   "src_text": "unit68 vocab picture"
+  },
+  {
+   "file": "assets/audio/u068_v13.mp3",
+   "text": "teacher",
+   "voice": "narrator",
+   "src_text": "unit68 vocab teacher"
+  },
+  {
+   "file": "assets/audio/u068_v14.mp3",
+   "text": "after class (adverbial)",
+   "voice": "narrator",
+   "src_text": "unit68 vocab after class (adverbial)"
+  },
+  {
+   "file": "assets/audio/u068_v15.mp3",
+   "text": "on Saturday (adverbial)",
+   "voice": "narrator",
+   "src_text": "unit68 vocab on Saturday (adverbial)"
+  },
+  {
+   "file": "assets/audio/u068_v16.mp3",
+   "text": "more (adv.)",
+   "voice": "narrator",
+   "src_text": "unit68 vocab more (adv.)"
+  },
+  {
+   "file": "assets/audio/u069_s1.mp3",
+   "text": "It was Jenny's birthday.",
+   "voice": "narrator",
+   "src_text": "unit69 step1"
+  },
+  {
+   "file": "assets/audio/u069_s2.mp3",
+   "text": "Mom made a cake for her.",
+   "voice": "narrator",
+   "src_text": "unit69 step2"
+  },
+  {
+   "file": "assets/audio/u069_s3.mp3",
+   "text": "Jenny made a wish and blew out the candles.",
+   "voice": "narrator",
+   "src_text": "unit69 step3"
+  },
+  {
+   "file": "assets/audio/u069_s4.mp3",
+   "text": "Her friends sang \"Happy Birthday.\"",
+   "voice": "narrator",
+   "src_text": "unit69 step4"
+  },
+  {
+   "file": "assets/audio/u069_s5.mp3",
+   "text": "She cut the cake.",
+   "voice": "narrator",
+   "src_text": "unit69 step5"
+  },
+  {
+   "file": "assets/audio/u069_s6.mp3",
+   "text": "She opened the presents and said thank you.",
+   "voice": "narrator",
+   "src_text": "unit69 step6"
+  },
+  {
+   "file": "assets/audio/u069_s7.mp3",
+   "text": "Everyone had a good time.",
+   "voice": "narrator",
+   "src_text": "unit69 step7"
+  },
+  {
+   "file": "assets/audio/u069_d1.mp3",
+   "text": "Happy birthday, Jenny!",
+   "voice": "clerk",
+   "src_text": "unit69 dialogue1"
+  },
+  {
+   "file": "assets/audio/u069_d2.mp3",
+   "text": "Thank you! I made a wish.",
+   "voice": "girl",
+   "src_text": "unit69 dialogue2"
+  },
+  {
+   "file": "assets/audio/u069_d3.mp3",
+   "text": "This is for you.",
+   "voice": "girl",
+   "src_text": "unit69 dialogue3"
+  },
+  {
+   "file": "assets/audio/u069_d4.mp3",
+   "text": "A toy panda! Thank you so much!",
+   "voice": "girl",
+   "src_text": "unit69 dialogue4"
+  },
+  {
+   "file": "assets/audio/u069_d5.mp3",
+   "text": "Time for cake!",
+   "voice": "mom",
+   "src_text": "unit69 dialogue5"
+  },
+  {
+   "file": "assets/audio/u069_v1.mp3",
+   "text": "blow out",
+   "voice": "narrator",
+   "src_text": "unit69 vocab blow out"
+  },
+  {
+   "file": "assets/audio/u069_v2.mp3",
+   "text": "cut",
+   "voice": "narrator",
+   "src_text": "unit69 vocab cut"
+  },
+  {
+   "file": "assets/audio/u069_v3.mp3",
+   "text": "have / had a good time",
+   "voice": "narrator",
+   "src_text": "unit69 vocab have / had a good time"
+  },
+  {
+   "file": "assets/audio/u069_v4.mp3",
+   "text": "make / made a wish",
+   "voice": "narrator",
+   "src_text": "unit69 vocab make / made a wish"
+  },
+  {
+   "file": "assets/audio/u069_v5.mp3",
+   "text": "make / made a cake",
+   "voice": "narrator",
+   "src_text": "unit69 vocab make / made a cake"
+  },
+  {
+   "file": "assets/audio/u069_v6.mp3",
+   "text": "open",
+   "voice": "narrator",
+   "src_text": "unit69 vocab open"
+  },
+  {
+   "file": "assets/audio/u069_v7.mp3",
+   "text": "say / said",
+   "voice": "narrator",
+   "src_text": "unit69 vocab say / said"
+  },
+  {
+   "file": "assets/audio/u069_v8.mp3",
+   "text": "sing / sang",
+   "voice": "narrator",
+   "src_text": "unit69 vocab sing / sang"
+  },
+  {
+   "file": "assets/audio/u069_v9.mp3",
+   "text": "birthday",
+   "voice": "narrator",
+   "src_text": "unit69 vocab birthday"
+  },
+  {
+   "file": "assets/audio/u069_v10.mp3",
+   "text": "cake",
+   "voice": "narrator",
+   "src_text": "unit69 vocab cake"
+  },
+  {
+   "file": "assets/audio/u069_v11.mp3",
+   "text": "candle",
+   "voice": "narrator",
+   "src_text": "unit69 vocab candle"
+  },
+  {
+   "file": "assets/audio/u069_v12.mp3",
+   "text": "friend",
+   "voice": "narrator",
+   "src_text": "unit69 vocab friend"
+  },
+  {
+   "file": "assets/audio/u069_v13.mp3",
+   "text": "present",
+   "voice": "narrator",
+   "src_text": "unit69 vocab present"
+  },
+  {
+   "file": "assets/audio/u069_v14.mp3",
+   "text": "toy",
+   "voice": "narrator",
+   "src_text": "unit69 vocab toy"
+  },
+  {
+   "file": "assets/audio/u069_v15.mp3",
+   "text": "wish",
+   "voice": "narrator",
+   "src_text": "unit69 vocab wish"
+  },
+  {
+   "file": "assets/audio/u069_v16.mp3",
+   "text": "happy (adj.)",
+   "voice": "narrator",
+   "src_text": "unit69 vocab happy (adj.)"
+  },
+  {
+   "file": "assets/audio/u069_v17.mp3",
+   "text": "so much (adv.)",
+   "voice": "narrator",
+   "src_text": "unit69 vocab so much (adv.)"
+  },
+  {
+   "file": "assets/audio/u070_s1.mp3",
+   "text": "Jenny went to the doctor with her mom.",
+   "voice": "narrator",
+   "src_text": "unit70 step1"
+  },
+  {
+   "file": "assets/audio/u070_s2.mp3",
+   "text": "They waited in the waiting room.",
+   "voice": "narrator",
+   "src_text": "unit70 step2"
+  },
+  {
+   "file": "assets/audio/u070_s3.mp3",
+   "text": "The nurse measured her height and weight.",
+   "voice": "narrator",
+   "src_text": "unit70 step3"
+  },
+  {
+   "file": "assets/audio/u070_s4.mp3",
+   "text": "The doctor looked in her ears and throat.",
+   "voice": "narrator",
+   "src_text": "unit70 step4"
+  },
+  {
+   "file": "assets/audio/u070_s5.mp3",
+   "text": "He said, \"Open your mouth and say 'Ah.'\"",
+   "voice": "narrator",
+   "src_text": "unit70 step5"
+  },
+  {
+   "file": "assets/audio/u070_s6.mp3",
+   "text": "Jenny got a small shot. It hurt a little.",
+   "voice": "narrator",
+   "src_text": "unit70 step6"
+  },
+  {
+   "file": "assets/audio/u070_s7.mp3",
+   "text": "Mom said, \"You'll be fine.\" And the doctor gave her a sticker.",
+   "voice": "narrator",
+   "src_text": "unit70 step7"
+  },
+  {
+   "file": "assets/audio/u070_d1.mp3",
+   "text": "Does it hurt, Jenny?",
+   "voice": "teacher",
+   "src_text": "unit70 dialogue1"
+  },
+  {
+   "file": "assets/audio/u070_d2.mp3",
+   "text": "A little. I'm scared.",
+   "voice": "girl",
+   "src_text": "unit70 dialogue2"
+  },
+  {
+   "file": "assets/audio/u070_d3.mp3",
+   "text": "You'll be fine, sweetie.",
+   "voice": "mom",
+   "src_text": "unit70 dialogue3"
+  },
+  {
+   "file": "assets/audio/u070_d4.mp3",
+   "text": "Open your mouth and say 'Ah.'",
+   "voice": "teacher",
+   "src_text": "unit70 dialogue4"
+  },
+  {
+   "file": "assets/audio/u070_d5.mp3",
+   "text": "Ah...",
+   "voice": "girl",
+   "src_text": "unit70 dialogue5"
+  },
+  {
+   "file": "assets/audio/u070_d6.mp3",
+   "text": "Great job! Here's a sticker for you.",
+   "voice": "teacher",
+   "src_text": "unit70 dialogue6"
+  },
+  {
+   "file": "assets/audio/u070_v1.mp3",
+   "text": "get / got",
+   "voice": "narrator",
+   "src_text": "unit70 vocab get / got"
+  },
+  {
+   "file": "assets/audio/u070_v2.mp3",
+   "text": "go to",
+   "voice": "narrator",
+   "src_text": "unit70 vocab go to"
+  },
+  {
+   "file": "assets/audio/u070_v3.mp3",
+   "text": "hurt",
+   "voice": "narrator",
+   "src_text": "unit70 vocab hurt"
+  },
+  {
+   "file": "assets/audio/u070_v4.mp3",
+   "text": "look",
+   "voice": "narrator",
+   "src_text": "unit70 vocab look"
+  },
+  {
+   "file": "assets/audio/u070_v5.mp3",
+   "text": "measure",
+   "voice": "narrator",
+   "src_text": "unit70 vocab measure"
+  },
+  {
+   "file": "assets/audio/u070_v6.mp3",
+   "text": "say / said",
+   "voice": "narrator",
+   "src_text": "unit70 vocab say / said"
+  },
+  {
+   "file": "assets/audio/u070_v7.mp3",
+   "text": "wait",
+   "voice": "narrator",
+   "src_text": "unit70 vocab wait"
+  },
+  {
+   "file": "assets/audio/u070_v8.mp3",
+   "text": "doctor",
+   "voice": "narrator",
+   "src_text": "unit70 vocab doctor"
+  },
+  {
+   "file": "assets/audio/u070_v9.mp3",
+   "text": "ear",
+   "voice": "narrator",
+   "src_text": "unit70 vocab ear"
+  },
+  {
+   "file": "assets/audio/u070_v10.mp3",
+   "text": "height",
+   "voice": "narrator",
+   "src_text": "unit70 vocab height"
+  },
+  {
+   "file": "assets/audio/u070_v11.mp3",
+   "text": "mouth",
+   "voice": "narrator",
+   "src_text": "unit70 vocab mouth"
+  },
+  {
+   "file": "assets/audio/u070_v12.mp3",
+   "text": "nurse",
+   "voice": "narrator",
+   "src_text": "unit70 vocab nurse"
+  },
+  {
+   "file": "assets/audio/u070_v13.mp3",
+   "text": "shot",
+   "voice": "narrator",
+   "src_text": "unit70 vocab shot"
+  },
+  {
+   "file": "assets/audio/u070_v14.mp3",
+   "text": "sticker",
+   "voice": "narrator",
+   "src_text": "unit70 vocab sticker"
+  },
+  {
+   "file": "assets/audio/u070_v15.mp3",
+   "text": "throat",
+   "voice": "narrator",
+   "src_text": "unit70 vocab throat"
+  },
+  {
+   "file": "assets/audio/u070_v16.mp3",
+   "text": "waiting room",
+   "voice": "narrator",
+   "src_text": "unit70 vocab waiting room"
+  },
+  {
+   "file": "assets/audio/u070_v17.mp3",
+   "text": "weight",
+   "voice": "narrator",
+   "src_text": "unit70 vocab weight"
+  },
+  {
+   "file": "assets/audio/u070_v18.mp3",
+   "text": "a little (adv.)",
+   "voice": "narrator",
+   "src_text": "unit70 vocab a little (adv.)"
+  },
+  {
+   "file": "assets/audio/u070_v19.mp3",
+   "text": "fine (adj.)",
+   "voice": "narrator",
+   "src_text": "unit70 vocab fine (adj.)"
+  },
+  {
+   "file": "assets/audio/u070_v20.mp3",
+   "text": "scared (adj.)",
+   "voice": "narrator",
+   "src_text": "unit70 vocab scared (adj.)"
+  },
+  {
+   "file": "assets/audio/u071_s1.mp3",
+   "text": "Jenny video-calls her classmate Kate.",
+   "voice": "narrator",
+   "src_text": "unit71 step1"
+  },
+  {
+   "file": "assets/audio/u071_s2.mp3",
+   "text": "Kate answers the video call.",
+   "voice": "narrator",
+   "src_text": "unit71 step2"
+  },
+  {
+   "file": "assets/audio/u071_s3.mp3",
+   "text": "They wave and say hi.",
+   "voice": "narrator",
+   "src_text": "unit71 step3"
+  },
+  {
+   "file": "assets/audio/u071_s4.mp3",
+   "text": "Jenny shows Kate her drawing.",
+   "voice": "narrator",
+   "src_text": "unit71 step4"
+  },
+  {
+   "file": "assets/audio/u071_s5.mp3",
+   "text": "Kate says, \"Wow! I like your drawing.\"",
+   "voice": "narrator",
+   "src_text": "unit71 step5"
+  },
+  {
+   "file": "assets/audio/u071_s6.mp3",
+   "text": "They talk about school.",
+   "voice": "narrator",
+   "src_text": "unit71 step6"
+  },
+  {
+   "file": "assets/audio/u071_s7.mp3",
+   "text": "At the end, they say goodbye and hang up.",
+   "voice": "narrator",
+   "src_text": "unit71 step7"
+  },
+  {
+   "file": "assets/audio/u071_d1.mp3",
+   "text": "Hi, Kate! Can you play?",
+   "voice": "girl",
+   "src_text": "unit71 dialogue1"
+  },
+  {
+   "file": "assets/audio/u071_d2.mp3",
+   "text": "Hi, Jenny! Yes, I can.",
+   "voice": "girl",
+   "src_text": "unit71 dialogue2"
+  },
+  {
+   "file": "assets/audio/u071_d3.mp3",
+   "text": "Look what I made! It's a drawing of our school.",
+   "voice": "girl",
+   "src_text": "unit71 dialogue3"
+  },
+  {
+   "file": "assets/audio/u071_d4.mp3",
+   "text": "Wow! I like it. It's beautiful.",
+   "voice": "girl",
+   "src_text": "unit71 dialogue4"
+  },
+  {
+   "file": "assets/audio/u071_d5.mp3",
+   "text": "I'll call you tomorrow. Bye!",
+   "voice": "girl",
+   "src_text": "unit71 dialogue5"
+  },
+  {
+   "file": "assets/audio/u071_d6.mp3",
+   "text": "Bye!",
+   "voice": "girl",
+   "src_text": "unit71 dialogue6"
+  },
+  {
+   "file": "assets/audio/u071_v1.mp3",
+   "text": "answer",
+   "voice": "narrator",
+   "src_text": "unit71 vocab answer"
+  },
+  {
+   "file": "assets/audio/u071_v2.mp3",
+   "text": "hang up",
+   "voice": "narrator",
+   "src_text": "unit71 vocab hang up"
+  },
+  {
+   "file": "assets/audio/u071_v3.mp3",
+   "text": "show",
+   "voice": "narrator",
+   "src_text": "unit71 vocab show"
+  },
+  {
+   "file": "assets/audio/u071_v4.mp3",
+   "text": "talk about",
+   "voice": "narrator",
+   "src_text": "unit71 vocab talk about"
+  },
+  {
+   "file": "assets/audio/u071_v5.mp3",
+   "text": "video-call",
+   "voice": "narrator",
+   "src_text": "unit71 vocab video-call"
+  },
+  {
+   "file": "assets/audio/u071_v6.mp3",
+   "text": "wave",
+   "voice": "narrator",
+   "src_text": "unit71 vocab wave"
+  },
+  {
+   "file": "assets/audio/u071_v7.mp3",
+   "text": "classmate",
+   "voice": "narrator",
+   "src_text": "unit71 vocab classmate"
+  },
+  {
+   "file": "assets/audio/u071_v8.mp3",
+   "text": "drawing",
+   "voice": "narrator",
+   "src_text": "unit71 vocab drawing"
+  },
+  {
+   "file": "assets/audio/u071_v9.mp3",
+   "text": "school",
+   "voice": "narrator",
+   "src_text": "unit71 vocab school"
+  },
+  {
+   "file": "assets/audio/u071_v10.mp3",
+   "text": "video call",
+   "voice": "narrator",
+   "src_text": "unit71 vocab video call"
+  },
+  {
+   "file": "assets/audio/u071_v11.mp3",
+   "text": "beautiful (adj.)",
+   "voice": "narrator",
+   "src_text": "unit71 vocab beautiful (adj.)"
+  },
+  {
+   "file": "assets/audio/u071_v12.mp3",
+   "text": "tomorrow (adv.)",
+   "voice": "narrator",
+   "src_text": "unit71 vocab tomorrow (adv.)"
+  },
+  {
+   "file": "assets/audio/u072_s1.mp3",
+   "text": "After dinner, Jenny went downstairs to play.",
+   "voice": "narrator",
+   "src_text": "unit72 step1"
+  },
+  {
+   "file": "assets/audio/u072_s2.mp3",
+   "text": "Her friends were in the yard.",
+   "voice": "narrator",
+   "src_text": "unit72 step2"
+  },
+  {
+   "file": "assets/audio/u072_s3.mp3",
+   "text": "They played hide-and-seek.",
+   "voice": "narrator",
+   "src_text": "unit72 step3"
+  },
+  {
+   "file": "assets/audio/u072_s4.mp3",
+   "text": "Jenny counted to ten and looked for her friends.",
+   "voice": "narrator",
+   "src_text": "unit72 step4"
+  },
+  {
+   "file": "assets/audio/u072_s5.mp3",
+   "text": "Then they jumped rope together.",
+   "voice": "narrator",
+   "src_text": "unit72 step5"
+  },
+  {
+   "file": "assets/audio/u072_s6.mp3",
+   "text": "Tom kicked a ball to Jenny.",
+   "voice": "narrator",
+   "src_text": "unit72 step6"
+  },
+  {
+   "file": "assets/audio/u072_s7.mp3",
+   "text": "When it got dark, Mom called her home.",
+   "voice": "narrator",
+   "src_text": "unit72 step7"
+  },
+  {
+   "file": "assets/audio/u072_d1.mp3",
+   "text": "Mom, can I go out and play?",
+   "voice": "girl",
+   "src_text": "unit72 dialogue1"
+  },
+  {
+   "file": "assets/audio/u072_d2.mp3",
+   "text": "Yes, but come home before dark.",
+   "voice": "mom",
+   "src_text": "unit72 dialogue2"
+  },
+  {
+   "file": "assets/audio/u072_d3.mp3",
+   "text": "Let's play hide-and-seek!",
+   "voice": "clerk",
+   "src_text": "unit72 dialogue3"
+  },
+  {
+   "file": "assets/audio/u072_d4.mp3",
+   "text": "Ready or not, here I come!",
+   "voice": "girl",
+   "src_text": "unit72 dialogue4"
+  },
+  {
+   "file": "assets/audio/u072_d5.mp3",
+   "text": "Jenny, time to come home!",
+   "voice": "mom",
+   "src_text": "unit72 dialogue5"
+  },
+  {
+   "file": "assets/audio/u072_d6.mp3",
+   "text": "OK, Mom. Can I play a little longer?",
+   "voice": "girl",
+   "src_text": "unit72 dialogue6"
+  },
+  {
+   "file": "assets/audio/u072_v1.mp3",
+   "text": "come home",
+   "voice": "narrator",
+   "src_text": "unit72 vocab come home"
+  },
+  {
+   "file": "assets/audio/u072_v2.mp3",
+   "text": "count",
+   "voice": "narrator",
+   "src_text": "unit72 vocab count"
+  },
+  {
+   "file": "assets/audio/u072_v3.mp3",
+   "text": "get dark",
+   "voice": "narrator",
+   "src_text": "unit72 vocab get dark"
+  },
+  {
+   "file": "assets/audio/u072_v4.mp3",
+   "text": "go downstairs",
+   "voice": "narrator",
+   "src_text": "unit72 vocab go downstairs"
+  },
+  {
+   "file": "assets/audio/u072_v5.mp3",
+   "text": "jump rope",
+   "voice": "narrator",
+   "src_text": "unit72 vocab jump rope"
+  },
+  {
+   "file": "assets/audio/u072_v6.mp3",
+   "text": "kick",
+   "voice": "narrator",
+   "src_text": "unit72 vocab kick"
+  },
+  {
+   "file": "assets/audio/u072_v7.mp3",
+   "text": "look for",
+   "voice": "narrator",
+   "src_text": "unit72 vocab look for"
+  },
+  {
+   "file": "assets/audio/u072_v8.mp3",
+   "text": "play",
+   "voice": "narrator",
+   "src_text": "unit72 vocab play"
+  },
+  {
+   "file": "assets/audio/u072_v9.mp3",
+   "text": "ball",
+   "voice": "narrator",
+   "src_text": "unit72 vocab ball"
+  },
+  {
+   "file": "assets/audio/u072_v10.mp3",
+   "text": "friend",
+   "voice": "narrator",
+   "src_text": "unit72 vocab friend"
+  },
+  {
+   "file": "assets/audio/u072_v11.mp3",
+   "text": "hide-and-seek",
+   "voice": "narrator",
+   "src_text": "unit72 vocab hide-and-seek"
+  },
+  {
+   "file": "assets/audio/u072_v12.mp3",
+   "text": "rope",
+   "voice": "narrator",
+   "src_text": "unit72 vocab rope"
+  },
+  {
+   "file": "assets/audio/u072_v13.mp3",
+   "text": "yard",
+   "voice": "narrator",
+   "src_text": "unit72 vocab yard"
+  },
+  {
+   "file": "assets/audio/u072_v14.mp3",
+   "text": "before dark (adverbial)",
+   "voice": "narrator",
+   "src_text": "unit72 vocab before dark (adverbial)"
+  },
+  {
+   "file": "assets/audio/u072_v15.mp3",
+   "text": "together (adv.)",
+   "voice": "narrator",
+   "src_text": "unit72 vocab together (adv.)"
+  },
+  {
+   "file": "assets/audio/u072_v16.mp3",
+   "text": "a little longer (adverbial)",
+   "voice": "narrator",
+   "src_text": "unit72 vocab a little longer (adverbial)"
   }
  ]
 }

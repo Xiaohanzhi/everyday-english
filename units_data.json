@@ -16261,9 +16261,966 @@
      "zh": "“晚安，妈妈”“做个好梦”正是本单元里珍妮和妈妈的对话。"
     }
    ]
+  },
+  {
+   "id": 68,
+   "section": 7,
+   "level": 1,
+   "en": "After-school Classes",
+   "zh": "兴趣班",
+   "grammar": "Simple Present",
+   "grammarZh": "一般现在时",
+   "grammarNote": {
+    "en": "The simple present tense describes Jenny's usual Saturday routine: goes, sits, takes out, draws, shows, practices. / 一般现在时描述 Jenny 每周六的兴趣班常规活动：goes、sits、takes out、draws、shows、practices。",
+    "zh": "一般现在时"
+   },
+   "steps": [
+    {
+     "en": "Jenny goes to an art class on Saturday.",
+     "zh": "珍妮每周六去上美术课。"
+    },
+    {
+     "en": "She sits at the table and takes out her crayons.",
+     "zh": "她坐在桌边，拿出蜡笔。"
+    },
+    {
+     "en": "She draws a picture of her family.",
+     "zh": "她画了一幅全家福。"
+    },
+    {
+     "en": "She shows the picture to her teacher.",
+     "zh": "她把画拿给老师看。"
+    },
+    {
+     "en": "The teacher says, \"Good job! What a nice drawing!\"",
+     "zh": "老师说：“画得真好！多漂亮的画呀！”"
+    },
+    {
+     "en": "After class, Mom picks her up.",
+     "zh": "下课后，妈妈来接她。"
+    },
+    {
+     "en": "Jenny says, \"I like drawing! Can I practice more?\"",
+     "zh": "珍妮说：“我喜欢画画！我能多练习一会儿吗？”"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Teacher",
+     "role": "teacher",
+     "en": "What are you drawing, Jenny?",
+     "zh": "你在画什么呀，珍妮？"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "A picture of my family.",
+     "zh": "一幅全家福。"
+    },
+    {
+     "speaker": "Teacher",
+     "role": "teacher",
+     "en": "Good job! What a nice drawing!",
+     "zh": "画得真好！多漂亮的画呀！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Thank you. I like drawing.",
+     "zh": "谢谢。我喜欢画画。"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "draw",
+      "ipa": "/drɔː/",
+      "zh": "画画"
+     },
+     {
+      "w": "go to",
+      "ipa": "/ɡoʊ tuː/",
+      "zh": "去；前往"
+     },
+     {
+      "w": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "zh": "（开车）接"
+     },
+     {
+      "w": "practice",
+      "ipa": "/ˈpræktɪs/",
+      "zh": "练习"
+     },
+     {
+      "w": "show",
+      "ipa": "/ʃoʊ/",
+      "zh": "展示；给……看"
+     },
+     {
+      "w": "sit",
+      "ipa": "/sɪt/",
+      "zh": "坐"
+     },
+     {
+      "w": "take out",
+      "ipa": "/teɪk aʊt/",
+      "zh": "拿出"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "art class",
+      "ipa": "/ɑːrt klæs/",
+      "zh": "美术课"
+     },
+     {
+      "w": "crayon",
+      "ipa": "/ˈkreɪɑːn/",
+      "zh": "蜡笔"
+     },
+     {
+      "w": "drawing",
+      "ipa": "/ˈdrɔːɪŋ/",
+      "zh": "画；绘画作品"
+     },
+     {
+      "w": "family",
+      "ipa": "/ˈfæməli/",
+      "zh": "家人；家庭"
+     },
+     {
+      "w": "picture",
+      "ipa": "/ˈpɪktʃər/",
+      "zh": "画；图片"
+     },
+     {
+      "w": "teacher",
+      "ipa": "/ˈtiːtʃər/",
+      "zh": "老师"
+     }
+    ],
+    "others": [
+     {
+      "w": "after class (adverbial)",
+      "ipa": "/ˈæftər klæs/",
+      "zh": "下课后"
+     },
+     {
+      "w": "on Saturday (adverbial)",
+      "ipa": "/ɑːn ˈsætərdi/",
+      "zh": "在周六"
+     },
+     {
+      "w": "more (adv.)",
+      "ipa": "/mɔːr/",
+      "zh": "更多"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "\"Good job!\" is what we say to praise someone for doing well.",
+     "zh": "Good job!（干得好！）是我们表扬别人做得好时说的话。"
+    },
+    {
+     "en": "\"Can I practice more?\" is a polite way to ask permission.",
+     "zh": "Can I practice more?（我能多练一会儿吗？）是礼貌地请求允许。"
+    },
+    {
+     "en": "Many Chinese children take after-school classes like art, piano, dance or calligraphy on weekends.",
+     "zh": "很多中国孩子周末上美术、钢琴、舞蹈或书法等兴趣班。"
+    }
+   ],
+   "china": [
+    {
+     "en": "After-school classes are very common for Chinese children; art, piano, dance and calligraphy are popular choices.",
+     "zh": "中国孩子上兴趣班非常普遍，美术、钢琴、舞蹈、书法都是热门选择。"
+    },
+    {
+     "en": "Parents often pick children up after class and ask \"What did you learn today?\"",
+     "zh": "家长常在下课后接孩子，并问“今天学了什么？”。"
+    }
+   ],
+   "img": "assets/img/unit68.jpg"
+  },
+  {
+   "id": 69,
+   "section": 6,
+   "level": 1,
+   "en": "My Birthday Party",
+   "zh": "自己过生日",
+   "grammar": "Simple Past",
+   "grammarZh": "一般过去时",
+   "grammarNote": {
+    "en": "The simple past tense tells the story of Jenny's birthday: made, blew out, cut, sang, opened, said, had. Irregular verbs: make→made, blow→blew, cut→cut, sing→sang, open→opened. / 一般过去时讲述 Jenny 过生日的过程：made、blew out、cut、sang、opened、said、had。不规则动词：make→made、blow→blew、cut→cut、sing→sang。",
+    "zh": "一般过去时"
+   },
+   "steps": [
+    {
+     "en": "It was Jenny's birthday.",
+     "zh": "今天是珍妮的生日。"
+    },
+    {
+     "en": "Mom made a cake for her.",
+     "zh": "妈妈给她做了一个蛋糕。"
+    },
+    {
+     "en": "Jenny made a wish and blew out the candles.",
+     "zh": "珍妮许了愿，吹灭了蜡烛。"
+    },
+    {
+     "en": "Her friends sang \"Happy Birthday.\"",
+     "zh": "朋友们唱了《生日快乐》歌。"
+    },
+    {
+     "en": "She cut the cake.",
+     "zh": "她切了蛋糕。"
+    },
+    {
+     "en": "She opened the presents and said thank you.",
+     "zh": "她拆开礼物，说了谢谢。"
+    },
+    {
+     "en": "Everyone had a good time.",
+     "zh": "大家都玩得很开心。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Friends",
+     "role": "clerk",
+     "en": "Happy birthday, Jenny!",
+     "zh": "生日快乐，珍妮！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Thank you! I made a wish.",
+     "zh": "谢谢！我许了个愿。"
+    },
+    {
+     "speaker": "Friend",
+     "role": "girl",
+     "en": "This is for you.",
+     "zh": "这是送给你的。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "A toy panda! Thank you so much!",
+     "zh": "一只玩具熊猫！太谢谢你了！"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Time for cake!",
+     "zh": "该吃蛋糕啦！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "blow out",
+      "ipa": "/bloʊ aʊt/",
+      "zh": "吹灭"
+     },
+     {
+      "w": "cut",
+      "ipa": "/kʌt/",
+      "zh": "切"
+     },
+     {
+      "w": "have / had a good time",
+      "ipa": "/hæv ə ɡʊd taɪm/",
+      "zh": "玩得开心"
+     },
+     {
+      "w": "make / made a wish",
+      "ipa": "/meɪk ə wɪʃ/",
+      "zh": "许愿"
+     },
+     {
+      "w": "make / made a cake",
+      "ipa": "/meɪk ə keɪk/",
+      "zh": "做蛋糕"
+     },
+     {
+      "w": "open",
+      "ipa": "/ˈoʊpən/",
+      "zh": "打开；拆开"
+     },
+     {
+      "w": "say / said",
+      "ipa": "/seɪ / sed/",
+      "zh": "说"
+     },
+     {
+      "w": "sing / sang",
+      "ipa": "/sɪŋ / sæŋ/",
+      "zh": "唱"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "birthday",
+      "ipa": "/ˈbɜːrθdeɪ/",
+      "zh": "生日"
+     },
+     {
+      "w": "cake",
+      "ipa": "/keɪk/",
+      "zh": "蛋糕"
+     },
+     {
+      "w": "candle",
+      "ipa": "/ˈkændl/",
+      "zh": "蜡烛"
+     },
+     {
+      "w": "friend",
+      "ipa": "/frend/",
+      "zh": "朋友"
+     },
+     {
+      "w": "present",
+      "ipa": "/ˈpreznt/",
+      "zh": "礼物"
+     },
+     {
+      "w": "toy",
+      "ipa": "/tɔɪ/",
+      "zh": "玩具"
+     },
+     {
+      "w": "wish",
+      "ipa": "/wɪʃ/",
+      "zh": "愿望"
+     }
+    ],
+    "others": [
+     {
+      "w": "happy (adj.)",
+      "ipa": "/ˈhæpi/",
+      "zh": "快乐的"
+     },
+     {
+      "w": "so much (adv.)",
+      "ipa": "/soʊ mʌtʃ/",
+      "zh": "非常；十分"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "Make a wish, then blow out the candles — a birthday tradition.",
+     "zh": "许愿、吹蜡烛是过生日的传统环节。"
+    },
+    {
+     "en": "\"This is for you.\" is what you say when you give someone a present.",
+     "zh": "送礼物时说 This is for you.（这是送给你的）。"
+    },
+    {
+     "en": "\"Thank you so much!\" is a warmer way to say thank you.",
+     "zh": "Thank you so much! 是更热情的道谢方式。"
+    }
+   ],
+   "china": [
+    {
+     "en": "Chinese children celebrate birthdays with a cake, candles, a wish and presents, just like Jenny.",
+     "zh": "中国孩子过生日也有蛋糕、蜡烛、许愿和礼物，和珍妮一样。"
+    },
+    {
+     "en": "Parents often take photos and share them on WeChat Moments.",
+     "zh": "家长常会拍照并分享到微信朋友圈。"
+    }
+   ],
+   "img": "assets/img/unit69.jpg"
+  },
+  {
+   "id": 70,
+   "section": 2,
+   "level": 1,
+   "en": "Going to the Doctor",
+   "zh": "看医生",
+   "grammar": "Simple Past",
+   "grammarZh": "一般过去时",
+   "grammarNote": {
+    "en": "The simple past tense narrates the visit to the doctor: went, waited, measured, looked, said, got, hurt. Irregular verbs: go→went, say→said, get→got. / 一般过去时讲述看医生的一次经历：went、waited、measured、looked、said、got、hurt。不规则动词：go→went、say→said、get→got。",
+    "zh": "一般过去时"
+   },
+   "steps": [
+    {
+     "en": "Jenny went to the doctor with her mom.",
+     "zh": "珍妮和妈妈去看医生。"
+    },
+    {
+     "en": "They waited in the waiting room.",
+     "zh": "他们在候诊室等待。"
+    },
+    {
+     "en": "The nurse measured her height and weight.",
+     "zh": "护士给她量了身高和体重。"
+    },
+    {
+     "en": "The doctor looked in her ears and throat.",
+     "zh": "医生看了看她的耳朵和喉咙。"
+    },
+    {
+     "en": "He said, \"Open your mouth and say 'Ah.'\"",
+     "zh": "他说：“张开嘴，说‘啊’。”"
+    },
+    {
+     "en": "Jenny got a small shot. It hurt a little.",
+     "zh": "珍妮打了一针，有一点疼。"
+    },
+    {
+     "en": "Mom said, \"You'll be fine.\" And the doctor gave her a sticker.",
+     "zh": "妈妈说：“会没事的。”医生还给了她一张贴纸。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Doctor",
+     "role": "teacher",
+     "en": "Does it hurt, Jenny?",
+     "zh": "疼吗，珍妮？"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "A little. I'm scared.",
+     "zh": "有一点。我害怕。"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "You'll be fine, sweetie.",
+     "zh": "你会没事的，宝贝。"
+    },
+    {
+     "speaker": "Doctor",
+     "role": "teacher",
+     "en": "Open your mouth and say 'Ah.'",
+     "zh": "张开嘴，说“啊”。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Ah...",
+     "zh": "啊……"
+    },
+    {
+     "speaker": "Doctor",
+     "role": "teacher",
+     "en": "Great job! Here's a sticker for you.",
+     "zh": "真棒！这张贴纸送给你。"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "get / got",
+      "ipa": "/ɡet / ɡɑːt/",
+      "zh": "得到；打（针）"
+     },
+     {
+      "w": "go to",
+      "ipa": "/ɡoʊ tuː/",
+      "zh": "去；前往"
+     },
+     {
+      "w": "hurt",
+      "ipa": "/hɜːrt/",
+      "zh": "疼；痛"
+     },
+     {
+      "w": "look",
+      "ipa": "/lʊk/",
+      "zh": "看；检查"
+     },
+     {
+      "w": "measure",
+      "ipa": "/ˈmeʒər/",
+      "zh": "测量"
+     },
+     {
+      "w": "say / said",
+      "ipa": "/seɪ / sed/",
+      "zh": "说"
+     },
+     {
+      "w": "wait",
+      "ipa": "/weɪt/",
+      "zh": "等待"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "doctor",
+      "ipa": "/ˈdɑːktər/",
+      "zh": "医生"
+     },
+     {
+      "w": "ear",
+      "ipa": "/ɪr/",
+      "zh": "耳朵"
+     },
+     {
+      "w": "height",
+      "ipa": "/haɪt/",
+      "zh": "身高"
+     },
+     {
+      "w": "mouth",
+      "ipa": "/maʊθ/",
+      "zh": "嘴"
+     },
+     {
+      "w": "nurse",
+      "ipa": "/nɜːrs/",
+      "zh": "护士"
+     },
+     {
+      "w": "shot",
+      "ipa": "/ʃɑːt/",
+      "zh": "打针；注射"
+     },
+     {
+      "w": "sticker",
+      "ipa": "/ˈstɪkər/",
+      "zh": "贴纸"
+     },
+     {
+      "w": "throat",
+      "ipa": "/θroʊt/",
+      "zh": "喉咙"
+     },
+     {
+      "w": "waiting room",
+      "ipa": "/ˈweɪtɪŋ ruːm/",
+      "zh": "候诊室"
+     },
+     {
+      "w": "weight",
+      "ipa": "/weɪt/",
+      "zh": "体重"
+     }
+    ],
+    "others": [
+     {
+      "w": "a little (adv.)",
+      "ipa": "/ə ˈlɪtl/",
+      "zh": "一点"
+     },
+     {
+      "w": "fine (adj.)",
+      "ipa": "/faɪn/",
+      "zh": "没事的；好的"
+     },
+     {
+      "w": "scared (adj.)",
+      "ipa": "/skerd/",
+      "zh": "害怕的"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "\"Open your mouth and say 'Ah'\" is what the doctor says to check your throat.",
+     "zh": "“张开嘴说啊”是医生检查喉咙时说的话。"
+    },
+    {
+     "en": "A shot (打针) hurts a little, but it keeps you healthy.",
+     "zh": "打针会有一点疼，但它能让你保持健康。"
+    },
+    {
+     "en": "The doctor's office measures your height and weight to see how you grow.",
+     "zh": "医生那里量身高体重，是为了看你的成长情况。"
+    }
+   ],
+   "china": [
+    {
+     "en": "In China, children visit the hospital or clinic for check-ups and vaccines; parents register and take a number first.",
+     "zh": "在中国，孩子去医院或诊所做体检、打疫苗，家长先挂号取号。"
+    },
+    {
+     "en": "Pediatricians often comfort children with stickers or small gifts after a shot.",
+     "zh": "儿科医生常在打针后用贴纸或小礼物安抚孩子。"
+    }
+   ],
+   "img": "assets/img/unit70.jpg"
+  },
+  {
+   "id": 71,
+   "section": 5,
+   "level": 1,
+   "en": "Video-Calling a Classmate",
+   "zh": "和同学视频通话",
+   "grammar": "Simple Present",
+   "grammarZh": "一般现在时",
+   "grammarNote": {
+    "en": "The simple present tense describes the usual way Jenny talks with her friend: video-calls, answers, waves, shows, talks, hangs up. / 一般现在时描述珍妮和同学视频通话的常规过程：video-calls、answers、waves、shows、talks、hangs up。",
+    "zh": "一般现在时"
+   },
+   "steps": [
+    {
+     "en": "Jenny video-calls her classmate Kate.",
+     "zh": "珍妮给同学凯特打视频电话。"
+    },
+    {
+     "en": "Kate answers the video call.",
+     "zh": "凯特接了视频电话。"
+    },
+    {
+     "en": "They wave and say hi.",
+     "zh": "她们挥手打招呼。"
+    },
+    {
+     "en": "Jenny shows Kate her drawing.",
+     "zh": "珍妮给凯特看她的画。"
+    },
+    {
+     "en": "Kate says, \"Wow! I like your drawing.\"",
+     "zh": "凯特说：“哇！我喜欢你的画。”"
+    },
+    {
+     "en": "They talk about school.",
+     "zh": "她们聊了聊学校的事。"
+    },
+    {
+     "en": "At the end, they say goodbye and hang up.",
+     "zh": "最后，她们道别并挂断。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Hi, Kate! Can you play?",
+     "zh": "嗨，凯特！你能玩吗？"
+    },
+    {
+     "speaker": "Kate",
+     "role": "girl",
+     "en": "Hi, Jenny! Yes, I can.",
+     "zh": "嗨，珍妮！可以呀。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Look what I made! It's a drawing of our school.",
+     "zh": "看我画了什么！是我们学校。"
+    },
+    {
+     "speaker": "Kate",
+     "role": "girl",
+     "en": "Wow! I like it. It's beautiful.",
+     "zh": "哇！我喜欢。真漂亮。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "I'll call you tomorrow. Bye!",
+     "zh": "明天再打给你。拜拜！"
+    },
+    {
+     "speaker": "Kate",
+     "role": "girl",
+     "en": "Bye!",
+     "zh": "拜拜！"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "answer",
+      "ipa": "/ˈænsər/",
+      "zh": "接（电话）"
+     },
+     {
+      "w": "hang up",
+      "ipa": "/hæŋ ʌp/",
+      "zh": "挂断"
+     },
+     {
+      "w": "show",
+      "ipa": "/ʃoʊ/",
+      "zh": "展示；给……看"
+     },
+     {
+      "w": "talk about",
+      "ipa": "/tɔːk əˈbaʊt/",
+      "zh": "谈论"
+     },
+     {
+      "w": "video-call",
+      "ipa": "/ˈvɪdioʊ kɔːl/",
+      "zh": "视频通话"
+     },
+     {
+      "w": "wave",
+      "ipa": "/weɪv/",
+      "zh": "挥手"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "classmate",
+      "ipa": "/ˈklæsmeɪt/",
+      "zh": "同学"
+     },
+     {
+      "w": "drawing",
+      "ipa": "/ˈdrɔːɪŋ/",
+      "zh": "画；绘画作品"
+     },
+     {
+      "w": "school",
+      "ipa": "/skuːl/",
+      "zh": "学校"
+     },
+     {
+      "w": "video call",
+      "ipa": "/ˈvɪdioʊ kɔːl/",
+      "zh": "视频通话"
+     }
+    ],
+    "others": [
+     {
+      "w": "beautiful (adj.)",
+      "ipa": "/ˈbjuːtɪfl/",
+      "zh": "漂亮的"
+     },
+     {
+      "w": "tomorrow (adv.)",
+      "ipa": "/təˈmɑːroʊ/",
+      "zh": "明天"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "Video-call is a verb here: to talk with someone on a screen.",
+     "zh": "video-call 在这里是动词：通过屏幕和人通话。"
+    },
+    {
+     "en": "\"Look what I made!\" is how you show something you made with pride.",
+     "zh": "Look what I made!（看我做的！）是自豪地展示自己作品的说法。"
+    },
+    {
+     "en": "In China, kids often video-call grandparents and classmates on WeChat.",
+     "zh": "在中国，孩子常用微信和爷爷奶奶、同学视频通话。"
+    }
+   ],
+   "china": [
+    {
+     "en": "WeChat video calls are the most common way for Chinese kids to stay in touch with family and classmates.",
+     "zh": "微信视频通话是中国孩子和家人、同学保持联系最常见的方式。"
+    },
+    {
+     "en": "Children love to show their drawings, toys or homework on a video call.",
+     "zh": "孩子们喜欢在视频里展示自己的画、玩具或作业。"
+    }
+   ],
+   "img": "assets/img/unit71.jpg"
+  },
+  {
+   "id": 72,
+   "section": 6,
+   "level": 1,
+   "en": "Playing Downstairs",
+   "zh": "小区楼下玩耍",
+   "grammar": "Simple Past",
+   "grammarZh": "一般过去时",
+   "grammarNote": {
+    "en": "The simple past tense tells what happened after dinner: went, played, counted, looked for, jumped, kicked, got dark, called. Irregular verbs: go→went, get→got. / 一般过去时讲述晚饭后在楼下玩耍的经过：went、played、counted、looked for、jumped、kicked、got dark、called。不规则动词：go→went、get→got。",
+    "zh": "一般过去时"
+   },
+   "steps": [
+    {
+     "en": "After dinner, Jenny went downstairs to play.",
+     "zh": "晚饭后，珍妮下楼去玩。"
+    },
+    {
+     "en": "Her friends were in the yard.",
+     "zh": "她的朋友们在院子里。"
+    },
+    {
+     "en": "They played hide-and-seek.",
+     "zh": "他们玩捉迷藏。"
+    },
+    {
+     "en": "Jenny counted to ten and looked for her friends.",
+     "zh": "珍妮数到十，然后去找朋友们。"
+    },
+    {
+     "en": "Then they jumped rope together.",
+     "zh": "然后他们一起跳绳。"
+    },
+    {
+     "en": "Tom kicked a ball to Jenny.",
+     "zh": "汤姆把球踢给珍妮。"
+    },
+    {
+     "en": "When it got dark, Mom called her home.",
+     "zh": "天黑了，妈妈喊她回家。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Mom, can I go out and play?",
+     "zh": "妈妈，我能出去玩吗？"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Yes, but come home before dark.",
+     "zh": "可以，但要天黑前回家。"
+    },
+    {
+     "speaker": "Friend",
+     "role": "clerk",
+     "en": "Let's play hide-and-seek!",
+     "zh": "我们来玩捉迷藏吧！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Ready or not, here I come!",
+     "zh": "准备好了没？我来找啦！"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Jenny, time to come home!",
+     "zh": "珍妮，该回家啦！"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "OK, Mom. Can I play a little longer?",
+     "zh": "好的，妈妈。我能再玩一会儿吗？"
+    }
+   ],
+   "vocab": {
+    "verbs": [
+     {
+      "w": "come home",
+      "ipa": "/kʌm hoʊm/",
+      "zh": "回家"
+     },
+     {
+      "w": "count",
+      "ipa": "/kaʊnt/",
+      "zh": "数"
+     },
+     {
+      "w": "get dark",
+      "ipa": "/ɡet dɑːrk/",
+      "zh": "天黑"
+     },
+     {
+      "w": "go downstairs",
+      "ipa": "/ɡoʊ ˌdaʊnˈsterz/",
+      "zh": "下楼"
+     },
+     {
+      "w": "jump rope",
+      "ipa": "/dʒʌmp roʊp/",
+      "zh": "跳绳"
+     },
+     {
+      "w": "kick",
+      "ipa": "/kɪk/",
+      "zh": "踢"
+     },
+     {
+      "w": "look for",
+      "ipa": "/lʊk fɔːr/",
+      "zh": "寻找"
+     },
+     {
+      "w": "play",
+      "ipa": "/pleɪ/",
+      "zh": "玩"
+     }
+    ],
+    "nouns": [
+     {
+      "w": "ball",
+      "ipa": "/bɔːl/",
+      "zh": "球"
+     },
+     {
+      "w": "friend",
+      "ipa": "/frend/",
+      "zh": "朋友"
+     },
+     {
+      "w": "hide-and-seek",
+      "ipa": "/ˌhaɪd ən ˈsiːk/",
+      "zh": "捉迷藏"
+     },
+     {
+      "w": "rope",
+      "ipa": "/roʊp/",
+      "zh": "绳子"
+     },
+     {
+      "w": "yard",
+      "ipa": "/jɑːrd/",
+      "zh": "院子；楼下空地"
+     }
+    ],
+    "others": [
+     {
+      "w": "before dark (adverbial)",
+      "ipa": "/bɪˈfɔːr dɑːrk/",
+      "zh": "天黑前"
+     },
+     {
+      "w": "together (adv.)",
+      "ipa": "/təˈɡeðər/",
+      "zh": "一起"
+     },
+     {
+      "w": "a little longer (adverbial)",
+      "ipa": "/ə ˈlɪtl ˈlɔːŋɡər/",
+      "zh": "再一会儿"
+     }
+    ]
+   },
+   "notes": [
+    {
+     "en": "In hide-and-seek, one child counts, the others hide, then the first child looks for them.",
+     "zh": "捉迷藏时，一个孩子数数，其他人藏起来，然后他去找。"
+    },
+    {
+     "en": "\"Ready or not, here I come!\" is what the seeker says after counting.",
+     "zh": "“准备好了没？我来找啦！”是数完数后去找人时说的话。"
+    },
+    {
+     "en": "Playing outside is fun, but come home before dark.",
+     "zh": "在外面玩很开心，但要天黑前回家。"
+    }
+   ],
+   "china": [
+    {
+     "en": "After dinner, Chinese children often play in the yard or open space of the housing community with friends.",
+     "zh": "晚饭后，中国孩子常和伙伴在小区院子里或楼下空地上玩。"
+    },
+    {
+     "en": "Parents call kids home when it gets dark; \"come home before dark\" is a common family rule.",
+     "zh": "天黑了家长会喊孩子回家，“天黑前回家”是常见的家规。"
+    }
+   ],
+   "img": "assets/img/unit72.jpg"
   }
  ],
- "totalUnits": 67,
+ "totalUnits": 72,
  "availableUnits": [
   1,
   2,
@@ -16331,6 +17288,11 @@
   64,
   65,
   66,
-  67
+  67,
+  68,
+  69,
+  70,
+  71,
+  72
  ]
 }
