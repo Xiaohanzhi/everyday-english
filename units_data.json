@@ -1514,36 +1514,32 @@
    },
    "steps": [
     {
-     "en": "I put a bottom sheet on the mattress. If I have a fitted sheet, I slip it over the mattress.",
-     "zh": "我把床单铺在床垫上。如果是松紧床笠，我把它套在床垫上。"
+     "en": "In the morning, I make my bed.",
+     "zh": "早上，我自己叠被子。"
     },
     {
-     "en": "If I have a flat sheet, I tuck it under the mattress.",
-     "zh": "如果是普通床单，我把它塞到床垫下面。"
+     "en": "First, I smooth out the blanket.",
+     "zh": "首先，我把毯子抹平。"
     },
     {
-     "en": "Then I tuck the top sheet under the mattress at the foot of the bed.",
-     "zh": "然后我把上端的床单在床尾塞到床垫下面。"
+     "en": "Then I fold it in half.",
+     "zh": "然后把它对折。"
     },
     {
-     "en": "I pull the top sheet tight.",
-     "zh": "我把床单拉紧。"
+     "en": "I fold it in half again.",
+     "zh": "我再对折一次。"
     },
     {
-     "en": "I spread a blanket over the bed and smooth it out.",
-     "zh": "我在床上铺一条毯子，然后抹平。"
+     "en": "I put the folded blanket at the foot of the bed.",
+     "zh": "我把叠好的被子放到床尾。"
     },
     {
-     "en": "I spread a bedspread over the bed.",
-     "zh": "我在床上铺床罩。"
+     "en": "I fluff up my pillow and lay it at the head of the bed.",
+     "zh": "我拍松枕头，放在床头。"
     },
     {
-     "en": "I fluff up the pillows and lay them at the head of the bed.",
-     "zh": "我把枕头拍松，放在床头。"
-    },
-    {
-     "en": "I pull the bedspread over the pillows and smooth it out.",
-     "zh": "我把床罩拉过枕头，然后抹平。"
+     "en": "I spread the bedcover over the bed and smooth it out.",
+     "zh": "我把床罩铺到床上，抹平。"
     }
    ],
    "vocab": {
@@ -1551,52 +1547,37 @@
      {
       "w": "fluff up",
       "ipa": "/flʌf ʌp/",
-      "zh": "拍松（枕头）"
+      "zh": "拍松"
      },
      {
-      "w": "have",
-      "ipa": "/hæv/ (/hæd/)",
-      "zh": "有"
+      "w": "fold",
+      "ipa": "/foʊld/",
+      "zh": "折叠"
      },
      {
       "w": "lay",
-      "ipa": "/leɪ/ (/leɪd/)",
-      "zh": "放置，摆放"
+      "ipa": "/leɪ/",
+      "zh": "放置"
      },
      {
       "w": "make a bed",
       "ipa": "/meɪk ə bed/",
-      "zh": "铺床"
-     },
-     {
-      "w": "pull",
-      "ipa": "/pʊl/",
-      "zh": "拉"
+      "zh": "叠被子；铺床"
      },
      {
       "w": "put",
-      "ipa": "/pʊt/ (/pʊt/)",
+      "ipa": "/pʊt/",
       "zh": "放"
-     },
-     {
-      "w": "slip",
-      "ipa": "/slɪp/",
-      "zh": "套上，滑入"
      },
      {
       "w": "smooth out",
       "ipa": "/smuːð aʊt/",
-      "zh": "抹平，弄平"
+      "zh": "抹平"
      },
      {
       "w": "spread",
-      "ipa": "/spred/ (/spred/)",
+      "ipa": "/spred/",
       "zh": "铺开"
-     },
-     {
-      "w": "tuck",
-      "ipa": "/tʌk/",
-      "zh": "把……塞好"
      }
     ],
     "nouns": [
@@ -1606,108 +1587,67 @@
       "zh": "床"
      },
      {
-      "w": "bedspread",
-      "ipa": "/ˈbedspred/",
+      "w": "bedcover",
+      "ipa": "/ˈbedkʌvər/",
       "zh": "床罩"
      },
      {
       "w": "blanket",
       "ipa": "/ˈblæŋkɪt/",
-      "zh": "毯子"
-     },
-     {
-      "w": "bottom",
-      "ipa": "/ˈbɑːtəm/",
-      "zh": "底部"
+      "zh": "毯子；被子"
      },
      {
       "w": "foot",
       "ipa": "/fʊt/",
-      "zh": "床尾"
+      "zh": "（床的）尾端"
      },
      {
       "w": "head",
       "ipa": "/hed/",
-      "zh": "床头"
-     },
-     {
-      "w": "mattress",
-      "ipa": "/ˈmætrəs/",
-      "zh": "床垫"
+      "zh": "（床的）头端"
      },
      {
       "w": "pillow",
       "ipa": "/ˈpɪloʊ/",
       "zh": "枕头"
-     },
-     {
-      "w": "sheet",
-      "ipa": "/ʃiːt/",
-      "zh": "床单"
-     },
-     {
-      "w": "top",
-      "ipa": "/tɑːp/",
-      "zh": "顶部"
      }
     ],
     "others": [
      {
-      "w": "fitted",
-      "ipa": "/ˈfɪtɪd/",
-      "zh": "有松紧带的（形容词）"
+      "w": "first (adv.)",
+      "ipa": "/fɜːrst/",
+      "zh": "首先"
      },
      {
-      "w": "flat",
-      "ipa": "/flæt/",
-      "zh": "平的（形容词）"
-     },
-     {
-      "w": "tight",
-      "ipa": "/taɪt/",
-      "zh": "紧的（形容词）"
+      "w": "then (adv.)",
+      "ipa": "/ðen/",
+      "zh": "然后"
      }
     ]
    },
    "notes": [
     {
-     "en": "To pull something tight is to pull it until it is tight.",
-     "zh": "pull something tight 指把某物拉到绷紧为止。"
+     "en": "Making your bed is a good morning habit.",
+     "zh": "自己叠被子是个好的晨间习惯。"
     },
     {
-     "en": "When you lie on a bed, you put your head near the head of the bed and your feet near the foot of the bed.",
-     "zh": "躺在床上时，头靠近床头（head of the bed），脚靠近床尾（foot of the bed）。"
-    },
-    {
-     "en": "A pillow goes inside a pillowcase.",
-     "zh": "枕头（pillow）装在枕套（pillowcase）里面。"
-    },
-    {
-     "en": "The corners of a fitted sheet are made to fit over the corners of a mattress. Fitted sheets are used only as bottom sheets, not as top sheets.",
-     "zh": "松紧床笠的四角是为套住床垫四角设计的。床笠只能当床单（bottom sheet）用，不能当盖单（top sheet）用。"
-    },
-    {
-     "en": "You smooth out a sheet by removing wrinkles.",
-     "zh": "smooth out 指把褶皱抹平。"
+     "en": "Fold the blanket in half, then in half again, to make a neat square.",
+     "zh": "把被子对折、再对折，叠成整齐的方块。"
     }
    ],
    "dialogue": [],
    "china": [
     {
-     "en": "Many Chinese simply fold the quilt into a rectangle or square in the morning instead of making a layered bed.",
-     "zh": "很多中国人早上把被子叠成方块或对折即可，不一定要铺床罩。"
+     "en": "Chinese children often fold the blanket into a neat square in the morning instead of using many sheets.",
+     "zh": "中国孩子早晨常把被子叠成整齐的方块，而不是铺多层床单。"
     },
     {
-     "en": "Chinese bedding often uses a duvet cover (beitao) instead of a top sheet plus blanket plus bedspread.",
-     "zh": "中国床品常用被套，而不是床单+毯子+床罩三层。"
-    },
-    {
-     "en": "Hotel-style bed making with a bedspread is common in star hotels, but less so in ordinary homes.",
-     "zh": "带床罩的酒店式铺法在星级酒店常见，普通家庭较少。"
+     "en": "Most Chinese beds use a duvet with a cover, so folding is quick and easy.",
+     "zh": "中国床品多用被套包被芯，折叠起来又快又方便。"
     }
    ],
    "en": "Making a Bed",
-   "zh": "铺床"
+   "zh": "叠被子"
   },
   {
    "id": 7,
@@ -2440,28 +2380,32 @@
    },
    "steps": [
     {
-     "en": "Pam and Dan sit down at the table.",
-     "zh": "帕姆和丹在餐桌旁坐下。"
+     "en": "Jenny and Mom sit down at the table.",
+     "zh": "珍妮和妈妈在餐桌旁坐下。"
     },
     {
-     "en": "Pam drinks some coffee from her mug and eats some cereal.",
-     "zh": "帕姆用马克杯喝咖啡，吃一些麦片。"
+     "en": "Mom pours some milk into Jenny's bowl.",
+     "zh": "妈妈往珍妮的碗里倒了些牛奶。"
     },
     {
-     "en": "Dan drinks some tea and has an egg with bacon and toast.",
-     "zh": "丹喝茶，吃一个鸡蛋配培根和吐司。"
+     "en": "Jenny eats some rice porridge with a spoon.",
+     "zh": "珍妮用勺子喝粥。"
     },
     {
-     "en": "Sometimes, he dips his toast into the yolk of his egg.",
-     "zh": "有时他把吐司蘸进蛋黄里。"
+     "en": "She dips her steamed bun into the soy milk.",
+     "zh": "她把包子蘸着豆浆吃。"
     },
     {
-     "en": "As they eat, they read the paper and talk a little bit.",
-     "zh": "他们一边吃一边看报纸，聊几句。"
+     "en": "Mom drinks a cup of tea.",
+     "zh": "妈妈喝了一杯茶。"
     },
     {
-     "en": "After eating, they wipe their lips with their napkins and leave the table.",
-     "zh": "吃完后，他们用餐巾擦嘴，然后离开餐桌。"
+     "en": "After eating, Jenny wipes her mouth with a napkin.",
+     "zh": "吃完后，珍妮用纸巾擦了擦嘴。"
+    },
+    {
+     "en": "She puts her bowl in the sink and gets ready for school.",
+     "zh": "她把碗放进水池，准备去上学。"
     }
    ],
    "vocab": {
@@ -2469,42 +2413,32 @@
      {
       "w": "dip",
       "ipa": "/dɪp/",
-      "zh": "蘸，浸"
+      "zh": "蘸"
      },
      {
       "w": "drink",
-      "ipa": "/drɪŋk/ (/drʌŋk/)",
+      "ipa": "/drɪŋk/",
       "zh": "喝"
      },
      {
       "w": "eat",
-      "ipa": "/iːt/ (/ˈiːtən/)",
+      "ipa": "/iːt/",
       "zh": "吃"
      },
      {
-      "w": "have",
-      "ipa": "/hæv/ (/hæd/)",
-      "zh": "吃，喝，有"
+      "w": "get ready",
+      "ipa": "/ɡet ˈredi/",
+      "zh": "准备好"
      },
      {
-      "w": "leave",
-      "ipa": "/liːv/ (/left/)",
-      "zh": "离开"
-     },
-     {
-      "w": "read",
-      "ipa": "/riːd/ (/rɛd/)",
-      "zh": "阅读"
+      "w": "pour",
+      "ipa": "/pɔːr/",
+      "zh": "倒（液体）"
      },
      {
       "w": "sit down",
       "ipa": "/sɪt daʊn/",
       "zh": "坐下"
-     },
-     {
-      "w": "talk",
-      "ipa": "/tɔːk/",
-      "zh": "交谈"
      },
      {
       "w": "wipe",
@@ -2514,29 +2448,9 @@
     ],
     "nouns": [
      {
-      "w": "bacon",
-      "ipa": "/ˈbeɪkən/",
-      "zh": "培根"
-     },
-     {
       "w": "bowl",
       "ipa": "/boʊl/",
       "zh": "碗"
-     },
-     {
-      "w": "breakfast",
-      "ipa": "/ˈbrekfəst/",
-      "zh": "早餐"
-     },
-     {
-      "w": "cereal",
-      "ipa": "/ˈsɪriəl/",
-      "zh": "麦片"
-     },
-     {
-      "w": "coffee",
-      "ipa": "/ˈkɔːfi/",
-      "zh": "咖啡"
      },
      {
       "w": "egg",
@@ -2544,34 +2458,19 @@
       "zh": "鸡蛋"
      },
      {
-      "w": "fork",
-      "ipa": "/fɔːrk/",
-      "zh": "叉子"
-     },
-     {
-      "w": "knife",
-      "ipa": "/naɪf/",
-      "zh": "刀"
-     },
-     {
-      "w": "lip",
-      "ipa": "/lɪp/",
-      "zh": "嘴唇"
-     },
-     {
-      "w": "mug",
-      "ipa": "/mʌɡ/",
-      "zh": "马克杯"
-     },
-     {
       "w": "napkin",
       "ipa": "/ˈnæpkɪn/",
-      "zh": "餐巾"
+      "zh": "纸巾；餐巾"
      },
      {
-      "w": "paper",
-      "ipa": "/ˈpeɪpər/",
-      "zh": "报纸（口语）"
+      "w": "rice porridge",
+      "ipa": "/raɪs ˈpɔːrɪdʒ/",
+      "zh": "粥"
+     },
+     {
+      "w": "soy milk",
+      "ipa": "/sɔɪ mɪlk/",
+      "zh": "豆浆"
      },
      {
       "w": "spoon",
@@ -2579,91 +2478,61 @@
       "zh": "勺子"
      },
      {
+      "w": "steamed bun",
+      "ipa": "/stiːmd bʌn/",
+      "zh": "包子"
+     },
+     {
       "w": "table",
       "ipa": "/ˈteɪbl/",
-      "zh": "桌子"
-     },
-     {
-      "w": "tea",
-      "ipa": "/tiː/",
-      "zh": "茶"
-     },
-     {
-      "w": "toast",
-      "ipa": "/toʊst/",
-      "zh": "吐司"
-     },
-     {
-      "w": "yolk",
-      "ipa": "/joʊk/",
-      "zh": "蛋黄"
+      "zh": "餐桌"
      }
     ],
     "others": [
      {
-      "w": "sometimes",
-      "ipa": "/ˈsʌmtaɪmz/",
-      "zh": "有时（副词）"
+      "w": "a cup of (quantifier)",
+      "ipa": "/ə kʌp əv/",
+      "zh": "一杯"
      },
      {
-      "w": "a little bit",
-      "ipa": "/ə ˈlɪtl bɪt/",
-      "zh": "一点点（副词短语）"
+      "w": "yum (interj.)",
+      "ipa": "/jʌm/",
+      "zh": "好吃；好喝"
      }
     ]
    },
    "notes": [
     {
-     "en": "'The paper' means 'the newspaper.'",
-     "zh": "the paper 指 the newspaper（报纸）。"
+     "en": "Rice porridge with a steamed bun is a common Chinese breakfast.",
+     "zh": "粥配包子是很常见的中国早餐。"
     },
     {
-     "en": "A little bit = some, but not very much.",
-     "zh": "a little bit 意思是“一点点”，即有一些但不多。"
-    },
-    {
-     "en": "First you sit down; then you sit.",
-     "zh": "sit down 是“坐下”的动作，sit 是“坐着”的状态。"
-    },
-    {
-     "en": "A mug is a large cup with a handle.",
-     "zh": "mug 指带把手的大杯子。"
-    },
-    {
-     "en": "Pam and Dan sit at the table. They sit in or on chairs.",
-     "zh": "sit at the table 指坐在桌边；sit in/on chairs 指坐在椅子上。"
-    },
-    {
-     "en": "You dip a solid into a liquid by putting it in for only a short time.",
-     "zh": "dip 指把固体短暂地浸入液体中。"
+     "en": "\"We'll be late for school\" means we need to hurry.",
+     "zh": "We'll be late for school.（上学要迟到了）意思是得抓紧时间了。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Pam",
-     "role": "girl",
-     "en": "It says here that taxes are going up.",
-     "zh": "这儿写着税要涨了。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Eat your egg, Jenny. We'll be late for school.",
+     "zh": "把鸡蛋吃了，珍妮。上学要迟到了。"
     },
     {
-     "speaker": "Dan",
-     "role": "man",
-     "en": "As usual...",
-     "zh": "老样子……"
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Okay, Mom. Yum!",
+     "zh": "好的，妈妈。真好吃！"
     }
    ],
    "china": [
     {
-     "en": "Many Chinese people read news or watch short videos on their phones while eating breakfast, rather than reading a newspaper.",
-     "zh": "很多中国人吃早餐时用手机看新闻或刷短视频，而不是读报纸。"
+     "en": "Chinese breakfasts often include rice porridge, steamed buns, soy milk and eggs.",
+     "zh": "中式早餐常有粥、包子、豆浆和鸡蛋。"
     },
     {
-     "en": "Chinese breakfast uses chopsticks and bowls; knives and forks are rarely used at home.",
-     "zh": "中式早餐用筷子和碗，家里很少用刀叉。"
-    },
-    {
-     "en": "Many Chinese eat breakfast at a street-side stall (soymilk, steamed buns) rather than sitting at a dining table at home.",
-     "zh": "很多中国人在路边摊吃早餐（豆浆、包子），而不是坐在家里餐桌旁。"
+     "en": "Children use a spoon for porridge and wipe their mouths with a napkin after eating.",
+     "zh": "孩子用勺子喝粥，吃完用纸巾擦嘴。"
     }
    ],
    "en": "Eating Breakfast",
@@ -2870,72 +2739,44 @@
    },
    "steps": [
     {
-     "en": "Jenny checked her bus schedule.",
-     "zh": "Jenny 查看了她的公交时刻表。"
+     "en": "Jenny checked the bus schedule on her phone.",
+     "zh": "珍妮在手机上查了公交时刻表。"
     },
     {
      "en": "Her bus—a Number 77—was due at eight-twenty.",
-     "zh": "她要乘坐的 77 路公交车预计八点二十到。"
+     "zh": "她要乘坐的 77 路公交车八点二十到。"
     },
     {
-     "en": "She walked to the bus stop...",
-     "zh": "她走到公交车站……"
+     "en": "She walked to the bus stop and waited.",
+     "zh": "她走到公交车站等候。"
     },
     {
-     "en": "...and sat on a bench to wait for the bus.",
-     "zh": "然后坐在长椅上等车。"
+     "en": "The bus arrived on time, and the driver opened the door.",
+     "zh": "公交车准点到达，司机打开了门。"
     },
     {
-     "en": "The bus arrived on time (at eight-twenty).",
-     "zh": "公交车准点到达（八点二十）。"
+     "en": "Jenny got on the bus and tapped her transit card on the reader.",
+     "zh": "珍妮上了车，在刷卡机上刷了公交卡。"
     },
     {
-     "en": "The driver opened the door...",
-     "zh": "司机打开了车门……"
+     "en": "Other passengers scanned their phone codes.",
+     "zh": "其他乘客用手机扫码付车费。"
     },
     {
-     "en": "...and Jenny got on the bus.",
-     "zh": "Jenny 上了车。"
+     "en": "All the seats were full, so Jenny stood in the aisle and held on to a strap.",
+     "zh": "座位都满了，珍妮站在过道里，抓住吊环。"
     },
     {
-     "en": "She showed the driver her bus pass.",
-     "zh": "她向司机出示了公交卡。"
+     "en": "Soon, a seat was empty, and Jenny sat down.",
+     "zh": "很快有个空座，珍妮坐了下来。"
     },
     {
-     "en": "Other passengers paid their fare.",
-     "zh": "其他乘客投了车费。"
+     "en": "Near her stop, she pressed the button to ring the stop signal.",
+     "zh": "快到站时，她按下按钮，按响下车铃。"
     },
     {
-     "en": "All the seats were full, so Jenny stood in the aisle.",
-     "zh": "所有座位都满了，所以 Jenny 站在过道里。"
-    },
-    {
-     "en": "She held on to a strap on the overhead bars.",
-     "zh": "她抓着头顶横杆上的吊环。"
-    },
-    {
-     "en": "Soon, someone got off the bus, so a seat was empty.",
-     "zh": "不久有人下车，空出了一个座位。"
-    },
-    {
-     "en": "Jenny sat down and read a book while she rode the bus.",
-     "zh": "Jenny 坐下来，边坐车边看书。"
-    },
-    {
-     "en": "Near her stop, she pressed a button...",
-     "zh": "快到站时，她按了一下按钮……"
-    },
-    {
-     "en": "...to ring the \"stop\" signal.",
-     "zh": "以按响\"停车\"信号铃。"
-    },
-    {
-     "en": "She walked to the exit...",
-     "zh": "她走向车门……"
-    },
-    {
-     "en": "...and got off at her stop.",
-     "zh": "然后在自己那站下了车。"
+     "en": "She got off at her stop and walked to school.",
+     "zh": "她在自己的那一站下车，走向学校。"
     }
    ],
    "vocab": {
@@ -2948,77 +2789,42 @@
      {
       "w": "check",
       "ipa": "/tʃek/",
-      "zh": "查看，检查"
+      "zh": "查看"
      },
      {
-      "w": "drop",
-      "ipa": "/drɑːp/",
-      "zh": "投（币），放下"
-     },
-     {
-      "w": "get (got) off",
-      "ipa": "/ɡet ɡɔːf/",
+      "w": "get off",
+      "ipa": "/ɡet ɔːf/",
       "zh": "下车"
      },
      {
-      "w": "get (got) on",
-      "ipa": "/ɡet ɡɑːn/",
+      "w": "get on",
+      "ipa": "/ɡet ɑːn/",
       "zh": "上车"
      },
      {
-      "w": "hold (held)",
-      "ipa": "/hoʊld/",
-      "zh": "抓住，握住"
-     },
-     {
-      "w": "open",
-      "ipa": "/ˈoʊpən/",
-      "zh": "打开"
-     },
-     {
-      "w": "pay (paid)",
-      "ipa": "/peɪ/",
-      "zh": "付款"
+      "w": "hold on to",
+      "ipa": "/hoʊld ɑːn tuː/",
+      "zh": "抓住"
      },
      {
       "w": "press",
       "ipa": "/pres/",
-      "zh": "按，压"
+      "zh": "按"
      },
      {
-      "w": "put (put) into",
-      "ipa": "/pʊt/",
-      "zh": "放入"
-     },
-     {
-      "w": "read (read)",
-      "ipa": "/riːd/",
-      "zh": "阅读"
-     },
-     {
-      "w": "ride (rode)",
-      "ipa": "/raɪd/",
-      "zh": "乘坐，骑"
-     },
-     {
-      "w": "ring (rang)",
+      "w": "ring",
       "ipa": "/rɪŋ/",
-      "zh": "按（铃），响"
+      "zh": "按响；响铃"
      },
      {
-      "w": "show",
-      "ipa": "/ʃoʊ/",
-      "zh": "出示，展示"
+      "w": "scan",
+      "ipa": "/skæn/",
+      "zh": "扫码"
      },
      {
-      "w": "sit (sat)",
-      "ipa": "/sɪt/",
-      "zh": "坐"
-     },
-     {
-      "w": "stand (stood)",
-      "ipa": "/stænd/",
-      "zh": "站立"
+      "w": "tap",
+      "ipa": "/tæp/",
+      "zh": "轻触；刷（卡）"
      },
      {
       "w": "wait",
@@ -3028,7 +2834,7 @@
      {
       "w": "walk",
       "ipa": "/wɔːk/",
-      "zh": "步行"
+      "zh": "走"
      }
     ],
     "nouns": [
@@ -3038,44 +2844,14 @@
       "zh": "过道"
      },
      {
-      "w": "bar",
-      "ipa": "/bɑːr/",
-      "zh": "横杆"
-     },
-     {
-      "w": "bench",
-      "ipa": "/bentʃ/",
-      "zh": "长椅"
-     },
-     {
-      "w": "book",
-      "ipa": "/bʊk/",
-      "zh": "书"
-     },
-     {
-      "w": "box",
-      "ipa": "/bɑːks/",
-      "zh": "投币箱"
-     },
-     {
       "w": "bus",
       "ipa": "/bʌs/",
       "zh": "公交车"
      },
      {
-      "w": "button",
-      "ipa": "/ˈbʌtn/",
-      "zh": "按钮"
-     },
-     {
-      "w": "card",
-      "ipa": "/kɑːrd/",
-      "zh": "卡"
-     },
-     {
-      "w": "conductor",
-      "ipa": "/kənˈdʌktər/",
-      "zh": "售票员"
+      "w": "bus stop",
+      "ipa": "/bʌs stɑːp/",
+      "zh": "公交站"
      },
      {
       "w": "door",
@@ -3088,44 +2864,14 @@
       "zh": "司机"
      },
      {
-      "w": "exit",
-      "ipa": "/ˈeɡzɪt/",
-      "zh": "出口"
+      "w": "phone",
+      "ipa": "/foʊn/",
+      "zh": "手机"
      },
      {
-      "w": "fare",
-      "ipa": "/fer/",
-      "zh": "车费"
-     },
-     {
-      "w": "machine",
-      "ipa": "/məˈʃiːn/",
-      "zh": "机器"
-     },
-     {
-      "w": "money",
-      "ipa": "/ˈmʌni/",
-      "zh": "钱"
-     },
-     {
-      "w": "pass",
-      "ipa": "/pæs/",
-      "zh": "乘车卡，月票"
-     },
-     {
-      "w": "passenger",
-      "ipa": "/ˈpæsɪndʒər/",
-      "zh": "乘客"
-     },
-     {
-      "w": "people",
-      "ipa": "/ˈpiːpl/",
-      "zh": "人们"
-     },
-     {
-      "w": "receipt",
-      "ipa": "/rɪˈsiːt/",
-      "zh": "收据，小票"
+      "w": "reader",
+      "ipa": "/ˈriːdər/",
+      "zh": "刷卡机"
      },
      {
       "w": "schedule",
@@ -3140,99 +2886,70 @@
      {
       "w": "signal",
       "ipa": "/ˈsɪɡnəl/",
-      "zh": "信号"
-     },
-     {
-      "w": "stop",
-      "ipa": "/stɑːp/",
-      "zh": "车站"
+      "zh": "下车铃"
      },
      {
       "w": "strap",
       "ipa": "/stræp/",
-      "zh": "吊环，皮带"
+      "zh": "吊环"
+     },
+     {
+      "w": "transit card",
+      "ipa": "/ˈtrænzɪt kɑːrd/",
+      "zh": "公交卡"
      }
     ],
     "others": [
      {
       "w": "due (adj.)",
       "ipa": "/duː/",
-      "zh": "预定的，到期的"
-     },
-     {
-      "w": "empty (adj.)",
-      "ipa": "/ˈempti/",
-      "zh": "空的"
-     },
-     {
-      "w": "full (adj.)",
-      "ipa": "/fʊl/",
-      "zh": "满的"
+      "zh": "（车）应到"
      },
      {
       "w": "on time (adverbial)",
       "ipa": "/ɑːn taɪm/",
       "zh": "准时"
-     },
-     {
-      "w": "other (adj.)",
-      "ipa": "/ˈʌðər/",
-      "zh": "其他的"
-     },
-     {
-      "w": "overhead (adj.)",
-      "ipa": "/ˌoʊvərˈhed/",
-      "zh": "头顶的"
-     },
-     {
-      "w": "soon (adv.)",
-      "ipa": "/suːn/",
-      "zh": "很快"
      }
     ]
    },
    "notes": [
     {
-     "en": "If a bus is NOT on time, it is late or early.",
-     "zh": "如果公交车不准时，就是晚点或早点了。"
+     "en": "Tap your transit card or scan your phone code when you get on the bus.",
+     "zh": "上车时刷公交卡或用手机扫码。"
     },
     {
-     "en": "If Jenny checked her schedule, she looked at it for a short time to find some specific information.",
-     "zh": "Jenny 查看时刻表，意思是她短暂地看一下，找出特定信息。"
-    },
-    {
-     "en": "A bus pass is a card or a piece of paper.",
-     "zh": "公交卡是一张卡片或一张纸。"
-    },
-    {
-     "en": "A bus pass means you can ride the bus without paying on the bus.",
-     "zh": "有了公交卡，坐车时就不用再当场付钱。"
-    },
-    {
-     "en": "A bus pass is good for a certain time (maybe one week, maybe one month, etc.).",
-     "zh": "公交卡在一段时间内有效（可能一周、一个月等）。"
+     "en": "Press the button near your stop so the driver knows you want to get off.",
+     "zh": "快到站时按下按钮，司机就知道你要下车。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "conductor",
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Excuse me, does this bus go to Sunny School?",
+     "zh": "请问这路车去阳光小学吗？"
+    },
+    {
+     "speaker": "Driver",
      "role": "clerk",
-     "en": "One dollar, please.",
-     "zh": "请付一美元。"
+     "en": "Yes, it does. Five stops.",
+     "zh": "是的，五站就到。"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Thank you!",
+     "zh": "谢谢！"
     }
    ],
    "china": [
     {
-     "en": "In Chinese cities, most people pay bus fare by scanning a QR code with their phone or by tapping a transit card, instead of dropping coins into a fare box.",
-     "zh": "在中国城市，大多数人用手机扫码或刷交通卡付公交费，而不是往投币箱里塞硬币。"
+     "en": "In Chinese cities, people pay the bus fare by tapping a transit card or scanning a phone code.",
+     "zh": "中国城市乘公交用公交卡刷卡或手机扫码付费。"
     },
     {
-     "en": "Many Chinese buses have air conditioning and automatic next-stop announcements in Mandarin and English.",
-     "zh": "中国很多公交车有空调，并用普通话和英语自动报站。"
-    },
-    {
-     "en": "Contactless transit cards (like Beijing's Yikatong) and shared-bike apps are widely used for short trips.",
-     "zh": "短途出行广泛使用非接触式交通卡（如北京一卡通）和共享单车 App。"
+     "en": "Many city buses have air conditioning and announce stops in Chinese and English.",
+     "zh": "很多公交车有空调，并用中英文自动报站。"
     }
    ],
    "en": "Taking a Bus",
@@ -4144,36 +3861,32 @@
    },
    "steps": [
     {
-     "en": "Tom bought a ticket from the ticket machine.",
-     "zh": "Tom 从售票机买了一张票。"
+     "en": "Tom booked a train ticket on his phone.",
+     "zh": "汤姆在手机上订了一张火车票。"
     },
     {
-     "en": "Other passengers bought tickets at the ticket window.",
-     "zh": "其他乘客在售票窗口买票。"
+     "en": "At the station, he showed his ID card at the gate.",
+     "zh": "在车站，他在闸机口刷了身份证。"
     },
     {
-     "en": "Tom inserted his ticket into the slot in the turnstile.",
-     "zh": "Tom 把票插进检票闸机的票口。"
+     "en": "The gate opened, and he walked through.",
+     "zh": "闸门打开，他走了过去。"
     },
     {
-     "en": "The gate opened and Tom walked through.",
-     "zh": "闸门打开，Tom 走了过去。"
-    },
-    {
-     "en": "He followed the signs to his gate.",
-     "zh": "他跟着指示牌走到自己的检票口。"
+     "en": "He followed the signs to the platform.",
+     "zh": "他跟着指示牌走到站台。"
     },
     {
      "en": "He waited on the platform next to the track.",
-     "zh": "他站在站台轨道旁等车。"
+     "zh": "他站在站台上，紧挨着轨道等车。"
     },
     {
-     "en": "After his train arrived, he got on.",
-     "zh": "火车到站后，他上了车。"
+     "en": "The high-speed train arrived, and he got on.",
+     "zh": "高铁到站了，他上了车。"
     },
     {
-     "en": "The train was crowded so he had to stand.",
-     "zh": "火车很挤，他只能站着。"
+     "en": "He found his seat by the window.",
+     "zh": "他找到了靠窗的座位。"
     },
     {
      "en": "His station was announced...",
@@ -4189,7 +3902,7 @@
      {
       "w": "announce",
       "ipa": "/əˈnaʊns/",
-      "zh": "广播，播报"
+      "zh": "（广播）报站"
      },
      {
       "w": "arrive",
@@ -4197,34 +3910,29 @@
       "zh": "到达"
      },
      {
-      "w": "buy (bought)",
-      "ipa": "/baɪ/",
-      "zh": "买"
+      "w": "book",
+      "ipa": "/bʊk/",
+      "zh": "预订；买票"
+     },
+     {
+      "w": "find",
+      "ipa": "/faɪnd/",
+      "zh": "找到"
      },
      {
       "w": "follow",
       "ipa": "/ˈfɑːloʊ/",
-      "zh": "跟随，跟着"
+      "zh": "跟随"
      },
      {
-      "w": "get (got) off",
-      "ipa": "/ɡet/",
+      "w": "get off",
+      "ipa": "/ɡet ɔːf/",
       "zh": "下车"
      },
      {
-      "w": "get (got) on",
-      "ipa": "/ɡet/",
+      "w": "get on",
+      "ipa": "/ɡet ɑːn/",
       "zh": "上车"
-     },
-     {
-      "w": "have (had) to",
-      "ipa": "/hæv/",
-      "zh": "不得不"
-     },
-     {
-      "w": "insert",
-      "ipa": "/ɪnˈsɜːrt/",
-      "zh": "插入"
      },
      {
       "w": "open",
@@ -4232,41 +3940,26 @@
       "zh": "打开"
      },
      {
-      "w": "stand (stood)",
-      "ipa": "/stænd/",
-      "zh": "站立"
-     },
-     {
-      "w": "take (took) (a train)",
-      "ipa": "/teɪk/",
-      "zh": "乘坐（火车）"
+      "w": "show",
+      "ipa": "/ʃoʊ/",
+      "zh": "出示"
      },
      {
       "w": "wait",
       "ipa": "/weɪt/",
       "zh": "等待"
-     },
-     {
-      "w": "walk",
-      "ipa": "/wɔːk/",
-      "zh": "步行，走"
      }
     ],
     "nouns": [
      {
       "w": "gate",
       "ipa": "/ɡeɪt/",
-      "zh": "检票口"
+      "zh": "闸机口"
      },
      {
-      "w": "machine",
-      "ipa": "/məˈʃiːn/",
-      "zh": "机器"
-     },
-     {
-      "w": "passenger",
-      "ipa": "/ˈpæsɪndʒər/",
-      "zh": "乘客"
+      "w": "ID card",
+      "ipa": "/ˌaɪ ˈdiː kɑːrd/",
+      "zh": "身份证"
      },
      {
       "w": "platform",
@@ -4274,14 +3967,14 @@
       "zh": "站台"
      },
      {
+      "w": "seat",
+      "ipa": "/siːt/",
+      "zh": "座位"
+     },
+     {
       "w": "sign",
       "ipa": "/saɪn/",
       "zh": "指示牌"
-     },
-     {
-      "w": "slot",
-      "ipa": "/slɑːt/",
-      "zh": "票口，投口"
      },
      {
       "w": "station",
@@ -4291,7 +3984,7 @@
      {
       "w": "ticket",
       "ipa": "/ˈtɪkɪt/",
-      "zh": "票"
+      "zh": "车票"
      },
      {
       "w": "track",
@@ -4302,66 +3995,59 @@
       "w": "train",
       "ipa": "/treɪn/",
       "zh": "火车"
-     },
-     {
-      "w": "turnstile",
-      "ipa": "/ˈtɜːrnstaɪl/",
-      "zh": "检票闸机"
-     },
-     {
-      "w": "window",
-      "ipa": "/ˈwɪndoʊ/",
-      "zh": "窗口"
      }
     ],
     "others": [
      {
-      "w": "crowded (adj.)",
-      "ipa": "/ˈkraʊdɪd/",
-      "zh": "拥挤的"
+      "w": "by the window (adverbial)",
+      "ipa": "/baɪ ðə ˈwɪndoʊ/",
+      "zh": "靠窗"
      },
      {
-      "w": "other (adj.)",
-      "ipa": "/ˈʌðər/",
-      "zh": "其他的"
+      "w": "high-speed (adj.)",
+      "ipa": "/ˌhaɪ ˈspiːd/",
+      "zh": "高速的"
      }
     ]
    },
    "notes": [
     {
-     "en": "The train was crowded. There were very many people in a small place.",
-     "zh": "火车很拥挤，就是说一个很小的地方挤了很多人。"
+     "en": "In China you buy train tickets on your phone and show your ID card to get in.",
+     "zh": "在中国，用手机买火车票，刷身份证进站。"
     },
     {
-     "en": "When a gate with a turnstile opens, the turnstile rotates (turns).",
-     "zh": "带闸机的检票口打开时，闸机会转动。"
-    },
-    {
-     "en": "If he had to stand, he could not find a place to sit.",
-     "zh": "如果他只能站着，就是说找不到座位坐。"
-    },
-    {
-     "en": "His station was announced. This means someone announced his station.",
-     "zh": "他要下的站被广播了，意思是有人广播了他那一站的名字。"
-    },
-    {
-     "en": "Other passengers are passengers who are not Tom.",
-     "zh": "\"其他乘客\"指的是除了 Tom 以外的乘客。"
+     "en": "High-speed trains are very fast, so find your seat quickly.",
+     "zh": "高铁很快，上车后要尽快找到座位。"
     }
    ],
-   "dialogue": [],
+   "dialogue": [
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Tom, which train are we taking?",
+     "zh": "汤姆，我们坐哪一趟车？"
+    },
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "The G123 high-speed train, Mom.",
+     "zh": "G123 次高铁，妈妈。"
+    },
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "It arrives at 10:30.",
+     "zh": "十点半到站。"
+    }
+   ],
    "china": [
     {
-     "en": "In China, most people buy train tickets on the 12306 phone app and use an ID card to pass through subway and train turnstiles.",
-     "zh": "在中国，大多数人在 12306 手机 App 上买火车票，刷身份证通过地铁和火车闸机。"
+     "en": "Most Chinese people book train tickets on the 12306 app and go through the gate with their ID card.",
+     "zh": "大多数中国人在 12306 App 上买火车票，刷身份证通过闸机。"
     },
     {
-     "en": "High-speed trains (gaotie) are very popular in China, with trains reaching 350 km/h.",
-     "zh": "中国高铁非常普及，时速可达 350 公里。"
-    },
-    {
-     "en": "Platform screen doors are installed on most subway platforms in Chinese cities.",
-     "zh": "中国城市的大多数地铁站台都装有屏蔽门。"
+     "en": "China's high-speed trains can travel at 350 kilometers per hour.",
+     "zh": "中国高铁时速可达 350 公里。"
     }
    ],
    "en": "Taking a Train",
@@ -4380,36 +4066,36 @@
    },
    "steps": [
     {
-     "en": "Pam hailed a taxi.",
-     "zh": "Pam 叫了一辆出租车。"
+     "en": "Mom ordered a taxi on her phone.",
+     "zh": "妈妈用手机叫了一辆出租车。"
     },
     {
-     "en": "She got into the back seat...",
-     "zh": "她坐进后座……"
+     "en": "The taxi came to their building.",
+     "zh": "出租车开到了楼下。"
     },
     {
-     "en": "...and told the driver where she wanted to go.",
-     "zh": "然后告诉司机她要去哪里。"
+     "en": "Jenny and Mom got into the back seat.",
+     "zh": "珍妮和妈妈坐进了后座。"
     },
     {
-     "en": "He started the meter.",
-     "zh": "他开始打表。"
+     "en": "Jenny told the driver where they wanted to go.",
+     "zh": "珍妮告诉司机他们要去哪里。"
     },
     {
-     "en": "She checked the meter a few times.",
-     "zh": "她看了几次计价器。"
+     "en": "The driver started the meter.",
+     "zh": "司机开始打表。"
     },
     {
-     "en": "During the ride, she gave the driver directions.",
-     "zh": "乘车途中，她给司机指路。"
+     "en": "During the ride, Jenny looked out the window.",
+     "zh": "路上，珍妮看着窗外。"
     },
     {
-     "en": "She told him where to stop.",
-     "zh": "她告诉司机在哪里停车。"
+     "en": "The driver stopped in front of their school.",
+     "zh": "司机在学校门口停了下来。"
     },
     {
-     "en": "She paid the fare and gave him a tip.",
-     "zh": "她付了车费，并给了小费。"
+     "en": "Mom paid the fare with her phone.",
+     "zh": "妈妈用手机付了车费。"
     }
    ],
    "vocab": {
@@ -4420,54 +4106,39 @@
       "zh": "查看"
      },
      {
-      "w": "get (got) into",
-      "ipa": "/ɡet/",
-      "zh": "上（车）"
+      "w": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "zh": "坐进"
      },
      {
-      "w": "give (gave)",
-      "ipa": "/ɡɪv/",
-      "zh": "给，指路"
+      "w": "look out",
+      "ipa": "/lʊk aʊt/",
+      "zh": "向外看"
      },
      {
-      "w": "go (went)",
-      "ipa": "/ɡoʊ/",
-      "zh": "去"
+      "w": "order",
+      "ipa": "/ˈɔːrdər/",
+      "zh": "叫（车）；点（单）"
      },
      {
-      "w": "hail",
-      "ipa": "/heɪl/",
-      "zh": "招呼（出租车）"
-     },
-     {
-      "w": "pay (paid)",
+      "w": "pay",
       "ipa": "/peɪ/",
-      "zh": "付款"
+      "zh": "支付"
      },
      {
       "w": "start",
       "ipa": "/stɑːrt/",
-      "zh": "启动，开始"
+      "zh": "开始"
      },
      {
       "w": "stop",
       "ipa": "/stɑːp/",
-      "zh": "停下"
+      "zh": "停"
      },
      {
-      "w": "take (took) (a taxi)",
-      "ipa": "/teɪk/",
-      "zh": "乘坐（出租车）"
-     },
-     {
-      "w": "tell (told)",
+      "w": "tell",
       "ipa": "/tel/",
       "zh": "告诉"
-     },
-     {
-      "w": "want",
-      "ipa": "/wɑːnt/",
-      "zh": "想要"
      }
     ],
     "nouns": [
@@ -4475,11 +4146,6 @@
       "w": "back seat",
       "ipa": "/bæk siːt/",
       "zh": "后座"
-     },
-     {
-      "w": "directions",
-      "ipa": "/dəˈrekʃnz/",
-      "zh": "路线，指路"
      },
      {
       "w": "driver",
@@ -4497,119 +4163,80 @@
       "zh": "计价器"
      },
      {
-      "w": "ride",
-      "ipa": "/raɪd/",
-      "zh": "乘车，行程"
+      "w": "phone",
+      "ipa": "/foʊn/",
+      "zh": "手机"
      },
      {
       "w": "taxi",
       "ipa": "/ˈtæksi/",
       "zh": "出租车"
-     },
-     {
-      "w": "tip",
-      "ipa": "/tɪp/",
-      "zh": "小费"
      }
     ],
     "others": [
      {
-      "w": "a few times (adverbial)",
-      "ipa": "/ə fjuː taɪmz/",
-      "zh": "几次"
+      "w": "by phone (adverbial)",
+      "ipa": "/baɪ foʊn/",
+      "zh": "用手机"
      }
     ]
    },
    "notes": [
     {
-     "en": "To give directions means to tell someone how to get somewhere or how to do something.",
-     "zh": "give directions 就是告诉别人怎么去某个地方或怎么做某事。"
+     "en": "You can order a taxi with an app on your phone.",
+     "zh": "可以用手机 App 叫出租车。"
     },
     {
-     "en": "When you give someone a tip, you give them some extra money to thank them for good service.",
-     "zh": "给小费就是多给一点钱，感谢对方提供的好服务。"
-    },
-    {
-     "en": "Other ways to say hail a taxi are: \"Wave for a taxi,\" \"Wave down a taxi,\" \"Flag down a taxi.\"",
-     "zh": "hail a taxi 的其他说法有：Wave for a taxi、Wave down a taxi、Flag down a taxi（都是挥手叫出租车）。"
-    },
-    {
-     "en": "Taxis that pass by go past someone without stopping.",
-     "zh": "pass by 的出租车就是开过身边却不停的出租车。"
-    },
-    {
-     "en": "To check the meter is to look quickly at it to see what it says.",
-     "zh": "看计价器就是快速瞥一眼上面显示的金额。"
+     "en": "In China, people usually pay the taxi fare with their phones.",
+     "zh": "在中国，人们通常用手机付车费。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Pam",
+     "speaker": "Jenny",
      "role": "girl",
-     "en": "I need to go to Riverside Square.",
-     "zh": "我要去滨江广场。"
+     "en": "We're going to Sunny School, please.",
+     "zh": "我们要去阳光小学。"
     },
     {
-     "speaker": "driver",
+     "speaker": "Driver",
      "role": "clerk",
-     "en": "Okay.",
-     "zh": "好的。"
+     "en": "Okay. Here we go!",
+     "zh": "好的，出发！"
     },
     {
-     "speaker": "Pam",
-     "role": "girl",
-     "en": "Hmm. Four-fifty. That's about right.",
-     "zh": "嗯，四块五，差不多。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "How much is the fare?",
+     "zh": "车费多少钱？"
     },
     {
-     "speaker": "Pam",
-     "role": "girl",
-     "en": "Turn left at the next traffic light.",
-     "zh": "在下一个红绿灯左转。"
-    },
-    {
-     "speaker": "driver",
+     "speaker": "Driver",
      "role": "clerk",
-     "en": "All right.",
-     "zh": "好的。"
+     "en": "Fifteen yuan.",
+     "zh": "十五元。"
     },
     {
-     "speaker": "Pam",
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "I'll pay by phone. Thank you!",
+     "zh": "我用手机支付。谢谢！"
+    },
+    {
+     "speaker": "Jenny",
      "role": "girl",
-     "en": "Pull over by that red car.",
-     "zh": "在那辆红车旁边靠边停。"
-    },
-    {
-     "speaker": "driver",
-     "role": "clerk",
-     "en": "Yes, ma'am.",
-     "zh": "好的，女士。"
-    },
-    {
-     "speaker": "driver",
-     "role": "clerk",
-     "en": "Thank you.",
-     "zh": "谢谢。"
-    },
-    {
-     "speaker": "Pam",
-     "role": "girl",
-     "en": "Here's six-twenty plus a little extra for you.",
-     "zh": "这是六块二，另外多给你一点。"
+     "en": "Bye, driver!",
+     "zh": "司机叔叔再见！"
     }
    ],
    "china": [
     {
-     "en": "In China, people rarely hail taxis on the street; they use apps like Didi (DiDi Chuxing) to book rides.",
-     "zh": "在中国，人们很少在路边招手叫出租车，而是用滴滴出行等 App 叫车。"
+     "en": "Chinese people usually order taxis with apps like Didi instead of hailing on the street.",
+     "zh": "中国人一般用滴滴等 App 叫出租车，而不是在路边招手。"
     },
     {
-     "en": "Chinese taxi drivers and passengers usually do not give or expect tips.",
-     "zh": "中国出租车司机和乘客一般不给、也不期望小费。"
-    },
-    {
-     "en": "Rides are often paid automatically through the app linked to a mobile wallet, no cash needed.",
-     "zh": "车费通常通过绑定手机钱包的 App 自动支付，无需现金。"
+     "en": "Tipping is not expected in Chinese taxis.",
+     "zh": "在中国坐出租车不用给小费。"
     }
    ],
    "en": "Taking a Taxi",
@@ -4864,39 +4491,30 @@
      "zh": "然后抬腿跨上自行车。"
     },
     {
-     "en": "I started pedaling and the bike moved.",
+     "en": "I started pedaling, and the bike moved.",
      "zh": "我开始蹬踏板，自行车动了起来。"
     },
     {
-     "en": "To go uphill,...",
-     "zh": "要上坡时……"
-    },
-    {
-     "en": "...I shifted into a lower gear.",
-     "zh": "我换到了低速挡。"
+     "en": "To go uphill, I shifted into a lower gear.",
+     "zh": "上坡时，我换到低速挡。"
     },
     {
      "en": "To slow down, I squeezed the brakes.",
-     "zh": "为了减速，我捏紧刹车。"
+     "zh": "要减速时，我捏紧刹车。"
     },
     {
-     "en": "Finally, I got off my bike...",
-     "zh": "最后，我下了自行车……"
+     "en": "I scanned the code and unlocked a shared bike.",
+     "zh": "我扫码解锁了一辆共享单车。"
     },
     {
-     "en": "...and locked it up in a bike rack.",
-     "zh": "然后把它锁在自行车架上。"
+     "en": "After the ride, I parked it in the bike parking area.",
+     "zh": "骑完后，我把车停在自行车停放区。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "get (got) off",
-      "ipa": "/ɡet/",
-      "zh": "下车"
-     },
-     {
-      "w": "hold (held)",
+      "w": "hold",
       "ipa": "/hoʊld/",
       "zh": "握住"
      },
@@ -4911,19 +4529,24 @@
       "zh": "移动"
      },
      {
+      "w": "park",
+      "ipa": "/pɑːrk/",
+      "zh": "停放"
+     },
+     {
       "w": "pedal",
       "ipa": "/ˈpedl/",
       "zh": "蹬踏板"
      },
      {
-      "w": "put (put) on",
-      "ipa": "/pʊt/",
+      "w": "put on",
+      "ipa": "/pʊt ɑːn/",
       "zh": "戴上"
      },
      {
-      "w": "ride (rode)",
-      "ipa": "/raɪd/",
-      "zh": "骑"
+      "w": "scan",
+      "ipa": "/skæn/",
+      "zh": "扫码"
      },
      {
       "w": "shift",
@@ -4938,22 +4561,22 @@
      {
       "w": "squeeze",
       "ipa": "/skwiːz/",
-      "zh": "捏紧，挤压"
+      "zh": "捏"
      },
      {
-      "w": "start",
-      "ipa": "/stɑːrt/",
-      "zh": "开始"
-     },
-     {
-      "w": "swing (swung)",
+      "w": "swing",
       "ipa": "/swɪŋ/",
-      "zh": "摆动，跨（腿）"
+      "zh": "摆动；跨"
+     },
+     {
+      "w": "unlock",
+      "ipa": "/ˌʌnˈlɑːk/",
+      "zh": "解锁"
      }
     ],
     "nouns": [
      {
-      "w": "bike (bicycle)",
+      "w": "bike",
       "ipa": "/baɪk/",
       "zh": "自行车"
      },
@@ -4965,7 +4588,7 @@
      {
       "w": "gear",
       "ipa": "/ɡɪr/",
-      "zh": "齿轮，挡位"
+      "zh": "挡位"
      },
      {
       "w": "handlebars",
@@ -4983,27 +4606,12 @@
       "zh": "腿"
      },
      {
-      "w": "pedal",
-      "ipa": "/ˈpedl/",
-      "zh": "踏板"
-     },
-     {
-      "w": "rack",
-      "ipa": "/ræk/",
-      "zh": "架子（自行车架）"
-     },
-     {
-      "w": "shift lever",
-      "ipa": "/ʃɪft ˈlevər/",
-      "zh": "换挡拨杆"
+      "w": "parking area",
+      "ipa": "/ˈpɑːrkɪŋ ˈeriə/",
+      "zh": "停放区"
      }
     ],
     "others": [
-     {
-      "w": "finally (adv.)",
-      "ipa": "/ˈfaɪnəli/",
-      "zh": "最后"
-     },
      {
       "w": "lower (adj.)",
       "ipa": "/ˈloʊər/",
@@ -5012,41 +4620,29 @@
      {
       "w": "uphill (adv.)",
       "ipa": "/ˌʌpˈhɪl/",
-      "zh": "上坡地"
+      "zh": "上坡"
      }
     ]
    },
    "notes": [
     {
-     "en": "A helmet is a very hard hat that protects your head.",
-     "zh": "头盔是很硬的帽子，用来保护头部。"
+     "en": "Always wear a helmet when you ride a bike.",
+     "zh": "骑车一定要戴头盔。"
     },
     {
-     "en": "The parts of a bike where your feet are the pedals. You pedal the bike by pushing on the pedals.",
-     "zh": "自行车上放脚的地方叫踏板，蹬踏板就是骑车。"
-    },
-    {
-     "en": "When you squeeze something, you grip it tightly.",
-     "zh": "squeeze 就是紧紧握住、捏紧。"
-    },
-    {
-     "en": "When you shift gears, you change from one to another.",
-     "zh": "换挡就是从一个挡位换到另一个挡位。"
+     "en": "Scan the code to unlock a shared bike, and park it in the parking area when you finish.",
+     "zh": "扫码解锁共享单车，骑完停在停放区。"
     }
    ],
    "dialogue": [],
    "china": [
     {
-     "en": "In China, shared bikes (like Meituan and HelloBike) are very popular; people scan a QR code to unlock them and park in designated zones.",
-     "zh": "在中国，共享单车（如美团、哈啰）非常流行；人们扫码解锁，停在指定区域即可。"
+     "en": "Shared bikes like Meituan and Hello are very popular in China; you unlock them by scanning a code.",
+     "zh": "美团、哈啰等共享单车在中国很流行，扫码即可解锁。"
     },
     {
-     "en": "Chinese cities have dedicated bike lanes, but e-bikes are also very common and often share the lane.",
-     "zh": "中国城市有专用自行车道，但电动车也很常见，常与自行车共用非机动车道。"
-    },
-    {
-     "en": "Wearing a helmet is required or strongly recommended for e-bike riders in many Chinese cities.",
-     "zh": "中国很多城市要求或强烈建议电动车骑行者戴头盔。"
+     "en": "Chinese cities have bike lanes, but e-bikes also use them, so be careful.",
+     "zh": "中国城市有自行车道，但电动车也走非机动车道，骑车要小心。"
     }
    ],
    "en": "Riding a Bicycle",
@@ -5065,99 +4661,40 @@
    },
    "steps": [
     {
-     "en": "Dan got back to his building.",
-     "zh": "丹回到了他住的公寓楼。"
+     "en": "After school, Jenny got back to her apartment building.",
+     "zh": "放学后，珍妮回到了公寓楼下。"
     },
     {
-     "en": "He checked his mailbox and took out his mail.",
-     "zh": "他看了看信箱，取出了信件。"
+     "en": "She pressed the code on the keypad to open the door.",
+     "zh": "她在密码门上输了密码开门。"
     },
     {
-     "en": "Then he took an elevator up to his floor.",
-     "zh": "然后他乘电梯上到自己住的楼层。"
+     "en": "She took the elevator up to her floor.",
+     "zh": "她乘电梯上到自己住的楼层。"
     },
     {
-     "en": "He walked down the hall to his apartment.",
-     "zh": "他走过走廊，来到自己的公寓门前。"
+     "en": "She walked down the hall to her home.",
+     "zh": "她走过走廊，来到家门口。"
     },
     {
-     "en": "He opened his door and went inside.",
-     "zh": "他打开门，走了进去。"
+     "en": "She unlocked the door with her key.",
+     "zh": "她用钥匙打开了家门。"
     },
     {
-     "en": "To take an elevator: press the 'up' button and wait for the elevator.",
-     "zh": "乘电梯时：按下“上行”按钮，等待电梯到来。"
+     "en": "She put down her schoolbag and took off her shoes.",
+     "zh": "她放下书包，脱下鞋子。"
     },
     {
-     "en": "Get on the elevator, choose a floor, and get off at your floor.",
-     "zh": "走进电梯，选择楼层，到达后走出电梯。"
-    },
-    {
-     "en": "I got back to my house and walked up the steps to my front door.",
-     "zh": "我回到家，走上台阶来到前门。"
-    },
-    {
-     "en": "I unlocked the door with my house key and opened it by turning the doorknob.",
-     "zh": "我用钥匙打开门锁，转动门把手推开门。"
-    },
-    {
-     "en": "I set my bag down and hung my coat up in the front closet.",
-     "zh": "我把包放下，把外套挂进门前的衣帽间。"
-    },
-    {
-     "en": "I took off my shoes and picked up my mail.",
-     "zh": "我脱下鞋子，拿起信件。"
-    },
-    {
-     "en": "Then I went into the living room and checked for messages on the answering machine.",
-     "zh": "然后我走进客厅，查看答录机里的留言。"
-    },
-    {
-     "en": "I took off my work clothes and changed into some casual clothes.",
-     "zh": "我脱下工作服，换上便装。"
+     "en": "Mom said, \"Welcome home, Jenny!\"",
+     "zh": "妈妈说：“欢迎回家，珍妮！”"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "change",
-      "ipa": "/tʃeɪndʒ/",
-      "zh": "换（衣服）；改变"
-     },
-     {
-      "w": "check",
-      "ipa": "/tʃek/",
-      "zh": "查看；检查"
-     },
-     {
-      "w": "choose / chose",
-      "ipa": "/tʃuːz / tʃoʊz/",
-      "zh": "选择"
-     },
-     {
       "w": "get back",
       "ipa": "/ɡet bæk/",
-      "zh": "回到（家）"
-     },
-     {
-      "w": "get off",
-      "ipa": "/ɡet ɔːf/",
-      "zh": "下（车、电梯）"
-     },
-     {
-      "w": "get on",
-      "ipa": "/ɡet ɑːn/",
-      "zh": "上（车、电梯）"
-     },
-     {
-      "w": "go / went",
-      "ipa": "/ɡoʊ / went/",
-      "zh": "去；进入"
-     },
-     {
-      "w": "hang up",
-      "ipa": "/hæŋ ʌp/",
-      "zh": "挂起（衣物）"
+      "zh": "回到"
      },
      {
       "w": "open",
@@ -5165,106 +4702,46 @@
       "zh": "打开"
      },
      {
-      "w": "pick up",
-      "ipa": "/pɪk ʌp/",
-      "zh": "拿起；捡起"
-     },
-     {
       "w": "press",
       "ipa": "/pres/",
-      "zh": "按（按钮）"
+      "zh": "按"
      },
      {
-      "w": "return",
-      "ipa": "/rɪˈtɜːrn/",
-      "zh": "返回；归还"
-     },
-     {
-      "w": "set down",
-      "ipa": "/set daʊn/",
+      "w": "put down",
+      "ipa": "/pʊt daʊn/",
       "zh": "放下"
-     },
-     {
-      "w": "take (a vehicle)",
-      "ipa": "/teɪk/",
-      "zh": "乘坐（交通工具）"
      },
      {
       "w": "take off",
       "ipa": "/teɪk ɔːf/",
-      "zh": "脱下（衣物）"
+      "zh": "脱下"
      },
      {
-      "w": "take out",
-      "ipa": "/teɪk aʊt/",
-      "zh": "取出"
-     },
-     {
-      "w": "turn",
-      "ipa": "/tɜːrn/",
-      "zh": "转动"
+      "w": "take the elevator",
+      "ipa": "/teɪk ðə ˈelɪveɪtər/",
+      "zh": "乘电梯"
      },
      {
       "w": "unlock",
-      "ipa": "/ʌnˈlɑːk/",
+      "ipa": "/ˌʌnˈlɑːk/",
       "zh": "开锁"
-     },
-     {
-      "w": "wait",
-      "ipa": "/weɪt/",
-      "zh": "等待"
      },
      {
       "w": "walk",
       "ipa": "/wɔːk/",
-      "zh": "走路；步行"
+      "zh": "走"
      }
     ],
     "nouns": [
      {
-      "w": "answering machine",
-      "ipa": "/ˈænsərɪŋ məˈʃiːn/",
-      "zh": "电话答录机"
-     },
-     {
-      "w": "apartment",
-      "ipa": "/əˈpɑːrtmənt/",
-      "zh": "公寓"
-     },
-     {
-      "w": "bag",
-      "ipa": "/bæɡ/",
-      "zh": "包"
-     },
-     {
-      "w": "building",
-      "ipa": "/ˈbɪldɪŋ/",
-      "zh": "楼房；建筑物"
-     },
-     {
-      "w": "button",
-      "ipa": "/ˈbʌtn/",
-      "zh": "按钮"
-     },
-     {
-      "w": "clothes",
-      "ipa": "/kloʊðz/",
-      "zh": "衣服"
-     },
-     {
-      "w": "coat",
-      "ipa": "/koʊt/",
-      "zh": "外套"
+      "w": "apartment building",
+      "ipa": "/əˈpɑːrtmənt ˈbɪldɪŋ/",
+      "zh": "公寓楼"
      },
      {
       "w": "door",
       "ipa": "/dɔːr/",
       "zh": "门"
-     },
-     {
-      "w": "doorknob",
-      "ipa": "/ˈdɔːrnɑːb/",
-      "zh": "门把手"
      },
      {
       "w": "elevator",
@@ -5274,27 +4751,12 @@
      {
       "w": "floor",
       "ipa": "/flɔːr/",
-      "zh": "楼层；地板"
-     },
-     {
-      "w": "front closet",
-      "ipa": "/frʌnt ˈklɑːzɪt/",
-      "zh": "门前衣帽间"
-     },
-     {
-      "w": "front door",
-      "ipa": "/frʌnt dɔːr/",
-      "zh": "前门"
+      "zh": "楼层"
      },
      {
       "w": "hall",
       "ipa": "/hɔːl/",
-      "zh": "走廊；门厅"
-     },
-     {
-      "w": "house",
-      "ipa": "/haʊs/",
-      "zh": "房子"
+      "zh": "走廊"
      },
      {
       "w": "key",
@@ -5302,123 +4764,71 @@
       "zh": "钥匙"
      },
      {
-      "w": "living room",
-      "ipa": "/ˈlɪvɪŋ ruːm/",
-      "zh": "客厅"
+      "w": "keypad",
+      "ipa": "/ˈkiːpæd/",
+      "zh": "密码键盘"
      },
      {
-      "w": "mail",
-      "ipa": "/meɪl/",
-      "zh": "邮件"
-     },
-     {
-      "w": "mailbox",
-      "ipa": "/ˈmeɪlbɑːks/",
-      "zh": "信箱"
-     },
-     {
-      "w": "message",
-      "ipa": "/ˈmesɪdʒ/",
-      "zh": "留言；信息"
-     },
-     {
-      "w": "railing",
-      "ipa": "/ˈreɪlɪŋ/",
-      "zh": "扶手栏杆"
+      "w": "schoolbag",
+      "ipa": "/ˈskuːlbæɡ/",
+      "zh": "书包"
      },
      {
       "w": "shoe",
       "ipa": "/ʃuː/",
       "zh": "鞋"
-     },
-     {
-      "w": "slot",
-      "ipa": "/slɑːt/",
-      "zh": "投信口；窄缝"
-     },
-     {
-      "w": "step",
-      "ipa": "/step/",
-      "zh": "台阶"
-     },
-     {
-      "w": "work",
-      "ipa": "/wɜːrk/",
-      "zh": "工作（衣物）"
      }
     ],
     "others": [
      {
-      "w": "casual (adj.)",
-      "ipa": "/ˈkæʒuəl/",
-      "zh": "休闲的；随意的"
-     },
-     {
-      "w": "inside (adv.)",
-      "ipa": "/ˌɪnˈsaɪd/",
-      "zh": "在里面"
-     },
-     {
       "w": "home (adv.)",
       "ipa": "/hoʊm/",
-      "zh": "回家；在家"
+      "zh": "回家"
      }
     ]
    },
    "notes": [
     {
-     "en": "get back = return",
-     "zh": "get back 意思就是 return（回到）。"
+     "en": "Many apartment buildings open the door with a code or a card.",
+     "zh": "很多公寓楼用密码或门禁卡开门。"
     },
     {
-     "en": "You take an elevator just as you take a bus; you use it to get somewhere.",
-     "zh": "乘电梯和乘公共汽车一样，都是借它到达某个地方。"
-    },
-    {
-     "en": "Most of the verbs in 'At Home in the Evening' are in the simple past tense.",
-     "zh": "“晚间在家”部分的动词大多用一般过去时。"
-    },
-    {
-     "en": "Some verbs appear in the '-ing' form acting as nouns (pressing, waiting) or adjectives (answering in answering machine).",
-     "zh": "有些动词以 -ing 形式作动名词（pressing 按、waiting 等待）或形容词（answering machine 中的 answering）。"
+     "en": "Take off your shoes when you come home and wash your hands.",
+     "zh": "回家后脱鞋、洗手。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Dan",
-     "role": "儿子",
-     "en": "Hi, Pam. I'm back.",
-     "zh": "嗨，帕姆，我回来了。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Welcome home, Jenny! How was school?",
+     "zh": "欢迎回家，珍妮！今天在学校怎么样？"
     },
     {
-     "speaker": "Pam",
-     "role": "家人",
-     "en": "Hi, Dan.",
-     "zh": "嗨，丹。"
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "It was fun! We drew pictures today.",
+     "zh": "很开心！我们今天画画了。"
     },
     {
-     "speaker": "Answering machine",
-     "role": "设备",
-     "en": "You have three messages.",
-     "zh": "您有三条留言。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Great! Wash your hands, and have a snack.",
+     "zh": "真棒！去洗洗手，吃点零食吧。"
     }
    ],
    "china": [
     {
-     "en": "In China most apartment buildings have elevators, and residents often use a key card or password instead of a metal mailbox key to enter.",
-     "zh": "在中国，多数公寓楼都有电梯；居民进单元门常用门禁卡或密码，而不是用钥匙开楼下信箱。"
+     "en": "In China, apartment buildings usually have a keypad or card reader at the door.",
+     "zh": "中国公寓楼单元门通常有密码键盘或门禁刷卡。"
     },
     {
-     "en": "Few homes in China still use answering machines; people check voice mail or WeChat messages on their phones.",
-     "zh": "中国家庭现在很少使用电话答录机，人们直接在手机上听语音留言或看微信消息。"
-    },
-    {
-     "en": "Many Chinese homeowners take off their shoes at the door and wear indoor slippers, just as shown here.",
-     "zh": "很多中国人进门也会换拖鞋，和图里进门脱鞋的习惯类似。"
+     "en": "Children take off their shoes at the door and change into slippers at home.",
+     "zh": "孩子进门换拖鞋是常见的中国家庭习惯。"
     }
    ],
    "en": "Returning Home",
-   "zh": "回家",
+   "zh": "放学回家",
    "grammarZh": "一般过去时"
   },
   {

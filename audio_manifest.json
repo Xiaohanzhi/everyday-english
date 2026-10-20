@@ -1451,50 +1451,44 @@
   {
    "file": "assets/audio/u006_s1.mp3",
    "voice": "narrator",
-   "text": "I put a bottom sheet on the mattress. If I have a fitted sheet, I slip it over the mattress.",
+   "text": "In the morning, I make my bed.",
    "src_text": "unit6 step1"
   },
   {
    "file": "assets/audio/u006_s2.mp3",
    "voice": "narrator",
-   "text": "If I have a flat sheet, I tuck it under the mattress.",
+   "text": "First, I smooth out the blanket.",
    "src_text": "unit6 step2"
   },
   {
    "file": "assets/audio/u006_s3.mp3",
    "voice": "narrator",
-   "text": "Then I tuck the top sheet under the mattress at the foot of the bed.",
+   "text": "Then I fold it in half.",
    "src_text": "unit6 step3"
   },
   {
    "file": "assets/audio/u006_s4.mp3",
    "voice": "narrator",
-   "text": "I pull the top sheet tight.",
+   "text": "I fold it in half again.",
    "src_text": "unit6 step4"
   },
   {
    "file": "assets/audio/u006_s5.mp3",
    "voice": "narrator",
-   "text": "I spread a blanket over the bed and smooth it out.",
+   "text": "I put the folded blanket at the foot of the bed.",
    "src_text": "unit6 step5"
   },
   {
    "file": "assets/audio/u006_s6.mp3",
    "voice": "narrator",
-   "text": "I spread a bedspread over the bed.",
+   "text": "I fluff up my pillow and lay it at the head of the bed.",
    "src_text": "unit6 step6"
   },
   {
    "file": "assets/audio/u006_s7.mp3",
    "voice": "narrator",
-   "text": "I fluff up the pillows and lay them at the head of the bed.",
+   "text": "I spread the bedcover over the bed and smooth it out.",
    "src_text": "unit6 step7"
-  },
-  {
-   "file": "assets/audio/u006_s8.mp3",
-   "voice": "narrator",
-   "text": "I pull the bedspread over the pillows and smooth it out.",
-   "src_text": "unit6 step8"
   },
   {
    "file": "assets/audio/u006_v1.mp3",
@@ -1505,8 +1499,8 @@
   {
    "file": "assets/audio/u006_v2.mp3",
    "voice": "narrator",
-   "text": "have",
-   "src_text": "unit6 vocab have"
+   "text": "fold",
+   "src_text": "unit6 vocab fold"
   },
   {
    "file": "assets/audio/u006_v3.mp3",
@@ -1523,116 +1517,68 @@
   {
    "file": "assets/audio/u006_v5.mp3",
    "voice": "narrator",
-   "text": "pull",
-   "src_text": "unit6 vocab pull"
-  },
-  {
-   "file": "assets/audio/u006_v6.mp3",
-   "voice": "narrator",
    "text": "put",
    "src_text": "unit6 vocab put"
   },
   {
-   "file": "assets/audio/u006_v7.mp3",
-   "voice": "narrator",
-   "text": "slip",
-   "src_text": "unit6 vocab slip"
-  },
-  {
-   "file": "assets/audio/u006_v8.mp3",
+   "file": "assets/audio/u006_v6.mp3",
    "voice": "narrator",
    "text": "smooth out",
    "src_text": "unit6 vocab smooth out"
   },
   {
-   "file": "assets/audio/u006_v9.mp3",
+   "file": "assets/audio/u006_v7.mp3",
    "voice": "narrator",
    "text": "spread",
    "src_text": "unit6 vocab spread"
   },
   {
-   "file": "assets/audio/u006_v10.mp3",
-   "voice": "narrator",
-   "text": "tuck",
-   "src_text": "unit6 vocab tuck"
-  },
-  {
-   "file": "assets/audio/u006_v11.mp3",
+   "file": "assets/audio/u006_v8.mp3",
    "voice": "narrator",
    "text": "bed",
    "src_text": "unit6 vocab bed"
   },
   {
-   "file": "assets/audio/u006_v12.mp3",
+   "file": "assets/audio/u006_v9.mp3",
    "voice": "narrator",
-   "text": "bedspread",
-   "src_text": "unit6 vocab bedspread"
+   "text": "bedcover",
+   "src_text": "unit6 vocab bedcover"
   },
   {
-   "file": "assets/audio/u006_v13.mp3",
+   "file": "assets/audio/u006_v10.mp3",
    "voice": "narrator",
    "text": "blanket",
    "src_text": "unit6 vocab blanket"
   },
   {
-   "file": "assets/audio/u006_v14.mp3",
-   "voice": "narrator",
-   "text": "bottom",
-   "src_text": "unit6 vocab bottom"
-  },
-  {
-   "file": "assets/audio/u006_v15.mp3",
+   "file": "assets/audio/u006_v11.mp3",
    "voice": "narrator",
    "text": "foot",
    "src_text": "unit6 vocab foot"
   },
   {
-   "file": "assets/audio/u006_v16.mp3",
+   "file": "assets/audio/u006_v12.mp3",
    "voice": "narrator",
    "text": "head",
    "src_text": "unit6 vocab head"
   },
   {
-   "file": "assets/audio/u006_v17.mp3",
-   "voice": "narrator",
-   "text": "mattress",
-   "src_text": "unit6 vocab mattress"
-  },
-  {
-   "file": "assets/audio/u006_v18.mp3",
+   "file": "assets/audio/u006_v13.mp3",
    "voice": "narrator",
    "text": "pillow",
    "src_text": "unit6 vocab pillow"
   },
   {
-   "file": "assets/audio/u006_v19.mp3",
+   "file": "assets/audio/u006_v14.mp3",
    "voice": "narrator",
-   "text": "sheet",
-   "src_text": "unit6 vocab sheet"
+   "text": "first (adv.)",
+   "src_text": "unit6 vocab first (adv.)"
   },
   {
-   "file": "assets/audio/u006_v20.mp3",
+   "file": "assets/audio/u006_v15.mp3",
    "voice": "narrator",
-   "text": "top",
-   "src_text": "unit6 vocab top"
-  },
-  {
-   "file": "assets/audio/u006_v21.mp3",
-   "voice": "narrator",
-   "text": "fitted",
-   "src_text": "unit6 vocab fitted"
-  },
-  {
-   "file": "assets/audio/u006_v22.mp3",
-   "voice": "narrator",
-   "text": "flat",
-   "src_text": "unit6 vocab flat"
-  },
-  {
-   "file": "assets/audio/u006_v23.mp3",
-   "voice": "narrator",
-   "text": "tight",
-   "src_text": "unit6 vocab tight"
+   "text": "then (adv.)",
+   "src_text": "unit6 vocab then (adv.)"
   },
   {
    "file": "assets/audio/u007_s1.mp3",
@@ -2303,50 +2249,50 @@
   {
    "file": "assets/audio/u010_s1.mp3",
    "voice": "narrator",
-   "text": "Pam and Dan sit down at the table.",
+   "text": "Jenny and Mom sit down at the table.",
    "src_text": "unit10 step1"
   },
   {
    "file": "assets/audio/u010_s2.mp3",
    "voice": "narrator",
-   "text": "Pam drinks some coffee from her mug and eats some cereal.",
+   "text": "Mom pours some milk into Jenny's bowl.",
    "src_text": "unit10 step2"
   },
   {
    "file": "assets/audio/u010_s3.mp3",
    "voice": "narrator",
-   "text": "Dan drinks some tea and has an egg with bacon and toast.",
+   "text": "Jenny eats some rice porridge with a spoon.",
    "src_text": "unit10 step3"
   },
   {
    "file": "assets/audio/u010_s4.mp3",
    "voice": "narrator",
-   "text": "Sometimes, he dips his toast into the yolk of his egg.",
+   "text": "She dips her steamed bun into the soy milk.",
    "src_text": "unit10 step4"
   },
   {
    "file": "assets/audio/u010_s5.mp3",
    "voice": "narrator",
-   "text": "As they eat, they read the paper and talk a little bit.",
+   "text": "Mom drinks a cup of tea.",
    "src_text": "unit10 step5"
   },
   {
    "file": "assets/audio/u010_s6.mp3",
    "voice": "narrator",
-   "text": "After eating, they wipe their lips with their napkins and leave the table.",
+   "text": "After eating, Jenny wipes her mouth with a napkin.",
    "src_text": "unit10 step6"
   },
   {
    "file": "assets/audio/u010_d1.mp3",
-   "voice": "girl",
-   "text": "It says here that taxes are going up.",
-   "src_text": "unit10 dialogue1 (Pam)"
+   "voice": "mom",
+   "text": "Eat your egg, Jenny. We'll be late for school.",
+   "src_text": "unit10 dialogue1"
   },
   {
    "file": "assets/audio/u010_d2.mp3",
-   "voice": "clerk",
-   "text": "As usual...",
-   "src_text": "unit10 dialogue2 (Dan)"
+   "voice": "girl",
+   "text": "Okay, Mom. Yum!",
+   "src_text": "unit10 dialogue2"
   },
   {
    "file": "assets/audio/u010_v1.mp3",
@@ -2369,152 +2315,86 @@
   {
    "file": "assets/audio/u010_v4.mp3",
    "voice": "narrator",
-   "text": "have",
-   "src_text": "unit10 vocab have"
+   "text": "get ready",
+   "src_text": "unit10 vocab get ready"
   },
   {
    "file": "assets/audio/u010_v5.mp3",
    "voice": "narrator",
-   "text": "leave",
-   "src_text": "unit10 vocab leave"
+   "text": "pour",
+   "src_text": "unit10 vocab pour"
   },
   {
    "file": "assets/audio/u010_v6.mp3",
-   "voice": "narrator",
-   "text": "read",
-   "src_text": "unit10 vocab read"
-  },
-  {
-   "file": "assets/audio/u010_v7.mp3",
    "voice": "narrator",
    "text": "sit down",
    "src_text": "unit10 vocab sit down"
   },
   {
-   "file": "assets/audio/u010_v8.mp3",
-   "voice": "narrator",
-   "text": "talk",
-   "src_text": "unit10 vocab talk"
-  },
-  {
-   "file": "assets/audio/u010_v9.mp3",
+   "file": "assets/audio/u010_v7.mp3",
    "voice": "narrator",
    "text": "wipe",
    "src_text": "unit10 vocab wipe"
   },
   {
-   "file": "assets/audio/u010_v10.mp3",
-   "voice": "narrator",
-   "text": "bacon",
-   "src_text": "unit10 vocab bacon"
-  },
-  {
-   "file": "assets/audio/u010_v11.mp3",
+   "file": "assets/audio/u010_v8.mp3",
    "voice": "narrator",
    "text": "bowl",
    "src_text": "unit10 vocab bowl"
   },
   {
-   "file": "assets/audio/u010_v12.mp3",
-   "voice": "narrator",
-   "text": "breakfast",
-   "src_text": "unit10 vocab breakfast"
-  },
-  {
-   "file": "assets/audio/u010_v13.mp3",
-   "voice": "narrator",
-   "text": "cereal",
-   "src_text": "unit10 vocab cereal"
-  },
-  {
-   "file": "assets/audio/u010_v14.mp3",
-   "voice": "narrator",
-   "text": "coffee",
-   "src_text": "unit10 vocab coffee"
-  },
-  {
-   "file": "assets/audio/u010_v15.mp3",
+   "file": "assets/audio/u010_v9.mp3",
    "voice": "narrator",
    "text": "egg",
    "src_text": "unit10 vocab egg"
   },
   {
-   "file": "assets/audio/u010_v16.mp3",
-   "voice": "narrator",
-   "text": "fork",
-   "src_text": "unit10 vocab fork"
-  },
-  {
-   "file": "assets/audio/u010_v17.mp3",
-   "voice": "narrator",
-   "text": "knife",
-   "src_text": "unit10 vocab knife"
-  },
-  {
-   "file": "assets/audio/u010_v18.mp3",
-   "voice": "narrator",
-   "text": "lip",
-   "src_text": "unit10 vocab lip"
-  },
-  {
-   "file": "assets/audio/u010_v19.mp3",
-   "voice": "narrator",
-   "text": "mug",
-   "src_text": "unit10 vocab mug"
-  },
-  {
-   "file": "assets/audio/u010_v20.mp3",
+   "file": "assets/audio/u010_v10.mp3",
    "voice": "narrator",
    "text": "napkin",
    "src_text": "unit10 vocab napkin"
   },
   {
-   "file": "assets/audio/u010_v21.mp3",
+   "file": "assets/audio/u010_v11.mp3",
    "voice": "narrator",
-   "text": "paper",
-   "src_text": "unit10 vocab paper"
+   "text": "rice porridge",
+   "src_text": "unit10 vocab rice porridge"
   },
   {
-   "file": "assets/audio/u010_v22.mp3",
+   "file": "assets/audio/u010_v12.mp3",
+   "voice": "narrator",
+   "text": "soy milk",
+   "src_text": "unit10 vocab soy milk"
+  },
+  {
+   "file": "assets/audio/u010_v13.mp3",
    "voice": "narrator",
    "text": "spoon",
    "src_text": "unit10 vocab spoon"
   },
   {
-   "file": "assets/audio/u010_v23.mp3",
+   "file": "assets/audio/u010_v14.mp3",
+   "voice": "narrator",
+   "text": "steamed bun",
+   "src_text": "unit10 vocab steamed bun"
+  },
+  {
+   "file": "assets/audio/u010_v15.mp3",
    "voice": "narrator",
    "text": "table",
    "src_text": "unit10 vocab table"
   },
   {
-   "file": "assets/audio/u010_v24.mp3",
+   "file": "assets/audio/u010_v16.mp3",
    "voice": "narrator",
-   "text": "tea",
-   "src_text": "unit10 vocab tea"
+   "text": "a cup of (quantifier)",
+   "src_text": "unit10 vocab a cup of (quantifier)"
   },
   {
-   "file": "assets/audio/u010_v25.mp3",
+   "file": "assets/audio/u010_v17.mp3",
    "voice": "narrator",
-   "text": "toast",
-   "src_text": "unit10 vocab toast"
-  },
-  {
-   "file": "assets/audio/u010_v26.mp3",
-   "voice": "narrator",
-   "text": "yolk",
-   "src_text": "unit10 vocab yolk"
-  },
-  {
-   "file": "assets/audio/u010_v27.mp3",
-   "voice": "narrator",
-   "text": "sometimes",
-   "src_text": "unit10 vocab sometimes"
-  },
-  {
-   "file": "assets/audio/u010_v28.mp3",
-   "voice": "narrator",
-   "text": "a little bit",
-   "src_text": "unit10 vocab a little bit"
+   "text": "yum (interj.)",
+   "src_text": "unit10 vocab yum (interj.)"
   },
   {
    "file": "assets/audio/u011_s1.mp3",
@@ -2681,7 +2561,7 @@
   {
    "file": "assets/audio/u012_s1.mp3",
    "voice": "narrator",
-   "text": "Jenny checked her bus schedule.",
+   "text": "Jenny checked the bus schedule on her phone.",
    "src_text": "unit12 step1"
   },
   {
@@ -2693,98 +2573,56 @@
   {
    "file": "assets/audio/u012_s3.mp3",
    "voice": "narrator",
-   "text": "She walked to the bus stop...",
+   "text": "She walked to the bus stop and waited.",
    "src_text": "unit12 step3"
   },
   {
    "file": "assets/audio/u012_s4.mp3",
    "voice": "narrator",
-   "text": "...and sat on a bench to wait for the bus.",
+   "text": "The bus arrived on time, and the driver opened the door.",
    "src_text": "unit12 step4"
   },
   {
    "file": "assets/audio/u012_s5.mp3",
    "voice": "narrator",
-   "text": "The bus arrived on time (at eight-twenty).",
+   "text": "Jenny got on the bus and tapped her transit card on the reader.",
    "src_text": "unit12 step5"
   },
   {
    "file": "assets/audio/u012_s6.mp3",
    "voice": "narrator",
-   "text": "The driver opened the door...",
+   "text": "Other passengers scanned their phone codes.",
    "src_text": "unit12 step6"
   },
   {
    "file": "assets/audio/u012_s7.mp3",
    "voice": "narrator",
-   "text": "...and Jenny got on the bus.",
+   "text": "All the seats were full, so Jenny stood in the aisle and held on to a strap.",
    "src_text": "unit12 step7"
   },
   {
    "file": "assets/audio/u012_s8.mp3",
    "voice": "narrator",
-   "text": "She showed the driver her bus pass.",
+   "text": "Soon, a seat was empty, and Jenny sat down.",
    "src_text": "unit12 step8"
   },
   {
    "file": "assets/audio/u012_s9.mp3",
    "voice": "narrator",
-   "text": "Other passengers paid their fare.",
+   "text": "Near her stop, she pressed the button to ring the stop signal.",
    "src_text": "unit12 step9"
   },
   {
    "file": "assets/audio/u012_s10.mp3",
    "voice": "narrator",
-   "text": "All the seats were full, so Jenny stood in the aisle.",
+   "text": "She got off at her stop and walked to school.",
    "src_text": "unit12 step10"
   },
   {
-   "file": "assets/audio/u012_s11.mp3",
-   "voice": "narrator",
-   "text": "She held on to a strap on the overhead bars.",
-   "src_text": "unit12 step11"
-  },
-  {
-   "file": "assets/audio/u012_s12.mp3",
-   "voice": "narrator",
-   "text": "Soon, someone got off the bus, so a seat was empty.",
-   "src_text": "unit12 step12"
-  },
-  {
-   "file": "assets/audio/u012_s13.mp3",
-   "voice": "narrator",
-   "text": "Jenny sat down and read a book while she rode the bus.",
-   "src_text": "unit12 step13"
-  },
-  {
-   "file": "assets/audio/u012_s14.mp3",
-   "voice": "narrator",
-   "text": "Near her stop, she pressed a button...",
-   "src_text": "unit12 step14"
-  },
-  {
-   "file": "assets/audio/u012_s15.mp3",
-   "voice": "narrator",
-   "text": "...to ring the \"stop\" signal.",
-   "src_text": "unit12 step15"
-  },
-  {
-   "file": "assets/audio/u012_s16.mp3",
-   "voice": "narrator",
-   "text": "She walked to the exit...",
-   "src_text": "unit12 step16"
-  },
-  {
-   "file": "assets/audio/u012_s17.mp3",
-   "voice": "narrator",
-   "text": "...and got off at her stop.",
-   "src_text": "unit12 step17"
-  },
-  {
    "file": "assets/audio/u012_d1.mp3",
-   "voice": "clerk",
-   "text": "One dollar, please.",
-   "src_text": "unit12 dialogue1 (conductor)"
+   "voice": "girl",
+   "text": "Excuse me, does this bus go to Sunny School?",
+   "src_text": "unit12 dialogue1"
   },
   {
    "file": "assets/audio/u012_v1.mp3",
@@ -2801,284 +2639,140 @@
   {
    "file": "assets/audio/u012_v3.mp3",
    "voice": "narrator",
-   "text": "drop",
-   "src_text": "unit12 vocab drop"
+   "text": "get off",
+   "src_text": "unit12 vocab get off"
   },
   {
    "file": "assets/audio/u012_v4.mp3",
    "voice": "narrator",
-   "text": "get (got) off",
-   "src_text": "unit12 vocab get (got) off"
+   "text": "get on",
+   "src_text": "unit12 vocab get on"
   },
   {
    "file": "assets/audio/u012_v5.mp3",
    "voice": "narrator",
-   "text": "get (got) on",
-   "src_text": "unit12 vocab get (got) on"
+   "text": "hold on to",
+   "src_text": "unit12 vocab hold on to"
   },
   {
    "file": "assets/audio/u012_v6.mp3",
-   "voice": "narrator",
-   "text": "hold (held)",
-   "src_text": "unit12 vocab hold (held)"
-  },
-  {
-   "file": "assets/audio/u012_v7.mp3",
-   "voice": "narrator",
-   "text": "open",
-   "src_text": "unit12 vocab open"
-  },
-  {
-   "file": "assets/audio/u012_v8.mp3",
-   "voice": "narrator",
-   "text": "pay (paid)",
-   "src_text": "unit12 vocab pay (paid)"
-  },
-  {
-   "file": "assets/audio/u012_v9.mp3",
    "voice": "narrator",
    "text": "press",
    "src_text": "unit12 vocab press"
   },
   {
+   "file": "assets/audio/u012_v7.mp3",
+   "voice": "narrator",
+   "text": "ring",
+   "src_text": "unit12 vocab ring"
+  },
+  {
+   "file": "assets/audio/u012_v8.mp3",
+   "voice": "narrator",
+   "text": "scan",
+   "src_text": "unit12 vocab scan"
+  },
+  {
+   "file": "assets/audio/u012_v9.mp3",
+   "voice": "narrator",
+   "text": "tap",
+   "src_text": "unit12 vocab tap"
+  },
+  {
    "file": "assets/audio/u012_v10.mp3",
-   "voice": "narrator",
-   "text": "put (put) into",
-   "src_text": "unit12 vocab put (put) into"
-  },
-  {
-   "file": "assets/audio/u012_v11.mp3",
-   "voice": "narrator",
-   "text": "read (read)",
-   "src_text": "unit12 vocab read (read)"
-  },
-  {
-   "file": "assets/audio/u012_v12.mp3",
-   "voice": "narrator",
-   "text": "ride (rode)",
-   "src_text": "unit12 vocab ride (rode)"
-  },
-  {
-   "file": "assets/audio/u012_v13.mp3",
-   "voice": "narrator",
-   "text": "ring (rang)",
-   "src_text": "unit12 vocab ring (rang)"
-  },
-  {
-   "file": "assets/audio/u012_v14.mp3",
-   "voice": "narrator",
-   "text": "show",
-   "src_text": "unit12 vocab show"
-  },
-  {
-   "file": "assets/audio/u012_v15.mp3",
-   "voice": "narrator",
-   "text": "sit (sat)",
-   "src_text": "unit12 vocab sit (sat)"
-  },
-  {
-   "file": "assets/audio/u012_v16.mp3",
-   "voice": "narrator",
-   "text": "stand (stood)",
-   "src_text": "unit12 vocab stand (stood)"
-  },
-  {
-   "file": "assets/audio/u012_v17.mp3",
    "voice": "narrator",
    "text": "wait",
    "src_text": "unit12 vocab wait"
   },
   {
-   "file": "assets/audio/u012_v18.mp3",
+   "file": "assets/audio/u012_v11.mp3",
    "voice": "narrator",
    "text": "walk",
    "src_text": "unit12 vocab walk"
   },
   {
-   "file": "assets/audio/u012_v19.mp3",
+   "file": "assets/audio/u012_v12.mp3",
    "voice": "narrator",
    "text": "aisle",
    "src_text": "unit12 vocab aisle"
   },
   {
-   "file": "assets/audio/u012_v20.mp3",
-   "voice": "narrator",
-   "text": "bar",
-   "src_text": "unit12 vocab bar"
-  },
-  {
-   "file": "assets/audio/u012_v21.mp3",
-   "voice": "narrator",
-   "text": "bench",
-   "src_text": "unit12 vocab bench"
-  },
-  {
-   "file": "assets/audio/u012_v22.mp3",
-   "voice": "narrator",
-   "text": "book",
-   "src_text": "unit12 vocab book"
-  },
-  {
-   "file": "assets/audio/u012_v23.mp3",
-   "voice": "narrator",
-   "text": "box",
-   "src_text": "unit12 vocab box"
-  },
-  {
-   "file": "assets/audio/u012_v24.mp3",
+   "file": "assets/audio/u012_v13.mp3",
    "voice": "narrator",
    "text": "bus",
    "src_text": "unit12 vocab bus"
   },
   {
-   "file": "assets/audio/u012_v25.mp3",
+   "file": "assets/audio/u012_v14.mp3",
    "voice": "narrator",
-   "text": "button",
-   "src_text": "unit12 vocab button"
+   "text": "bus stop",
+   "src_text": "unit12 vocab bus stop"
   },
   {
-   "file": "assets/audio/u012_v26.mp3",
-   "voice": "narrator",
-   "text": "card",
-   "src_text": "unit12 vocab card"
-  },
-  {
-   "file": "assets/audio/u012_v27.mp3",
-   "voice": "narrator",
-   "text": "conductor",
-   "src_text": "unit12 vocab conductor"
-  },
-  {
-   "file": "assets/audio/u012_v28.mp3",
+   "file": "assets/audio/u012_v15.mp3",
    "voice": "narrator",
    "text": "door",
    "src_text": "unit12 vocab door"
   },
   {
-   "file": "assets/audio/u012_v29.mp3",
+   "file": "assets/audio/u012_v16.mp3",
    "voice": "narrator",
    "text": "driver",
    "src_text": "unit12 vocab driver"
   },
   {
-   "file": "assets/audio/u012_v30.mp3",
+   "file": "assets/audio/u012_v17.mp3",
    "voice": "narrator",
-   "text": "exit",
-   "src_text": "unit12 vocab exit"
+   "text": "phone",
+   "src_text": "unit12 vocab phone"
   },
   {
-   "file": "assets/audio/u012_v31.mp3",
+   "file": "assets/audio/u012_v18.mp3",
    "voice": "narrator",
-   "text": "fare",
-   "src_text": "unit12 vocab fare"
+   "text": "reader",
+   "src_text": "unit12 vocab reader"
   },
   {
-   "file": "assets/audio/u012_v32.mp3",
-   "voice": "narrator",
-   "text": "machine",
-   "src_text": "unit12 vocab machine"
-  },
-  {
-   "file": "assets/audio/u012_v33.mp3",
-   "voice": "narrator",
-   "text": "money",
-   "src_text": "unit12 vocab money"
-  },
-  {
-   "file": "assets/audio/u012_v34.mp3",
-   "voice": "narrator",
-   "text": "pass",
-   "src_text": "unit12 vocab pass"
-  },
-  {
-   "file": "assets/audio/u012_v35.mp3",
-   "voice": "narrator",
-   "text": "passenger",
-   "src_text": "unit12 vocab passenger"
-  },
-  {
-   "file": "assets/audio/u012_v36.mp3",
-   "voice": "narrator",
-   "text": "people",
-   "src_text": "unit12 vocab people"
-  },
-  {
-   "file": "assets/audio/u012_v37.mp3",
-   "voice": "narrator",
-   "text": "receipt",
-   "src_text": "unit12 vocab receipt"
-  },
-  {
-   "file": "assets/audio/u012_v38.mp3",
+   "file": "assets/audio/u012_v19.mp3",
    "voice": "narrator",
    "text": "schedule",
    "src_text": "unit12 vocab schedule"
   },
   {
-   "file": "assets/audio/u012_v39.mp3",
+   "file": "assets/audio/u012_v20.mp3",
    "voice": "narrator",
    "text": "seat",
    "src_text": "unit12 vocab seat"
   },
   {
-   "file": "assets/audio/u012_v40.mp3",
+   "file": "assets/audio/u012_v21.mp3",
    "voice": "narrator",
    "text": "signal",
    "src_text": "unit12 vocab signal"
   },
   {
-   "file": "assets/audio/u012_v41.mp3",
-   "voice": "narrator",
-   "text": "stop",
-   "src_text": "unit12 vocab stop"
-  },
-  {
-   "file": "assets/audio/u012_v42.mp3",
+   "file": "assets/audio/u012_v22.mp3",
    "voice": "narrator",
    "text": "strap",
    "src_text": "unit12 vocab strap"
   },
   {
-   "file": "assets/audio/u012_v43.mp3",
+   "file": "assets/audio/u012_v23.mp3",
+   "voice": "narrator",
+   "text": "transit card",
+   "src_text": "unit12 vocab transit card"
+  },
+  {
+   "file": "assets/audio/u012_v24.mp3",
    "voice": "narrator",
    "text": "due (adj.)",
    "src_text": "unit12 vocab due (adj.)"
   },
   {
-   "file": "assets/audio/u012_v44.mp3",
-   "voice": "narrator",
-   "text": "empty (adj.)",
-   "src_text": "unit12 vocab empty (adj.)"
-  },
-  {
-   "file": "assets/audio/u012_v45.mp3",
-   "voice": "narrator",
-   "text": "full (adj.)",
-   "src_text": "unit12 vocab full (adj.)"
-  },
-  {
-   "file": "assets/audio/u012_v46.mp3",
+   "file": "assets/audio/u012_v25.mp3",
    "voice": "narrator",
    "text": "on time (adverbial)",
    "src_text": "unit12 vocab on time (adverbial)"
-  },
-  {
-   "file": "assets/audio/u012_v47.mp3",
-   "voice": "narrator",
-   "text": "other (adj.)",
-   "src_text": "unit12 vocab other (adj.)"
-  },
-  {
-   "file": "assets/audio/u012_v48.mp3",
-   "voice": "narrator",
-   "text": "overhead (adj.)",
-   "src_text": "unit12 vocab overhead (adj.)"
-  },
-  {
-   "file": "assets/audio/u012_v49.mp3",
-   "voice": "narrator",
-   "text": "soon (adv.)",
-   "src_text": "unit12 vocab soon (adv.)"
   },
   {
    "file": "assets/audio/u013_s1.mp3",
@@ -3989,62 +3683,56 @@
   {
    "file": "assets/audio/u016_s1.mp3",
    "voice": "narrator",
-   "text": "Tom bought a ticket from the ticket machine.",
+   "text": "Tom booked a train ticket on his phone.",
    "src_text": "unit16 step1"
   },
   {
    "file": "assets/audio/u016_s2.mp3",
    "voice": "narrator",
-   "text": "Other passengers bought tickets at the ticket window.",
+   "text": "At the station, he showed his ID card at the gate.",
    "src_text": "unit16 step2"
   },
   {
    "file": "assets/audio/u016_s3.mp3",
    "voice": "narrator",
-   "text": "Tom inserted his ticket into the slot in the turnstile.",
+   "text": "The gate opened, and he walked through.",
    "src_text": "unit16 step3"
   },
   {
    "file": "assets/audio/u016_s4.mp3",
    "voice": "narrator",
-   "text": "The gate opened and Tom walked through.",
+   "text": "He followed the signs to the platform.",
    "src_text": "unit16 step4"
   },
   {
    "file": "assets/audio/u016_s5.mp3",
    "voice": "narrator",
-   "text": "He followed the signs to his gate.",
+   "text": "He waited on the platform next to the track.",
    "src_text": "unit16 step5"
   },
   {
    "file": "assets/audio/u016_s6.mp3",
    "voice": "narrator",
-   "text": "He waited on the platform next to the track.",
+   "text": "The high-speed train arrived, and he got on.",
    "src_text": "unit16 step6"
   },
   {
    "file": "assets/audio/u016_s7.mp3",
    "voice": "narrator",
-   "text": "After his train arrived, he got on.",
+   "text": "He found his seat by the window.",
    "src_text": "unit16 step7"
   },
   {
    "file": "assets/audio/u016_s8.mp3",
    "voice": "narrator",
-   "text": "The train was crowded so he had to stand.",
+   "text": "His station was announced...",
    "src_text": "unit16 step8"
   },
   {
    "file": "assets/audio/u016_s9.mp3",
    "voice": "narrator",
-   "text": "His station was announced...",
-   "src_text": "unit16 step9"
-  },
-  {
-   "file": "assets/audio/u016_s10.mp3",
-   "voice": "narrator",
    "text": "...and he got off the train.",
-   "src_text": "unit16 step10"
+   "src_text": "unit16 step9"
   },
   {
    "file": "assets/audio/u016_v1.mp3",
@@ -4061,254 +3749,200 @@
   {
    "file": "assets/audio/u016_v3.mp3",
    "voice": "narrator",
-   "text": "buy (bought)",
-   "src_text": "unit16 vocab buy (bought)"
+   "text": "book",
+   "src_text": "unit16 vocab book"
   },
   {
    "file": "assets/audio/u016_v4.mp3",
+   "voice": "narrator",
+   "text": "find",
+   "src_text": "unit16 vocab find"
+  },
+  {
+   "file": "assets/audio/u016_v5.mp3",
    "voice": "narrator",
    "text": "follow",
    "src_text": "unit16 vocab follow"
   },
   {
-   "file": "assets/audio/u016_v5.mp3",
-   "voice": "narrator",
-   "text": "get (got) off",
-   "src_text": "unit16 vocab get (got) off"
-  },
-  {
    "file": "assets/audio/u016_v6.mp3",
    "voice": "narrator",
-   "text": "get (got) on",
-   "src_text": "unit16 vocab get (got) on"
+   "text": "get off",
+   "src_text": "unit16 vocab get off"
   },
   {
    "file": "assets/audio/u016_v7.mp3",
    "voice": "narrator",
-   "text": "have (had) to",
-   "src_text": "unit16 vocab have (had) to"
+   "text": "get on",
+   "src_text": "unit16 vocab get on"
   },
   {
    "file": "assets/audio/u016_v8.mp3",
-   "voice": "narrator",
-   "text": "insert",
-   "src_text": "unit16 vocab insert"
-  },
-  {
-   "file": "assets/audio/u016_v9.mp3",
    "voice": "narrator",
    "text": "open",
    "src_text": "unit16 vocab open"
   },
   {
+   "file": "assets/audio/u016_v9.mp3",
+   "voice": "narrator",
+   "text": "show",
+   "src_text": "unit16 vocab show"
+  },
+  {
    "file": "assets/audio/u016_v10.mp3",
-   "voice": "narrator",
-   "text": "stand (stood)",
-   "src_text": "unit16 vocab stand (stood)"
-  },
-  {
-   "file": "assets/audio/u016_v11.mp3",
-   "voice": "narrator",
-   "text": "take (took) (a train)",
-   "src_text": "unit16 vocab take (took) (a train)"
-  },
-  {
-   "file": "assets/audio/u016_v12.mp3",
    "voice": "narrator",
    "text": "wait",
    "src_text": "unit16 vocab wait"
   },
   {
-   "file": "assets/audio/u016_v13.mp3",
-   "voice": "narrator",
-   "text": "walk",
-   "src_text": "unit16 vocab walk"
-  },
-  {
-   "file": "assets/audio/u016_v14.mp3",
+   "file": "assets/audio/u016_v11.mp3",
    "voice": "narrator",
    "text": "gate",
    "src_text": "unit16 vocab gate"
   },
   {
-   "file": "assets/audio/u016_v15.mp3",
+   "file": "assets/audio/u016_v12.mp3",
    "voice": "narrator",
-   "text": "machine",
-   "src_text": "unit16 vocab machine"
+   "text": "ID card",
+   "src_text": "unit16 vocab ID card"
   },
   {
-   "file": "assets/audio/u016_v16.mp3",
-   "voice": "narrator",
-   "text": "passenger",
-   "src_text": "unit16 vocab passenger"
-  },
-  {
-   "file": "assets/audio/u016_v17.mp3",
+   "file": "assets/audio/u016_v13.mp3",
    "voice": "narrator",
    "text": "platform",
    "src_text": "unit16 vocab platform"
   },
   {
-   "file": "assets/audio/u016_v18.mp3",
+   "file": "assets/audio/u016_v14.mp3",
+   "voice": "narrator",
+   "text": "seat",
+   "src_text": "unit16 vocab seat"
+  },
+  {
+   "file": "assets/audio/u016_v15.mp3",
    "voice": "narrator",
    "text": "sign",
    "src_text": "unit16 vocab sign"
   },
   {
-   "file": "assets/audio/u016_v19.mp3",
-   "voice": "narrator",
-   "text": "slot",
-   "src_text": "unit16 vocab slot"
-  },
-  {
-   "file": "assets/audio/u016_v20.mp3",
+   "file": "assets/audio/u016_v16.mp3",
    "voice": "narrator",
    "text": "station",
    "src_text": "unit16 vocab station"
   },
   {
-   "file": "assets/audio/u016_v21.mp3",
+   "file": "assets/audio/u016_v17.mp3",
    "voice": "narrator",
    "text": "ticket",
    "src_text": "unit16 vocab ticket"
   },
   {
-   "file": "assets/audio/u016_v22.mp3",
+   "file": "assets/audio/u016_v18.mp3",
    "voice": "narrator",
    "text": "track",
    "src_text": "unit16 vocab track"
   },
   {
-   "file": "assets/audio/u016_v23.mp3",
+   "file": "assets/audio/u016_v19.mp3",
    "voice": "narrator",
    "text": "train",
    "src_text": "unit16 vocab train"
   },
   {
-   "file": "assets/audio/u016_v24.mp3",
+   "file": "assets/audio/u016_v20.mp3",
    "voice": "narrator",
-   "text": "turnstile",
-   "src_text": "unit16 vocab turnstile"
+   "text": "by the window (adverbial)",
+   "src_text": "unit16 vocab by the window (adverbial)"
   },
   {
-   "file": "assets/audio/u016_v25.mp3",
+   "file": "assets/audio/u016_v21.mp3",
    "voice": "narrator",
-   "text": "window",
-   "src_text": "unit16 vocab window"
-  },
-  {
-   "file": "assets/audio/u016_v26.mp3",
-   "voice": "narrator",
-   "text": "crowded (adj.)",
-   "src_text": "unit16 vocab crowded (adj.)"
-  },
-  {
-   "file": "assets/audio/u016_v27.mp3",
-   "voice": "narrator",
-   "text": "other (adj.)",
-   "src_text": "unit16 vocab other (adj.)"
+   "text": "high-speed (adj.)",
+   "src_text": "unit16 vocab high-speed (adj.)"
   },
   {
    "file": "assets/audio/u017_s1.mp3",
    "voice": "narrator",
-   "text": "Pam hailed a taxi.",
+   "text": "Mom ordered a taxi on her phone.",
    "src_text": "unit17 step1"
   },
   {
    "file": "assets/audio/u017_s2.mp3",
    "voice": "narrator",
-   "text": "She got into the back seat...",
+   "text": "The taxi came to their building.",
    "src_text": "unit17 step2"
   },
   {
    "file": "assets/audio/u017_s3.mp3",
    "voice": "narrator",
-   "text": "...and told the driver where she wanted to go.",
+   "text": "Jenny and Mom got into the back seat.",
    "src_text": "unit17 step3"
   },
   {
    "file": "assets/audio/u017_s4.mp3",
    "voice": "narrator",
-   "text": "He started the meter.",
+   "text": "Jenny told the driver where they wanted to go.",
    "src_text": "unit17 step4"
   },
   {
    "file": "assets/audio/u017_s5.mp3",
    "voice": "narrator",
-   "text": "She checked the meter a few times.",
+   "text": "The driver started the meter.",
    "src_text": "unit17 step5"
   },
   {
    "file": "assets/audio/u017_s6.mp3",
    "voice": "narrator",
-   "text": "During the ride, she gave the driver directions.",
+   "text": "During the ride, Jenny looked out the window.",
    "src_text": "unit17 step6"
   },
   {
    "file": "assets/audio/u017_s7.mp3",
    "voice": "narrator",
-   "text": "She told him where to stop.",
+   "text": "The driver stopped in front of their school.",
    "src_text": "unit17 step7"
   },
   {
    "file": "assets/audio/u017_s8.mp3",
    "voice": "narrator",
-   "text": "She paid the fare and gave him a tip.",
+   "text": "Mom paid the fare with her phone.",
    "src_text": "unit17 step8"
   },
   {
    "file": "assets/audio/u017_d1.mp3",
    "voice": "girl",
-   "text": "I need to go to Riverside Square.",
-   "src_text": "unit17 dialogue1 (Pam)"
+   "text": "We're going to Sunny School, please.",
+   "src_text": "unit17 dialogue1"
   },
   {
    "file": "assets/audio/u017_d2.mp3",
    "voice": "clerk",
-   "text": "Okay.",
-   "src_text": "unit17 dialogue2 (driver)"
+   "text": "Okay. Here we go!",
+   "src_text": "unit17 dialogue2"
   },
   {
    "file": "assets/audio/u017_d3.mp3",
-   "voice": "girl",
-   "text": "Hmm. Four-fifty. That's about right.",
-   "src_text": "unit17 dialogue3 (Pam)"
+   "voice": "mom",
+   "text": "How much is the fare?",
+   "src_text": "unit17 dialogue3"
   },
   {
    "file": "assets/audio/u017_d4.mp3",
-   "voice": "girl",
-   "text": "Turn left at the next traffic light.",
-   "src_text": "unit17 dialogue4 (Pam)"
+   "voice": "clerk",
+   "text": "Fifteen yuan.",
+   "src_text": "unit17 dialogue4"
   },
   {
    "file": "assets/audio/u017_d5.mp3",
-   "voice": "clerk",
-   "text": "All right.",
-   "src_text": "unit17 dialogue5 (driver)"
+   "voice": "mom",
+   "text": "I'll pay by phone. Thank you!",
+   "src_text": "unit17 dialogue5"
   },
   {
    "file": "assets/audio/u017_d6.mp3",
    "voice": "girl",
-   "text": "Pull over by that red car.",
-   "src_text": "unit17 dialogue6 (Pam)"
-  },
-  {
-   "file": "assets/audio/u017_d7.mp3",
-   "voice": "clerk",
-   "text": "Yes, ma'am.",
-   "src_text": "unit17 dialogue7 (driver)"
-  },
-  {
-   "file": "assets/audio/u017_d8.mp3",
-   "voice": "clerk",
-   "text": "Thank you.",
-   "src_text": "unit17 dialogue8 (driver)"
-  },
-  {
-   "file": "assets/audio/u017_d9.mp3",
-   "voice": "girl",
-   "text": "Here's six-twenty plus a little extra for you.",
-   "src_text": "unit17 dialogue9 (Pam)"
+   "text": "Bye, driver!",
+   "src_text": "unit17 dialogue6"
   },
   {
    "file": "assets/audio/u017_v1.mp3",
@@ -4319,116 +3953,86 @@
   {
    "file": "assets/audio/u017_v2.mp3",
    "voice": "narrator",
-   "text": "get (got) into",
-   "src_text": "unit17 vocab get (got) into"
+   "text": "get into",
+   "src_text": "unit17 vocab get into"
   },
   {
    "file": "assets/audio/u017_v3.mp3",
    "voice": "narrator",
-   "text": "give (gave)",
-   "src_text": "unit17 vocab give (gave)"
+   "text": "look out",
+   "src_text": "unit17 vocab look out"
   },
   {
    "file": "assets/audio/u017_v4.mp3",
    "voice": "narrator",
-   "text": "go (went)",
-   "src_text": "unit17 vocab go (went)"
+   "text": "order",
+   "src_text": "unit17 vocab order"
   },
   {
    "file": "assets/audio/u017_v5.mp3",
    "voice": "narrator",
-   "text": "hail",
-   "src_text": "unit17 vocab hail"
+   "text": "pay",
+   "src_text": "unit17 vocab pay"
   },
   {
    "file": "assets/audio/u017_v6.mp3",
-   "voice": "narrator",
-   "text": "pay (paid)",
-   "src_text": "unit17 vocab pay (paid)"
-  },
-  {
-   "file": "assets/audio/u017_v7.mp3",
    "voice": "narrator",
    "text": "start",
    "src_text": "unit17 vocab start"
   },
   {
-   "file": "assets/audio/u017_v8.mp3",
+   "file": "assets/audio/u017_v7.mp3",
    "voice": "narrator",
    "text": "stop",
    "src_text": "unit17 vocab stop"
   },
   {
+   "file": "assets/audio/u017_v8.mp3",
+   "voice": "narrator",
+   "text": "tell",
+   "src_text": "unit17 vocab tell"
+  },
+  {
    "file": "assets/audio/u017_v9.mp3",
-   "voice": "narrator",
-   "text": "take (took) (a taxi)",
-   "src_text": "unit17 vocab take (took) (a taxi)"
-  },
-  {
-   "file": "assets/audio/u017_v10.mp3",
-   "voice": "narrator",
-   "text": "tell (told)",
-   "src_text": "unit17 vocab tell (told)"
-  },
-  {
-   "file": "assets/audio/u017_v11.mp3",
-   "voice": "narrator",
-   "text": "want",
-   "src_text": "unit17 vocab want"
-  },
-  {
-   "file": "assets/audio/u017_v12.mp3",
    "voice": "narrator",
    "text": "back seat",
    "src_text": "unit17 vocab back seat"
   },
   {
-   "file": "assets/audio/u017_v13.mp3",
-   "voice": "narrator",
-   "text": "directions",
-   "src_text": "unit17 vocab directions"
-  },
-  {
-   "file": "assets/audio/u017_v14.mp3",
+   "file": "assets/audio/u017_v10.mp3",
    "voice": "narrator",
    "text": "driver",
    "src_text": "unit17 vocab driver"
   },
   {
-   "file": "assets/audio/u017_v15.mp3",
+   "file": "assets/audio/u017_v11.mp3",
    "voice": "narrator",
    "text": "fare",
    "src_text": "unit17 vocab fare"
   },
   {
-   "file": "assets/audio/u017_v16.mp3",
+   "file": "assets/audio/u017_v12.mp3",
    "voice": "narrator",
    "text": "meter",
    "src_text": "unit17 vocab meter"
   },
   {
-   "file": "assets/audio/u017_v17.mp3",
+   "file": "assets/audio/u017_v13.mp3",
    "voice": "narrator",
-   "text": "ride",
-   "src_text": "unit17 vocab ride"
+   "text": "phone",
+   "src_text": "unit17 vocab phone"
   },
   {
-   "file": "assets/audio/u017_v18.mp3",
+   "file": "assets/audio/u017_v14.mp3",
    "voice": "narrator",
    "text": "taxi",
    "src_text": "unit17 vocab taxi"
   },
   {
-   "file": "assets/audio/u017_v19.mp3",
+   "file": "assets/audio/u017_v15.mp3",
    "voice": "narrator",
-   "text": "tip",
-   "src_text": "unit17 vocab tip"
-  },
-  {
-   "file": "assets/audio/u017_v20.mp3",
-   "voice": "narrator",
-   "text": "a few times (adverbial)",
-   "src_text": "unit17 vocab a few times (adverbial)"
+   "text": "by phone (adverbial)",
+   "src_text": "unit17 vocab by phone (adverbial)"
   },
   {
    "file": "assets/audio/u018_s1.mp3",
@@ -4661,62 +4265,56 @@
   {
    "file": "assets/audio/u019_s4.mp3",
    "voice": "narrator",
-   "text": "I started pedaling and the bike moved.",
+   "text": "I started pedaling, and the bike moved.",
    "src_text": "unit19 step4"
   },
   {
    "file": "assets/audio/u019_s5.mp3",
    "voice": "narrator",
-   "text": "To go uphill,...",
+   "text": "To go uphill, I shifted into a lower gear.",
    "src_text": "unit19 step5"
   },
   {
    "file": "assets/audio/u019_s6.mp3",
    "voice": "narrator",
-   "text": "...I shifted into a lower gear.",
+   "text": "To slow down, I squeezed the brakes.",
    "src_text": "unit19 step6"
   },
   {
    "file": "assets/audio/u019_s7.mp3",
    "voice": "narrator",
-   "text": "To slow down, I squeezed the brakes.",
+   "text": "I scanned the code and unlocked a shared bike.",
    "src_text": "unit19 step7"
   },
   {
    "file": "assets/audio/u019_s8.mp3",
    "voice": "narrator",
-   "text": "Finally, I got off my bike...",
+   "text": "After the ride, I parked it in the bike parking area.",
    "src_text": "unit19 step8"
-  },
-  {
-   "file": "assets/audio/u019_s9.mp3",
-   "voice": "narrator",
-   "text": "...and locked it up in a bike rack.",
-   "src_text": "unit19 step9"
   },
   {
    "file": "assets/audio/u019_v1.mp3",
    "voice": "narrator",
-   "text": "get (got) off",
-   "src_text": "unit19 vocab get (got) off"
+   "text": "hold",
+   "src_text": "unit19 vocab hold"
   },
   {
    "file": "assets/audio/u019_v2.mp3",
-   "voice": "narrator",
-   "text": "hold (held)",
-   "src_text": "unit19 vocab hold (held)"
-  },
-  {
-   "file": "assets/audio/u019_v3.mp3",
    "voice": "narrator",
    "text": "lock up",
    "src_text": "unit19 vocab lock up"
   },
   {
-   "file": "assets/audio/u019_v4.mp3",
+   "file": "assets/audio/u019_v3.mp3",
    "voice": "narrator",
    "text": "move",
    "src_text": "unit19 vocab move"
+  },
+  {
+   "file": "assets/audio/u019_v4.mp3",
+   "voice": "narrator",
+   "text": "park",
+   "src_text": "unit19 vocab park"
   },
   {
    "file": "assets/audio/u019_v5.mp3",
@@ -4727,14 +4325,14 @@
   {
    "file": "assets/audio/u019_v6.mp3",
    "voice": "narrator",
-   "text": "put (put) on",
-   "src_text": "unit19 vocab put (put) on"
+   "text": "put on",
+   "src_text": "unit19 vocab put on"
   },
   {
    "file": "assets/audio/u019_v7.mp3",
    "voice": "narrator",
-   "text": "ride (rode)",
-   "src_text": "unit19 vocab ride (rode)"
+   "text": "scan",
+   "src_text": "unit19 vocab scan"
   },
   {
    "file": "assets/audio/u019_v8.mp3",
@@ -4757,20 +4355,20 @@
   {
    "file": "assets/audio/u019_v11.mp3",
    "voice": "narrator",
-   "text": "start",
-   "src_text": "unit19 vocab start"
+   "text": "swing",
+   "src_text": "unit19 vocab swing"
   },
   {
    "file": "assets/audio/u019_v12.mp3",
    "voice": "narrator",
-   "text": "swing (swung)",
-   "src_text": "unit19 vocab swing (swung)"
+   "text": "unlock",
+   "src_text": "unit19 vocab unlock"
   },
   {
    "file": "assets/audio/u019_v13.mp3",
    "voice": "narrator",
-   "text": "bike (bicycle)",
-   "src_text": "unit19 vocab bike (bicycle)"
+   "text": "bike",
+   "src_text": "unit19 vocab bike"
   },
   {
    "file": "assets/audio/u019_v14.mp3",
@@ -4805,35 +4403,17 @@
   {
    "file": "assets/audio/u019_v19.mp3",
    "voice": "narrator",
-   "text": "pedal",
-   "src_text": "unit19 vocab pedal"
+   "text": "parking area",
+   "src_text": "unit19 vocab parking area"
   },
   {
    "file": "assets/audio/u019_v20.mp3",
-   "voice": "narrator",
-   "text": "rack",
-   "src_text": "unit19 vocab rack"
-  },
-  {
-   "file": "assets/audio/u019_v21.mp3",
-   "voice": "narrator",
-   "text": "shift lever",
-   "src_text": "unit19 vocab shift lever"
-  },
-  {
-   "file": "assets/audio/u019_v22.mp3",
-   "voice": "narrator",
-   "text": "finally (adv.)",
-   "src_text": "unit19 vocab finally (adv.)"
-  },
-  {
-   "file": "assets/audio/u019_v23.mp3",
    "voice": "narrator",
    "text": "lower (adj.)",
    "src_text": "unit19 vocab lower (adj.)"
   },
   {
-   "file": "assets/audio/u019_v24.mp3",
+   "file": "assets/audio/u019_v21.mp3",
    "voice": "narrator",
    "text": "uphill (adv.)",
    "src_text": "unit19 vocab uphill (adv.)"
@@ -4841,383 +4421,167 @@
   {
    "file": "assets/audio/u020_s1.mp3",
    "voice": "narrator",
-   "text": "Dan got back to his building.",
+   "text": "After school, Jenny got back to her apartment building.",
    "src_text": "unit20 step1"
   },
   {
    "file": "assets/audio/u020_s2.mp3",
    "voice": "narrator",
-   "text": "He checked his mailbox and took out his mail.",
+   "text": "She pressed the code on the keypad to open the door.",
    "src_text": "unit20 step2"
   },
   {
    "file": "assets/audio/u020_s3.mp3",
    "voice": "narrator",
-   "text": "Then he took an elevator up to his floor.",
+   "text": "She took the elevator up to her floor.",
    "src_text": "unit20 step3"
   },
   {
    "file": "assets/audio/u020_s4.mp3",
    "voice": "narrator",
-   "text": "He walked down the hall to his apartment.",
+   "text": "She walked down the hall to her home.",
    "src_text": "unit20 step4"
   },
   {
    "file": "assets/audio/u020_s5.mp3",
    "voice": "narrator",
-   "text": "He opened his door and went inside.",
+   "text": "She unlocked the door with her key.",
    "src_text": "unit20 step5"
   },
   {
    "file": "assets/audio/u020_s6.mp3",
    "voice": "narrator",
-   "text": "To take an elevator: press the 'up' button and wait for the elevator.",
+   "text": "She put down her schoolbag and took off her shoes.",
    "src_text": "unit20 step6"
   },
   {
    "file": "assets/audio/u020_s7.mp3",
    "voice": "narrator",
-   "text": "Get on the elevator, choose a floor, and get off at your floor.",
+   "text": "Mom said, \"Welcome home, Jenny!\"",
    "src_text": "unit20 step7"
   },
   {
-   "file": "assets/audio/u020_s8.mp3",
-   "voice": "narrator",
-   "text": "I got back to my house and walked up the steps to my front door.",
-   "src_text": "unit20 step8"
-  },
-  {
-   "file": "assets/audio/u020_s9.mp3",
-   "voice": "narrator",
-   "text": "I unlocked the door with my house key and opened it by turning the doorknob.",
-   "src_text": "unit20 step9"
-  },
-  {
-   "file": "assets/audio/u020_s10.mp3",
-   "voice": "narrator",
-   "text": "I set my bag down and hung my coat up in the front closet.",
-   "src_text": "unit20 step10"
-  },
-  {
-   "file": "assets/audio/u020_s11.mp3",
-   "voice": "narrator",
-   "text": "I took off my shoes and picked up my mail.",
-   "src_text": "unit20 step11"
-  },
-  {
-   "file": "assets/audio/u020_s12.mp3",
-   "voice": "narrator",
-   "text": "Then I went into the living room and checked for messages on the answering machine.",
-   "src_text": "unit20 step12"
-  },
-  {
-   "file": "assets/audio/u020_s13.mp3",
-   "voice": "narrator",
-   "text": "I took off my work clothes and changed into some casual clothes.",
-   "src_text": "unit20 step13"
-  },
-  {
    "file": "assets/audio/u020_d1.mp3",
-   "voice": "clerk",
-   "text": "Hi, Pam. I'm back.",
-   "src_text": "unit20 dialogue1 (Dan)"
+   "voice": "mom",
+   "text": "Welcome home, Jenny! How was school?",
+   "src_text": "unit20 dialogue1"
   },
   {
    "file": "assets/audio/u020_d2.mp3",
-   "voice": "clerk",
-   "text": "Hi, Dan.",
-   "src_text": "unit20 dialogue2 (Pam)"
+   "voice": "girl",
+   "text": "It was fun! We drew pictures today.",
+   "src_text": "unit20 dialogue2"
   },
   {
    "file": "assets/audio/u020_d3.mp3",
-   "voice": "clerk",
-   "text": "You have three messages.",
-   "src_text": "unit20 dialogue3 (Answering machine)"
+   "voice": "mom",
+   "text": "Great! Wash your hands, and have a snack.",
+   "src_text": "unit20 dialogue3"
   },
   {
    "file": "assets/audio/u020_v1.mp3",
-   "voice": "narrator",
-   "text": "change",
-   "src_text": "unit20 vocab change"
-  },
-  {
-   "file": "assets/audio/u020_v2.mp3",
-   "voice": "narrator",
-   "text": "check",
-   "src_text": "unit20 vocab check"
-  },
-  {
-   "file": "assets/audio/u020_v3.mp3",
-   "voice": "narrator",
-   "text": "choose / chose",
-   "src_text": "unit20 vocab choose / chose"
-  },
-  {
-   "file": "assets/audio/u020_v4.mp3",
    "voice": "narrator",
    "text": "get back",
    "src_text": "unit20 vocab get back"
   },
   {
-   "file": "assets/audio/u020_v5.mp3",
-   "voice": "narrator",
-   "text": "get off",
-   "src_text": "unit20 vocab get off"
-  },
-  {
-   "file": "assets/audio/u020_v6.mp3",
-   "voice": "narrator",
-   "text": "get on",
-   "src_text": "unit20 vocab get on"
-  },
-  {
-   "file": "assets/audio/u020_v7.mp3",
-   "voice": "narrator",
-   "text": "go / went",
-   "src_text": "unit20 vocab go / went"
-  },
-  {
-   "file": "assets/audio/u020_v8.mp3",
-   "voice": "narrator",
-   "text": "hang up",
-   "src_text": "unit20 vocab hang up"
-  },
-  {
-   "file": "assets/audio/u020_v9.mp3",
+   "file": "assets/audio/u020_v2.mp3",
    "voice": "narrator",
    "text": "open",
    "src_text": "unit20 vocab open"
   },
   {
-   "file": "assets/audio/u020_v10.mp3",
-   "voice": "narrator",
-   "text": "pick up",
-   "src_text": "unit20 vocab pick up"
-  },
-  {
-   "file": "assets/audio/u020_v11.mp3",
+   "file": "assets/audio/u020_v3.mp3",
    "voice": "narrator",
    "text": "press",
    "src_text": "unit20 vocab press"
   },
   {
-   "file": "assets/audio/u020_v12.mp3",
+   "file": "assets/audio/u020_v4.mp3",
    "voice": "narrator",
-   "text": "return",
-   "src_text": "unit20 vocab return"
+   "text": "put down",
+   "src_text": "unit20 vocab put down"
   },
   {
-   "file": "assets/audio/u020_v13.mp3",
-   "voice": "narrator",
-   "text": "set down",
-   "src_text": "unit20 vocab set down"
-  },
-  {
-   "file": "assets/audio/u020_v14.mp3",
-   "voice": "narrator",
-   "text": "take (a vehicle)",
-   "src_text": "unit20 vocab take (a vehicle)"
-  },
-  {
-   "file": "assets/audio/u020_v15.mp3",
+   "file": "assets/audio/u020_v5.mp3",
    "voice": "narrator",
    "text": "take off",
    "src_text": "unit20 vocab take off"
   },
   {
-   "file": "assets/audio/u020_v16.mp3",
+   "file": "assets/audio/u020_v6.mp3",
    "voice": "narrator",
-   "text": "take out",
-   "src_text": "unit20 vocab take out"
+   "text": "take the elevator",
+   "src_text": "unit20 vocab take the elevator"
   },
   {
-   "file": "assets/audio/u020_v17.mp3",
-   "voice": "narrator",
-   "text": "turn",
-   "src_text": "unit20 vocab turn"
-  },
-  {
-   "file": "assets/audio/u020_v18.mp3",
+   "file": "assets/audio/u020_v7.mp3",
    "voice": "narrator",
    "text": "unlock",
    "src_text": "unit20 vocab unlock"
   },
   {
-   "file": "assets/audio/u020_v19.mp3",
-   "voice": "narrator",
-   "text": "wait",
-   "src_text": "unit20 vocab wait"
-  },
-  {
-   "file": "assets/audio/u020_v20.mp3",
+   "file": "assets/audio/u020_v8.mp3",
    "voice": "narrator",
    "text": "walk",
    "src_text": "unit20 vocab walk"
   },
   {
-   "file": "assets/audio/u020_v21.mp3",
+   "file": "assets/audio/u020_v9.mp3",
    "voice": "narrator",
-   "text": "answering machine",
-   "src_text": "unit20 vocab answering machine"
+   "text": "apartment building",
+   "src_text": "unit20 vocab apartment building"
   },
   {
-   "file": "assets/audio/u020_v22.mp3",
-   "voice": "narrator",
-   "text": "apartment",
-   "src_text": "unit20 vocab apartment"
-  },
-  {
-   "file": "assets/audio/u020_v23.mp3",
-   "voice": "narrator",
-   "text": "bag",
-   "src_text": "unit20 vocab bag"
-  },
-  {
-   "file": "assets/audio/u020_v24.mp3",
-   "voice": "narrator",
-   "text": "building",
-   "src_text": "unit20 vocab building"
-  },
-  {
-   "file": "assets/audio/u020_v25.mp3",
-   "voice": "narrator",
-   "text": "button",
-   "src_text": "unit20 vocab button"
-  },
-  {
-   "file": "assets/audio/u020_v26.mp3",
-   "voice": "narrator",
-   "text": "clothes",
-   "src_text": "unit20 vocab clothes"
-  },
-  {
-   "file": "assets/audio/u020_v27.mp3",
-   "voice": "narrator",
-   "text": "coat",
-   "src_text": "unit20 vocab coat"
-  },
-  {
-   "file": "assets/audio/u020_v28.mp3",
+   "file": "assets/audio/u020_v10.mp3",
    "voice": "narrator",
    "text": "door",
    "src_text": "unit20 vocab door"
   },
   {
-   "file": "assets/audio/u020_v29.mp3",
-   "voice": "narrator",
-   "text": "doorknob",
-   "src_text": "unit20 vocab doorknob"
-  },
-  {
-   "file": "assets/audio/u020_v30.mp3",
+   "file": "assets/audio/u020_v11.mp3",
    "voice": "narrator",
    "text": "elevator",
    "src_text": "unit20 vocab elevator"
   },
   {
-   "file": "assets/audio/u020_v31.mp3",
+   "file": "assets/audio/u020_v12.mp3",
    "voice": "narrator",
    "text": "floor",
    "src_text": "unit20 vocab floor"
   },
   {
-   "file": "assets/audio/u020_v32.mp3",
-   "voice": "narrator",
-   "text": "front closet",
-   "src_text": "unit20 vocab front closet"
-  },
-  {
-   "file": "assets/audio/u020_v33.mp3",
-   "voice": "narrator",
-   "text": "front door",
-   "src_text": "unit20 vocab front door"
-  },
-  {
-   "file": "assets/audio/u020_v34.mp3",
+   "file": "assets/audio/u020_v13.mp3",
    "voice": "narrator",
    "text": "hall",
    "src_text": "unit20 vocab hall"
   },
   {
-   "file": "assets/audio/u020_v35.mp3",
-   "voice": "narrator",
-   "text": "house",
-   "src_text": "unit20 vocab house"
-  },
-  {
-   "file": "assets/audio/u020_v36.mp3",
+   "file": "assets/audio/u020_v14.mp3",
    "voice": "narrator",
    "text": "key",
    "src_text": "unit20 vocab key"
   },
   {
-   "file": "assets/audio/u020_v37.mp3",
+   "file": "assets/audio/u020_v15.mp3",
    "voice": "narrator",
-   "text": "living room",
-   "src_text": "unit20 vocab living room"
+   "text": "keypad",
+   "src_text": "unit20 vocab keypad"
   },
   {
-   "file": "assets/audio/u020_v38.mp3",
+   "file": "assets/audio/u020_v16.mp3",
    "voice": "narrator",
-   "text": "mail",
-   "src_text": "unit20 vocab mail"
+   "text": "schoolbag",
+   "src_text": "unit20 vocab schoolbag"
   },
   {
-   "file": "assets/audio/u020_v39.mp3",
-   "voice": "narrator",
-   "text": "mailbox",
-   "src_text": "unit20 vocab mailbox"
-  },
-  {
-   "file": "assets/audio/u020_v40.mp3",
-   "voice": "narrator",
-   "text": "message",
-   "src_text": "unit20 vocab message"
-  },
-  {
-   "file": "assets/audio/u020_v41.mp3",
-   "voice": "narrator",
-   "text": "railing",
-   "src_text": "unit20 vocab railing"
-  },
-  {
-   "file": "assets/audio/u020_v42.mp3",
+   "file": "assets/audio/u020_v17.mp3",
    "voice": "narrator",
    "text": "shoe",
    "src_text": "unit20 vocab shoe"
   },
   {
-   "file": "assets/audio/u020_v43.mp3",
-   "voice": "narrator",
-   "text": "slot",
-   "src_text": "unit20 vocab slot"
-  },
-  {
-   "file": "assets/audio/u020_v44.mp3",
-   "voice": "narrator",
-   "text": "step",
-   "src_text": "unit20 vocab step"
-  },
-  {
-   "file": "assets/audio/u020_v45.mp3",
-   "voice": "narrator",
-   "text": "work",
-   "src_text": "unit20 vocab work"
-  },
-  {
-   "file": "assets/audio/u020_v46.mp3",
-   "voice": "narrator",
-   "text": "casual (adj.)",
-   "src_text": "unit20 vocab casual (adj.)"
-  },
-  {
-   "file": "assets/audio/u020_v47.mp3",
-   "voice": "narrator",
-   "text": "inside (adv.)",
-   "src_text": "unit20 vocab inside (adv.)"
-  },
-  {
-   "file": "assets/audio/u020_v48.mp3",
+   "file": "assets/audio/u020_v18.mp3",
    "voice": "narrator",
    "text": "home (adv.)",
    "src_text": "unit20 vocab home (adv.)"
@@ -16465,6 +15829,42 @@
    "text": "by the window (adverbial)",
    "voice": "narrator",
    "src_text": "unit73 vocab by the window (adverbial)"
+  },
+  {
+   "file": "assets/audio/u010_s7.mp3",
+   "voice": "narrator",
+   "text": "She puts her bowl in the sink and gets ready for school.",
+   "src_text": "unit10 step7"
+  },
+  {
+   "file": "assets/audio/u012_d2.mp3",
+   "voice": "clerk",
+   "text": "Yes, it does. Five stops.",
+   "src_text": "unit12 dialogue2"
+  },
+  {
+   "file": "assets/audio/u012_d3.mp3",
+   "voice": "girl",
+   "text": "Thank you!",
+   "src_text": "unit12 dialogue3"
+  },
+  {
+   "file": "assets/audio/u016_d1.mp3",
+   "voice": "mom",
+   "text": "Tom, which train are we taking?",
+   "src_text": "unit16 dialogue1"
+  },
+  {
+   "file": "assets/audio/u016_d2.mp3",
+   "voice": "clerk",
+   "text": "The G123 high-speed train, Mom.",
+   "src_text": "unit16 dialogue2"
+  },
+  {
+   "file": "assets/audio/u016_d3.mp3",
+   "voice": "clerk",
+   "text": "It arrives at 10:30.",
+   "src_text": "unit16 dialogue3"
   }
  ]
 }
