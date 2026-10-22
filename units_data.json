@@ -3147,78 +3147,68 @@
    "img": "assets/img/unit14.jpg",
    "grammar": "SIMPLE PAST",
    "grammarNote": {
-    "en": "The simple past describes completed actions in the past. Regular verbs add -ed (e.g., stepped, pressed, turned). Irregular verbs in this unit include: let-let, put-put, take-took. Time expressions like when it got dark, when it rained, and as the car speeded up set the past scene.",
-    "zh": "一般过去时描述过去完成的动作。规则动词加 -ed（如 stepped、pressed、turned）。本单元的不规则动词有：let-let、put-put、take-took。时间表达如 when it got dark（天黑时）、when it rained（下雨时）、as the car speeded up（汽车加速时）都用来设定过去的场景。"
+    "en": "The simple past describes completed actions in the past. Regular verbs add -ed (e.g., started, pressed, turned). Irregular verbs in this unit include: put-put, let-let, took-took. Time expressions like when it got dark, when it rained, and when he wanted to back up set the past scene.",
+    "zh": "一般过去时描述过去完成的动作。规则动词加 -ed（如 started、pressed、turned）。本单元的不规则动词有：put-put、let-let、take-took。时间表达如 when it got dark（天黑时）、when it rained（下雨时）、when he wanted to back up（要倒车时）都用来设定过去的场景。"
    },
    "steps": [
     {
-     "en": "Kate stepped on the clutch pedal,...",
-     "zh": "Kate 踩下离合器踏板……"
+     "en": "Dad got into the car and started the engine.",
+     "zh": "爸爸上了车，发动引擎。"
     },
     {
-     "en": "...shifted into gear,...",
-     "zh": "然后挂挡……"
+     "en": "He put the gearshift into D for Drive.",
+     "zh": "他把挡杆挂到 D 挡（前进挡）。"
     },
     {
-     "en": "...and took her foot off the clutch.",
-     "zh": "然后松开离合器。"
+     "en": "He let off the brake, and the car moved forward.",
+     "zh": "他松开刹车，汽车向前行驶。"
     },
     {
-     "en": "To go faster, Kate pressed the accelerator.",
-     "zh": "为了加速，Kate 踩下油门。"
+     "en": "To go faster, he pressed the accelerator.",
+     "zh": "要加速，他踩下油门。"
     },
     {
-     "en": "As the car speeded up,...",
-     "zh": "汽车加速时……"
+     "en": "To slow down, he let up on the accelerator...",
+     "zh": "要减速，他松开油门……"
     },
     {
-     "en": "...she shifted into a higher gear.",
-     "zh": "她换入了更高的挡位。"
+     "en": "...and stepped on the brake.",
+     "zh": "……并踩下刹车。"
     },
     {
-     "en": "To slow down, Kate let up on the accelerator...",
-     "zh": "为了减速，Kate 松开油门……"
+     "en": "When it got dark, he turned on the lights.",
+     "zh": "天黑时，他打开了车灯。"
     },
     {
-     "en": "...and shifted into a lower gear.",
-     "zh": "然后换入了更低的挡位。"
+     "en": "When it rained, he turned on the windshield wipers.",
+     "zh": "下雨时，他打开了雨刮器。"
     },
     {
-     "en": "The car slowed down.",
-     "zh": "汽车慢了下来。"
-    },
-    {
-     "en": "Kate stepped on the brake.",
-     "zh": "Kate 踩下刹车。"
-    },
-    {
-     "en": "Kate put her turn signal on...",
-     "zh": "Kate 打开转向灯……"
-    },
-    {
-     "en": "...and turned the steering wheel.",
-     "zh": "然后转动方向盘。"
-    },
-    {
-     "en": "When it got dark, she turned on the lights.",
-     "zh": "天黑时，她打开了车灯。"
-    },
-    {
-     "en": "When it rained, she turned on the windshield wipers.",
-     "zh": "下雨时，她打开了雨刮器。"
+     "en": "When he wanted to back up, he put the gearshift into R.",
+     "zh": "要倒车时，他把挡杆挂到 R 挡。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "let (let) up on",
+      "w": "back up",
+      "ipa": "/bæk ʌp/",
+      "zh": "倒车"
+     },
+     {
+      "w": "let off",
+      "ipa": "/let ɔːf/",
+      "zh": "松开（刹车）"
+     },
+     {
+      "w": "let up on",
       "ipa": "/let ʌp ɑːn/",
       "zh": "松开（油门）"
      },
      {
-      "w": "operate",
-      "ipa": "/ˈɑːpəreɪt/",
-      "zh": "操作，驾驶"
+      "w": "move",
+      "ipa": "/muːv/",
+      "zh": "移动，行驶"
      },
      {
       "w": "press",
@@ -3226,19 +3216,9 @@
       "zh": "踩，按"
      },
      {
-      "w": "put (put) on",
-      "ipa": "/pʊt/",
-      "zh": "打开，开启"
-     },
-     {
-      "w": "rain",
-      "ipa": "/reɪn/",
-      "zh": "下雨"
-     },
-     {
-      "w": "shift",
-      "ipa": "/ʃɪft/",
-      "zh": "换挡"
+      "w": "put (put) in",
+      "ipa": "/pʊt ɪn/",
+      "zh": "挂（挡）"
      },
      {
       "w": "slow down",
@@ -3251,24 +3231,14 @@
       "zh": "加速"
      },
      {
-      "w": "step",
-      "ipa": "/step/",
-      "zh": "踩，踏"
+      "w": "start",
+      "ipa": "/stɑːrt/",
+      "zh": "发动（引擎）"
      },
      {
-      "w": "stop",
-      "ipa": "/stɑːp/",
-      "zh": "停止"
-     },
-     {
-      "w": "take (took) off",
-      "ipa": "/teɪk/",
-      "zh": "松开，取下"
-     },
-     {
-      "w": "turn",
-      "ipa": "/tɜːrn/",
-      "zh": "转动，转向"
+      "w": "step on",
+      "ipa": "/step ɑːn/",
+      "zh": "踩（刹车）"
      },
      {
       "w": "turn on",
@@ -3283,6 +3253,11 @@
       "zh": "油门"
      },
      {
+      "w": "automatic car",
+      "ipa": "/ˌɔːtəˈmætɪk kɑːr/",
+      "zh": "自动挡汽车"
+     },
+     {
       "w": "brake",
       "ipa": "/breɪk/",
       "zh": "刹车"
@@ -3293,54 +3268,34 @@
       "zh": "汽车"
      },
      {
-      "w": "clutch",
-      "ipa": "/klʌtʃ/",
-      "zh": "离合器"
+      "w": "D (Drive)",
+      "ipa": "/draɪv/",
+      "zh": "D 挡（前进挡）"
      },
      {
-      "w": "foot",
-      "ipa": "/fʊt/",
-      "zh": "脚"
-     },
-     {
-      "w": "gear",
-      "ipa": "/ɡɪr/",
-      "zh": "挡位"
+      "w": "engine",
+      "ipa": "/ˈendʒɪn/",
+      "zh": "引擎，发动机"
      },
      {
       "w": "gearshift",
       "ipa": "/ˈɡɪrʃɪft/",
-      "zh": "换挡杆"
+      "zh": "挡杆"
      },
      {
       "w": "light",
       "ipa": "/laɪt/",
-      "zh": "灯"
+      "zh": "车灯"
      },
      {
-      "w": "neutral",
-      "ipa": "/ˈnuːtrəl/",
-      "zh": "空挡"
-     },
-     {
-      "w": "pedal",
-      "ipa": "/ˈpedl/",
-      "zh": "踏板"
-     },
-     {
-      "w": "reverse",
+      "w": "R (Reverse)",
       "ipa": "/rɪˈvɜːrs/",
-      "zh": "倒挡"
+      "zh": "R 挡（倒挡）"
      },
      {
-      "w": "steering wheel",
-      "ipa": "/ˈstɪrɪŋ wiːl/",
-      "zh": "方向盘"
-     },
-     {
-      "w": "turn signal",
-      "ipa": "/tɜːrn ˈsɪɡnəl/",
-      "zh": "转向灯"
+      "w": "seat belt",
+      "ipa": "/siːt belt/",
+      "zh": "安全带"
      },
      {
       "w": "windshield wiper",
@@ -3355,53 +3310,56 @@
       "zh": "黑的，暗的"
      },
      {
-      "w": "fast(er)",
-      "ipa": "/fæst/",
-      "zh": "快（更快）的"
-     },
-     {
-      "w": "high(er)",
-      "ipa": "/haɪ/",
-      "zh": "高（更高）的"
-     },
-     {
-      "w": "low(er)",
-      "ipa": "/loʊ/",
-      "zh": "低（更低）的"
+      "w": "forward (adv.)",
+      "ipa": "/ˈfɔːrwərd/",
+      "zh": "向前"
      }
     ]
    },
    "notes": [
     {
-     "en": "speed up = go faster.",
-     "zh": "speed up 就是开得更快。"
+     "en": "An automatic car has only D, R, and P. You don't need a clutch or to shift gears by hand.",
+     "zh": "自动挡汽车只有 D、R、P 三个主要挡位，不需要踩离合器，也不用手动换挡（家长导读：手动挡的离合换挡细节请大人在一旁讲解）。"
     },
     {
-     "en": "slow down = go slower.",
-     "zh": "slow down 就是开得更慢。"
+     "en": "P is for Parking. When you stop the car, you put the gearshift into P.",
+     "zh": "P 是停车挡。停车时把挡杆挂到 P 挡。"
     },
     {
      "en": "Another way of saying press the accelerator is \"step on the gas.\"",
      "zh": "press the accelerator 的另一种说法是 step on the gas（踩油门）。"
-    },
-    {
-     "en": "Let up on the accelerator means \"put less pressure on\" it.",
-     "zh": "let up on the accelerator 意思是减轻油门上的压力，即松油门。"
-    },
-    {
-     "en": "Shifting gears is changing from one to another.",
-     "zh": "换挡就是从一个挡位换到另一个挡位。"
-    },
-    {
-     "en": "Gears: 1=first, 2=second, 3=third, 4=fourth, R=reverse. Between gears is neutral.",
-     "zh": "挡位：1 是一挡，2 是二挡，3 是三挡，4 是四挡，R 是倒挡；挡位之间为空挡。"
     }
    ],
-   "dialogue": [],
+   "dialogue": [
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Dad, why is the car moving by itself?",
+     "zh": "爸爸，车怎么会自己走？"
+    },
+    {
+     "speaker": "Dad",
+     "role": "mom",
+     "en": "Because it's an automatic car. I just put it in D.",
+     "zh": "因为这是自动挡汽车，我只要挂到 D 挡。"
+    },
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Cool! Can I sit in the front seat?",
+     "zh": "好酷！我能坐前排吗？"
+    },
+    {
+     "speaker": "Dad",
+     "role": "mom",
+     "en": "Sure, if you wear your seat belt.",
+     "zh": "可以，但要系好安全带。"
+    }
+   ],
    "china": [
     {
-     "en": "In China, most drivers drive automatic cars, so they rarely use a clutch pedal or shift gears manually.",
-     "zh": "在中国，大多数人开自动挡汽车，因此很少用离合器踏板或手动换挡。"
+     "en": "In China, most families drive automatic cars, so kids learn D, R, and P gears first.",
+     "zh": "在中国，大多数家庭开自动挡汽车，孩子最先认识 D、R、P 挡。"
     },
     {
      "en": "Chinese cars have the steering wheel on the left side, and drivers drive on the right side of the road.",
@@ -3409,7 +3367,7 @@
     }
    ],
    "en": "Operating a Car",
-   "zh": "操作汽车",
+   "zh": "开自动挡汽车",
    "grammarZh": "一般过去时"
   },
   {
@@ -5583,41 +5541,46 @@
    "img": "assets/img/unit25.jpg",
    "grammar": "SIMPLE PAST",
    "grammarNote": {
-    "en": "Simple past (sat down, put, helped, passed, ate, talked, had) describes the whole dinner sequence. Note set the table uses the fixed expression 'set a table.'",
-    "zh": "用一般过去时（sat down 坐下、put 放、helped oneself 自取、passed 递、ate 吃、talked 聊天、had 吃）描述整个晚餐过程。注意摆桌固定说法是 set a table。"
+    "en": "Simple past (sat down, put, used, helped, passed, ate, talked, had) describes the whole dinner sequence. Note set the table uses the fixed expression 'set a table.'",
+    "zh": "用一般过去时（sat down 坐下、put 放、used 使用、helped oneself 自取、passed 递、ate 吃、talked 聊天、had 吃）描述整个晚餐过程。注意摆桌固定说法是 set a table。"
    },
    "steps": [
     {
-     "en": "Paul and Kate set the table. Everyone sat down at the table.",
-     "zh": "保罗和凯特别摆好餐具，大家在餐桌旁坐下。"
+     "en": "Paul and Kate set the table. Everyone sat down at the round table.",
+     "zh": "保罗和凯特摆好餐具，大家围坐在圆桌旁。"
     },
     {
-     "en": "They put their napkins on their laps.",
-     "zh": "他们把餐巾铺在腿上。"
+     "en": "They put some paper tissues on the table.",
+     "zh": "他们在桌上放了一些纸巾。"
     },
     {
-     "en": "Paul helped himself to some salad and passed the serving dish to Kate.",
-     "zh": "保罗自己盛了一些沙拉，然后把菜盘递给凯特。"
+     "en": "Everyone used chopsticks to pick up food from the shared dishes.",
+     "zh": "大家用筷子从共享的菜盘里夹菜。"
     },
     {
-     "en": "Then they helped themselves to the food.",
-     "zh": "接着大家各自夹取想吃的菜。"
+     "en": "Paul passed the rice bowl to Kate.",
+     "zh": "保罗把饭碗递给凯特。"
     },
     {
      "en": "As they ate, they talked.",
      "zh": "他们一边吃一边聊天。"
     },
     {
-     "en": "Paul had a second helping of spaghetti.",
-     "zh": "保罗又添了一份意大利面。"
+     "en": "After the meal, they had some fruit.",
+     "zh": "饭后，他们吃了一些水果。"
     },
     {
-     "en": "After the main course, they had some dessert.",
-     "zh": "主菜吃完后，他们吃了些甜点。"
+     "en": "Then they helped clear the table together.",
+     "zh": "然后他们一起帮忙收拾桌子。"
     }
    ],
    "vocab": {
     "verbs": [
+     {
+      "w": "clear (the table)",
+      "ipa": "/klɪr/",
+      "zh": "收拾（桌子）"
+     },
      {
       "w": "eat / ate",
       "ipa": "/iːt / eɪt/",
@@ -5639,6 +5602,11 @@
       "zh": "递过去；传"
      },
      {
+      "w": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "zh": "夹起；拿起"
+     },
+     {
       "w": "put",
       "ipa": "/pʊt/",
       "zh": "放"
@@ -5657,18 +5625,18 @@
       "w": "talk",
       "ipa": "/tɔːk/",
       "zh": "聊天；说话"
+     },
+     {
+      "w": "use",
+      "ipa": "/juːz/",
+      "zh": "使用"
      }
     ],
     "nouns": [
      {
-      "w": "coffee cup",
-      "ipa": "/ˈkɔːfi kʌp/",
-      "zh": "咖啡杯"
-     },
-     {
-      "w": "dessert",
-      "ipa": "/dɪˈzɜːrt/",
-      "zh": "甜点"
+      "w": "chopsticks",
+      "ipa": "/ˈtʃɑːpstɪks/",
+      "zh": "筷子"
      },
      {
       "w": "dinner",
@@ -5681,39 +5649,9 @@
       "zh": "食物"
      },
      {
-      "w": "fork",
-      "ipa": "/fɔːrk/",
-      "zh": "叉子"
-     },
-     {
-      "w": "glass",
-      "ipa": "/ɡlæs/",
-      "zh": "玻璃杯"
-     },
-     {
-      "w": "helping",
-      "ipa": "/ˈhelpɪŋ/",
-      "zh": "一份（食物）"
-     },
-     {
-      "w": "knife",
-      "ipa": "/naɪf/",
-      "zh": "刀"
-     },
-     {
-      "w": "lap",
-      "ipa": "/læp/",
-      "zh": "（坐时的）大腿部"
-     },
-     {
-      "w": "main course",
-      "ipa": "/meɪn kɔːrs/",
-      "zh": "主菜"
-     },
-     {
-      "w": "napkin",
-      "ipa": "/ˈnæpkɪn/",
-      "zh": "餐巾"
+      "w": "fruit",
+      "ipa": "/fruːt/",
+      "zh": "水果"
      },
      {
       "w": "plate",
@@ -5721,42 +5659,43 @@
       "zh": "盘子"
      },
      {
-      "w": "salad",
-      "ipa": "/ˈsæləd/",
-      "zh": "沙拉"
+      "w": "rice",
+      "ipa": "/raɪs/",
+      "zh": "米饭"
      },
      {
-      "w": "salad bowl",
-      "ipa": "/ˈsæləd boʊl/",
-      "zh": "沙拉碗"
+      "w": "round table",
+      "ipa": "/raʊnd ˈteɪbl/",
+      "zh": "圆桌"
      },
      {
-      "w": "saucer",
-      "ipa": "/ˈsɔːsər/",
-      "zh": "茶碟；杯托"
-     },
-     {
-      "w": "serving dish",
-      "ipa": "/ˈsɜːrvɪŋ dɪʃ/",
-      "zh": "上菜用的大盘"
-     },
-     {
-      "w": "spaghetti",
-      "ipa": "/spəˈɡeti/",
-      "zh": "意大利面"
-     },
-     {
-      "w": "spoon",
-      "ipa": "/spuːn/",
-      "zh": "勺子"
+      "w": "shared dish",
+      "ipa": "/ʃerd dɪʃ/",
+      "zh": "共享的菜盘"
      },
      {
       "w": "table",
       "ipa": "/ˈteɪbl/",
       "zh": "桌子；餐桌"
+     },
+     {
+      "w": "tissue",
+      "ipa": "/ˈtɪʃuː/",
+      "zh": "纸巾"
+     },
+     {
+      "w": "watermelon",
+      "ipa": "/ˈwɔːtərmelən/",
+      "zh": "西瓜"
      }
     ],
-    "others": []
+    "others": [
+     {
+      "w": "together (adv.)",
+      "ipa": "/təˈɡeðər/",
+      "zh": "一起"
+     }
+    ]
    },
    "notes": [
     {
@@ -5764,68 +5703,68 @@
      "zh": "help yourself 意思是自己动手拿（食物），别客气。"
     },
     {
-     "en": "In a meal, a helping is the amount you take to eat.",
-     "zh": "一顿饭里的 helping 指你一次盛到的那份量。"
+     "en": "In China, everyone eats from shared dishes in the middle of the table with chopsticks.",
+     "zh": "在中国，大家围着圆桌用筷子夹取中间的共享菜。"
     },
     {
-     "en": "Your lap is the upper part of your legs when you are sitting down.",
-     "zh": "lap 指坐下时大腿上方摊开的部位。"
+     "en": "Paper tissues are more common than cloth napkins at Chinese dinner tables.",
+     "zh": "中式餐桌更多用纸巾，而不是布餐巾。"
     }
    ],
    "dialogue": [
     {
      "speaker": "Kate",
-     "role": "家人",
-     "en": "Pass the salad, please.",
-     "zh": "请把沙拉递一下。"
+     "role": "girl",
+     "en": "Pass the rice, please.",
+     "zh": "请把米饭递一下。"
     },
     {
-     "speaker": "家人",
-     "role": "餐桌旁",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "So, where did you go today?",
      "zh": "你今天去哪儿了？"
     },
     {
      "speaker": "Paul",
-     "role": "家人",
-     "en": "Nowhere special.",
-     "zh": "没去哪儿。"
+     "role": "clerk",
+     "en": "Nowhere special. I played with Tom.",
+     "zh": "没去哪儿，我和汤姆玩了。"
     },
     {
      "speaker": "Paul",
-     "role": "家人",
-     "en": "I'll have a bit more of this.",
-     "zh": "这个我再吃一点。"
+     "role": "clerk",
+     "en": "I'll have a bit more rice.",
+     "zh": "我再添点米饭。"
     },
     {
-     "speaker": "孩子",
-     "role": "家人",
-     "en": "Mmm. Ice cream.",
-     "zh": "嗯，冰淇淋。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Mmm. Watermelon!",
+     "zh": "嗯，西瓜！"
     },
     {
-     "speaker": "家人",
-     "role": "家人",
-     "en": "Looks good.",
-     "zh": "看起来不错。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Looks good. Have some more.",
+     "zh": "看起来不错，多吃点。"
     }
    ],
    "china": [
     {
-     "en": "Chinese dinner tables usually have shared dishes in the middle and everyone uses chopsticks; napkins on laps are rare, paper tissues are common.",
-     "zh": "中式晚餐一般是菜放中间、大家用筷子夹菜；很少把餐巾铺在腿上，更多是用纸巾。"
+     "en": "Chinese dinner tables are usually round, with shared dishes in the middle; everyone uses chopsticks and paper tissues.",
+     "zh": "中式晚餐一般是圆桌、菜放中间，大家用筷子和纸巾。"
     },
     {
-     "en": "A separate 'main course then dessert' order is not typical in China; all dishes are served at once and fruit often comes after the meal.",
-     "zh": "中式晚餐不讲究“主菜后甜点”的顺序，菜一起上，饭后常吃点水果。"
+     "en": "Fruit often comes after the meal instead of Western-style dessert.",
+     "zh": "中式晚餐饭后常吃水果，而不是西式甜点。"
     },
     {
-     "en": "When Chinese people want more food they often say '再添点饭' rather than help themselves without asking.",
+     "en": "When Chinese people want more food they often say \"再添点饭\" rather than helping themselves without asking.",
      "zh": "中国人添饭时常会说“再给我盛点饭”，而不是默不作声地自己加。"
     }
    ],
    "en": "Eating Dinner",
-   "zh": "吃晚餐",
+   "zh": "一家人吃晚餐",
    "grammarZh": "一般过去时"
   },
   {
@@ -9321,37 +9260,41 @@
    "img": "assets/img/unit42.jpg",
    "grammar": "simple past",
    "grammarNote": {
-    "en": "The simple past tense is used here to narrate a completed sequence of past events: calling for an appointment, taking the car to the garage, getting an estimate, and picking it up later.",
-    "zh": "这里用一般过去时叙述一连串已经发生的事情：打电话预约、把车送修、拿到估价，以及之后取车。"
+    "en": "The simple past tense narrates a completed sequence: calling the 4S shop for an appointment, taking the car in, getting an estimate, and picking it up later.",
+    "zh": "这里用一般过去时叙述一连串已经发生的事情：打电话给 4S 店预约、送车维修、拿到估价，以及之后取车。"
    },
    "steps": [
     {
-     "en": "I called for an appointment to get my car fixed.",
-     "zh": "我打电话预约修车。"
+     "en": "Dad called the 4S shop to book a repair for the car.",
+     "zh": "爸爸打电话给 4S 店预约修车。"
     },
     {
-     "en": "I took my car in to the garage...",
-     "zh": "我把车送到修车厂……"
+     "en": "Dad took the car to the 4S shop...",
+     "zh": "爸爸把车送到 4S 店……"
     },
     {
-     "en": "...and the mechanic diagnosed the problem.",
-     "zh": "……技师诊断了故障。"
+     "en": "...and Tom went with him.",
+     "zh": "……汤姆陪爸爸一起去。"
     },
     {
-     "en": "I asked him for an estimate of the cost.",
-     "zh": "我请他给出维修费用的估价。"
+     "en": "The mechanic diagnosed the problem.",
+     "zh": "技师诊断了故障。"
+    },
+    {
+     "en": "Dad asked him for an estimate of the cost.",
+     "zh": "爸爸请他给出维修费用估价。"
     },
     {
      "en": "He worked on the engine.",
      "zh": "他检修发动机。"
     },
     {
-     "en": "When I came back later to pick up the car,...",
-     "zh": "后来我回来取车时……"
+     "en": "When they came back later to pick up the car,...",
+     "zh": "后来他们回来取车时……"
     },
     {
-     "en": "...he gave me the bill for the repair.",
-     "zh": "……他把维修账单交给我。"
+     "en": "...Dad paid the bill with his phone.",
+     "zh": "……爸爸用手机付了账单。"
     }
    ],
    "vocab": {
@@ -9359,199 +9302,158 @@
      {
       "w": "ask for",
       "ipa": "/æsk fɔːr/",
-      "zh": "v. 要求，请求"
+      "zh": "要求，请求"
+     },
+     {
+      "w": "book",
+      "ipa": "/bʊk/",
+      "zh": "预约"
      },
      {
       "w": "call",
       "ipa": "/kɔːl/",
-      "zh": "v. 打电话"
+      "zh": "打电话"
      },
      {
-      "w": "come-came",
-      "ipa": "/kʌm/",
-      "zh": "v. 来（过去式 came）"
+      "w": "come back",
+      "ipa": "/kʌm bæk/",
+      "zh": "回来"
      },
      {
       "w": "diagnose",
       "ipa": "/ˌdaɪəɡˈnoʊs/",
-      "zh": "v. 诊断，判断"
+      "zh": "诊断，判断"
      },
      {
       "w": "fix",
       "ipa": "/fɪks/",
-      "zh": "v. 修理，修复"
+      "zh": "修理，修复"
      },
      {
-      "w": "get-got",
-      "ipa": "/ɡet/",
-      "zh": "v. 得到，使（过去式 got）"
-     },
-     {
-      "w": "give-gave",
-      "ipa": "/ɡɪv/",
-      "zh": "v. 给（过去式 gave）"
+      "w": "pay",
+      "ipa": "/peɪ/",
+      "zh": "付款"
      },
      {
       "w": "pick up",
       "ipa": "/pɪk ʌp/",
-      "zh": "v. 取回，接（人/车）"
+      "zh": "取回"
      },
      {
-      "w": "take-took",
-      "ipa": "/teɪk/",
-      "zh": "v. 带走，送去（过去式 took）"
-     },
-     {
-      "w": "take in",
+      "w": "take (took) in",
       "ipa": "/teɪk ɪn/",
-      "zh": "v. 把（车）送去修理"
+      "zh": "把（车）送去修理"
      },
      {
       "w": "work on",
       "ipa": "/wɜːrk ɑːn/",
-      "zh": "v. 修理，检修"
+      "zh": "修理，检修"
      }
     ],
     "nouns": [
      {
+      "w": "4S shop",
+      "ipa": "/fɔːr es ʃɑːp/",
+      "zh": "4S 店"
+     },
+     {
       "w": "appointment",
       "ipa": "/əˈpɔɪntmənt/",
-      "zh": "n. 预约"
+      "zh": "预约"
      },
      {
       "w": "bill",
       "ipa": "/bɪl/",
-      "zh": "n. 账单"
+      "zh": "账单"
      },
      {
       "w": "car",
       "ipa": "/kɑːr/",
-      "zh": "n. 汽车"
+      "zh": "汽车"
      },
      {
       "w": "cost",
       "ipa": "/kɔːst/",
-      "zh": "n. 费用，成本"
+      "zh": "费用，成本"
      },
      {
       "w": "engine",
       "ipa": "/ˈendʒɪn/",
-      "zh": "n. 发动机，引擎"
+      "zh": "发动机，引擎"
      },
      {
       "w": "estimate",
       "ipa": "/ˈestɪmət/",
-      "zh": "n. 估价，预算"
-     },
-     {
-      "w": "garage",
-      "ipa": "/ɡəˈrɑːʒ/",
-      "zh": "n. 修车厂，车库"
+      "zh": "估价，预算"
      },
      {
       "w": "mechanic",
       "ipa": "/məˈkænɪk/",
-      "zh": "n. 机修工，技师"
+      "zh": "机修工，技师"
      },
      {
       "w": "problem",
       "ipa": "/ˈprɑːbləm/",
-      "zh": "n. 问题，故障"
+      "zh": "问题，故障"
      },
      {
       "w": "repair",
       "ipa": "/rɪˈper/",
-      "zh": "n. 修理"
+      "zh": "修理"
      }
     ],
     "others": [
      {
-      "w": "later",
+      "w": "later (adv.)",
       "ipa": "/ˈleɪtər/",
-      "zh": "adv. 后来，稍后"
+      "zh": "后来，稍后"
      }
     ]
    },
    "notes": [
     {
-     "en": "for repairs = for actions that correct problems.",
-     "zh": "for repairs 意思是“为了纠正问题所做的维修行动”。"
+     "en": "A 4S shop is where Chinese drivers buy and repair cars.",
+     "zh": "4S 店是中国车主买车和修车的地方。"
     },
     {
      "en": "When you get something fixed, you arrange for someone else to fix it. You don't fix it yourself.",
      "zh": "get something fixed 是指安排别人来修，而不是自己动手修。"
     },
     {
-     "en": "To diagnose a problem is to figure out what it is by noticing what has caused it. A doctor diagnoses illnesses.",
-     "zh": "diagnose（诊断）是通过观察原因来弄清楚问题出在哪里；医生诊断疾病用的就是这个词。"
-    },
-    {
      "en": "An estimate is a guess about an amount (of money, time, etc.).",
      "zh": "estimate（估价）是对金额、时间等的大致估计。"
-    },
-    {
-     "en": "To call for an appointment is to telephone someone and set up a time when you can meet.",
-     "zh": "call for an appointment 是打电话给对方，约定一个见面时间。"
-    },
-    {
-     "en": "\"Ouch\" is something people say when they've been hurt.",
-     "zh": "Ouch（哎哟）是人们受伤或感到疼痛时发出的叫声。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Customer",
-     "role": "车主",
-     "en": "My car is making a strange noise. When can you look at it?",
-     "zh": "我的车发出奇怪的声音。你什么时候能来看一下？"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Is the car fixed yet, Dad?",
+     "zh": "爸爸，车修好了吗？"
+    },
+    {
+     "speaker": "Dad",
+     "role": "mom",
+     "en": "The mechanic says it will be ready tomorrow.",
+     "zh": "技师说明天就能修好。"
     },
     {
      "speaker": "Mechanic",
-     "role": "机修工",
-     "en": "Yep. Sounds like a valve problem.",
-     "zh": "嗯。听起来像是气门的问题。"
+     "role": "teacher",
+     "en": "Your car is ready, sir.",
+     "zh": "先生，您的车修好了。"
     },
     {
-     "speaker": "Customer",
-     "role": "车主",
-     "en": "How much will it cost to fix?",
-     "zh": "修理要花多少钱？"
-    },
-    {
-     "speaker": "Mechanic",
-     "role": "机修工",
-     "en": "Probably about two fifty.",
-     "zh": "大概两百五十左右。"
-    },
-    {
-     "speaker": "Mechanic",
-     "role": "机修工",
-     "en": "It's ready.",
-     "zh": "车修好了。"
-    },
-    {
-     "speaker": "Customer",
-     "role": "车主",
-     "en": "Is it ready yet?",
-     "zh": "修好了吗？"
-    },
-    {
-     "speaker": "Mechanic",
-     "role": "机修工",
-     "en": "That'll be two ninety-four for parts and labor.",
-     "zh": "零件和工时费一共两百九十四。"
-    },
-    {
-     "speaker": "Customer",
-     "role": "车主",
-     "en": "$294! Ouch!",
-     "zh": "294美元！好贵！"
+     "speaker": "Dad",
+     "role": "mom",
+     "en": "Great. I'll pay by phone.",
+     "zh": "太好了，我用手机付款。"
     }
    ],
    "china": [
     {
      "en": "In China, drivers usually book repairs through 4S shops or WeChat, and pay by mobile payment when picking up the car.",
-     "zh": "在中国，车主通常通过4S店或微信预约修车，取车时用手机支付结账。"
+     "zh": "在中国，车主通常通过 4S 店或微信预约修车，取车时用手机支付结账。"
     },
     {
      "en": "Many Chinese car brands offer free roadside assistance and even door-to-door pick-up and delivery service.",
@@ -9559,7 +9461,7 @@
     }
    ],
    "en": "Taking a Car to a Garage for Repairs",
-   "zh": "送车去修理厂",
+   "zh": "送车去 4S 店维修",
    "grammarZh": "一般过去时"
   },
   {
@@ -9569,45 +9471,45 @@
    "img": "assets/img/unit43.jpg",
    "grammar": "simple past",
    "grammarNote": {
-    "en": "The simple past tense tells the story of one specific occasion: the car got a flat tire and the speaker changed it step by step.",
-    "zh": "这里用一般过去时讲述一次具体经历：车胎瘪了，说话人一步步把备胎换上。"
+    "en": "The simple past tense tells the story of one specific occasion: the car got a flat tire and a rescue mechanic changed it step by step.",
+    "zh": "这里用一般过去时讲述一次具体经历：车胎瘪了，爸爸叫来救援技师，技师一步步把备胎换上。"
    },
    "steps": [
     {
-     "en": "My car had a flat tire, so I had to change it.",
-     "zh": "我的车胎瘪了，所以我得换备胎。"
+     "en": "Our car had a flat tire on the way home.",
+     "zh": "回家路上，我们的车胎瘪了。"
     },
     {
-     "en": "I jacked the car up.",
-     "zh": "我用千斤顶把车顶起来。"
+     "en": "Dad called the roadside rescue service.",
+     "zh": "爸爸打电话叫道路救援。"
     },
     {
-     "en": "I took off the flat tire...",
-     "zh": "我把瘪了的轮胎卸下来……"
+     "en": "A mechanic came to help us.",
+     "zh": "一位救援技师来帮我们。"
     },
     {
-     "en": "...and took the spare tire out of the trunk.",
-     "zh": "……从后备箱里取出备胎。"
+     "en": "He jacked the car up.",
+     "zh": "他用千斤顶把车顶起来。"
     },
     {
-     "en": "I put the spare on the wheel,...",
-     "zh": "我把备胎装到轮毂上……"
+     "en": "He took off the flat tire...",
+     "zh": "他卸下瘪了的轮胎……"
     },
     {
-     "en": "...tightened the lug nuts by hand...",
-     "zh": "……用手拧紧螺母……"
+     "en": "...and put the spare tire on the wheel.",
+     "zh": "……把备胎装到轮毂上。"
     },
     {
-     "en": "...lowered the car to the ground,...",
-     "zh": "……把车降到地面……"
+     "en": "He tightened the lug nuts with a lug wrench.",
+     "zh": "他用轮胎扳手把螺母拧紧。"
     },
     {
-     "en": "...and tightened the nuts some more with a lug wrench.",
-     "zh": "……然后用轮胎扳手再把螺母拧紧一些。"
+     "en": "He lowered the car to the ground.",
+     "zh": "他把车降到地面。"
     },
     {
-     "en": "Finally, I put the hubcap on the wheel.",
-     "zh": "最后，我把轮毂盖装回轮子上。"
+     "en": "Dad thanked the mechanic and paid by phone.",
+     "zh": "爸爸感谢技师，用手机付了钱。"
     }
    ],
    "vocab": {
@@ -9615,101 +9517,96 @@
      {
       "w": "change",
       "ipa": "/tʃeɪndʒ/",
-      "zh": "v. 更换，换（胎）"
+      "zh": "更换，换（胎）"
+     },
+     {
+      "w": "come",
+      "ipa": "/kʌm/",
+      "zh": "来"
      },
      {
       "w": "jack up",
       "ipa": "/dʒæk ʌp/",
-      "zh": "v. 用千斤顶顶起"
+      "zh": "用千斤顶顶起"
      },
      {
       "w": "lower",
       "ipa": "/ˈloʊər/",
-      "zh": "v. 放下，降下"
+      "zh": "放下，降下"
      },
      {
-      "w": "put-put on",
+      "w": "put (put) on",
       "ipa": "/pʊt ɑːn/",
-      "zh": "v. 装上，放上（过去式同形 put）"
+      "zh": "装上，放上"
      },
      {
-      "w": "take-took off",
+      "w": "take (took) off",
       "ipa": "/teɪk ɔːf/",
-      "zh": "v. 拆下，卸下（过去式 took）"
+      "zh": "拆下，卸下"
+     },
+     {
+      "w": "thank",
+      "ipa": "/θæŋk/",
+      "zh": "感谢"
      },
      {
       "w": "tighten",
       "ipa": "/ˈtaɪtn/",
-      "zh": "v. 拧紧"
+      "zh": "拧紧"
      }
     ],
     "nouns": [
      {
       "w": "car",
       "ipa": "/kɑːr/",
-      "zh": "n. 汽车"
+      "zh": "汽车"
      },
      {
       "w": "ground",
       "ipa": "/ɡraʊnd/",
-      "zh": "n. 地面"
-     },
-     {
-      "w": "hubcap",
-      "ipa": "/ˈhʌbkæp/",
-      "zh": "n. 轮毂盖"
+      "zh": "地面"
      },
      {
       "w": "lug nut",
       "ipa": "/lʌɡ nʌt/",
-      "zh": "n. 车轮螺母"
+      "zh": "车轮螺母"
      },
      {
       "w": "lug wrench",
       "ipa": "/lʌɡ rentʃ/",
-      "zh": "n. 轮胎扳手"
+      "zh": "轮胎扳手"
      },
      {
-      "w": "nut",
-      "ipa": "/nʌt/",
-      "zh": "n. 螺母"
+      "w": "mechanic",
+      "ipa": "/məˈkænɪk/",
+      "zh": "机修工，技师"
+     },
+     {
+      "w": "roadside rescue service",
+      "ipa": "/ˈroʊdsaɪd ˈreskjuː ˈsɜːrvɪs/",
+      "zh": "道路救援服务"
+     },
+     {
+      "w": "spare tire",
+      "ipa": "/sper ˈtaɪər/",
+      "zh": "备胎"
      },
      {
       "w": "tire",
       "ipa": "/ˈtaɪər/",
-      "zh": "n. 轮胎"
-     },
-     {
-      "w": "trunk",
-      "ipa": "/trʌŋk/",
-      "zh": "n. 汽车后备箱"
+      "zh": "轮胎"
      },
      {
       "w": "wheel",
       "ipa": "/wiːl/",
-      "zh": "n. 车轮，轮毂"
+      "zh": "车轮，轮毂"
      }
     ],
     "others": [
      {
-      "w": "by hand",
-      "ipa": "/baɪ hænd/",
-      "zh": "phr. 用手地，手工地"
-     },
-     {
-      "w": "finally",
-      "ipa": "/ˈfaɪnəli/",
-      "zh": "adv. 最后"
-     },
-     {
-      "w": "flat",
+      "w": "flat (adj.)",
       "ipa": "/flæt/",
-      "zh": "adj. 瘪了的，扁的"
-     },
-     {
-      "w": "spare",
-      "ipa": "/sper/",
-      "zh": "adj. 备用的"
+      "zh": "瘪了的，扁的"
      }
     ]
    },
@@ -9723,27 +9620,42 @@
      "zh": "可以说 jack something up（用千斤顶顶起），但不能说 jack it down；要“放下”用 lower。"
     },
     {
-     "en": "To the ground means to the surface of the earth.",
-     "zh": "to the ground 意思是“落到地面上”。"
-    },
-    {
-     "en": "A nut goes on a bolt. (See p. 61.)",
-     "zh": "nut（螺母）是拧在 bolt（螺栓）上的。（见第61页。）"
+     "en": "In China, kids should stay in the car and wait while adults change the tire.",
+     "zh": "在中国，换胎时孩子应待在车里等待，由大人处理。"
     }
    ],
-   "dialogue": [],
+   "dialogue": [
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Dad, the tire is flat!",
+     "zh": "爸爸，轮胎瘪了！"
+    },
+    {
+     "speaker": "Dad",
+     "role": "mom",
+     "en": "Don't worry. I'll call for help.",
+     "zh": "别担心，我叫救援。"
+    },
+    {
+     "speaker": "Mechanic",
+     "role": "teacher",
+     "en": "I'll put on the spare tire for you.",
+     "zh": "我来给你换上备胎。"
+    }
+   ],
    "china": [
     {
      "en": "In China, most drivers call roadside assistance (122 traffic police or the insurance hotline) rather than changing a tire themselves on the highway.",
-     "zh": "在中国，大部分司机在高速上爆胎会打122或保险救援电话，而不是自己动手换胎。"
+     "zh": "在中国，大部分司机在高速上爆胎会打 122 或保险救援电话，而不是自己动手换胎。"
     },
     {
-     "en": "Many new Chinese cars are equipped with tire pressure monitors and repair kits; some use run-flat tires and no longer carry a full-size spare.",
-     "zh": "很多国产新车配有胎压监测和补胎工具，部分车使用缺气保用胎，不再配备全尺寸备胎。"
+     "en": "Many new Chinese cars are equipped with tire pressure monitors and repair kits; some use run-flat tires.",
+     "zh": "很多国产新车配有胎压监测和补胎工具，部分车使用缺气保用胎。"
     }
    ],
    "en": "Changing a Flat Tire",
-   "zh": "更换瘪胎",
+   "zh": "车胎瘪了，爸爸叫救援",
    "grammarZh": "一般过去时"
   },
   {
@@ -9954,231 +9866,196 @@
    "img": "assets/img/unit45.jpg",
    "grammar": "simple present",
    "grammarNote": {
-    "en": "The simple present tense describes general, repeatable instructions and facts about how to work with wood.",
-    "zh": "这里用一般现在时讲解木工活的通用步骤和常识，表示可重复操作的做法。"
+    "en": "The simple present tense describes general, repeatable steps for building a bookshelf: measure, mark, cut, sand, glue, screw.",
+    "zh": "这里用一般现在时讲解装书架的可重复步骤：量尺寸、划线、锯、打磨、粘、拧螺丝。"
    },
    "steps": [
     {
-     "en": "Before you cut a board, you measure it...",
-     "zh": "锯木板之前，你先量一下尺寸……"
+     "en": "Tom and Dad are going to build a bookshelf for Jenny's room.",
+     "zh": "汤姆和爸爸要给珍妮的房间装一个书架。"
+    },
+    {
+     "en": "First, they measure the boards...",
+     "zh": "首先，他们量木板的尺寸……"
     },
     {
      "en": "...and mark the places to cut.",
      "zh": "……并标出要锯的位置。"
     },
     {
-     "en": "Then you cut it with a saw.",
-     "zh": "然后用锯子把它锯开。"
+     "en": "Then Dad cuts the boards with a saw.",
+     "zh": "然后爸爸用锯子锯木板。"
     },
     {
-     "en": "To trim a piece of wood, you plane it.",
-     "zh": "要修整一块木料，你用刨子刨平。"
+     "en": "To make the edges smooth, they sand them.",
+     "zh": "要把边缘磨光滑，他们用砂纸打磨。"
     },
     {
-     "en": "To make the edges smooth, you sand them.",
-     "zh": "要把边缘磨光滑，你用砂纸打磨。"
+     "en": "To join two boards, they glue them together...",
+     "zh": "要把两块板接起来，他们用胶水粘……"
     },
     {
-     "en": "To join two pieces of wood, you can glue them together,...",
-     "zh": "要把两块木料接起来，你可以用胶水粘……"
+     "en": "...and join them with screws.",
+     "zh": "……并用螺丝固定。"
     },
     {
-     "en": "...nail them together,...",
-     "zh": "……用钉子钉在一起……"
-    },
-    {
-     "en": "...or join them with screws.",
-     "zh": "……或者用螺丝固定。"
+     "en": "Finally, they put the shelves on the frame, and the bookshelf is ready!",
+     "zh": "最后，他们把隔板装到架子上，书架做好了！"
     }
    ],
    "vocab": {
     "verbs": [
      {
+      "w": "build",
+      "ipa": "/bɪld/",
+      "zh": "建造，组装"
+     },
+     {
       "w": "cut",
       "ipa": "/kʌt/",
-      "zh": "v. 锯，切割"
+      "zh": "锯，切割"
      },
      {
       "w": "glue",
       "ipa": "/ɡluː/",
-      "zh": "v. 用胶水粘"
+      "zh": "用胶水粘"
      },
      {
       "w": "join",
       "ipa": "/dʒɔɪn/",
-      "zh": "v. 连接，接合"
-     },
-     {
-      "w": "make",
-      "ipa": "/meɪk/",
-      "zh": "v. 使，让"
+      "zh": "连接，接合"
      },
      {
       "w": "mark",
       "ipa": "/mɑːrk/",
-      "zh": "v. 做标记，划线"
+      "zh": "做标记，划线"
      },
      {
       "w": "measure",
       "ipa": "/ˈmeʒər/",
-      "zh": "v. 测量，量尺寸"
-     },
-     {
-      "w": "nail",
-      "ipa": "/neɪl/",
-      "zh": "v. 用钉子钉"
-     },
-     {
-      "w": "plane",
-      "ipa": "/pleɪn/",
-      "zh": "v. 用刨子刨平"
+      "zh": "测量，量尺寸"
      },
      {
       "w": "sand",
       "ipa": "/sænd/",
-      "zh": "v. 用砂纸打磨"
+      "zh": "用砂纸打磨"
      },
      {
-      "w": "trim",
-      "ipa": "/trɪm/",
-      "zh": "v. 修整，修边"
-     },
-     {
-      "w": "work",
-      "ipa": "/wɜːrk/",
-      "zh": "v. 干活，操作"
+      "w": "screw",
+      "ipa": "/skruː/",
+      "zh": "用螺丝固定"
      }
     ],
     "nouns": [
      {
       "w": "board",
       "ipa": "/bɔːrd/",
-      "zh": "n. 木板"
+      "zh": "木板"
+     },
+     {
+      "w": "bookshelf",
+      "ipa": "/ˈbʊkʃelf/",
+      "zh": "书架"
      },
      {
       "w": "edge",
       "ipa": "/edʒ/",
-      "zh": "n. 边缘，边"
+      "zh": "边缘，边"
      },
      {
-      "w": "hammer",
-      "ipa": "/ˈhæmər/",
-      "zh": "n. 锤子"
-     },
-     {
-      "w": "nail",
-      "ipa": "/neɪl/",
-      "zh": "n. 钉子"
-     },
-     {
-      "w": "piece",
-      "ipa": "/piːs/",
-      "zh": "n. 块，片"
-     },
-     {
-      "w": "place",
-      "ipa": "/pleɪs/",
-      "zh": "n. 地方，位置"
-     },
-     {
-      "w": "plane",
-      "ipa": "/pleɪn/",
-      "zh": "n. 刨子"
-     },
-     {
-      "w": "rule",
-      "ipa": "/ruːl/",
-      "zh": "n. 直尺（同 ruler）"
-     },
-     {
-      "w": "ruler",
-      "ipa": "/ˈruːlər/",
-      "zh": "n. 尺子"
-     },
-     {
-      "w": "sandpaper",
-      "ipa": "/ˈsændpeɪpər/",
-      "zh": "n. 砂纸"
+      "w": "frame",
+      "ipa": "/freɪm/",
+      "zh": "架子，框架"
      },
      {
       "w": "saw",
       "ipa": "/sɔː/",
-      "zh": "n. 锯子"
-     },
-     {
-      "w": "sawdust",
-      "ipa": "/ˈsɔːdʌst/",
-      "zh": "n. 锯末"
+      "zh": "锯子"
      },
      {
       "w": "screw",
       "ipa": "/skruː/",
-      "zh": "n. 螺丝"
+      "zh": "螺丝"
      },
      {
       "w": "screwdriver",
       "ipa": "/ˈskruːdraɪvər/",
-      "zh": "n. 螺丝刀"
+      "zh": "螺丝刀"
      },
      {
-      "w": "shavings",
-      "ipa": "/ˈʃeɪvɪŋz/",
-      "zh": "n. 刨花"
+      "w": "shelf",
+      "ipa": "/ʃelf/",
+      "zh": "隔板；书架"
      },
      {
-      "w": "wood",
-      "ipa": "/wʊd/",
-      "zh": "n. 木头，木材"
+      "w": "sawdust",
+      "ipa": "/ˈsɔːdʌst/",
+      "zh": "锯末"
+     },
+     {
+      "w": "sandpaper",
+      "ipa": "/ˈsændpeɪpər/",
+      "zh": "砂纸"
+     },
+     {
+      "w": "ruler",
+      "ipa": "/ˈruːlər/",
+      "zh": "尺子"
      }
     ],
     "others": [
      {
-      "w": "smooth",
+      "w": "smooth (adj.)",
       "ipa": "/smuːð/",
-      "zh": "adj. 光滑的，平整的"
+      "zh": "光滑的，平整的"
      },
      {
-      "w": "together",
+      "w": "together (adv.)",
       "ipa": "/təˈɡeðər/",
-      "zh": "adv. 在一起，共同"
+      "zh": "在一起，共同"
      }
     ]
    },
    "notes": [
     {
-     "en": "A board is a wide, flat piece of wood.",
-     "zh": "board 指一块又宽又平的木板。"
-    },
-    {
-     "en": "You pound a nail with a hammer.",
-     "zh": "用锤子把钉子敲进去。"
-    },
-    {
-     "en": "Some things you can measure a board with: ruler (rule) — usually 12 inches long; yardstick — 1 yard (36 inches) long; tape measure — can measure longer distances.",
-     "zh": "可以用来量木板的工具：ruler（直尺）通常12英寸长；yardstick（码尺）长1码（36英寸）；tape measure（卷尺）可以量更长的距离。"
-    },
-    {
      "en": "To join things is to put them together.",
      "zh": "join 意思是把东西拼到一起。"
     },
     {
-     "en": "You glue things together with glue, nail them together with nails, and screw them together with screws.",
-     "zh": "用胶水粘是 glue together，用钉子钉是 nail together，用螺丝固定是 screw together。"
-    }
-   ],
-   "dialogue": [],
-   "china": [
-    {
-     "en": "In Chinese cities, home repairs are usually done by a hired handyman or the property management; few households keep a full woodworking tool set.",
-     "zh": "在中国城市，家里修修补补一般找师傅或物业，很少家庭自备全套木工工具。"
+     "en": "You glue things together with glue and screw them together with screws.",
+     "zh": "用胶水粘是 glue together，用螺丝固定是 screw together。"
     },
     {
-     "en": "Chinese hardware stores (wujin dian) sell affordable hand tools, and many people buy flat-pack furniture from IKEA-style stores and assemble it themselves.",
-     "zh": "中国的五金店工具便宜，很多人买宜家式的拼装家具自己动手组装。"
+     "en": "Measure twice, cut once! Always check the size before you cut.",
+     "zh": "量两次，锯一次！动手前一定要核对尺寸。"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Wow! The bookshelf is so cool!",
+     "zh": "哇！书架好酷啊！"
+    },
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Let's put our books on it!",
+     "zh": "我们把书放上去吧！"
+    }
+   ],
+   "china": [
+    {
+     "en": "Many Chinese families buy flat-pack bookshelves from IKEA-style stores and assemble them at home.",
+     "zh": "很多中国家庭从宜家式的商店买拼装书架，回家自己组装。"
+    },
+    {
+     "en": "A kids' bookshelf in a Chinese home often holds picture books, Chinese textbooks, and coloring books.",
+     "zh": "中国孩子的书架上常常摆着绘本、课本和涂色书。"
     }
    ],
    "en": "Working with Wood",
-   "zh": "木工活",
+   "zh": "装书架",
    "grammarZh": "一般现在时"
   },
   {
@@ -11254,29 +11131,21 @@
    "img": "assets/img/unit51.jpg",
    "grammar": "Simple Past",
    "grammarNote": {
-    "en": "The simple past tense describes completed actions that happened in the past. Regular verbs add -ed (dialed, answered), but many common verbs are irregular (hear→heard, ring→rang, say→said, make→made).",
-    "zh": "一般过去时用来描述过去发生并已完成的动作。规则动词加 -ed（如 dialed、answered），但很多常见动词是不规则的（如 hear→heard、ring→rang、say→said、make→made）。"
+    "en": "The simple past tense describes completed actions that happened in the past. Regular verbs add -ed, but many common verbs are irregular (find→found, hear→heard, say→said, make→made).",
+    "zh": "一般过去时用来描述过去发生并已完成的动作。规则动词加 -ed，但很多常见动词是不规则的（如 find→found、hear→heard、say→said、make→made）。"
    },
    "steps": [
     {
-     "en": "Jenny looked up Kate's phone number in the phone book.",
-     "zh": "珍妮在电话簿里查了凯特的电话号码。"
+     "en": "Jenny found Kate's number in her phone contacts.",
+     "zh": "珍妮在手机通讯录里找到了凯特的号码。"
     },
     {
-     "en": "She picked up the receiver...",
-     "zh": "她拿起听筒……"
+     "en": "She tapped the call button on her phone...",
+     "zh": "她在手机上点下拨打键……"
     },
     {
-     "en": "...and heard a dial tone.",
-     "zh": "……然后听到了拨号音。"
-    },
-    {
-     "en": "Then she dialed the number.",
-     "zh": "然后她拨了号码。"
-    },
-    {
-     "en": "She heard Kate's phone ringing.",
-     "zh": "她听到凯特的电话在响。"
+     "en": "...and heard the phone ringing.",
+     "zh": "……然后听到电话铃响。"
     },
     {
      "en": "When Kate answered...",
@@ -11284,11 +11153,15 @@
     },
     {
      "en": "...Jenny said hello and identified herself.",
-     "zh": "……珍妮打了招呼并报上了自己的名字。"
+     "zh": "……珍妮打了招呼并报上自己的名字。"
     },
     {
      "en": "Then she said why she called.",
      "zh": "然后她说明了打电话的原因。"
+    },
+    {
+     "en": "They talked for a while, and Jenny said goodbye.",
+     "zh": "她们聊了一会儿，珍妮说了再见。"
     }
    ],
    "vocab": {
@@ -11296,21 +11169,21 @@
      {
       "w": "answer",
       "ipa": "/ˈænsər/",
-      "zh": "回答；接（电话）"
+      "zh": "接（电话）"
      },
      {
       "w": "call",
       "ipa": "/kɔːl/",
-      "zh": "打电话；呼叫"
+      "zh": "打电话"
      },
      {
-      "w": "dial",
-      "ipa": "/ˈdaɪəl/",
-      "zh": "拨号"
+      "w": "find (found)",
+      "ipa": "/faɪnd/",
+      "zh": "找到"
      },
      {
-      "w": "hear / heard",
-      "ipa": "/hɪr / hɜːrd/",
+      "w": "hear (heard)",
+      "ipa": "/hɪr/",
       "zh": "听见"
      },
      {
@@ -11319,64 +11192,65 @@
       "zh": "确认身份；识别"
      },
      {
-      "w": "look up",
-      "ipa": "/lʊk ʌp/",
-      "zh": "查阅（电话簿等）"
-     },
-     {
-      "w": "make / made",
-      "ipa": "/meɪk / meɪd/",
+      "w": "make (made)",
+      "ipa": "/meɪk/",
       "zh": "进行；做"
      },
      {
-      "w": "pick up",
-      "ipa": "/pɪk ʌp/",
-      "zh": "拿起；接听"
-     },
-     {
-      "w": "ring / rang",
-      "ipa": "/rɪŋ / ræŋ/",
-      "zh": "（电话）响铃"
-     },
-     {
-      "w": "say / said",
-      "ipa": "/seɪ / sed/",
+      "w": "say (said)",
+      "ipa": "/seɪ/",
       "zh": "说"
+     },
+     {
+      "w": "say goodbye",
+      "ipa": "/seɪ ˌɡʊdˈbaɪ/",
+      "zh": "道别"
      },
      {
       "w": "say hello",
       "ipa": "/seɪ həˈloʊ/",
-      "zh": "打招呼；问好"
+      "zh": "打招呼"
+     },
+     {
+      "w": "tap",
+      "ipa": "/tæp/",
+      "zh": "点按"
+     },
+     {
+      "w": "talk",
+      "ipa": "/tɔːk/",
+      "zh": "说话；通话"
      }
     ],
     "nouns": [
      {
-      "w": "dial tone",
-      "ipa": "/ˈdaɪəl toʊn/",
-      "zh": "拨号音"
+      "w": "call button",
+      "ipa": "/kɔːl ˈbʌtn/",
+      "zh": "拨打键"
+     },
+     {
+      "w": "contacts",
+      "ipa": "/ˈkɑːntækts/",
+      "zh": "通讯录"
+     },
+     {
+      "w": "mobile phone",
+      "ipa": "/ˈmoʊbl foʊn/",
+      "zh": "手机"
      },
      {
       "w": "number",
       "ipa": "/ˈnʌmbər/",
       "zh": "号码"
-     },
-     {
-      "w": "phone",
-      "ipa": "/foʊn/",
-      "zh": "电话"
-     },
-     {
-      "w": "phone book",
-      "ipa": "/foʊn bʊk/",
-      "zh": "电话簿"
-     },
-     {
-      "w": "receiver",
-      "ipa": "/rɪˈsiːvər/",
-      "zh": "听筒"
      }
     ],
-    "others": []
+    "others": [
+     {
+      "w": "why (conj.)",
+      "ipa": "/waɪ/",
+      "zh": "为什么；……的原因"
+     }
+    ]
    },
    "notes": [
     {
@@ -11384,16 +11258,12 @@
      "zh": "phone 是 telephone（电话）的简略说法。"
     },
     {
-     "en": "Receiver means the part of the telephone that you put near your ear and mouth.",
-     "zh": "receiver（听筒）指电话上贴近耳朵和嘴的那部分。"
+     "en": "On a mobile phone, you tap the call button to call someone.",
+     "zh": "在手机上，点一下拨打键就可以给别人打电话。"
     },
     {
-     "en": "Most modern telephones are push-button phones — you dial by pushing buttons.",
-     "zh": "大多数现代电话是按键式电话——你通过按按钮来拨号。"
-    },
-    {
-     "en": "A dial tone is a sound that tells you the phone is ready to use. If you pick up the receiver and you don't hear one, the phone might be \"dead\" — not working.",
-     "zh": "拨号音是提示你电话可以使用的声音。如果拿起听筒却听不到拨号音，电话可能“坏了”——无法使用。"
+     "en": "It's polite to say who you are first when you call someone.",
+     "zh": "打电话时先报出自己的名字是有礼貌的做法。"
     }
    ],
    "dialogue": [
@@ -11405,7 +11275,7 @@
     },
     {
      "speaker": "Kate",
-     "role": "receiver",
+     "role": "clerk",
      "en": "Hello?",
      "zh": "喂？"
     },
@@ -11414,6 +11284,12 @@
      "role": "girl",
      "en": "I'm calling to see whether you'd like to go swimming.",
      "zh": "我打电话来是想问你想不想去游泳。"
+    },
+    {
+     "speaker": "Kate",
+     "role": "clerk",
+     "en": "Sure! That sounds fun!",
+     "zh": "好啊！听起来真有趣！"
     }
    ],
    "china": [
@@ -11422,16 +11298,12 @@
      "zh": "在中国，人们很少使用传统座机，大多直接用手机打电话。"
     },
     {
-     "en": "WeChat voice and video calls are very popular and often replace regular phone calls.",
-     "zh": "微信语音和视频通话非常流行，常常取代普通电话。"
-    },
-    {
      "en": "Phone numbers are saved in contacts, so people no longer need a phone book.",
      "zh": "号码都存在手机通讯录里，人们不再需要电话簿。"
     }
    ],
    "en": "Making a Phone Call",
-   "zh": "打电话",
+   "zh": "用手机打电话",
    "grammarZh": "一般过去时"
   },
   {
@@ -12267,73 +12139,54 @@
    "img": "assets/img/unit56.jpg",
    "grammar": "Simple Past",
    "grammarNote": {
-    "en": "The narrative uses the simple past (took, wrote, apologized, re-read, answered, asked, signed) and the past perfect progressive \"had been doing\" to describe activities leading up to writing the letter.",
-    "zh": "叙述使用一般过去时（took、wrote、apologized、re-read、answered、asked、signed），并用过去完成进行时 had been doing 描述写信之前持续进行的活动。"
+    "en": "The narrative uses the simple past (took out, wrote, told, asked, signed) to describe writing a letter step by step.",
+    "zh": "叙述使用一般过去时（took out 拿出、wrote 写、told 告诉、asked 问、signed 签名）描述写信的整个过程。"
    },
    "steps": [
     {
-     "en": "I took out some paper to write to my friend.",
-     "zh": "我拿出一些纸给朋友写信。"
+     "en": "Jenny took out some paper and a pencil to write a letter to her cousin.",
+     "zh": "珍妮拿出纸和铅笔，给表姐写信。"
     },
     {
-     "en": "I wrote the date and a greeting at the top.",
-     "zh": "我在上方写了日期和称呼。"
+     "en": "She wrote the date and a greeting at the top.",
+     "zh": "她在上方写了日期和称呼。"
     },
     {
-     "en": "I apologized for not writing sooner...",
-     "zh": "我为没有早点写信而道歉……"
+     "en": "She wrote about what she had been doing.",
+     "zh": "她写了自己最近在做什么。"
     },
     {
-     "en": "...and I wrote about what I'd been doing.",
-     "zh": "……然后写了我最近在做什么。"
+     "en": "She told her cousin about the funny things at school.",
+     "zh": "她告诉表姐学校里的趣事。"
     },
     {
-     "en": "As I wrote, I re-read her last letter to me.",
-     "zh": "写信时，我重读了她上一封给我的信。"
+     "en": "She asked her cousin about her new school.",
+     "zh": "她问了表姐新学校的情况。"
     },
     {
-     "en": "I answered questions she had asked...",
-     "zh": "我回答了她问过的问题……"
-    },
-    {
-     "en": "...and I asked her about herself.",
-     "zh": "……然后问了她的近况。"
-    },
-    {
-     "en": "Then I wrote a closing...",
-     "zh": "然后我写了结尾敬语……"
+     "en": "Then she wrote a closing...",
+     "zh": "然后她写了结尾敬语……"
     },
     {
      "en": "...and signed the letter.",
      "zh": "……并在信上签了名。"
+    },
+    {
+     "en": "She put the letter in an envelope.",
+     "zh": "她把信装进信封。"
     }
    ],
    "vocab": {
     "verbs": [
-     {
-      "w": "answer",
-      "ipa": "/ˈænsər/",
-      "zh": "回答"
-     },
-     {
-      "w": "apologize",
-      "ipa": "/əˈpɑːlədʒaɪz/",
-      "zh": "道歉"
-     },
      {
       "w": "ask",
       "ipa": "/æsk/",
       "zh": "问；询问"
      },
      {
-      "w": "do / had been doing",
-      "ipa": "/duː / hæd biːn ˈduːɪŋ/",
-      "zh": "做；（过去完成进行时）一直在做"
-     },
-     {
-      "w": "re-read",
-      "ipa": "/riː riːd/",
-      "zh": "重读"
+      "w": "put (put) in",
+      "ipa": "/pʊt ɪn/",
+      "zh": "放进"
      },
      {
       "w": "sign",
@@ -12341,13 +12194,18 @@
       "zh": "签名"
      },
      {
-      "w": "take / took out",
-      "ipa": "/teɪk / tʊk aʊt/",
+      "w": "take (took) out",
+      "ipa": "/teɪk aʊt/",
       "zh": "拿出；取出"
      },
      {
-      "w": "write / wrote",
-      "ipa": "/raɪt / roʊt/",
+      "w": "tell (told)",
+      "ipa": "/tel/",
+      "zh": "告诉"
+     },
+     {
+      "w": "write (wrote)",
+      "ipa": "/raɪt/",
       "zh": "写"
      }
     ],
@@ -12358,14 +12216,19 @@
       "zh": "结尾敬语（如“爱你的”）"
      },
      {
+      "w": "cousin",
+      "ipa": "/ˈkʌzn/",
+      "zh": "表姐；表妹；表哥"
+     },
+     {
       "w": "date",
       "ipa": "/deɪt/",
       "zh": "日期"
      },
      {
-      "w": "friend",
-      "ipa": "/frend/",
-      "zh": "朋友"
+      "w": "envelope",
+      "ipa": "/ˈenvəloʊp/",
+      "zh": "信封"
      },
      {
       "w": "greeting",
@@ -12383,14 +12246,9 @@
       "zh": "纸；信纸"
      },
      {
-      "w": "question",
-      "ipa": "/ˈkwestʃən/",
-      "zh": "问题"
-     },
-     {
-      "w": "signature",
-      "ipa": "/ˈsɪɡnətʃər/",
-      "zh": "签名"
+      "w": "pencil",
+      "ipa": "/ˈpensl/",
+      "zh": "铅笔"
      },
      {
       "w": "top",
@@ -12400,35 +12258,13 @@
     ],
     "others": [
      {
-      "w": "last (adj.)",
-      "ipa": "/læst/",
-      "zh": "上一个的；最近的"
-     },
-     {
       "w": "personal (adj.)",
       "ipa": "/ˈpɜːrsənl/",
       "zh": "私人的；个人的"
-     },
-     {
-      "w": "soon / sooner (adv.)",
-      "ipa": "/suːn / ˈsuːnər/",
-      "zh": "很快；早些"
      }
     ]
    },
    "notes": [
-    {
-     "en": "Stationery is paper especially for writing letters.",
-     "zh": "信纸是专门用来写信的纸张。"
-    },
-    {
-     "en": "When you re-read something, you read it again — not for the first time.",
-     "zh": "re-read（重读）就是把东西再读一遍——不是第一次读。"
-    },
-    {
-     "en": "What I had been doing means what I did during a period of time before I wrote the letter.",
-     "zh": "“我之前一直在做的事”指我在写信之前一段时间里所做的事。"
-    },
     {
      "en": "A personal letter is a letter to a friend or relative. It is written differently from a business letter.",
      "zh": "私人信件是写给朋友或亲戚的信，写法与商务信件不同。"
@@ -12442,23 +12278,38 @@
      "zh": "信的结尾敬语就在签名之前。"
     }
    ],
-   "dialogue": [],
+   "dialogue": [
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Who are you writing to, Jenny?",
+     "zh": "珍妮，你在给谁写信？"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "I'm writing to my cousin in Shanghai.",
+     "zh": "我给在上海的表姐写信。"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "What a nice surprise for her!",
+     "zh": "对她来说真是个惊喜！"
+    }
+   ],
    "china": [
     {
-     "en": "In China, handwritten personal letters are rare; people use WeChat messages, QQ, or email to stay in touch.",
-     "zh": "在中国，手写信件很少见，人们用微信、QQ 或电子邮件联系。"
+     "en": "In China, handwritten personal letters are rare; people use WeChat messages or email to stay in touch.",
+     "zh": "在中国，手写信件很少见，人们用微信消息或电子邮件联系。"
     },
     {
-     "en": "Long-distance communication is nearly free through smartphone apps, so postage stamps are rarely used.",
-     "zh": "通过手机应用长途通讯几乎免费，邮票很少使用。"
-    },
-    {
-     "en": "New Year greetings are often sent as WeChat red envelopes or e-cards instead of paper cards.",
-     "zh": "新年祝福常用微信红包或电子贺卡发送，而非纸质卡片。"
+     "en": "Writing a letter to a faraway relative is a special, thoughtful surprise.",
+     "zh": "给远方的亲人写一封信，是一份特别而用心的小惊喜。"
     }
    ],
    "en": "Writing a Personal Letter",
-   "zh": "写私人信件",
+   "zh": "写信给表姐",
    "grammarZh": "一般过去时"
   },
   {
@@ -12905,25 +12756,25 @@
    "img": "assets/img/unit59.jpg",
    "grammar": "Simple Present",
    "grammarNote": {
-    "en": "The simple present describes the typical sequence of a dinner party: greets, give, say hello, introduces, shake hands, make small talk, have dinner, say goodnight.",
-    "zh": "一般现在时描述晚宴的典型流程：greets、give、say hello、introduces、shake hands、make small talk、have dinner、say goodnight。"
+    "en": "The simple present describes the typical sequence of a family dinner: greets, give, say hello, introduces, shake hands, make small talk, have dinner, say goodnight.",
+    "zh": "一般现在时描述家庭聚餐的典型流程：greets、give、say hello、introduces、shake hands、make small talk、have dinner、say goodnight。"
    },
    "steps": [
     {
-     "en": "Dan (the host) greets Tom and Jenny (the guests) at the door.",
-     "zh": "丹（主人）在门口迎接汤姆和珍妮（客人）。"
+     "en": "Grandpa (the host) greets Tom and Jenny (the guests) at the door.",
+     "zh": "爷爷（主人）在门口迎接汤姆和珍妮（客人）。"
     },
     {
-     "en": "They give him a bottle of wine they brought.",
-     "zh": "他们把带来的一瓶酒送给他。"
+     "en": "They give him some fruit and tea they brought.",
+     "zh": "他们把带来的水果和茶叶送给他。"
     },
     {
      "en": "Inside, they say hello to some people they know.",
      "zh": "进屋后，他们跟认识的人打招呼。"
     },
     {
-     "en": "Dan introduces them to some people.",
-     "zh": "丹把他们介绍给其他人。"
+     "en": "Grandpa introduces them to some people.",
+     "zh": "爷爷把他们介绍给其他人。"
     },
     {
      "en": "They shake hands...",
@@ -12934,12 +12785,12 @@
      "zh": "……然后寒暄了几句。"
     },
     {
-     "en": "They have their dinner.",
-     "zh": "他们吃晚餐。"
+     "en": "They have their dinner together.",
+     "zh": "他们一起吃晚餐。"
     },
     {
-     "en": "At the end of the evening, the guests say goodnight and thank Dan.",
-     "zh": "晚会结束时，客人们道晚安并感谢丹。"
+     "en": "At the end of the evening, the guests say goodnight and thank Grandpa.",
+     "zh": "聚会结束时，客人们道晚安并感谢爷爷。"
     }
    ],
    "vocab": {
@@ -13007,14 +12858,9 @@
     ],
     "nouns": [
      {
-      "w": "bottle",
-      "ipa": "/ˈbɑːtl/",
-      "zh": "瓶"
-     },
-     {
-      "w": "dinner party",
-      "ipa": "/ˈdɪnər ˈpɑːrti/",
-      "zh": "晚宴；宴会"
+      "w": "aunt",
+      "ipa": "/ænt/",
+      "zh": "阿姨；姑姑"
      },
      {
       "w": "door",
@@ -13022,14 +12868,24 @@
       "zh": "门"
      },
      {
-      "w": "end",
-      "ipa": "/end/",
-      "zh": "结束；末尾"
+      "w": "dinner",
+      "ipa": "/ˈdɪnər/",
+      "zh": "晚餐"
      },
      {
       "w": "evening",
       "ipa": "/ˈiːvnɪŋ/",
       "zh": "傍晚；晚上"
+     },
+     {
+      "w": "fruit",
+      "ipa": "/fruːt/",
+      "zh": "水果"
+     },
+     {
+      "w": "grandpa",
+      "ipa": "/ˈɡrænpɑː/",
+      "zh": "爷爷；外公"
      },
      {
       "w": "guest",
@@ -13052,26 +12908,27 @@
       "zh": "寒暄；闲聊"
      },
      {
-      "w": "snack",
-      "ipa": "/snæk/",
-      "zh": "小吃；点心"
-     },
-     {
-      "w": "wine",
-      "ipa": "/waɪn/",
-      "zh": "葡萄酒"
+      "w": "tea",
+      "ipa": "/tiː/",
+      "zh": "茶叶；茶"
      }
     ],
-    "others": []
+    "others": [
+     {
+      "w": "inside (adv.)",
+      "ipa": "/ˌɪnˈsaɪd/",
+      "zh": "在屋里"
+     }
+    ]
    },
    "notes": [
     {
-     "en": "It's polite in America for a guest at an adult party to bring a bottle of wine. It's also polite for a host to say that the gift is unnecessary.",
-     "zh": "在美国，成人聚会上客人带一瓶酒是礼貌的；主人说礼物不必客气也是礼貌的。"
+     "en": "It's polite in China for guests to bring a small gift like fruit or tea.",
+     "zh": "在中国，客人带水果、茶叶等小礼物去作客是很礼貌的。"
     },
     {
-     "en": "Small talk is talk about some unimportant topic like the weather or sports. You \"make small talk\" and \"make conversation.\"",
-     "zh": "small talk 是谈论天气、体育等不重要的话题。说“make small talk”或“make conversation”。"
+     "en": "Small talk is talk about some unimportant topic like the weather or sports. You \"make small talk.\"",
+     "zh": "small talk 是谈论天气、体育等不重要的话题。说“make small talk”。"
     },
     {
      "en": "The evening is the time from about sundown until about midnight.",
@@ -13081,105 +12938,65 @@
    "dialogue": [
     {
      "speaker": "Tom",
-     "role": "guest",
-     "en": "Hi, Dan.",
-     "zh": "嗨，丹。"
+     "role": "clerk",
+     "en": "Hi, Grandpa.",
+     "zh": "嗨，爷爷。"
     },
     {
      "speaker": "Jenny",
      "role": "girl",
-     "en": "Hi, Dan.",
-     "zh": "嗨，丹。"
+     "en": "Hi, Grandpa.",
+     "zh": "嗨，爷爷。"
     },
     {
-     "speaker": "Dan",
-     "role": "host",
+     "speaker": "Grandpa",
+     "role": "teacher",
      "en": "Hi Tom, Jenny. Glad you could come.",
      "zh": "嗨，汤姆，珍妮。很高兴你们能来。"
     },
     {
-     "speaker": "Dan",
-     "role": "host",
-     "en": "Thanks, Jenny, but you didn't have to bring anything.",
-     "zh": "谢谢，珍妮，但你们不用带东西的。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "We brought you some tea and fruit.",
+     "zh": "我们给你带了茶叶和水果。"
     },
     {
-     "speaker": "Jenny",
-     "role": "girl",
-     "en": "Leo. Kate. Good to see you.",
-     "zh": "利奥，凯特，见到你们真高兴。"
+     "speaker": "Grandpa",
+     "role": "teacher",
+     "en": "Thanks! You didn't have to bring anything.",
+     "zh": "谢谢！你们不用带东西的。"
     },
     {
-     "speaker": "Leo",
-     "role": "guest",
-     "en": "Hi, Tom.",
-     "zh": "嗨，汤姆。"
-    },
-    {
-     "speaker": "Kate",
-     "role": "guest",
-     "en": "Hi, Jenny.",
-     "zh": "嗨，珍妮。"
-    },
-    {
-     "speaker": "Dan",
-     "role": "host",
-     "en": "Tom, Jenny, I'd like you to meet Sharon Melton and her husband, John.",
-     "zh": "汤姆，珍妮，来认识一下莎伦·梅尔顿和她丈夫约翰。"
+     "speaker": "Aunt",
+     "role": "mom",
+     "en": "Hi, Tom! Long time no see!",
+     "zh": "嗨，汤姆！好久不见！"
     },
     {
      "speaker": "Tom",
-     "role": "guest",
-     "en": "Glad to meet you, John.",
-     "zh": "很高兴认识你，约翰。"
+     "role": "clerk",
+     "en": "Thanks, Grandpa. Great dinner!",
+     "zh": "谢谢，爷爷。晚餐真棒！"
     },
     {
-     "speaker": "John",
-     "role": "guest",
-     "en": "Same here, Tom.",
-     "zh": "我也是，汤姆。"
-    },
-    {
-     "speaker": "Guest",
-     "role": "guest",
-     "en": "Sure was a hot one today.",
-     "zh": "今天可真热啊。"
-    },
-    {
-     "speaker": "Guest",
-     "role": "guest",
-     "en": "Yeah.",
-     "zh": "是啊。"
-    },
-    {
-     "speaker": "Tom",
-     "role": "guest",
-     "en": "Thanks, Dan. Great party.",
-     "zh": "谢谢，丹。聚会很棒。"
-    },
-    {
-     "speaker": "Dan",
-     "role": "host",
-     "en": "Glad you could come. Drive safely.",
-     "zh": "很高兴你们能来。路上小心。"
+     "speaker": "Grandpa",
+     "role": "teacher",
+     "en": "Glad you could come. See you soon!",
+     "zh": "很高兴你们来。回头见！"
     }
    ],
    "china": [
     {
-     "en": "In China, dinner parties are often held at restaurants rather than at home, and the host usually pays.",
-     "zh": "在中国，聚餐常在餐厅而不是家里，通常由主人买单。"
+     "en": "In China, family dinners are often held at a grandparent's home or at a restaurant, and the host usually pays.",
+     "zh": "在中国，家庭聚餐常在爷爷奶奶家或餐厅举行，通常由主人买单。"
     },
     {
-     "en": "Bringing wine is less common; guests may bring fruit, tea, or a small gift instead.",
-     "zh": "带葡萄酒不太常见；客人可能带水果、茶叶或小礼物。"
-    },
-    {
-     "en": "Toasting with baijiu and playing drinking games is common at Chinese dinner gatherings.",
-     "zh": "中式聚餐上劝酒、玩酒桌游戏很常见。"
+     "en": "Guests may bring fruit, tea, or a small gift instead of wine.",
+     "zh": "客人常带水果、茶叶或小礼物，而不是酒。"
     }
    ],
    "en": "Going to a Dinner Party",
-   "zh": "参加晚宴派对",
+   "zh": "去爷爷家聚餐",
    "grammarZh": "一般现在时"
   },
   {
@@ -13189,79 +13006,79 @@
    "img": "assets/img/unit60.jpg",
    "grammar": "Simple Past",
    "grammarNote": {
-    "en": "The simple past narrates a completed trip to the movies: found, bought, went, tore, gave, watched, saw. Irregular verbs include buy→bought, find→found, give→gave, go→went, see→saw, tear→tore.",
-    "zh": "一般过去时叙述一次已完成的观影经历：found、bought、went、tore、gave、watched、saw。不规则动词有 buy→bought、find→found、give→gave、go→went、see→saw、tear→tore。"
+    "en": "The simple past narrates a completed trip to the movies: found out, bought, got, went, watched, saw.",
+    "zh": "一般过去时叙述一次已完成的观影经历：found out、bought、got、went、watched、saw。"
    },
    "steps": [
     {
-     "en": "We found out where and when the movie was showing.",
-     "zh": "我们弄清楚了电影在哪里、什么时候放映。"
+     "en": "Tom and Jenny found out when the cartoon movie was showing.",
+     "zh": "汤姆和珍妮查到了动画电影的放映时间。"
     },
     {
-     "en": "We bought tickets at the box office...",
-     "zh": "我们在售票处买了票……"
+     "en": "Mom bought tickets on her phone.",
+     "zh": "妈妈在手机上买了票。"
     },
     {
-     "en": "...and some popcorn at the snack counter.",
-     "zh": "……还在小吃柜台买了爆米花。"
+     "en": "They got some popcorn at the snack counter.",
+     "zh": "他们在小吃柜台买了爆米花。"
     },
     {
-     "en": "The ticket-taker tore our tickets and gave us back the stubs.",
-     "zh": "检票员撕了我们的票，把票根还给我们。"
+     "en": "At the entrance, the worker scanned the tickets from Mom's phone.",
+     "zh": "入口处，工作人员扫了妈妈手机上的票。"
     },
     {
-     "en": "We went to our seats.",
-     "zh": "我们走到自己的座位上。"
+     "en": "They went to their seats.",
+     "zh": "他们走到自己的座位上。"
     },
     {
-     "en": "We watched previews of coming attractions.",
-     "zh": "我们看了即将上映电影的预告片。"
+     "en": "They watched the previews of coming attractions.",
+     "zh": "他们看了即将上映电影的预告片。"
     },
     {
-     "en": "Then we saw the main feature.",
-     "zh": "然后我们看了正片。"
+     "en": "Then they saw the main feature.",
+     "zh": "然后他们看了正片。"
     },
     {
-     "en": "At the end, we watched the credits.",
-     "zh": "结束时，我们看了片尾字幕。"
+     "en": "At the end, they watched the credits.",
+     "zh": "结束时，他们看了片尾字幕。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "buy / bought",
-      "ipa": "/baɪ / bɔːt/",
+      "w": "buy (bought)",
+      "ipa": "/baɪ/",
       "zh": "买"
      },
      {
-      "w": "find / found out",
-      "ipa": "/faɪnd / faʊnd aʊt/",
+      "w": "find (found) out",
+      "ipa": "/faɪnd aʊt/",
       "zh": "弄清楚；查明"
      },
      {
-      "w": "give / gave back",
-      "ipa": "/ɡɪv / ɡeɪv bæk/",
-      "zh": "归还；还给"
+      "w": "get (got)",
+      "ipa": "/ɡet/",
+      "zh": "买到；得到"
      },
      {
-      "w": "go / went to",
-      "ipa": "/ɡoʊ / went tuː/",
+      "w": "go (went) to",
+      "ipa": "/ɡoʊ tuː/",
       "zh": "去；前往"
      },
      {
-      "w": "see / saw",
-      "ipa": "/siː / sɔː/",
+      "w": "scan",
+      "ipa": "/skæn/",
+      "zh": "扫码"
+     },
+     {
+      "w": "see (saw)",
+      "ipa": "/siː/",
       "zh": "观看；看见"
      },
      {
       "w": "show",
       "ipa": "/ʃoʊ/",
       "zh": "放映；上映"
-     },
-     {
-      "w": "tear / tore",
-      "ipa": "/ter / tɔːr/",
-      "zh": "撕（票）"
      },
      {
       "w": "watch",
@@ -13271,9 +13088,9 @@
     ],
     "nouns": [
      {
-      "w": "box office",
-      "ipa": "/bɑːks ˈɔːfɪs/",
-      "zh": "售票处"
+      "w": "cartoon movie",
+      "ipa": "/kɑːrˈtuːn ˈmuːvi/",
+      "zh": "动画电影"
      },
      {
       "w": "coming attractions",
@@ -13289,6 +13106,11 @@
       "w": "end",
       "ipa": "/end/",
       "zh": "结尾；结束"
+     },
+     {
+      "w": "entrance",
+      "ipa": "/ˈentrəns/",
+      "zh": "入口"
      },
      {
       "w": "feature",
@@ -13321,19 +13143,9 @@
       "zh": "小吃柜台"
      },
      {
-      "w": "stub",
-      "ipa": "/stʌb/",
-      "zh": "票根"
-     },
-     {
       "w": "ticket",
       "ipa": "/ˈtɪkɪt/",
       "zh": "票"
-     },
-     {
-      "w": "ticket-taker",
-      "ipa": "/ˈtɪkɪt ˈteɪkər/",
-      "zh": "检票员"
      }
     ],
     "others": [
@@ -13354,64 +13166,48 @@
      "zh": "“The movie is showing”意思是“电影正在放映”。"
     },
     {
-     "en": "The box office is the place where tickets to movies are sold. It can also be called a \"ticket window.\"",
-     "zh": "box office 是卖电影票的地方，也叫 ticket window。"
-    },
-    {
-     "en": "A stub is a small piece. A ticket stub is a piece torn off a ticket.",
-     "zh": "stub 是一小片东西；票根是从票上撕下来的一小片。"
-    },
-    {
-     "en": "If you see a preview, you will see a small part of something you can see completely later.",
-     "zh": "看预告片就是先看到以后才能完整看到的东西的一小部分。"
-    },
-    {
      "en": "The main feature is the movie you have come to see.",
      "zh": "main feature 就是你专门来看的那部正片。"
-    },
-    {
-     "en": "Credits tell who worked on the movie.",
-     "zh": "credits（片尾字幕）告诉你哪些人参与了这部电影。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Man",
-     "role": "narrator",
-     "en": "Two please, for Skull Night.",
-     "zh": "两张《骷髅之夜》。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Mom, can we watch the cartoon movie?",
+     "zh": "妈妈，我们能看那部动画片吗？"
     },
     {
-     "speaker": "Cashier",
-     "role": "cashier",
-     "en": "Fourteen dollars, please.",
-     "zh": "一共十四美元。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Sure! I'll buy the tickets on my phone.",
+     "zh": "当然！我在手机上买票。"
     },
     {
-     "speaker": "Man",
-     "role": "narrator",
-     "en": "Two large popcorns, please.",
-     "zh": "请来两份大爆米花。"
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Can we get some popcorn?",
+     "zh": "我们能买点爆米花吗？"
     },
     {
-     "speaker": "Snack Lady",
-     "role": "cashier",
-     "en": "Okay.",
-     "zh": "好的。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Sure! Let's go.",
+     "zh": "当然！走吧。"
     }
    ],
    "china": [
     {
-     "en": "In China, movie tickets are usually bought on phone apps like Maoyan or Taobao, with reserved seats chosen from a seating chart.",
-     "zh": "在中国，电影票通常在猫眼或淘宝等手机 App 上购买，并通过座位图选座。"
+     "en": "In China, movie tickets are usually bought on phone apps like Maoyan, with reserved seats chosen from a seating chart.",
+     "zh": "在中国，电影票通常在猫眼等手机 App 上购买，并通过座位图选座。"
     },
     {
-     "en": "Tickets are scanned at the entrance from the phone screen; paper tickets and stubs are rarely used.",
-     "zh": "入场时手机扫码检票，纸质票和票根很少使用。"
+     "en": "Tickets are scanned at the entrance from the phone screen; paper tickets are rarely used.",
+     "zh": "入场时手机扫码检票，纸质票很少使用。"
     },
     {
-     "en": "Snacks at Chinese cinemas often include iced tea, chicken wings, and spicy strips, not just popcorn.",
-     "zh": "中国影院的零食除了爆米花，还有冰红茶、鸡翅、辣条等。"
+     "en": "Chinese kids love cartoon movies, and families often watch them together on weekends.",
+     "zh": "中国孩子很喜欢动画电影，周末全家常一起去看。"
     }
    ],
    "en": "Going to a Movie",
