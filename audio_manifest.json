@@ -4937,49 +4937,49 @@
   {
    "file": "assets/audio/u023_s1.mp3",
    "voice": "narrator",
-   "text": "Kate diced an onion and fried it with some ground beef in a frying pan.",
+   "text": "Tom diced a tomato and fried an egg in a frying pan.",
    "src_text": "unit23 step1"
   },
   {
    "file": "assets/audio/u023_s2.mp3",
    "voice": "narrator",
-   "text": "As the beef-and-onion mixture fried, she stirred it; when the meat was brown, she turned off the burner.",
+   "text": "As the egg and tomato fried, he stirred them.",
    "src_text": "unit23 step2"
   },
   {
    "file": "assets/audio/u023_s3.mp3",
    "voice": "narrator",
-   "text": "She poured the fat into a can and heated two cans of tomato sauce in a saucepan.",
+   "text": "He boiled some water in a pot.",
    "src_text": "unit23 step3"
   },
   {
    "file": "assets/audio/u023_s4.mp3",
    "voice": "narrator",
-   "text": "She added the mixture of beef and onions, and stirred it into the sauce with some spices.",
+   "text": "He put some noodles into the boiling water.",
    "src_text": "unit23 step4"
   },
   {
    "file": "assets/audio/u023_s5.mp3",
    "voice": "narrator",
-   "text": "When it started to boil, she turned down the heat and let the sauce simmer.",
+   "text": "He boiled the noodles until they were soft, then drained them in a colander.",
    "src_text": "unit23 step5"
   },
   {
    "file": "assets/audio/u023_s6.mp3",
    "voice": "narrator",
-   "text": "In another pan, she boiled some water and put some spaghetti into the boiling water.",
+   "text": "He put the noodles on a plate.",
    "src_text": "unit23 step6"
   },
   {
    "file": "assets/audio/u023_s7.mp3",
    "voice": "narrator",
-   "text": "She boiled the spaghetti until it was tender, then drained it in a colander.",
+   "text": "He ladled the egg and tomato over the noodles.",
    "src_text": "unit23 step7"
   },
   {
    "file": "assets/audio/u023_s8.mp3",
    "voice": "narrator",
-   "text": "After putting the spaghetti on a plate, she ladled some sauce over it.",
+   "text": "He added a little salt and mixed everything together.",
    "src_text": "unit23 step8"
   },
   {
@@ -5015,253 +5015,97 @@
   {
    "file": "assets/audio/u023_v6.mp3",
    "voice": "narrator",
-   "text": "heat",
-   "src_text": "unit23 vocab heat"
-  },
-  {
-   "file": "assets/audio/u023_v7.mp3",
-   "voice": "narrator",
    "text": "ladle",
    "src_text": "unit23 vocab ladle"
   },
   {
+   "file": "assets/audio/u023_v7.mp3",
+   "voice": "narrator",
+   "text": "mix",
+   "src_text": "unit23 vocab mix"
+  },
+  {
    "file": "assets/audio/u023_v8.mp3",
-   "voice": "narrator",
-   "text": "let",
-   "src_text": "unit23 vocab let"
-  },
-  {
-   "file": "assets/audio/u023_v9.mp3",
-   "voice": "narrator",
-   "text": "pour off",
-   "src_text": "unit23 vocab pour off"
-  },
-  {
-   "file": "assets/audio/u023_v10.mp3",
    "voice": "narrator",
    "text": "put",
    "src_text": "unit23 vocab put"
   },
   {
-   "file": "assets/audio/u023_v11.mp3",
-   "voice": "narrator",
-   "text": "simmer",
-   "src_text": "unit23 vocab simmer"
-  },
-  {
-   "file": "assets/audio/u023_v12.mp3",
-   "voice": "narrator",
-   "text": "start",
-   "src_text": "unit23 vocab start"
-  },
-  {
-   "file": "assets/audio/u023_v13.mp3",
+   "file": "assets/audio/u023_v9.mp3",
    "voice": "narrator",
    "text": "stir",
    "src_text": "unit23 vocab stir"
   },
   {
-   "file": "assets/audio/u023_v14.mp3",
-   "voice": "narrator",
-   "text": "turn down",
-   "src_text": "unit23 vocab turn down"
-  },
-  {
-   "file": "assets/audio/u023_v15.mp3",
-   "voice": "narrator",
-   "text": "turn off",
-   "src_text": "unit23 vocab turn off"
-  },
-  {
-   "file": "assets/audio/u023_v16.mp3",
-   "voice": "narrator",
-   "text": "beef",
-   "src_text": "unit23 vocab beef"
-  },
-  {
-   "file": "assets/audio/u023_v17.mp3",
-   "voice": "narrator",
-   "text": "burner",
-   "src_text": "unit23 vocab burner"
-  },
-  {
-   "file": "assets/audio/u023_v18.mp3",
-   "voice": "narrator",
-   "text": "butter",
-   "src_text": "unit23 vocab butter"
-  },
-  {
-   "file": "assets/audio/u023_v19.mp3",
-   "voice": "narrator",
-   "text": "can",
-   "src_text": "unit23 vocab can"
-  },
-  {
-   "file": "assets/audio/u023_v20.mp3",
+   "file": "assets/audio/u023_v10.mp3",
    "voice": "narrator",
    "text": "colander",
    "src_text": "unit23 vocab colander"
   },
   {
-   "file": "assets/audio/u023_v21.mp3",
+   "file": "assets/audio/u023_v11.mp3",
    "voice": "narrator",
-   "text": "fat",
-   "src_text": "unit23 vocab fat"
+   "text": "egg",
+   "src_text": "unit23 vocab egg"
   },
   {
-   "file": "assets/audio/u023_v22.mp3",
+   "file": "assets/audio/u023_v12.mp3",
    "voice": "narrator",
    "text": "frying pan",
    "src_text": "unit23 vocab frying pan"
   },
   {
-   "file": "assets/audio/u023_v23.mp3",
+   "file": "assets/audio/u023_v13.mp3",
    "voice": "narrator",
-   "text": "ground beef",
-   "src_text": "unit23 vocab ground beef"
+   "text": "noodles",
+   "src_text": "unit23 vocab noodles"
   },
   {
-   "file": "assets/audio/u023_v24.mp3",
-   "voice": "narrator",
-   "text": "heat",
-   "src_text": "unit23 vocab heat"
-  },
-  {
-   "file": "assets/audio/u023_v25.mp3",
-   "voice": "narrator",
-   "text": "ladle",
-   "src_text": "unit23 vocab ladle"
-  },
-  {
-   "file": "assets/audio/u023_v26.mp3",
-   "voice": "narrator",
-   "text": "liquid",
-   "src_text": "unit23 vocab liquid"
-  },
-  {
-   "file": "assets/audio/u023_v27.mp3",
-   "voice": "narrator",
-   "text": "meat",
-   "src_text": "unit23 vocab meat"
-  },
-  {
-   "file": "assets/audio/u023_v28.mp3",
-   "voice": "narrator",
-   "text": "mixture",
-   "src_text": "unit23 vocab mixture"
-  },
-  {
-   "file": "assets/audio/u023_v29.mp3",
-   "voice": "narrator",
-   "text": "onion",
-   "src_text": "unit23 vocab onion"
-  },
-  {
-   "file": "assets/audio/u023_v30.mp3",
-   "voice": "narrator",
-   "text": "pan",
-   "src_text": "unit23 vocab pan"
-  },
-  {
-   "file": "assets/audio/u023_v31.mp3",
-   "voice": "narrator",
-   "text": "(a) piece",
-   "src_text": "unit23 vocab (a) piece"
-  },
-  {
-   "file": "assets/audio/u023_v32.mp3",
+   "file": "assets/audio/u023_v14.mp3",
    "voice": "narrator",
    "text": "plate",
    "src_text": "unit23 vocab plate"
   },
   {
-   "file": "assets/audio/u023_v33.mp3",
+   "file": "assets/audio/u023_v15.mp3",
    "voice": "narrator",
-   "text": "sauce",
-   "src_text": "unit23 vocab sauce"
+   "text": "pot",
+   "src_text": "unit23 vocab pot"
   },
   {
-   "file": "assets/audio/u023_v34.mp3",
+   "file": "assets/audio/u023_v16.mp3",
    "voice": "narrator",
-   "text": "saucepan",
-   "src_text": "unit23 vocab saucepan"
+   "text": "salt",
+   "src_text": "unit23 vocab salt"
   },
   {
-   "file": "assets/audio/u023_v35.mp3",
+   "file": "assets/audio/u023_v17.mp3",
    "voice": "narrator",
-   "text": "solid",
-   "src_text": "unit23 vocab solid"
+   "text": "tomato",
+   "src_text": "unit23 vocab tomato"
   },
   {
-   "file": "assets/audio/u023_v36.mp3",
+   "file": "assets/audio/u023_v18.mp3",
    "voice": "narrator",
-   "text": "spaghetti",
-   "src_text": "unit23 vocab spaghetti"
+   "text": "a little (quantifier)",
+   "src_text": "unit23 vocab a little (quantifier)"
   },
   {
-   "file": "assets/audio/u023_v37.mp3",
+   "file": "assets/audio/u023_v19.mp3",
    "voice": "narrator",
-   "text": "spatula",
-   "src_text": "unit23 vocab spatula"
-  },
-  {
-   "file": "assets/audio/u023_v38.mp3",
-   "voice": "narrator",
-   "text": "spice",
-   "src_text": "unit23 vocab spice"
-  },
-  {
-   "file": "assets/audio/u023_v39.mp3",
-   "voice": "narrator",
-   "text": "sugar",
-   "src_text": "unit23 vocab sugar"
-  },
-  {
-   "file": "assets/audio/u023_v40.mp3",
-   "voice": "narrator",
-   "text": "tomato sauce",
-   "src_text": "unit23 vocab tomato sauce"
-  },
-  {
-   "file": "assets/audio/u023_v41.mp3",
-   "voice": "narrator",
-   "text": "water",
-   "src_text": "unit23 vocab water"
-  },
-  {
-   "file": "assets/audio/u023_v42.mp3",
-   "voice": "narrator",
-   "text": "another",
-   "src_text": "unit23 vocab another"
-  },
-  {
-   "file": "assets/audio/u023_v43.mp3",
-   "voice": "narrator",
-   "text": "brown (adj.)",
-   "src_text": "unit23 vocab brown (adj.)"
-  },
-  {
-   "file": "assets/audio/u023_v44.mp3",
-   "voice": "narrator",
-   "text": "melted (adj.)",
-   "src_text": "unit23 vocab melted (adj.)"
-  },
-  {
-   "file": "assets/audio/u023_v45.mp3",
-   "voice": "narrator",
-   "text": "tender (adj.)",
-   "src_text": "unit23 vocab tender (adj.)"
+   "text": "together (adv.)",
+   "src_text": "unit23 vocab together (adv.)"
   },
   {
    "file": "assets/audio/u024_s1.mp3",
    "voice": "narrator",
-   "text": "Paul measured out one cup of rice and poured it into a pot.",
+   "text": "Paul measured out one cup of rice and poured it into the pot.",
    "src_text": "unit24 step1"
   },
   {
    "file": "assets/audio/u024_s2.mp3",
    "voice": "narrator",
-   "text": "To rinse the rice, he put some water in the pot and poured off the water to get rid of the dirt and husks.",
+   "text": "He rinsed the rice with water to clean it.",
    "src_text": "unit24 step2"
   },
   {
@@ -5273,176 +5117,134 @@
   {
    "file": "assets/audio/u024_s4.mp3",
    "voice": "narrator",
-   "text": "He put a lid on the pot and heated the water.",
+   "text": "He put a lid on the pot and plugged in the rice cooker.",
    "src_text": "unit24 step4"
   },
   {
    "file": "assets/audio/u024_s5.mp3",
    "voice": "narrator",
-   "text": "When it started boiling, he turned down the flame.",
+   "text": "He pressed the cook button.",
    "src_text": "unit24 step5"
   },
   {
    "file": "assets/audio/u024_s6.mp3",
    "voice": "narrator",
-   "text": "After about 15 minutes, he checked the rice and decided it was ready to eat.",
+   "text": "After about 20 minutes, the rice cooker clicked, and the rice was ready.",
    "src_text": "unit24 step6"
   },
   {
    "file": "assets/audio/u024_d1.mp3",
    "voice": "clerk",
-   "text": "Let's see if this is ready.",
-   "src_text": "unit24 dialogue1 (Paul)"
+   "text": "Let's see if this rice is ready.",
+   "src_text": "unit24 dialogue1"
   },
   {
    "file": "assets/audio/u024_d2.mp3",
-   "voice": "clerk",
-   "text": "Yep. Done!",
-   "src_text": "unit24 dialogue2 (Paul)"
+   "voice": "mom",
+   "text": "It smells great! Yep, it's done.",
+   "src_text": "unit24 dialogue2"
   },
   {
    "file": "assets/audio/u024_v1.mp3",
    "voice": "narrator",
-   "text": "boil",
-   "src_text": "unit24 vocab boil"
+   "text": "fluff",
+   "src_text": "unit24 vocab fluff"
   },
   {
    "file": "assets/audio/u024_v2.mp3",
-   "voice": "narrator",
-   "text": "check",
-   "src_text": "unit24 vocab check"
-  },
-  {
-   "file": "assets/audio/u024_v3.mp3",
-   "voice": "narrator",
-   "text": "cook",
-   "src_text": "unit24 vocab cook"
-  },
-  {
-   "file": "assets/audio/u024_v4.mp3",
-   "voice": "narrator",
-   "text": "decide",
-   "src_text": "unit24 vocab decide"
-  },
-  {
-   "file": "assets/audio/u024_v5.mp3",
-   "voice": "narrator",
-   "text": "eat / ate",
-   "src_text": "unit24 vocab eat / ate"
-  },
-  {
-   "file": "assets/audio/u024_v6.mp3",
-   "voice": "narrator",
-   "text": "get rid of",
-   "src_text": "unit24 vocab get rid of"
-  },
-  {
-   "file": "assets/audio/u024_v7.mp3",
-   "voice": "narrator",
-   "text": "heat",
-   "src_text": "unit24 vocab heat"
-  },
-  {
-   "file": "assets/audio/u024_v8.mp3",
    "voice": "narrator",
    "text": "measure out",
    "src_text": "unit24 vocab measure out"
   },
   {
-   "file": "assets/audio/u024_v9.mp3",
+   "file": "assets/audio/u024_v3.mp3",
+   "voice": "narrator",
+   "text": "plug in",
+   "src_text": "unit24 vocab plug in"
+  },
+  {
+   "file": "assets/audio/u024_v4.mp3",
    "voice": "narrator",
    "text": "pour",
    "src_text": "unit24 vocab pour"
   },
   {
-   "file": "assets/audio/u024_v10.mp3",
+   "file": "assets/audio/u024_v5.mp3",
    "voice": "narrator",
-   "text": "pour off",
-   "src_text": "unit24 vocab pour off"
+   "text": "press",
+   "src_text": "unit24 vocab press"
   },
   {
-   "file": "assets/audio/u024_v11.mp3",
+   "file": "assets/audio/u024_v6.mp3",
+   "voice": "narrator",
+   "text": "put",
+   "src_text": "unit24 vocab put"
+  },
+  {
+   "file": "assets/audio/u024_v7.mp3",
    "voice": "narrator",
    "text": "rinse",
    "src_text": "unit24 vocab rinse"
   },
   {
-   "file": "assets/audio/u024_v12.mp3",
+   "file": "assets/audio/u024_v8.mp3",
    "voice": "narrator",
-   "text": "start",
-   "src_text": "unit24 vocab start"
+   "text": "bowl",
+   "src_text": "unit24 vocab bowl"
   },
   {
-   "file": "assets/audio/u024_v13.mp3",
+   "file": "assets/audio/u024_v9.mp3",
    "voice": "narrator",
-   "text": "turn down",
-   "src_text": "unit24 vocab turn down"
+   "text": "button",
+   "src_text": "unit24 vocab button"
   },
   {
-   "file": "assets/audio/u024_v14.mp3",
+   "file": "assets/audio/u024_v10.mp3",
    "voice": "narrator",
    "text": "cup",
    "src_text": "unit24 vocab cup"
   },
   {
-   "file": "assets/audio/u024_v15.mp3",
-   "voice": "narrator",
-   "text": "dirt",
-   "src_text": "unit24 vocab dirt"
-  },
-  {
-   "file": "assets/audio/u024_v16.mp3",
-   "voice": "narrator",
-   "text": "flame",
-   "src_text": "unit24 vocab flame"
-  },
-  {
-   "file": "assets/audio/u024_v17.mp3",
-   "voice": "narrator",
-   "text": "husk",
-   "src_text": "unit24 vocab husk"
-  },
-  {
-   "file": "assets/audio/u024_v18.mp3",
+   "file": "assets/audio/u024_v11.mp3",
    "voice": "narrator",
    "text": "lid",
    "src_text": "unit24 vocab lid"
   },
   {
-   "file": "assets/audio/u024_v19.mp3",
-   "voice": "narrator",
-   "text": "minute",
-   "src_text": "unit24 vocab minute"
-  },
-  {
-   "file": "assets/audio/u024_v20.mp3",
+   "file": "assets/audio/u024_v12.mp3",
    "voice": "narrator",
    "text": "pot",
    "src_text": "unit24 vocab pot"
   },
   {
-   "file": "assets/audio/u024_v21.mp3",
+   "file": "assets/audio/u024_v13.mp3",
    "voice": "narrator",
    "text": "rice",
    "src_text": "unit24 vocab rice"
   },
   {
-   "file": "assets/audio/u024_v22.mp3",
+   "file": "assets/audio/u024_v14.mp3",
+   "voice": "narrator",
+   "text": "rice cooker",
+   "src_text": "unit24 vocab rice cooker"
+  },
+  {
+   "file": "assets/audio/u024_v15.mp3",
+   "voice": "narrator",
+   "text": "spatula",
+   "src_text": "unit24 vocab spatula"
+  },
+  {
+   "file": "assets/audio/u024_v16.mp3",
    "voice": "narrator",
    "text": "water",
    "src_text": "unit24 vocab water"
   },
   {
-   "file": "assets/audio/u024_v23.mp3",
+   "file": "assets/audio/u024_v17.mp3",
    "voice": "narrator",
-   "text": "clean (adj.)",
-   "src_text": "unit24 vocab clean (adj.)"
-  },
-  {
-   "file": "assets/audio/u024_v24.mp3",
-   "voice": "narrator",
-   "text": "ready (adj.)",
-   "src_text": "unit24 vocab ready (adj.)"
+   "text": "about (prep.)",
+   "src_text": "unit24 vocab about (prep.)"
   },
   {
    "file": "assets/audio/u025_s1.mp3",
@@ -6047,44 +5849,44 @@
   {
    "file": "assets/audio/u030_s1.mp3",
    "voice": "narrator",
-   "text": "Pam opened the book to her bookmark and turned the pages as she read.",
+   "text": "Jenny opened her picture book and turned the pages.",
    "src_text": "unit30 step1"
   },
   {
    "file": "assets/audio/u030_s2.mp3",
    "voice": "narrator",
-   "text": "When she saw a word she didn't know, she looked it up in a dictionary.",
+   "text": "She looked at the pictures and read the story.",
    "src_text": "unit30 step2"
   },
   {
    "file": "assets/audio/u030_s3.mp3",
    "voice": "narrator",
-   "text": "When she finished reading, she closed the book.",
+   "text": "When she saw a word she didn't know, she looked it up in a dictionary.",
    "src_text": "unit30 step3"
   },
   {
    "file": "assets/audio/u030_s4.mp3",
    "voice": "narrator",
-   "text": "Pam picked up the latest issue of Everyone magazine.",
+   "text": "When she finished reading, she closed the book.",
    "src_text": "unit30 step4"
   },
   {
    "file": "assets/audio/u030_s5.mp3",
    "voice": "narrator",
-   "text": "She looked at some of the ads, then flipped through the magazine until she found an interesting article.",
+   "text": "She picked up another book from the shelf.",
    "src_text": "unit30 step5"
   },
   {
    "file": "assets/audio/u030_s6.mp3",
    "voice": "narrator",
-   "text": "She read the article and looked at the pictures.",
+   "text": "She flipped through it until she found an interesting story.",
    "src_text": "unit30 step6"
   },
   {
    "file": "assets/audio/u030_d1.mp3",
-   "voice": "clerk",
-   "text": "'Bogus?' What does that mean?",
-   "src_text": "unit30 dialogue1 (Pam)"
+   "voice": "mom",
+   "text": "What are you reading, Jenny?",
+   "src_text": "unit30 dialogue1"
   },
   {
    "file": "assets/audio/u030_v1.mp3",
@@ -6095,8 +5897,8 @@
   {
    "file": "assets/audio/u030_v2.mp3",
    "voice": "narrator",
-   "text": "find / found",
-   "src_text": "unit30 vocab find / found"
+   "text": "find",
+   "src_text": "unit30 vocab find"
   },
   {
    "file": "assets/audio/u030_v3.mp3",
@@ -6113,176 +5915,98 @@
   {
    "file": "assets/audio/u030_v5.mp3",
    "voice": "narrator",
-   "text": "know / knew",
-   "src_text": "unit30 vocab know / knew"
-  },
-  {
-   "file": "assets/audio/u030_v6.mp3",
-   "voice": "narrator",
    "text": "look at",
    "src_text": "unit30 vocab look at"
   },
   {
-   "file": "assets/audio/u030_v7.mp3",
+   "file": "assets/audio/u030_v6.mp3",
    "voice": "narrator",
    "text": "look up",
    "src_text": "unit30 vocab look up"
   },
   {
-   "file": "assets/audio/u030_v8.mp3",
+   "file": "assets/audio/u030_v7.mp3",
    "voice": "narrator",
    "text": "open",
    "src_text": "unit30 vocab open"
   },
   {
-   "file": "assets/audio/u030_v9.mp3",
+   "file": "assets/audio/u030_v8.mp3",
    "voice": "narrator",
    "text": "pick up",
    "src_text": "unit30 vocab pick up"
   },
   {
+   "file": "assets/audio/u030_v9.mp3",
+   "voice": "narrator",
+   "text": "read",
+   "src_text": "unit30 vocab read"
+  },
+  {
    "file": "assets/audio/u030_v10.mp3",
    "voice": "narrator",
-   "text": "read / read",
-   "src_text": "unit30 vocab read / read"
+   "text": "see",
+   "src_text": "unit30 vocab see"
   },
   {
    "file": "assets/audio/u030_v11.mp3",
-   "voice": "narrator",
-   "text": "see / saw",
-   "src_text": "unit30 vocab see / saw"
-  },
-  {
-   "file": "assets/audio/u030_v12.mp3",
    "voice": "narrator",
    "text": "turn",
    "src_text": "unit30 vocab turn"
   },
   {
-   "file": "assets/audio/u030_v13.mp3",
-   "voice": "narrator",
-   "text": "ad",
-   "src_text": "unit30 vocab ad"
-  },
-  {
-   "file": "assets/audio/u030_v14.mp3",
-   "voice": "narrator",
-   "text": "article",
-   "src_text": "unit30 vocab article"
-  },
-  {
-   "file": "assets/audio/u030_v15.mp3",
-   "voice": "narrator",
-   "text": "author",
-   "src_text": "unit30 vocab author"
-  },
-  {
-   "file": "assets/audio/u030_v16.mp3",
+   "file": "assets/audio/u030_v12.mp3",
    "voice": "narrator",
    "text": "book",
    "src_text": "unit30 vocab book"
   },
   {
-   "file": "assets/audio/u030_v17.mp3",
-   "voice": "narrator",
-   "text": "bookmark",
-   "src_text": "unit30 vocab bookmark"
-  },
-  {
-   "file": "assets/audio/u030_v18.mp3",
-   "voice": "narrator",
-   "text": "caption",
-   "src_text": "unit30 vocab caption"
-  },
-  {
-   "file": "assets/audio/u030_v19.mp3",
-   "voice": "narrator",
-   "text": "chapter",
-   "src_text": "unit30 vocab chapter"
-  },
-  {
-   "file": "assets/audio/u030_v20.mp3",
-   "voice": "narrator",
-   "text": "cover",
-   "src_text": "unit30 vocab cover"
-  },
-  {
-   "file": "assets/audio/u030_v21.mp3",
+   "file": "assets/audio/u030_v13.mp3",
    "voice": "narrator",
    "text": "dictionary",
    "src_text": "unit30 vocab dictionary"
   },
   {
-   "file": "assets/audio/u030_v22.mp3",
-   "voice": "narrator",
-   "text": "index",
-   "src_text": "unit30 vocab index"
-  },
-  {
-   "file": "assets/audio/u030_v23.mp3",
-   "voice": "narrator",
-   "text": "issue",
-   "src_text": "unit30 vocab issue"
-  },
-  {
-   "file": "assets/audio/u030_v24.mp3",
-   "voice": "narrator",
-   "text": "magazine",
-   "src_text": "unit30 vocab magazine"
-  },
-  {
-   "file": "assets/audio/u030_v25.mp3",
-   "voice": "narrator",
-   "text": "number",
-   "src_text": "unit30 vocab number"
-  },
-  {
-   "file": "assets/audio/u030_v26.mp3",
+   "file": "assets/audio/u030_v14.mp3",
    "voice": "narrator",
    "text": "page",
    "src_text": "unit30 vocab page"
   },
   {
-   "file": "assets/audio/u030_v27.mp3",
-   "voice": "narrator",
-   "text": "part",
-   "src_text": "unit30 vocab part"
-  },
-  {
-   "file": "assets/audio/u030_v28.mp3",
+   "file": "assets/audio/u030_v15.mp3",
    "voice": "narrator",
    "text": "picture",
    "src_text": "unit30 vocab picture"
   },
   {
-   "file": "assets/audio/u030_v29.mp3",
+   "file": "assets/audio/u030_v16.mp3",
    "voice": "narrator",
-   "text": "table of contents",
-   "src_text": "unit30 vocab table of contents"
+   "text": "picture book",
+   "src_text": "unit30 vocab picture book"
   },
   {
-   "file": "assets/audio/u030_v30.mp3",
+   "file": "assets/audio/u030_v17.mp3",
    "voice": "narrator",
-   "text": "title",
-   "src_text": "unit30 vocab title"
+   "text": "rabbit",
+   "src_text": "unit30 vocab rabbit"
   },
   {
-   "file": "assets/audio/u030_v31.mp3",
+   "file": "assets/audio/u030_v18.mp3",
    "voice": "narrator",
-   "text": "word",
-   "src_text": "unit30 vocab word"
+   "text": "shelf",
+   "src_text": "unit30 vocab shelf"
   },
   {
-   "file": "assets/audio/u030_v32.mp3",
+   "file": "assets/audio/u030_v19.mp3",
    "voice": "narrator",
-   "text": "interesting (adj.)",
-   "src_text": "unit30 vocab interesting (adj.)"
+   "text": "story",
+   "src_text": "unit30 vocab story"
   },
   {
-   "file": "assets/audio/u030_v33.mp3",
+   "file": "assets/audio/u030_v20.mp3",
    "voice": "narrator",
-   "text": "latest (adj.)",
-   "src_text": "unit30 vocab latest (adj.)"
+   "text": "until (conj.)",
+   "src_text": "unit30 vocab until (conj.)"
   },
   {
    "file": "assets/audio/u031_s1.mp3",
@@ -6509,74 +6233,56 @@
   {
    "file": "assets/audio/u033_s1.mp3",
    "voice": "narrator",
-   "text": "Tom babysat his cousins — took care of them while their parents were gone.",
+   "text": "Tom took care of his little sister and brother while Mom went out.",
    "src_text": "unit33 step1"
   },
   {
    "file": "assets/audio/u033_s2.mp3",
    "voice": "narrator",
-   "text": "Tom's aunt and uncle dropped the children off at Tom's house.",
+   "text": "Mom told them, \"Be good and listen to Tom.\"",
    "src_text": "unit33 step2"
   },
   {
    "file": "assets/audio/u033_s3.mp3",
    "voice": "narrator",
-   "text": "Tom took them to a playground.",
+   "text": "Tom took them to the playground.",
    "src_text": "unit33 step3"
   },
   {
    "file": "assets/audio/u033_s4.mp3",
    "voice": "narrator",
-   "text": "Back at Tom's house, they played with blocks,...",
+   "text": "Back home, they played with blocks...",
    "src_text": "unit33 step4"
   },
   {
    "file": "assets/audio/u033_s5.mp3",
    "voice": "narrator",
-   "text": "...drew pictures with crayons...",
+   "text": "...and drew pictures with crayons.",
    "src_text": "unit33 step5"
   },
   {
    "file": "assets/audio/u033_s6.mp3",
    "voice": "narrator",
-   "text": "...and put a puzzle together.",
+   "text": "They put a puzzle together.",
    "src_text": "unit33 step6"
   },
   {
    "file": "assets/audio/u033_s7.mp3",
    "voice": "narrator",
-   "text": "Tom changed the baby's diaper...",
+   "text": "Tom read them a story...",
    "src_text": "unit33 step7"
   },
   {
    "file": "assets/audio/u033_s8.mp3",
    "voice": "narrator",
-   "text": "...and put him to bed in the crib.",
+   "text": "...and they watched a cartoon on TV.",
    "src_text": "unit33 step8"
   },
   {
    "file": "assets/audio/u033_s9.mp3",
    "voice": "narrator",
-   "text": "The other children took a bath.",
+   "text": "When Mom came back, she said, \"Thank you, Tom!\"",
    "src_text": "unit33 step9"
-  },
-  {
-   "file": "assets/audio/u033_s10.mp3",
-   "voice": "narrator",
-   "text": "Tom read them a story...",
-   "src_text": "unit33 step10"
-  },
-  {
-   "file": "assets/audio/u033_s11.mp3",
-   "voice": "narrator",
-   "text": "...and they watched a cartoon on TV.",
-   "src_text": "unit33 step11"
-  },
-  {
-   "file": "assets/audio/u033_s12.mp3",
-   "voice": "narrator",
-   "text": "Later, their parents picked the children up.",
-   "src_text": "unit33 step12"
   },
   {
    "file": "assets/audio/u033_d1.mp3",
@@ -6587,50 +6293,50 @@
   {
    "file": "assets/audio/u033_d2.mp3",
    "voice": "clerk",
-   "text": "They'll be fine, Aunt Rita.",
-   "src_text": "unit33 dialogue2 (Tom)"
+   "text": "Don't worry, Mom. They'll be fine.",
+   "src_text": "unit33 dialogue2"
   },
   {
    "file": "assets/audio/u033_d3.mp3",
-   "voice": "clerk",
-   "text": "Come on kids. Time to go. Thanks, Tom.",
-   "src_text": "unit33 dialogue3 (children's mother)"
+   "voice": "girl",
+   "text": "Tom, can we watch a cartoon?",
+   "src_text": "unit33 dialogue3"
   },
   {
    "file": "assets/audio/u033_d4.mp3",
    "voice": "clerk",
-   "text": "Sure. Any time.",
-   "src_text": "unit33 dialogue4 (Tom)"
+   "text": "Sure. After the puzzle.",
+   "src_text": "unit33 dialogue4"
   },
   {
    "file": "assets/audio/u033_v1.mp3",
    "voice": "narrator",
-   "text": "babysit / babysat",
-   "src_text": "unit33 vocab babysit / babysat"
+   "text": "babysit",
+   "src_text": "unit33 vocab babysit"
   },
   {
    "file": "assets/audio/u033_v2.mp3",
    "voice": "narrator",
-   "text": "change",
-   "src_text": "unit33 vocab change"
+   "text": "come back",
+   "src_text": "unit33 vocab come back"
   },
   {
    "file": "assets/audio/u033_v3.mp3",
    "voice": "narrator",
-   "text": "draw / drew",
-   "src_text": "unit33 vocab draw / drew"
+   "text": "draw",
+   "src_text": "unit33 vocab draw"
   },
   {
    "file": "assets/audio/u033_v4.mp3",
    "voice": "narrator",
-   "text": "drop off",
-   "src_text": "unit33 vocab drop off"
+   "text": "go out",
+   "src_text": "unit33 vocab go out"
   },
   {
    "file": "assets/audio/u033_v5.mp3",
    "voice": "narrator",
-   "text": "pick up",
-   "src_text": "unit33 vocab pick up"
+   "text": "listen to",
+   "src_text": "unit33 vocab listen to"
   },
   {
    "file": "assets/audio/u033_v6.mp3",
@@ -6641,188 +6347,86 @@
   {
    "file": "assets/audio/u033_v7.mp3",
    "voice": "narrator",
-   "text": "put / put to bed",
-   "src_text": "unit33 vocab put / put to bed"
+   "text": "put together",
+   "src_text": "unit33 vocab put together"
   },
   {
    "file": "assets/audio/u033_v8.mp3",
    "voice": "narrator",
-   "text": "put / put together",
-   "src_text": "unit33 vocab put / put together"
+   "text": "read",
+   "src_text": "unit33 vocab read"
   },
   {
    "file": "assets/audio/u033_v9.mp3",
    "voice": "narrator",
-   "text": "read / read",
-   "src_text": "unit33 vocab read / read"
+   "text": "take",
+   "src_text": "unit33 vocab take"
   },
   {
    "file": "assets/audio/u033_v10.mp3",
    "voice": "narrator",
-   "text": "take / took",
-   "src_text": "unit33 vocab take / took"
+   "text": "take care of",
+   "src_text": "unit33 vocab take care of"
   },
   {
    "file": "assets/audio/u033_v11.mp3",
-   "voice": "narrator",
-   "text": "take / took a bath",
-   "src_text": "unit33 vocab take / took a bath"
-  },
-  {
-   "file": "assets/audio/u033_v12.mp3",
-   "voice": "narrator",
-   "text": "take / took care of",
-   "src_text": "unit33 vocab take / took care of"
-  },
-  {
-   "file": "assets/audio/u033_v13.mp3",
    "voice": "narrator",
    "text": "watch",
    "src_text": "unit33 vocab watch"
   },
   {
-   "file": "assets/audio/u033_v14.mp3",
-   "voice": "narrator",
-   "text": "aunt",
-   "src_text": "unit33 vocab aunt"
-  },
-  {
-   "file": "assets/audio/u033_v15.mp3",
-   "voice": "narrator",
-   "text": "baby",
-   "src_text": "unit33 vocab baby"
-  },
-  {
-   "file": "assets/audio/u033_v16.mp3",
+   "file": "assets/audio/u033_v12.mp3",
    "voice": "narrator",
    "text": "block",
    "src_text": "unit33 vocab block"
   },
   {
-   "file": "assets/audio/u033_v17.mp3",
+   "file": "assets/audio/u033_v13.mp3",
+   "voice": "narrator",
+   "text": "brother",
+   "src_text": "unit33 vocab brother"
+  },
+  {
+   "file": "assets/audio/u033_v14.mp3",
    "voice": "narrator",
    "text": "cartoon",
    "src_text": "unit33 vocab cartoon"
   },
   {
-   "file": "assets/audio/u033_v18.mp3",
-   "voice": "narrator",
-   "text": "child / children",
-   "src_text": "unit33 vocab child / children"
-  },
-  {
-   "file": "assets/audio/u033_v19.mp3",
-   "voice": "narrator",
-   "text": "cousin",
-   "src_text": "unit33 vocab cousin"
-  },
-  {
-   "file": "assets/audio/u033_v20.mp3",
+   "file": "assets/audio/u033_v15.mp3",
    "voice": "narrator",
    "text": "crayon",
    "src_text": "unit33 vocab crayon"
   },
   {
-   "file": "assets/audio/u033_v21.mp3",
-   "voice": "narrator",
-   "text": "crib",
-   "src_text": "unit33 vocab crib"
-  },
-  {
-   "file": "assets/audio/u033_v22.mp3",
-   "voice": "narrator",
-   "text": "diaper",
-   "src_text": "unit33 vocab diaper"
-  },
-  {
-   "file": "assets/audio/u033_v23.mp3",
-   "voice": "narrator",
-   "text": "house",
-   "src_text": "unit33 vocab house"
-  },
-  {
-   "file": "assets/audio/u033_v24.mp3",
-   "voice": "narrator",
-   "text": "parent",
-   "src_text": "unit33 vocab parent"
-  },
-  {
-   "file": "assets/audio/u033_v25.mp3",
-   "voice": "narrator",
-   "text": "picture",
-   "src_text": "unit33 vocab picture"
-  },
-  {
-   "file": "assets/audio/u033_v26.mp3",
-   "voice": "narrator",
-   "text": "(a) piece (of)",
-   "src_text": "unit33 vocab (a) piece (of)"
-  },
-  {
-   "file": "assets/audio/u033_v27.mp3",
+   "file": "assets/audio/u033_v16.mp3",
    "voice": "narrator",
    "text": "playground",
    "src_text": "unit33 vocab playground"
   },
   {
-   "file": "assets/audio/u033_v28.mp3",
+   "file": "assets/audio/u033_v17.mp3",
    "voice": "narrator",
    "text": "puzzle",
    "src_text": "unit33 vocab puzzle"
   },
   {
-   "file": "assets/audio/u033_v29.mp3",
+   "file": "assets/audio/u033_v18.mp3",
    "voice": "narrator",
-   "text": "sandbox",
-   "src_text": "unit33 vocab sandbox"
+   "text": "sister",
+   "src_text": "unit33 vocab sister"
   },
   {
-   "file": "assets/audio/u033_v30.mp3",
-   "voice": "narrator",
-   "text": "slide",
-   "src_text": "unit33 vocab slide"
-  },
-  {
-   "file": "assets/audio/u033_v31.mp3",
+   "file": "assets/audio/u033_v19.mp3",
    "voice": "narrator",
    "text": "story",
    "src_text": "unit33 vocab story"
   },
   {
-   "file": "assets/audio/u033_v32.mp3",
-   "voice": "narrator",
-   "text": "swing",
-   "src_text": "unit33 vocab swing"
-  },
-  {
-   "file": "assets/audio/u033_v33.mp3",
-   "voice": "narrator",
-   "text": "TV",
-   "src_text": "unit33 vocab TV"
-  },
-  {
-   "file": "assets/audio/u033_v34.mp3",
-   "voice": "narrator",
-   "text": "uncle",
-   "src_text": "unit33 vocab uncle"
-  },
-  {
-   "file": "assets/audio/u033_v35.mp3",
-   "voice": "narrator",
-   "text": "later (adv.)",
-   "src_text": "unit33 vocab later (adv.)"
-  },
-  {
-   "file": "assets/audio/u033_v36.mp3",
+   "file": "assets/audio/u033_v20.mp3",
    "voice": "narrator",
    "text": "back (adv.)",
    "src_text": "unit33 vocab back (adv.)"
-  },
-  {
-   "file": "assets/audio/u033_v37.mp3",
-   "voice": "narrator",
-   "text": "other (adj.)",
-   "src_text": "unit33 vocab other (adj.)"
   },
   {
    "file": "assets/audio/u034_s1.mp3",
@@ -7205,425 +6809,191 @@
   {
    "file": "assets/audio/u035_s2.mp3",
    "voice": "narrator",
-   "text": "I'll carry the laundry basket to the laundry room.",
+   "text": "I'll put my dirty clothes in the laundry basket.",
    "src_text": "unit35 step2"
   },
   {
    "file": "assets/audio/u035_s3.mp3",
    "voice": "narrator",
-   "text": "I'll take the laundry out of the basket...",
+   "text": "I'll sort them by separating dark colors from light.",
    "src_text": "unit35 step3"
   },
   {
    "file": "assets/audio/u035_s4.mp3",
    "voice": "narrator",
-   "text": "...and then I'll sort it by separating dark colors from light.",
+   "text": "I'll check the pockets and take out anything in them.",
    "src_text": "unit35 step4"
   },
   {
    "file": "assets/audio/u035_s5.mp3",
    "voice": "narrator",
-   "text": "I'll check the pockets of the pants and shirts...",
+   "text": "I'll put a load of laundry into the washing machine.",
    "src_text": "unit35 step5"
   },
   {
    "file": "assets/audio/u035_s6.mp3",
    "voice": "narrator",
-   "text": "...and take out anything I find in them.",
+   "text": "I'll put in some detergent and turn the machine on.",
    "src_text": "unit35 step6"
   },
   {
    "file": "assets/audio/u035_s7.mp3",
    "voice": "narrator",
-   "text": "Then I'll put a load of laundry into the washing machine.",
+   "text": "The machine will wash and spin the laundry.",
    "src_text": "unit35 step7"
   },
   {
    "file": "assets/audio/u035_s8.mp3",
    "voice": "narrator",
-   "text": "I'll adjust the settings on the machine.",
+   "text": "I'll take the wet clothes out and hang them on the balcony rack.",
    "src_text": "unit35 step8"
   },
   {
    "file": "assets/audio/u035_s9.mp3",
    "voice": "narrator",
-   "text": "Then I'll put in some detergent...",
+   "text": "When they're dry, I'll fold the clothes.",
    "src_text": "unit35 step9"
   },
   {
    "file": "assets/audio/u035_s10.mp3",
    "voice": "narrator",
-   "text": "...and turn the machine on.",
+   "text": "I'll put them into the drawers.",
    "src_text": "unit35 step10"
   },
   {
-   "file": "assets/audio/u035_s11.mp3",
-   "voice": "narrator",
-   "text": "The machine will wash,...",
-   "src_text": "unit35 step11"
-  },
-  {
-   "file": "assets/audio/u035_s12.mp3",
-   "voice": "narrator",
-   "text": "...rinse,...",
-   "src_text": "unit35 step12"
-  },
-  {
-   "file": "assets/audio/u035_s13.mp3",
-   "voice": "narrator",
-   "text": "...and spin the laundry.",
-   "src_text": "unit35 step13"
-  },
-  {
-   "file": "assets/audio/u035_s14.mp3",
-   "voice": "narrator",
-   "text": "I'll take the wet clothes out of the machine.",
-   "src_text": "unit35 step14"
-  },
-  {
-   "file": "assets/audio/u035_s15.mp3",
-   "voice": "narrator",
-   "text": "I'll hang some of the laundry out to dry.",
-   "src_text": "unit35 step15"
-  },
-  {
-   "file": "assets/audio/u035_s16.mp3",
-   "voice": "narrator",
-   "text": "I'll put some other laundry into the dryer.",
-   "src_text": "unit35 step16"
-  },
-  {
-   "file": "assets/audio/u035_s17.mp3",
-   "voice": "narrator",
-   "text": "The dryer will dry it by heating and tumbling it.",
-   "src_text": "unit35 step17"
-  },
-  {
-   "file": "assets/audio/u035_s18.mp3",
-   "voice": "narrator",
-   "text": "Then I'll take it out of the machine.",
-   "src_text": "unit35 step18"
-  },
-  {
-   "file": "assets/audio/u035_s19.mp3",
-   "voice": "narrator",
-   "text": "I'll fold some of the dry laundry...",
-   "src_text": "unit35 step19"
-  },
-  {
-   "file": "assets/audio/u035_s20.mp3",
-   "voice": "narrator",
-   "text": "...and put it into drawers.",
-   "src_text": "unit35 step20"
-  },
-  {
-   "file": "assets/audio/u035_s21.mp3",
-   "voice": "narrator",
-   "text": "I'll iron other things...",
-   "src_text": "unit35 step21"
-  },
-  {
-   "file": "assets/audio/u035_s22.mp3",
-   "voice": "narrator",
-   "text": "...and hang them up in the closet.",
-   "src_text": "unit35 step22"
-  },
-  {
    "file": "assets/audio/u035_v1.mp3",
-   "voice": "narrator",
-   "text": "adjust",
-   "src_text": "unit35 vocab adjust"
-  },
-  {
-   "file": "assets/audio/u035_v2.mp3",
    "voice": "narrator",
    "text": "be going to (aux.)",
    "src_text": "unit35 vocab be going to (aux.)"
   },
   {
-   "file": "assets/audio/u035_v3.mp3",
+   "file": "assets/audio/u035_v2.mp3",
    "voice": "narrator",
    "text": "check",
    "src_text": "unit35 vocab check"
   },
   {
-   "file": "assets/audio/u035_v4.mp3",
-   "voice": "narrator",
-   "text": "carry",
-   "src_text": "unit35 vocab carry"
-  },
-  {
-   "file": "assets/audio/u035_v5.mp3",
+   "file": "assets/audio/u035_v3.mp3",
    "voice": "narrator",
    "text": "do laundry",
    "src_text": "unit35 vocab do laundry"
   },
   {
-   "file": "assets/audio/u035_v6.mp3",
-   "voice": "narrator",
-   "text": "dry",
-   "src_text": "unit35 vocab dry"
-  },
-  {
-   "file": "assets/audio/u035_v7.mp3",
-   "voice": "narrator",
-   "text": "find",
-   "src_text": "unit35 vocab find"
-  },
-  {
-   "file": "assets/audio/u035_v8.mp3",
+   "file": "assets/audio/u035_v4.mp3",
    "voice": "narrator",
    "text": "fold",
    "src_text": "unit35 vocab fold"
   },
   {
-   "file": "assets/audio/u035_v9.mp3",
+   "file": "assets/audio/u035_v5.mp3",
    "voice": "narrator",
    "text": "hang out",
    "src_text": "unit35 vocab hang out"
   },
   {
-   "file": "assets/audio/u035_v10.mp3",
+   "file": "assets/audio/u035_v6.mp3",
    "voice": "narrator",
-   "text": "hang up",
-   "src_text": "unit35 vocab hang up"
+   "text": "put",
+   "src_text": "unit35 vocab put"
   },
   {
-   "file": "assets/audio/u035_v11.mp3",
-   "voice": "narrator",
-   "text": "heat",
-   "src_text": "unit35 vocab heat"
-  },
-  {
-   "file": "assets/audio/u035_v12.mp3",
-   "voice": "narrator",
-   "text": "iron",
-   "src_text": "unit35 vocab iron"
-  },
-  {
-   "file": "assets/audio/u035_v13.mp3",
-   "voice": "narrator",
-   "text": "put into",
-   "src_text": "unit35 vocab put into"
-  },
-  {
-   "file": "assets/audio/u035_v14.mp3",
-   "voice": "narrator",
-   "text": "rinse",
-   "src_text": "unit35 vocab rinse"
-  },
-  {
-   "file": "assets/audio/u035_v15.mp3",
-   "voice": "narrator",
-   "text": "separate",
-   "src_text": "unit35 vocab separate"
-  },
-  {
-   "file": "assets/audio/u035_v16.mp3",
+   "file": "assets/audio/u035_v7.mp3",
    "voice": "narrator",
    "text": "sort",
    "src_text": "unit35 vocab sort"
   },
   {
-   "file": "assets/audio/u035_v17.mp3",
+   "file": "assets/audio/u035_v8.mp3",
    "voice": "narrator",
    "text": "spin",
    "src_text": "unit35 vocab spin"
   },
   {
-   "file": "assets/audio/u035_v18.mp3",
+   "file": "assets/audio/u035_v9.mp3",
    "voice": "narrator",
    "text": "take out",
    "src_text": "unit35 vocab take out"
   },
   {
-   "file": "assets/audio/u035_v19.mp3",
-   "voice": "narrator",
-   "text": "tumble",
-   "src_text": "unit35 vocab tumble"
-  },
-  {
-   "file": "assets/audio/u035_v20.mp3",
+   "file": "assets/audio/u035_v10.mp3",
    "voice": "narrator",
    "text": "turn on",
    "src_text": "unit35 vocab turn on"
   },
   {
-   "file": "assets/audio/u035_v21.mp3",
+   "file": "assets/audio/u035_v11.mp3",
    "voice": "narrator",
    "text": "wash",
    "src_text": "unit35 vocab wash"
   },
   {
-   "file": "assets/audio/u035_v22.mp3",
+   "file": "assets/audio/u035_v12.mp3",
    "voice": "narrator",
-   "text": "will ('ll) (aux.)",
-   "src_text": "unit35 vocab will ('ll) (aux.)"
+   "text": "balcony",
+   "src_text": "unit35 vocab balcony"
   },
   {
-   "file": "assets/audio/u035_v23.mp3",
-   "voice": "narrator",
-   "text": "basket",
-   "src_text": "unit35 vocab basket"
-  },
-  {
-   "file": "assets/audio/u035_v24.mp3",
-   "voice": "narrator",
-   "text": "closet",
-   "src_text": "unit35 vocab closet"
-  },
-  {
-   "file": "assets/audio/u035_v25.mp3",
+   "file": "assets/audio/u035_v13.mp3",
    "voice": "narrator",
    "text": "clothes",
    "src_text": "unit35 vocab clothes"
   },
   {
-   "file": "assets/audio/u035_v26.mp3",
-   "voice": "narrator",
-   "text": "clothesline",
-   "src_text": "unit35 vocab clothesline"
-  },
-  {
-   "file": "assets/audio/u035_v27.mp3",
-   "voice": "narrator",
-   "text": "clothespin",
-   "src_text": "unit35 vocab clothespin"
-  },
-  {
-   "file": "assets/audio/u035_v28.mp3",
-   "voice": "narrator",
-   "text": "color",
-   "src_text": "unit35 vocab color"
-  },
-  {
-   "file": "assets/audio/u035_v29.mp3",
+   "file": "assets/audio/u035_v14.mp3",
    "voice": "narrator",
    "text": "detergent",
    "src_text": "unit35 vocab detergent"
   },
   {
-   "file": "assets/audio/u035_v30.mp3",
+   "file": "assets/audio/u035_v15.mp3",
    "voice": "narrator",
    "text": "drawer",
    "src_text": "unit35 vocab drawer"
   },
   {
-   "file": "assets/audio/u035_v31.mp3",
-   "voice": "narrator",
-   "text": "dryer",
-   "src_text": "unit35 vocab dryer"
-  },
-  {
-   "file": "assets/audio/u035_v32.mp3",
-   "voice": "narrator",
-   "text": "hanger",
-   "src_text": "unit35 vocab hanger"
-  },
-  {
-   "file": "assets/audio/u035_v33.mp3",
-   "voice": "narrator",
-   "text": "iron",
-   "src_text": "unit35 vocab iron"
-  },
-  {
-   "file": "assets/audio/u035_v34.mp3",
-   "voice": "narrator",
-   "text": "ironing board",
-   "src_text": "unit35 vocab ironing board"
-  },
-  {
-   "file": "assets/audio/u035_v35.mp3",
+   "file": "assets/audio/u035_v16.mp3",
    "voice": "narrator",
    "text": "laundry",
    "src_text": "unit35 vocab laundry"
   },
   {
-   "file": "assets/audio/u035_v36.mp3",
+   "file": "assets/audio/u035_v17.mp3",
    "voice": "narrator",
-   "text": "load",
-   "src_text": "unit35 vocab load"
+   "text": "laundry basket",
+   "src_text": "unit35 vocab laundry basket"
   },
   {
-   "file": "assets/audio/u035_v37.mp3",
-   "voice": "narrator",
-   "text": "machine",
-   "src_text": "unit35 vocab machine"
-  },
-  {
-   "file": "assets/audio/u035_v38.mp3",
-   "voice": "narrator",
-   "text": "pants",
-   "src_text": "unit35 vocab pants"
-  },
-  {
-   "file": "assets/audio/u035_v39.mp3",
+   "file": "assets/audio/u035_v18.mp3",
    "voice": "narrator",
    "text": "pocket",
    "src_text": "unit35 vocab pocket"
   },
   {
-   "file": "assets/audio/u035_v40.mp3",
+   "file": "assets/audio/u035_v19.mp3",
    "voice": "narrator",
-   "text": "room",
-   "src_text": "unit35 vocab room"
+   "text": "rack",
+   "src_text": "unit35 vocab rack"
   },
   {
-   "file": "assets/audio/u035_v41.mp3",
-   "voice": "narrator",
-   "text": "setting",
-   "src_text": "unit35 vocab setting"
-  },
-  {
-   "file": "assets/audio/u035_v42.mp3",
-   "voice": "narrator",
-   "text": "shirt",
-   "src_text": "unit35 vocab shirt"
-  },
-  {
-   "file": "assets/audio/u035_v43.mp3",
+   "file": "assets/audio/u035_v20.mp3",
    "voice": "narrator",
    "text": "washing machine",
    "src_text": "unit35 vocab washing machine"
   },
   {
-   "file": "assets/audio/u035_v44.mp3",
+   "file": "assets/audio/u035_v21.mp3",
    "voice": "narrator",
    "text": "dark (adj.)",
    "src_text": "unit35 vocab dark (adj.)"
   },
   {
-   "file": "assets/audio/u035_v45.mp3",
-   "voice": "narrator",
-   "text": "dry (adj.)",
-   "src_text": "unit35 vocab dry (adj.)"
-  },
-  {
-   "file": "assets/audio/u035_v46.mp3",
-   "voice": "narrator",
-   "text": "later (adv.)",
-   "src_text": "unit35 vocab later (adv.)"
-  },
-  {
-   "file": "assets/audio/u035_v47.mp3",
+   "file": "assets/audio/u035_v22.mp3",
    "voice": "narrator",
    "text": "light (adj.)",
    "src_text": "unit35 vocab light (adj.)"
   },
   {
-   "file": "assets/audio/u035_v48.mp3",
-   "voice": "narrator",
-   "text": "other (adj.)",
-   "src_text": "unit35 vocab other (adj.)"
-  },
-  {
-   "file": "assets/audio/u035_v49.mp3",
-   "voice": "narrator",
-   "text": "today (adv.)",
-   "src_text": "unit35 vocab today (adv.)"
-  },
-  {
-   "file": "assets/audio/u035_v50.mp3",
+   "file": "assets/audio/u035_v23.mp3",
    "voice": "narrator",
    "text": "wet (adj.)",
    "src_text": "unit35 vocab wet (adj.)"
@@ -8483,7 +7853,7 @@
   {
    "file": "assets/audio/u040_s1.mp3",
    "voice": "narrator",
-   "text": "Tom will turn the soil with a spade.",
+   "text": "Tom will turn the soil in a flowerpot with a small spade.",
    "src_text": "unit40 step1"
   },
   {
@@ -8495,68 +7865,38 @@
   {
    "file": "assets/audio/u040_s3.mp3",
    "voice": "narrator",
-   "text": "...and cover them with a mound of soil.",
+   "text": "...and cover them with a little soil.",
    "src_text": "unit40 step3"
   },
   {
    "file": "assets/audio/u040_s4.mp3",
    "voice": "narrator",
-   "text": "He'll plant some seedlings...",
+   "text": "He'll water the flowerpot every day.",
    "src_text": "unit40 step4"
   },
   {
    "file": "assets/audio/u040_s5.mp3",
    "voice": "narrator",
-   "text": "...and tie them to small stakes.",
+   "text": "He'll put the flowerpot on the sunny balcony.",
    "src_text": "unit40 step5"
   },
   {
    "file": "assets/audio/u040_s6.mp3",
    "voice": "narrator",
-   "text": "Then he'll water the garden.",
+   "text": "When the seedlings come up, he'll weed the pot.",
    "src_text": "unit40 step6"
   },
   {
    "file": "assets/audio/u040_s7.mp3",
    "voice": "narrator",
-   "text": "Tom will weed the garden.",
-   "src_text": "unit40 step7"
-  },
-  {
-   "file": "assets/audio/u040_s8.mp3",
-   "voice": "narrator",
-   "text": "He'll prune extra leaves from some plants.",
-   "src_text": "unit40 step8"
-  },
-  {
-   "file": "assets/audio/u040_s9.mp3",
-   "voice": "narrator",
-   "text": "He'll check for harmful insects...",
-   "src_text": "unit40 step9"
-  },
-  {
-   "file": "assets/audio/u040_s10.mp3",
-   "voice": "narrator",
-   "text": "...and spray insecticide on some plants.",
-   "src_text": "unit40 step10"
-  },
-  {
-   "file": "assets/audio/u040_s11.mp3",
-   "voice": "narrator",
-   "text": "He'll put some fertilizer on the soil.",
-   "src_text": "unit40 step11"
-  },
-  {
-   "file": "assets/audio/u040_s12.mp3",
-   "voice": "narrator",
    "text": "Finally, he'll pick some flowers for the house.",
-   "src_text": "unit40 step12"
+   "src_text": "unit40 step7"
   },
   {
    "file": "assets/audio/u040_v1.mp3",
    "voice": "narrator",
-   "text": "check",
-   "src_text": "unit40 vocab check"
+   "text": "come up",
+   "src_text": "unit40 vocab come up"
   },
   {
    "file": "assets/audio/u040_v2.mp3",
@@ -8579,182 +7919,80 @@
   {
    "file": "assets/audio/u040_v5.mp3",
    "voice": "narrator",
-   "text": "prune",
-   "src_text": "unit40 vocab prune"
-  },
-  {
-   "file": "assets/audio/u040_v6.mp3",
-   "voice": "narrator",
-   "text": "put on",
-   "src_text": "unit40 vocab put on"
-  },
-  {
-   "file": "assets/audio/u040_v7.mp3",
-   "voice": "narrator",
-   "text": "spray",
-   "src_text": "unit40 vocab spray"
-  },
-  {
-   "file": "assets/audio/u040_v8.mp3",
-   "voice": "narrator",
-   "text": "tie",
-   "src_text": "unit40 vocab tie"
-  },
-  {
-   "file": "assets/audio/u040_v9.mp3",
-   "voice": "narrator",
-   "text": "take care of",
-   "src_text": "unit40 vocab take care of"
-  },
-  {
-   "file": "assets/audio/u040_v10.mp3",
-   "voice": "narrator",
    "text": "turn",
    "src_text": "unit40 vocab turn"
   },
   {
-   "file": "assets/audio/u040_v11.mp3",
+   "file": "assets/audio/u040_v6.mp3",
    "voice": "narrator",
    "text": "water",
    "src_text": "unit40 vocab water"
   },
   {
-   "file": "assets/audio/u040_v12.mp3",
+   "file": "assets/audio/u040_v7.mp3",
    "voice": "narrator",
    "text": "weed",
    "src_text": "unit40 vocab weed"
   },
   {
-   "file": "assets/audio/u040_v13.mp3",
+   "file": "assets/audio/u040_v8.mp3",
    "voice": "narrator",
-   "text": "fertilizer",
-   "src_text": "unit40 vocab fertilizer"
+   "text": "balcony",
+   "src_text": "unit40 vocab balcony"
   },
   {
-   "file": "assets/audio/u040_v14.mp3",
+   "file": "assets/audio/u040_v9.mp3",
    "voice": "narrator",
    "text": "flower",
    "src_text": "unit40 vocab flower"
   },
   {
-   "file": "assets/audio/u040_v15.mp3",
+   "file": "assets/audio/u040_v10.mp3",
    "voice": "narrator",
-   "text": "garden",
-   "src_text": "unit40 vocab garden"
+   "text": "flowerpot",
+   "src_text": "unit40 vocab flowerpot"
   },
   {
-   "file": "assets/audio/u040_v16.mp3",
-   "voice": "narrator",
-   "text": "gardening",
-   "src_text": "unit40 vocab gardening"
-  },
-  {
-   "file": "assets/audio/u040_v17.mp3",
-   "voice": "narrator",
-   "text": "hose",
-   "src_text": "unit40 vocab hose"
-  },
-  {
-   "file": "assets/audio/u040_v18.mp3",
-   "voice": "narrator",
-   "text": "house",
-   "src_text": "unit40 vocab house"
-  },
-  {
-   "file": "assets/audio/u040_v19.mp3",
-   "voice": "narrator",
-   "text": "insect",
-   "src_text": "unit40 vocab insect"
-  },
-  {
-   "file": "assets/audio/u040_v20.mp3",
-   "voice": "narrator",
-   "text": "insecticide",
-   "src_text": "unit40 vocab insecticide"
-  },
-  {
-   "file": "assets/audio/u040_v21.mp3",
-   "voice": "narrator",
-   "text": "leaf / leaves",
-   "src_text": "unit40 vocab leaf / leaves"
-  },
-  {
-   "file": "assets/audio/u040_v22.mp3",
-   "voice": "narrator",
-   "text": "mound",
-   "src_text": "unit40 vocab mound"
-  },
-  {
-   "file": "assets/audio/u040_v23.mp3",
-   "voice": "narrator",
-   "text": "nozzle",
-   "src_text": "unit40 vocab nozzle"
-  },
-  {
-   "file": "assets/audio/u040_v24.mp3",
-   "voice": "narrator",
-   "text": "plant",
-   "src_text": "unit40 vocab plant"
-  },
-  {
-   "file": "assets/audio/u040_v25.mp3",
+   "file": "assets/audio/u040_v11.mp3",
    "voice": "narrator",
    "text": "seed",
    "src_text": "unit40 vocab seed"
   },
   {
-   "file": "assets/audio/u040_v26.mp3",
+   "file": "assets/audio/u040_v12.mp3",
    "voice": "narrator",
    "text": "seedling",
    "src_text": "unit40 vocab seedling"
   },
   {
-   "file": "assets/audio/u040_v27.mp3",
-   "voice": "narrator",
-   "text": "shears",
-   "src_text": "unit40 vocab shears"
-  },
-  {
-   "file": "assets/audio/u040_v28.mp3",
+   "file": "assets/audio/u040_v13.mp3",
    "voice": "narrator",
    "text": "soil",
    "src_text": "unit40 vocab soil"
   },
   {
-   "file": "assets/audio/u040_v29.mp3",
+   "file": "assets/audio/u040_v14.mp3",
    "voice": "narrator",
    "text": "spade",
    "src_text": "unit40 vocab spade"
   },
   {
-   "file": "assets/audio/u040_v30.mp3",
+   "file": "assets/audio/u040_v15.mp3",
    "voice": "narrator",
-   "text": "stake",
-   "src_text": "unit40 vocab stake"
+   "text": "sun",
+   "src_text": "unit40 vocab sun"
   },
   {
-   "file": "assets/audio/u040_v31.mp3",
-   "voice": "narrator",
-   "text": "extra (adj.)",
-   "src_text": "unit40 vocab extra (adj.)"
-  },
-  {
-   "file": "assets/audio/u040_v32.mp3",
+   "file": "assets/audio/u040_v16.mp3",
    "voice": "narrator",
    "text": "finally (adv.)",
    "src_text": "unit40 vocab finally (adv.)"
   },
   {
-   "file": "assets/audio/u040_v33.mp3",
+   "file": "assets/audio/u040_v17.mp3",
    "voice": "narrator",
-   "text": "harmful (adj.)",
-   "src_text": "unit40 vocab harmful (adj.)"
-  },
-  {
-   "file": "assets/audio/u040_v34.mp3",
-   "voice": "narrator",
-   "text": "small (adj.)",
-   "src_text": "unit40 vocab small (adj.)"
+   "text": "sunny (adj.)",
+   "src_text": "unit40 vocab sunny (adj.)"
   },
   {
    "file": "assets/audio/u041_s1.mp3",
@@ -9965,476 +9203,224 @@
   {
    "file": "assets/audio/u047_s1.mp3",
    "voice": "narrator",
-   "text": "Tom gets a shopping cart.",
+   "text": "Jenny and Mom get a shopping cart.",
    "src_text": "unit47 step1"
   },
   {
    "file": "assets/audio/u047_s2.mp3",
    "voice": "narrator",
-   "text": "Some people use a basket instead of a cart.",
+   "text": "Jenny checks her shopping list.",
    "src_text": "unit47 step2"
   },
   {
    "file": "assets/audio/u047_s3.mp3",
    "voice": "narrator",
-   "text": "He checks his shopping list to see what he should buy.",
+   "text": "In the fresh produce section, she feels and smells the fruit.",
    "src_text": "unit47 step3"
   },
   {
    "file": "assets/audio/u047_s4.mp3",
    "voice": "narrator",
-   "text": "In the fresh produce section, he checks the fruit and vegetables by feeling...",
+   "text": "She puts some apples in a plastic bag.",
    "src_text": "unit47 step4"
   },
   {
    "file": "assets/audio/u047_s5.mp3",
    "voice": "narrator",
-   "text": "...and smelling them.",
+   "text": "She weighs the fruit on a scale.",
    "src_text": "unit47 step5"
   },
   {
    "file": "assets/audio/u047_s6.mp3",
    "voice": "narrator",
-   "text": "He puts some fruit in a plastic bag...",
+   "text": "Next, they pick up some fresh vegetables.",
    "src_text": "unit47 step6"
   },
   {
    "file": "assets/audio/u047_s7.mp3",
    "voice": "narrator",
-   "text": "...and weighs the fruit on a scale.",
+   "text": "Then they get some milk in the dairy section.",
    "src_text": "unit47 step7"
   },
   {
    "file": "assets/audio/u047_s8.mp3",
    "voice": "narrator",
-   "text": "Next, he picks up some fresh meat at the meat counter.",
+   "text": "They go through the snack aisle.",
    "src_text": "unit47 step8"
   },
   {
    "file": "assets/audio/u047_s9.mp3",
    "voice": "narrator",
-   "text": "Then, at the deli, he gets some cold cuts...",
+   "text": "Finally, they go to the checkout counter.",
    "src_text": "unit47 step9"
   },
   {
    "file": "assets/audio/u047_s10.mp3",
    "voice": "narrator",
-   "text": "...and cheese.",
+   "text": "Mom pays with her phone.",
    "src_text": "unit47 step10"
   },
   {
-   "file": "assets/audio/u047_s11.mp3",
-   "voice": "narrator",
-   "text": "He goes through the canned goods aisle.",
-   "src_text": "unit47 step11"
-  },
-  {
-   "file": "assets/audio/u047_s12.mp3",
-   "voice": "narrator",
-   "text": "He checks the prices on two brands of canned peas...",
-   "src_text": "unit47 step12"
-  },
-  {
-   "file": "assets/audio/u047_s13.mp3",
-   "voice": "narrator",
-   "text": "...and chooses the cheaper one.",
-   "src_text": "unit47 step13"
-  },
-  {
-   "file": "assets/audio/u047_s14.mp3",
-   "voice": "narrator",
-   "text": "As he shops, he looks for specials.",
-   "src_text": "unit47 step14"
-  },
-  {
-   "file": "assets/audio/u047_s15.mp3",
-   "voice": "narrator",
-   "text": "He picks up some toilet paper in the household goods section...",
-   "src_text": "unit47 step15"
-  },
-  {
-   "file": "assets/audio/u047_s16.mp3",
-   "voice": "narrator",
-   "text": "...and gets some milk in the dairy section.",
-   "src_text": "unit47 step16"
-  },
-  {
-   "file": "assets/audio/u047_s17.mp3",
-   "voice": "narrator",
-   "text": "He tries a free sample of some pizza...",
-   "src_text": "unit47 step17"
-  },
-  {
-   "file": "assets/audio/u047_s18.mp3",
-   "voice": "narrator",
-   "text": "...and takes some frozen pizza from the frozen-food case.",
-   "src_text": "unit47 step18"
-  },
-  {
-   "file": "assets/audio/u047_s19.mp3",
-   "voice": "narrator",
-   "text": "Finally, he goes to the checkout counter.",
-   "src_text": "unit47 step19"
-  },
-  {
    "file": "assets/audio/u047_d1.mp3",
-   "voice": "clerk",
-   "text": "I'll have four chicken breasts, please.",
-   "src_text": "unit47 dialogue1 (Customer)"
+   "voice": "girl",
+   "text": "Mom, can we get some yogurt?",
+   "src_text": "unit47 dialogue1"
   },
   {
    "file": "assets/audio/u047_d2.mp3",
-   "voice": "clerk",
-   "text": "Some beef pastrami, please. Six slices.",
-   "src_text": "unit47 dialogue2 (Customer)"
+   "voice": "mom",
+   "text": "Sure. Put it in the cart.",
+   "src_text": "unit47 dialogue2"
   },
   {
    "file": "assets/audio/u047_d3.mp3",
    "voice": "clerk",
-   "text": "And a half pound of cheddar.",
-   "src_text": "unit47 dialogue3 (Customer)"
+   "text": "That's 45 yuan.",
+   "src_text": "unit47 dialogue3"
   },
   {
    "file": "assets/audio/u047_d4.mp3",
-   "voice": "clerk",
-   "text": "Try some, sir? It's on special!",
-   "src_text": "unit47 dialogue4 (Promoter)"
+   "voice": "mom",
+   "text": "I'll pay by phone.",
+   "src_text": "unit47 dialogue4"
   },
   {
    "file": "assets/audio/u047_v1.mp3",
-   "voice": "narrator",
-   "text": "buy",
-   "src_text": "unit47 vocab buy"
-  },
-  {
-   "file": "assets/audio/u047_v2.mp3",
    "voice": "narrator",
    "text": "check",
    "src_text": "unit47 vocab check"
   },
   {
-   "file": "assets/audio/u047_v3.mp3",
-   "voice": "narrator",
-   "text": "choose",
-   "src_text": "unit47 vocab choose"
-  },
-  {
-   "file": "assets/audio/u047_v4.mp3",
+   "file": "assets/audio/u047_v2.mp3",
    "voice": "narrator",
    "text": "feel",
    "src_text": "unit47 vocab feel"
   },
   {
-   "file": "assets/audio/u047_v5.mp3",
+   "file": "assets/audio/u047_v3.mp3",
    "voice": "narrator",
    "text": "get",
    "src_text": "unit47 vocab get"
   },
   {
-   "file": "assets/audio/u047_v6.mp3",
+   "file": "assets/audio/u047_v4.mp3",
    "voice": "narrator",
    "text": "go through",
    "src_text": "unit47 vocab go through"
   },
   {
-   "file": "assets/audio/u047_v7.mp3",
+   "file": "assets/audio/u047_v5.mp3",
    "voice": "narrator",
-   "text": "look for",
-   "src_text": "unit47 vocab look for"
+   "text": "pay",
+   "src_text": "unit47 vocab pay"
   },
   {
-   "file": "assets/audio/u047_v8.mp3",
+   "file": "assets/audio/u047_v6.mp3",
    "voice": "narrator",
    "text": "pick up",
    "src_text": "unit47 vocab pick up"
   },
   {
-   "file": "assets/audio/u047_v9.mp3",
+   "file": "assets/audio/u047_v7.mp3",
    "voice": "narrator",
    "text": "put in",
    "src_text": "unit47 vocab put in"
   },
   {
-   "file": "assets/audio/u047_v10.mp3",
-   "voice": "narrator",
-   "text": "see",
-   "src_text": "unit47 vocab see"
-  },
-  {
-   "file": "assets/audio/u047_v11.mp3",
-   "voice": "narrator",
-   "text": "shop",
-   "src_text": "unit47 vocab shop"
-  },
-  {
-   "file": "assets/audio/u047_v12.mp3",
+   "file": "assets/audio/u047_v8.mp3",
    "voice": "narrator",
    "text": "smell",
    "src_text": "unit47 vocab smell"
   },
   {
-   "file": "assets/audio/u047_v13.mp3",
-   "voice": "narrator",
-   "text": "take",
-   "src_text": "unit47 vocab take"
-  },
-  {
-   "file": "assets/audio/u047_v14.mp3",
-   "voice": "narrator",
-   "text": "try",
-   "src_text": "unit47 vocab try"
-  },
-  {
-   "file": "assets/audio/u047_v15.mp3",
-   "voice": "narrator",
-   "text": "use",
-   "src_text": "unit47 vocab use"
-  },
-  {
-   "file": "assets/audio/u047_v16.mp3",
+   "file": "assets/audio/u047_v9.mp3",
    "voice": "narrator",
    "text": "weigh",
    "src_text": "unit47 vocab weigh"
   },
   {
-   "file": "assets/audio/u047_v17.mp3",
+   "file": "assets/audio/u047_v10.mp3",
    "voice": "narrator",
-   "text": "aisle",
-   "src_text": "unit47 vocab aisle"
+   "text": "apple",
+   "src_text": "unit47 vocab apple"
   },
   {
-   "file": "assets/audio/u047_v18.mp3",
-   "voice": "narrator",
-   "text": "bag",
-   "src_text": "unit47 vocab bag"
-  },
-  {
-   "file": "assets/audio/u047_v19.mp3",
-   "voice": "narrator",
-   "text": "basket",
-   "src_text": "unit47 vocab basket"
-  },
-  {
-   "file": "assets/audio/u047_v20.mp3",
-   "voice": "narrator",
-   "text": "brand",
-   "src_text": "unit47 vocab brand"
-  },
-  {
-   "file": "assets/audio/u047_v21.mp3",
-   "voice": "narrator",
-   "text": "canned goods",
-   "src_text": "unit47 vocab canned goods"
-  },
-  {
-   "file": "assets/audio/u047_v22.mp3",
+   "file": "assets/audio/u047_v11.mp3",
    "voice": "narrator",
    "text": "cart",
    "src_text": "unit47 vocab cart"
   },
   {
-   "file": "assets/audio/u047_v23.mp3",
+   "file": "assets/audio/u047_v12.mp3",
    "voice": "narrator",
-   "text": "case",
-   "src_text": "unit47 vocab case"
+   "text": "checkout counter",
+   "src_text": "unit47 vocab checkout counter"
   },
   {
-   "file": "assets/audio/u047_v24.mp3",
+   "file": "assets/audio/u047_v13.mp3",
    "voice": "narrator",
-   "text": "checkout",
-   "src_text": "unit47 vocab checkout"
+   "text": "dairy section",
+   "src_text": "unit47 vocab dairy section"
   },
   {
-   "file": "assets/audio/u047_v25.mp3",
-   "voice": "narrator",
-   "text": "counter",
-   "src_text": "unit47 vocab counter"
-  },
-  {
-   "file": "assets/audio/u047_v26.mp3",
-   "voice": "narrator",
-   "text": "cheese",
-   "src_text": "unit47 vocab cheese"
-  },
-  {
-   "file": "assets/audio/u047_v27.mp3",
-   "voice": "narrator",
-   "text": "cold cut",
-   "src_text": "unit47 vocab cold cut"
-  },
-  {
-   "file": "assets/audio/u047_v28.mp3",
-   "voice": "narrator",
-   "text": "dairy",
-   "src_text": "unit47 vocab dairy"
-  },
-  {
-   "file": "assets/audio/u047_v29.mp3",
-   "voice": "narrator",
-   "text": "deli",
-   "src_text": "unit47 vocab deli"
-  },
-  {
-   "file": "assets/audio/u047_v30.mp3",
-   "voice": "narrator",
-   "text": "food",
-   "src_text": "unit47 vocab food"
-  },
-  {
-   "file": "assets/audio/u047_v31.mp3",
+   "file": "assets/audio/u047_v14.mp3",
    "voice": "narrator",
    "text": "fruit",
    "src_text": "unit47 vocab fruit"
   },
   {
-   "file": "assets/audio/u047_v32.mp3",
-   "voice": "narrator",
-   "text": "goods",
-   "src_text": "unit47 vocab goods"
-  },
-  {
-   "file": "assets/audio/u047_v33.mp3",
-   "voice": "narrator",
-   "text": "groceries",
-   "src_text": "unit47 vocab groceries"
-  },
-  {
-   "file": "assets/audio/u047_v34.mp3",
-   "voice": "narrator",
-   "text": "household",
-   "src_text": "unit47 vocab household"
-  },
-  {
-   "file": "assets/audio/u047_v35.mp3",
+   "file": "assets/audio/u047_v15.mp3",
    "voice": "narrator",
    "text": "list",
    "src_text": "unit47 vocab list"
   },
   {
-   "file": "assets/audio/u047_v36.mp3",
-   "voice": "narrator",
-   "text": "meat",
-   "src_text": "unit47 vocab meat"
-  },
-  {
-   "file": "assets/audio/u047_v37.mp3",
+   "file": "assets/audio/u047_v16.mp3",
    "voice": "narrator",
    "text": "milk",
    "src_text": "unit47 vocab milk"
   },
   {
-   "file": "assets/audio/u047_v38.mp3",
+   "file": "assets/audio/u047_v17.mp3",
    "voice": "narrator",
-   "text": "pea",
-   "src_text": "unit47 vocab pea"
+   "text": "plastic bag",
+   "src_text": "unit47 vocab plastic bag"
   },
   {
-   "file": "assets/audio/u047_v39.mp3",
-   "voice": "narrator",
-   "text": "people",
-   "src_text": "unit47 vocab people"
-  },
-  {
-   "file": "assets/audio/u047_v40.mp3",
-   "voice": "narrator",
-   "text": "pizza",
-   "src_text": "unit47 vocab pizza"
-  },
-  {
-   "file": "assets/audio/u047_v41.mp3",
-   "voice": "narrator",
-   "text": "price",
-   "src_text": "unit47 vocab price"
-  },
-  {
-   "file": "assets/audio/u047_v42.mp3",
-   "voice": "narrator",
-   "text": "produce",
-   "src_text": "unit47 vocab produce"
-  },
-  {
-   "file": "assets/audio/u047_v43.mp3",
-   "voice": "narrator",
-   "text": "sample",
-   "src_text": "unit47 vocab sample"
-  },
-  {
-   "file": "assets/audio/u047_v44.mp3",
+   "file": "assets/audio/u047_v18.mp3",
    "voice": "narrator",
    "text": "scale",
    "src_text": "unit47 vocab scale"
   },
   {
-   "file": "assets/audio/u047_v45.mp3",
+   "file": "assets/audio/u047_v19.mp3",
    "voice": "narrator",
-   "text": "section",
-   "src_text": "unit47 vocab section"
+   "text": "snack",
+   "src_text": "unit47 vocab snack"
   },
   {
-   "file": "assets/audio/u047_v46.mp3",
-   "voice": "narrator",
-   "text": "shelf-shelves",
-   "src_text": "unit47 vocab shelf-shelves"
-  },
-  {
-   "file": "assets/audio/u047_v47.mp3",
-   "voice": "narrator",
-   "text": "special",
-   "src_text": "unit47 vocab special"
-  },
-  {
-   "file": "assets/audio/u047_v48.mp3",
-   "voice": "narrator",
-   "text": "toilet paper",
-   "src_text": "unit47 vocab toilet paper"
-  },
-  {
-   "file": "assets/audio/u047_v49.mp3",
+   "file": "assets/audio/u047_v20.mp3",
    "voice": "narrator",
    "text": "vegetable",
    "src_text": "unit47 vocab vegetable"
   },
   {
-   "file": "assets/audio/u047_v50.mp3",
+   "file": "assets/audio/u047_v21.mp3",
    "voice": "narrator",
-   "text": "canned",
-   "src_text": "unit47 vocab canned"
+   "text": "yogurt",
+   "src_text": "unit47 vocab yogurt"
   },
   {
-   "file": "assets/audio/u047_v51.mp3",
+   "file": "assets/audio/u047_v22.mp3",
    "voice": "narrator",
-   "text": "cheap",
-   "src_text": "unit47 vocab cheap"
+   "text": "fresh (adj.)",
+   "src_text": "unit47 vocab fresh (adj.)"
   },
   {
-   "file": "assets/audio/u047_v52.mp3",
+   "file": "assets/audio/u047_v23.mp3",
    "voice": "narrator",
-   "text": "finally",
-   "src_text": "unit47 vocab finally"
-  },
-  {
-   "file": "assets/audio/u047_v53.mp3",
-   "voice": "narrator",
-   "text": "free",
-   "src_text": "unit47 vocab free"
-  },
-  {
-   "file": "assets/audio/u047_v54.mp3",
-   "voice": "narrator",
-   "text": "fresh",
-   "src_text": "unit47 vocab fresh"
-  },
-  {
-   "file": "assets/audio/u047_v55.mp3",
-   "voice": "narrator",
-   "text": "frozen",
-   "src_text": "unit47 vocab frozen"
-  },
-  {
-   "file": "assets/audio/u047_v56.mp3",
-   "voice": "narrator",
-   "text": "plastic",
-   "src_text": "unit47 vocab plastic"
+   "text": "finally (adv.)",
+   "src_text": "unit47 vocab finally (adv.)"
   },
   {
    "file": "assets/audio/u050_s1.mp3",
@@ -15865,6 +14851,42 @@
    "voice": "clerk",
    "text": "It arrives at 10:30.",
    "src_text": "unit16 dialogue3"
+  },
+  {
+   "file": "assets/audio/u023_d1.mp3",
+   "voice": "mom",
+   "text": "Tom, what did you make?",
+   "src_text": "unit23 dialogue1"
+  },
+  {
+   "file": "assets/audio/u023_d2.mp3",
+   "voice": "clerk",
+   "text": "Tomato and egg noodles! Yum!",
+   "src_text": "unit23 dialogue2"
+  },
+  {
+   "file": "assets/audio/u024_s7.mp3",
+   "voice": "narrator",
+   "text": "He fluffed the rice with a spatula and put it into bowls.",
+   "src_text": "unit24 step7"
+  },
+  {
+   "file": "assets/audio/u030_s7.mp3",
+   "voice": "narrator",
+   "text": "She read the story and looked at the pictures.",
+   "src_text": "unit30 step7"
+  },
+  {
+   "file": "assets/audio/u030_d2.mp3",
+   "voice": "girl",
+   "text": "A story about a little rabbit.",
+   "src_text": "unit30 dialogue2"
+  },
+  {
+   "file": "assets/audio/u030_d3.mp3",
+   "voice": "mom",
+   "text": "Nice! Read it to me later.",
+   "src_text": "unit30 dialogue3"
   }
  ]
 }
