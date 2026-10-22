@@ -5232,36 +5232,36 @@
    },
    "steps": [
     {
-     "en": "Kate diced an onion and fried it with some ground beef in a frying pan.",
-     "zh": "凯特把洋葱切丁，和牛肉末一起在煎锅里炒。"
+     "en": "Tom diced a tomato and fried an egg in a frying pan.",
+     "zh": "汤姆把番茄切丁，在煎锅里炒了一个鸡蛋。"
     },
     {
-     "en": "As the beef-and-onion mixture fried, she stirred it; when the meat was brown, she turned off the burner.",
-     "zh": "牛肉洋葱馅在锅里炒时她不停翻炒；肉变色后她关掉炉火。"
+     "en": "As the egg and tomato fried, he stirred them.",
+     "zh": "鸡蛋和番茄在锅里炒时，他不停翻炒。"
     },
     {
-     "en": "She poured the fat into a can and heated two cans of tomato sauce in a saucepan.",
-     "zh": "她把多余的油沥到罐子里，再在汤锅里热两罐番茄酱。"
+     "en": "He boiled some water in a pot.",
+     "zh": "他在锅里烧了一些水。"
     },
     {
-     "en": "She added the mixture of beef and onions, and stirred it into the sauce with some spices.",
-     "zh": "她把牛肉洋葱馅倒进番茄酱，加一些香料搅拌均匀。"
+     "en": "He put some noodles into the boiling water.",
+     "zh": "他把面条放进开水里。"
     },
     {
-     "en": "When it started to boil, she turned down the heat and let the sauce simmer.",
-     "zh": "酱汁煮开后，她把火调小，让酱汁小火慢炖。"
+     "en": "He boiled the noodles until they were soft, then drained them in a colander.",
+     "zh": "他把面条煮软，然后倒进滤篮里沥干。"
     },
     {
-     "en": "In another pan, she boiled some water and put some spaghetti into the boiling water.",
-     "zh": "在另一口锅里烧开水，把意大利面放进去煮。"
+     "en": "He put the noodles on a plate.",
+     "zh": "他把面条盛到盘子里。"
     },
     {
-     "en": "She boiled the spaghetti until it was tender, then drained it in a colander.",
-     "zh": "把面煮到变软，再倒入滤水篮沥干。"
+     "en": "He ladled the egg and tomato over the noodles.",
+     "zh": "他把番茄鸡蛋浇在面条上。"
     },
     {
-     "en": "After putting the spaghetti on a plate, she ladled some sauce over it.",
-     "zh": "把面盛到盘子里，用勺子浇上酱汁。"
+     "en": "He added a little salt and mixed everything together.",
+     "zh": "他加了一点盐，把面拌匀。"
     }
    ],
    "vocab": {
@@ -5269,7 +5269,7 @@
      {
       "w": "add",
       "ipa": "/æd/",
-      "zh": "加入；添加"
+      "zh": "加入"
      },
      {
       "w": "boil",
@@ -5279,7 +5279,7 @@
      {
       "w": "dice",
       "ipa": "/daɪs/",
-      "zh": "切成小方块"
+      "zh": "切丁"
      },
      {
       "w": "drain",
@@ -5289,27 +5289,17 @@
      {
       "w": "fry",
       "ipa": "/fraɪ/",
-      "zh": "煎；炒"
-     },
-     {
-      "w": "heat",
-      "ipa": "/hiːt/",
-      "zh": "加热"
+      "zh": "炒；煎"
      },
      {
       "w": "ladle",
       "ipa": "/ˈleɪdl/",
-      "zh": "用长勺舀"
+      "zh": "用勺浇"
      },
      {
-      "w": "let",
-      "ipa": "/let/",
-      "zh": "让；使"
-     },
-     {
-      "w": "pour off",
-      "ipa": "/pɔːr ɔːf/",
-      "zh": "沥出（液体）"
+      "w": "mix",
+      "ipa": "/mɪks/",
+      "zh": "搅拌"
      },
      {
       "w": "put",
@@ -5317,61 +5307,21 @@
       "zh": "放"
      },
      {
-      "w": "simmer",
-      "ipa": "/ˈsɪmər/",
-      "zh": "文火慢炖"
-     },
-     {
-      "w": "start",
-      "ipa": "/stɑːrt/",
-      "zh": "开始"
-     },
-     {
       "w": "stir",
       "ipa": "/stɜːr/",
-      "zh": "搅拌"
-     },
-     {
-      "w": "turn down",
-      "ipa": "/tɜːrn daʊn/",
-      "zh": "调小（火）"
-     },
-     {
-      "w": "turn off",
-      "ipa": "/tɜːrn ɔːf/",
-      "zh": "关掉（火）"
+      "zh": "翻炒；搅拌"
      }
     ],
     "nouns": [
      {
-      "w": "beef",
-      "ipa": "/biːf/",
-      "zh": "牛肉"
-     },
-     {
-      "w": "burner",
-      "ipa": "/ˈbɜːrnər/",
-      "zh": "炉头"
-     },
-     {
-      "w": "butter",
-      "ipa": "/ˈbʌtər/",
-      "zh": "黄油"
-     },
-     {
-      "w": "can",
-      "ipa": "/kæn/",
-      "zh": "罐头；罐"
-     },
-     {
       "w": "colander",
-      "ipa": "/ˈkɑːləndər/",
-      "zh": "滤水篮"
+      "ipa": "/ˈkɑːlændər/",
+      "zh": "滤篮"
      },
      {
-      "w": "fat",
-      "ipa": "/fæt/",
-      "zh": "油脂；肥肉"
+      "w": "egg",
+      "ipa": "/eɡ/",
+      "zh": "鸡蛋"
      },
      {
       "w": "frying pan",
@@ -5379,49 +5329,9 @@
       "zh": "煎锅"
      },
      {
-      "w": "ground beef",
-      "ipa": "/ɡraʊnd biːf/",
-      "zh": "牛肉末；牛绞肉"
-     },
-     {
-      "w": "heat",
-      "ipa": "/hiːt/",
-      "zh": "火力；热量"
-     },
-     {
-      "w": "ladle",
-      "ipa": "/ˈleɪdl/",
-      "zh": "长柄勺"
-     },
-     {
-      "w": "liquid",
-      "ipa": "/ˈlɪkwɪd/",
-      "zh": "液体"
-     },
-     {
-      "w": "meat",
-      "ipa": "/miːt/",
-      "zh": "肉"
-     },
-     {
-      "w": "mixture",
-      "ipa": "/ˈmɪkstʃər/",
-      "zh": "混合物"
-     },
-     {
-      "w": "onion",
-      "ipa": "/ˈʌnjən/",
-      "zh": "洋葱"
-     },
-     {
-      "w": "pan",
-      "ipa": "/pæn/",
-      "zh": "平底锅"
-     },
-     {
-      "w": "(a) piece",
-      "ipa": "/piːs/",
-      "zh": "一块；一片"
+      "w": "noodles",
+      "ipa": "/ˈnuːdlz/",
+      "zh": "面条"
      },
      {
       "w": "plate",
@@ -5429,117 +5339,70 @@
       "zh": "盘子"
      },
      {
-      "w": "sauce",
-      "ipa": "/sɔːs/",
-      "zh": "酱汁"
+      "w": "pot",
+      "ipa": "/pɑːt/",
+      "zh": "锅"
      },
      {
-      "w": "saucepan",
-      "ipa": "/ˈsɔːspæn/",
-      "zh": "汤锅"
+      "w": "salt",
+      "ipa": "/sɔːlt/",
+      "zh": "盐"
      },
      {
-      "w": "solid",
-      "ipa": "/ˈsɑːlɪd/",
-      "zh": "固体"
-     },
-     {
-      "w": "spaghetti",
-      "ipa": "/spəˈɡeti/",
-      "zh": "意大利细面"
-     },
-     {
-      "w": "spatula",
-      "ipa": "/ˈspætʃələ/",
-      "zh": "锅铲；铲刀"
-     },
-     {
-      "w": "spice",
-      "ipa": "/spaɪs/",
-      "zh": "香料"
-     },
-     {
-      "w": "sugar",
-      "ipa": "/ˈʃʊɡər/",
-      "zh": "糖"
-     },
-     {
-      "w": "tomato sauce",
-      "ipa": "/təˈmeɪtoʊ sɔːs/",
-      "zh": "番茄酱"
-     },
-     {
-      "w": "water",
-      "ipa": "/ˈwɔːtər/",
-      "zh": "水"
+      "w": "tomato",
+      "ipa": "/təˈmeɪtoʊ/",
+      "zh": "番茄"
      }
     ],
     "others": [
      {
-      "w": "another",
-      "ipa": "/əˈnʌðər/",
-      "zh": "另一个"
+      "w": "a little (quantifier)",
+      "ipa": "/ə ˈlɪtl/",
+      "zh": "一点"
      },
      {
-      "w": "brown (adj.)",
-      "ipa": "/braʊn/",
-      "zh": "（肉）煎至褐色的"
-     },
-     {
-      "w": "melted (adj.)",
-      "ipa": "/ˈmeltɪd/",
-      "zh": "融化的"
-     },
-     {
-      "w": "tender (adj.)",
-      "ipa": "/ˈtendər/",
-      "zh": "软嫩的；熟软的"
+      "w": "together (adv.)",
+      "ipa": "/təˈɡeðər/",
+      "zh": "一起"
      }
     ]
    },
    "notes": [
     {
-     "en": "Ground beef is meat from a cow that has been ground into small pieces.",
-     "zh": "ground beef（牛绞肉）是把牛肉绞成碎末。"
+     "en": "Tomato and egg noodles are a simple, popular Chinese home dish.",
+     "zh": "番茄鸡蛋面是一道简单又受欢迎的中国家常菜。"
     },
     {
-     "en": "Fat is an oily part of meat; it becomes liquid when the meat cooks.",
-     "zh": "fat（油脂）是肉里出油的部分，加热后会变成液体。"
-    },
-    {
-     "en": "To separate a liquid from a solid, you can pour off the liquid or drain the solid.",
-     "zh": "要把液体和固体分开，可以 pour off（倒掉液体）或 drain（滤掉液体）。"
-    },
-    {
-     "en": "Spaghetti is a kind of noodle. Oregano and basil are common spices in spaghetti sauce.",
-     "zh": "spaghetti 是一种面条。牛至（oregano）和罗勒（basil）是意面酱里常用的香料。"
-    },
-    {
-     "en": "A liquid simmers when it cooks slowly and gently. If spaghetti is tender, it is soft enough to eat.",
-     "zh": "simmer（文火慢炖）是小火慢慢煮。面煮到 tender（软嫩）就可以吃了。"
-    },
-    {
-     "en": "You ladle sauce onto spaghetti when you use a ladle to pour it on.",
-     "zh": "ladle sauce onto spaghetti 就是用长勺把酱汁浇在面上。"
+     "en": "Drain the noodles in a colander before putting them on the plate.",
+     "zh": "面条盛盘前要用滤篮沥干。"
     }
    ],
-   "dialogue": [],
+   "dialogue": [
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Tom, what did you make?",
+     "zh": "汤姆，你做了什么？"
+    },
+    {
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Tomato and egg noodles! Yum!",
+     "zh": "番茄鸡蛋面！真香！"
+    }
+   ],
    "china": [
     {
-     "en": "Spaghetti Bolognese is popular in big cities in China, but at home most Chinese families stir-fry noodles or make tomato-and-egg noodles instead.",
-     "zh": "意大利肉酱面在大城市流行，但中国家庭自己做时更多是炒面或西红柿鸡蛋打卤面。"
+     "en": "Chinese kids often learn to cook simple noodle dishes like tomato and egg noodles.",
+     "zh": "中国孩子常从番茄鸡蛋面这类简单的面条菜学起做饭。"
     },
     {
-     "en": "Ground beef is readily available in Chinese supermarkets, but fresh tomatoes or tomato paste are often used instead of canned tomato sauce.",
-     "zh": "超市能买到牛肉末，但一般用新鲜番茄或番茄酱，而不是罐装意面酱。"
-    },
-    {
-     "en": "Chinese kitchens usually use a wok (炒锅) for frying, not a flat frying pan like the one in the picture.",
-     "zh": "中国厨房炒菜一般用中式炒锅，而不是图里这种平底煎锅。"
+     "en": "Fresh noodles and dried noodles are both common in Chinese supermarkets.",
+     "zh": "中国超市既有鲜面条也有挂面。"
     }
    ],
    "en": "Making Spaghetti",
-   "zh": "做意大利面",
+   "zh": "做番茄鸡蛋面",
    "grammarZh": "一般过去时"
   },
   {
@@ -5554,118 +5417,87 @@
    },
    "steps": [
     {
-     "en": "Paul measured out one cup of rice and poured it into a pot.",
-     "zh": "保罗量出一杯米，倒进锅里。"
+     "en": "Paul measured out one cup of rice and poured it into the pot.",
+     "zh": "保罗量出一杯米，倒进锅胆里。"
     },
     {
-     "en": "To rinse the rice, he put some water in the pot and poured off the water to get rid of the dirt and husks.",
-     "zh": "为了淘米，他在锅里加水，再把水倒掉，冲掉米里的灰尘和米糠。"
+     "en": "He rinsed the rice with water to clean it.",
+     "zh": "他用水把米淘洗干净。"
     },
     {
      "en": "Then he measured out two cups of clean water and poured it into the pot.",
      "zh": "然后他量出两杯清水，倒进锅里。"
     },
     {
-     "en": "He put a lid on the pot and heated the water.",
-     "zh": "他盖上锅盖，把水烧热。"
+     "en": "He put a lid on the pot and plugged in the rice cooker.",
+     "zh": "他盖上锅盖，插上电饭煲的电源。"
     },
     {
-     "en": "When it started boiling, he turned down the flame.",
-     "zh": "水开后，他把火调小。"
+     "en": "He pressed the cook button.",
+     "zh": "他按下了煮饭键。"
     },
     {
-     "en": "After about 15 minutes, he checked the rice and decided it was ready to eat.",
-     "zh": "大约 15 分钟后，他打开锅盖查看，判断饭已经好了。"
+     "en": "After about 20 minutes, the rice cooker clicked, and the rice was ready.",
+     "zh": "大约 20 分钟后，电饭煲跳闸，饭煮好了。"
+    },
+    {
+     "en": "He fluffed the rice with a spatula and put it into bowls.",
+     "zh": "他用饭勺把米饭打松，盛进碗里。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "boil",
-      "ipa": "/bɔɪl/",
-      "zh": "煮；烧开"
-     },
-     {
-      "w": "check",
-      "ipa": "/tʃek/",
-      "zh": "查看；检查"
-     },
-     {
-      "w": "cook",
-      "ipa": "/kʊk/",
-      "zh": "做饭；煮"
-     },
-     {
-      "w": "decide",
-      "ipa": "/dɪˈsaɪd/",
-      "zh": "判断；决定"
-     },
-     {
-      "w": "eat / ate",
-      "ipa": "/iːt / eɪt/",
-      "zh": "吃"
-     },
-     {
-      "w": "get rid of",
-      "ipa": "/ɡet rɪd ʌv/",
-      "zh": "去掉；除去"
-     },
-     {
-      "w": "heat",
-      "ipa": "/hiːt/",
-      "zh": "加热"
+      "w": "fluff",
+      "ipa": "/flʌf/",
+      "zh": "打松"
      },
      {
       "w": "measure out",
       "ipa": "/ˈmeʒər aʊt/",
-      "zh": "量出（一定量）"
+      "zh": "量出"
+     },
+     {
+      "w": "plug in",
+      "ipa": "/plʌɡ ɪn/",
+      "zh": "插上电源"
      },
      {
       "w": "pour",
       "ipa": "/pɔːr/",
-      "zh": "倒"
+      "zh": "倒入"
      },
      {
-      "w": "pour off",
-      "ipa": "/pɔːr ɔːf/",
-      "zh": "倒掉（水）"
+      "w": "press",
+      "ipa": "/pres/",
+      "zh": "按"
+     },
+     {
+      "w": "put",
+      "ipa": "/pʊt/",
+      "zh": "放"
      },
      {
       "w": "rinse",
       "ipa": "/rɪns/",
-      "zh": "淘洗；冲洗"
-     },
-     {
-      "w": "start",
-      "ipa": "/stɑːrt/",
-      "zh": "开始"
-     },
-     {
-      "w": "turn down",
-      "ipa": "/tɜːrn daʊn/",
-      "zh": "调小（火）"
+      "zh": "淘洗"
      }
     ],
     "nouns": [
      {
+      "w": "bowl",
+      "ipa": "/boʊl/",
+      "zh": "碗"
+     },
+     {
+      "w": "button",
+      "ipa": "/ˈbʌtn/",
+      "zh": "按键"
+     },
+     {
       "w": "cup",
       "ipa": "/kʌp/",
-      "zh": "杯（量杯单位）"
-     },
-     {
-      "w": "dirt",
-      "ipa": "/dɜːrt/",
-      "zh": "污物；杂质"
-     },
-     {
-      "w": "flame",
-      "ipa": "/fleɪm/",
-      "zh": "火焰"
-     },
-     {
-      "w": "husk",
-      "ipa": "/hʌsk/",
-      "zh": "米糠；谷壳"
+      "zh": "杯（量杯）"
      },
      {
       "w": "lid",
@@ -5673,19 +5505,24 @@
       "zh": "锅盖"
      },
      {
-      "w": "minute",
-      "ipa": "/ˈmɪnɪt/",
-      "zh": "分钟"
-     },
-     {
       "w": "pot",
       "ipa": "/pɑːt/",
-      "zh": "锅"
+      "zh": "锅胆"
      },
      {
       "w": "rice",
       "ipa": "/raɪs/",
-      "zh": "米；米饭"
+      "zh": "米饭；大米"
+     },
+     {
+      "w": "rice cooker",
+      "ipa": "/raɪs ˈkʊkər/",
+      "zh": "电饭煲"
+     },
+     {
+      "w": "spatula",
+      "ipa": "/ˈspætʃələ/",
+      "zh": "饭勺"
      },
      {
       "w": "water",
@@ -5695,57 +5532,44 @@
     ],
     "others": [
      {
-      "w": "clean (adj.)",
-      "ipa": "/kliːn/",
-      "zh": "干净的"
-     },
-     {
-      "w": "ready (adj.)",
-      "ipa": "/ˈredi/",
-      "zh": "准备好的；可以吃的"
+      "w": "about (prep.)",
+      "ipa": "/əˈbaʊt/",
+      "zh": "大约"
      }
     ]
    },
    "notes": [
     {
-     "en": "You measure out an exact amount of something.",
-     "zh": "measure out 指量出一个准确的量。"
+     "en": "A rice cooker cooks the rice by itself; you just press the cook button.",
+     "zh": "电饭煲会自动煮饭，你只需按下煮饭键。"
     },
     {
-     "en": "A husk is the skin around a grain of rice.",
-     "zh": "husk（谷壳）是包裹在米粒外面的皮。"
-    },
-    {
-     "en": "be done = be finished. Food that is done is fully cooked.",
-     "zh": "be done 意思就是 be finished（做好了）；食物 done 就是完全煮熟了。"
+     "en": "Rinse the rice before cooking to make it clean and soft.",
+     "zh": "煮饭前先淘米，饭会更干净松软。"
     }
    ],
    "dialogue": [
     {
      "speaker": "Paul",
-     "role": "做饭的人",
-     "en": "Let's see if this is ready.",
-     "zh": "我看看饭好了没。"
+     "role": "clerk",
+     "en": "Let's see if this rice is ready.",
+     "zh": "看看这锅饭好了没。"
     },
     {
-     "speaker": "Paul",
-     "role": "做饭的人",
-     "en": "Yep. Done!",
-     "zh": "好啦！熟了！"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "It smells great! Yep, it's done.",
+     "zh": "闻起来真香！好了，可以吃了。"
     }
    ],
    "china": [
     {
-     "en": "Almost every Chinese household uses an electric rice cooker (电饭煲) instead of cooking rice on the stove; the cooker switches itself off when the rice is done.",
-     "zh": "几乎每个中国家庭都用电饭煲煮饭，而不是在炉子上看火；饭好了电饭煲会自动跳闸。"
+     "en": "Almost every Chinese family cooks rice with an electric rice cooker.",
+     "zh": "几乎每个中国家庭都用电磁炉配锅或电饭煲煮饭。"
     },
     {
-     "en": "Rinsing the rice by hand is still common in China, but many people now just buy pre-washed rice.",
-     "zh": "淘米在中国仍然很常见，但现在也有很多人直接买免淘米。"
-    },
-    {
-     "en": "The water-to-rice ratio is often judged by finger depth rather than measuring cups.",
-     "zh": "水量通常用手指量米水面高度来判断，而不是用量杯。"
+     "en": "Rinsing rice is still common, but many people buy ready-to-cook rice.",
+     "zh": "淘米在中国很常见，也有人直接买免淘米。"
     }
    ],
    "en": "Cooking Rice",
@@ -6751,28 +6575,32 @@
    },
    "steps": [
     {
-     "en": "Pam opened the book to her bookmark and turned the pages as she read.",
-     "zh": "帕姆打开书，翻到夹着书签的那一页，一边读一边翻页。"
+     "en": "Jenny opened her picture book and turned the pages.",
+     "zh": "珍妮翻开图画书，一页页翻看。"
+    },
+    {
+     "en": "She looked at the pictures and read the story.",
+     "zh": "她看着插图，读着故事。"
     },
     {
      "en": "When she saw a word she didn't know, she looked it up in a dictionary.",
-     "zh": "遇到不认识的词，她就查词典。"
+     "zh": "遇到不认识的单词，她就查词典。"
     },
     {
      "en": "When she finished reading, she closed the book.",
-     "zh": "读完后她合上书。"
+     "zh": "读完后，她合上了书。"
     },
     {
-     "en": "Pam picked up the latest issue of Everyone magazine.",
-     "zh": "帕姆拿起最新一期 Everyone 杂志。"
+     "en": "She picked up another book from the shelf.",
+     "zh": "她从书架上拿起另一本书。"
     },
     {
-     "en": "She looked at some of the ads, then flipped through the magazine until she found an interesting article.",
-     "zh": "她先看了几眼广告，然后快速翻页，直到看到一篇感兴趣的文章。"
+     "en": "She flipped through it until she found an interesting story.",
+     "zh": "她快速翻页，找到一篇有趣的故事。"
     },
     {
-     "en": "She read the article and looked at the pictures.",
-     "zh": "她读了那篇文章，还看了配图。"
+     "en": "She read the story and looked at the pictures.",
+     "zh": "她读着故事，看着插图。"
     }
    ],
    "vocab": {
@@ -6780,11 +6608,11 @@
      {
       "w": "close",
       "ipa": "/kloʊz/",
-      "zh": "合上；关闭"
+      "zh": "合上"
      },
      {
-      "w": "find / found",
-      "ipa": "/faɪnd / faʊnd/",
+      "w": "find",
+      "ipa": "/faɪnd/",
       "zh": "找到"
      },
      {
@@ -6798,11 +6626,6 @@
       "zh": "快速翻阅"
      },
      {
-      "w": "know / knew",
-      "ipa": "/noʊ / nuː/",
-      "zh": "知道；认识"
-     },
-     {
       "w": "look at",
       "ipa": "/lʊk æt/",
       "zh": "看"
@@ -6810,7 +6633,7 @@
      {
       "w": "look up",
       "ipa": "/lʊk ʌp/",
-      "zh": "查阅（词典）"
+      "zh": "查（词典）"
      },
      {
       "w": "open",
@@ -6823,13 +6646,13 @@
       "zh": "拿起"
      },
      {
-      "w": "read / read",
-      "ipa": "/riːd / red/",
-      "zh": "阅读"
+      "w": "read",
+      "ipa": "/riːd/",
+      "zh": "读"
      },
      {
-      "w": "see / saw",
-      "ipa": "/siː / sɔː/",
+      "w": "see",
+      "ipa": "/siː/",
       "zh": "看见"
      },
      {
@@ -6840,44 +6663,9 @@
     ],
     "nouns": [
      {
-      "w": "ad",
-      "ipa": "/æd/",
-      "zh": "广告"
-     },
-     {
-      "w": "article",
-      "ipa": "/ˈɑːrtɪkl/",
-      "zh": "文章"
-     },
-     {
-      "w": "author",
-      "ipa": "/ˈɔːθər/",
-      "zh": "作者"
-     },
-     {
       "w": "book",
       "ipa": "/bʊk/",
       "zh": "书"
-     },
-     {
-      "w": "bookmark",
-      "ipa": "/ˈbʊkmɑːrk/",
-      "zh": "书签"
-     },
-     {
-      "w": "caption",
-      "ipa": "/ˈkæpʃn/",
-      "zh": "图片说明文字"
-     },
-     {
-      "w": "chapter",
-      "ipa": "/ˈtʃæptər/",
-      "zh": "章节"
-     },
-     {
-      "w": "cover",
-      "ipa": "/ˈkʌvər/",
-      "zh": "封面"
      },
      {
       "w": "dictionary",
@@ -6885,111 +6673,82 @@
       "zh": "词典"
      },
      {
-      "w": "index",
-      "ipa": "/ˈɪndeks/",
-      "zh": "索引"
-     },
-     {
-      "w": "issue",
-      "ipa": "/ˈɪʃuː/",
-      "zh": "（杂志的）一期"
-     },
-     {
-      "w": "magazine",
-      "ipa": "/ˌmæɡəˈziːn/",
-      "zh": "杂志"
-     },
-     {
-      "w": "number",
-      "ipa": "/ˈnʌmbər/",
-      "zh": "编号；页码"
-     },
-     {
       "w": "page",
       "ipa": "/peɪdʒ/",
       "zh": "页"
      },
      {
-      "w": "part",
-      "ipa": "/pɑːrt/",
-      "zh": "部分"
-     },
-     {
       "w": "picture",
       "ipa": "/ˈpɪktʃər/",
-      "zh": "图片；照片"
+      "zh": "插图；图画"
      },
      {
-      "w": "table of contents",
-      "ipa": "/ˈteɪbl əv ˈkɑːntents/",
-      "zh": "目录"
+      "w": "picture book",
+      "ipa": "/ˈpɪktʃər bʊk/",
+      "zh": "图画书"
      },
      {
-      "w": "title",
-      "ipa": "/ˈtaɪtl/",
-      "zh": "标题；书名"
+      "w": "rabbit",
+      "ipa": "/ˈræbɪt/",
+      "zh": "兔子"
      },
      {
-      "w": "word",
-      "ipa": "/wɜːrd/",
-      "zh": "单词；词"
+      "w": "shelf",
+      "ipa": "/ʃelf/",
+      "zh": "书架"
+     },
+     {
+      "w": "story",
+      "ipa": "/ˈstɔːri/",
+      "zh": "故事"
      }
     ],
     "others": [
      {
-      "w": "interesting (adj.)",
-      "ipa": "/ˈɪntrəstɪŋ/",
-      "zh": "有趣的；引人入胜的"
-     },
-     {
-      "w": "latest (adj.)",
-      "ipa": "/ˈleɪtɪst/",
-      "zh": "最新的"
+      "w": "until (conj.)",
+      "ipa": "/ənˈtɪl/",
+      "zh": "直到"
      }
     ]
    },
    "notes": [
     {
-     "en": "If you flip through something, you turn its pages or parts quickly.",
-     "zh": "flip through 指很快地翻书页或翻杂志。"
+     "en": "Reading picture books every day is a good habit.",
+     "zh": "每天读图画书是个好习惯。"
     },
     {
-     "en": "An interesting thing is one you want to see, hear, read, or do.",
-     "zh": "interesting 就是让你想看、想听、想读、想做的事。"
-    },
-    {
-     "en": "'Ad' is a short form of 'advertisement.'",
-     "zh": "ad 是 advertisement（广告）的缩写。"
-    },
-    {
-     "en": "To look up a word, you find it in a dictionary and read its meaning.",
-     "zh": "look up a word 指在词典里查到这个词并读它的意思。"
-    },
-    {
-     "en": "If a magazine comes out every month, each month there is a new issue—the January issue, February issue, etc.",
-     "zh": "如果杂志每月出一期，每个月就有新的 issue（一期），比如一月号、二月号。"
+     "en": "When you see a new word, look it up in a dictionary or ask a grown-up.",
+     "zh": "遇到生词时，查词典或问大人。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Pam",
-     "role": "阅读的人",
-     "en": "'Bogus?' What does that mean?",
-     "zh": "“Bogus？”这词是什么意思？"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "What are you reading, Jenny?",
+     "zh": "你在读什么呀，珍妮？"
+    },
+    {
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "A story about a little rabbit.",
+     "zh": "一个关于小兔子的故事。"
+    },
+    {
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Nice! Read it to me later.",
+     "zh": "真好！一会儿读给我听听。"
     }
    ],
    "china": [
     {
-     "en": "Many Chinese now read novels and news on their phones or e-readers (like Kindle or WeChat Read) instead of physical books.",
-     "zh": "现在很多中国人用手机或电子书（如微信读书）看小说、看新闻，纸质书看得少了。"
+     "en": "Chinese children often read picture books and leveled readers at home.",
+     "zh": "中国孩子在家常读图画书和分级读物。"
     },
     {
-     "en": "Printed magazines have declined sharply in China; people read short video content and WeChat public accounts instead.",
-     "zh": "中国的纸质杂志大幅减少，大家更多刷短视频、看微信公众号文章。"
-    },
-    {
-     "en": "When meeting an unknown English word, Chinese learners usually look it up in a dictionary app on the phone rather than a printed dictionary.",
-     "zh": "遇到不认识的英文单词，中国学生一般用手机词典 App 查，而不是翻纸质词典。"
+     "en": "Many kids use an e-dictionary or a reading pen to look up new words.",
+     "zh": "很多孩子用电子词典或点读笔查生词。"
     }
    ],
    "en": "Reading",
@@ -7415,40 +7174,28 @@
    },
    "steps": [
     {
-     "en": "Tom babysat his cousins — took care of them while their parents were gone.",
-     "zh": "汤姆照看他的表兄妹——在他们父母不在时照顾他们。"
+     "en": "Tom took care of his little sister and brother while Mom went out.",
+     "zh": "妈妈出门时，汤姆照顾弟弟和妹妹。"
     },
     {
-     "en": "Tom's aunt and uncle dropped the children off at Tom's house.",
-     "zh": "汤姆的姑姑和姑父把孩子送到汤姆家。"
+     "en": "Mom told them, \"Be good and listen to Tom.\"",
+     "zh": "妈妈叮嘱他们：“要乖，听汤姆的话。”"
     },
     {
-     "en": "Tom took them to a playground.",
-     "zh": "汤姆带他们去游乐场。"
+     "en": "Tom took them to the playground.",
+     "zh": "汤姆带他们去游乐场玩。"
     },
     {
-     "en": "Back at Tom's house, they played with blocks,...",
-     "zh": "回到汤姆家，他们玩积木……"
+     "en": "Back home, they played with blocks...",
+     "zh": "回到家里，他们玩积木……"
     },
     {
-     "en": "...drew pictures with crayons...",
-     "zh": "用蜡笔画画……"
+     "en": "...and drew pictures with crayons.",
+     "zh": "还用蜡笔画画。"
     },
     {
-     "en": "...and put a puzzle together.",
-     "zh": "还一起拼拼图。"
-    },
-    {
-     "en": "Tom changed the baby's diaper...",
-     "zh": "汤姆给婴儿换尿布……"
-    },
-    {
-     "en": "...and put him to bed in the crib.",
-     "zh": "然后把他放进婴儿床睡觉。"
-    },
-    {
-     "en": "The other children took a bath.",
-     "zh": "其他孩子洗了澡。"
+     "en": "They put a puzzle together.",
+     "zh": "他们一起拼拼图。"
     },
     {
      "en": "Tom read them a story...",
@@ -7459,93 +7206,78 @@
      "zh": "然后他们在电视上看动画片。"
     },
     {
-     "en": "Later, their parents picked the children up.",
-     "zh": "后来，他们的父母来接走了孩子。"
+     "en": "When Mom came back, she said, \"Thank you, Tom!\"",
+     "zh": "妈妈回来后说：“谢谢你，汤姆！”"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "babysit / babysat",
+      "w": "babysit",
       "ipa": "/ˈbeɪbisɪt/",
-      "zh": "临时照看小孩"
+      "zh": "照看小孩"
      },
      {
-      "w": "change",
-      "ipa": "/tʃeɪndʒ/",
-      "zh": "更换"
+      "w": "come back",
+      "ipa": "/kʌm bæk/",
+      "zh": "回来"
      },
      {
-      "w": "draw / drew",
+      "w": "draw",
       "ipa": "/drɔː/",
       "zh": "画"
      },
      {
-      "w": "drop off",
-      "ipa": "/drɑːp ɔːf/",
-      "zh": "送到；放下"
+      "w": "go out",
+      "ipa": "/ɡoʊ aʊt/",
+      "zh": "出门"
      },
      {
-      "w": "pick up",
-      "ipa": "/pɪk ʌp/",
-      "zh": "接（人）；捡起"
+      "w": "listen to",
+      "ipa": "/ˈlɪsn tuː/",
+      "zh": "听……的话"
      },
      {
       "w": "play",
       "ipa": "/pleɪ/",
-      "zh": "玩耍"
+      "zh": "玩"
      },
      {
-      "w": "put / put to bed",
-      "ipa": "/pʊt/",
-      "zh": "安顿睡觉"
+      "w": "put together",
+      "ipa": "/pʊt təˈɡeðər/",
+      "zh": "拼装"
      },
      {
-      "w": "put / put together",
-      "ipa": "/pʊt/",
-      "zh": "拼合；组装"
-     },
-     {
-      "w": "read / read",
+      "w": "read",
       "ipa": "/riːd/",
       "zh": "读"
      },
      {
-      "w": "take / took",
+      "w": "take",
       "ipa": "/teɪk/",
-      "zh": "带走；拿"
+      "zh": "带"
      },
      {
-      "w": "take / took a bath",
-      "ipa": "/teɪk/",
-      "zh": "洗澡"
-     },
-     {
-      "w": "take / took care of",
-      "ipa": "/teɪk/",
+      "w": "take care of",
+      "ipa": "/teɪk ker əv/",
       "zh": "照顾"
      },
      {
       "w": "watch",
       "ipa": "/wɑːtʃ/",
-      "zh": "观看"
+      "zh": "看（电视）"
      }
     ],
     "nouns": [
      {
-      "w": "aunt",
-      "ipa": "/ænt/",
-      "zh": "姑姑；阿姨；舅妈"
-     },
-     {
-      "w": "baby",
-      "ipa": "/ˈbeɪbi/",
-      "zh": "婴儿"
-     },
-     {
       "w": "block",
       "ipa": "/blɑːk/",
       "zh": "积木"
+     },
+     {
+      "w": "brother",
+      "ipa": "/ˈbrʌðər/",
+      "zh": "弟弟；哥哥"
      },
      {
       "w": "cartoon",
@@ -7553,54 +7285,14 @@
       "zh": "动画片"
      },
      {
-      "w": "child / children",
-      "ipa": "/tʃaɪld/",
-      "zh": "孩子"
-     },
-     {
-      "w": "cousin",
-      "ipa": "/ˈkʌzn/",
-      "zh": "堂/表兄弟姐妹"
-     },
-     {
       "w": "crayon",
       "ipa": "/ˈkreɪɑːn/",
       "zh": "蜡笔"
      },
      {
-      "w": "crib",
-      "ipa": "/krɪb/",
-      "zh": "婴儿床"
-     },
-     {
-      "w": "diaper",
-      "ipa": "/ˈdaɪpər/",
-      "zh": "尿布"
-     },
-     {
-      "w": "house",
-      "ipa": "/haʊs/",
-      "zh": "房子"
-     },
-     {
-      "w": "parent",
-      "ipa": "/ˈperənt/",
-      "zh": "父/母"
-     },
-     {
-      "w": "picture",
-      "ipa": "/ˈpɪktʃər/",
-      "zh": "图画；照片"
-     },
-     {
-      "w": "(a) piece (of)",
-      "ipa": "/piːs/",
-      "zh": "一块/片/张"
-     },
-     {
       "w": "playground",
       "ipa": "/ˈpleɪɡraʊnd/",
-      "zh": "游乐场；操场"
+      "zh": "游乐场"
      },
      {
       "w": "puzzle",
@@ -7608,114 +7300,72 @@
       "zh": "拼图"
      },
      {
-      "w": "sandbox",
-      "ipa": "/ˈsændbɑːks/",
-      "zh": "沙坑"
-     },
-     {
-      "w": "slide",
-      "ipa": "/slaɪd/",
-      "zh": "滑梯"
+      "w": "sister",
+      "ipa": "/ˈsɪstər/",
+      "zh": "妹妹；姐姐"
      },
      {
       "w": "story",
       "ipa": "/ˈstɔːri/",
       "zh": "故事"
-     },
-     {
-      "w": "swing",
-      "ipa": "/swɪŋ/",
-      "zh": "秋千"
-     },
-     {
-      "w": "TV",
-      "ipa": "/ˌtiːˈviː/",
-      "zh": "电视"
-     },
-     {
-      "w": "uncle",
-      "ipa": "/ˈʌŋkl/",
-      "zh": "叔叔；舅舅；姑父"
      }
     ],
     "others": [
      {
-      "w": "later (adv.)",
-      "ipa": "/ˈleɪtər/",
-      "zh": "后来"
-     },
-     {
       "w": "back (adv.)",
       "ipa": "/bæk/",
-      "zh": "回原处"
-     },
-     {
-      "w": "other (adj.)",
-      "ipa": "/ˈʌðər/",
-      "zh": "其他的"
+      "zh": "回到家"
      }
     ]
    },
    "notes": [
     {
-     "en": "\"Kids\" is an informal word for children.",
-     "zh": "kids 是 children 的非正式说法。"
+     "en": "Big brothers and sisters can help take care of little ones.",
+     "zh": "哥哥姐姐可以帮忙照顾弟弟妹妹。"
     },
     {
-     "en": "Tom's aunt is his father's sister. His uncle is married to her. His cousins are the children of his aunt and uncle.",
-     "zh": "汤姆的姑姑是他父亲的姐妹，他的姑父娶了她，他的表兄妹是姑姑和姑父的孩子。"
-    },
-    {
-     "en": "Your parents are your mother and father.",
-     "zh": "parents 就是你的母亲和父亲。"
-    },
-    {
-     "en": "A crayon is made of wax.",
-     "zh": "蜡笔是蜡做的。"
-    },
-    {
-     "en": "A cartoon has drawings of people or animals, not real people or animals.",
-     "zh": "动画片里是人物或动物的图画，不是真人真动物。"
+     "en": "Play blocks, draw pictures, and put puzzles together to keep kids busy.",
+     "zh": "玩积木、画画、拼拼图能让小孩安静下来。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Tom's aunt",
-     "role": "姑姑",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "Bye, kids. Be good!",
-     "zh": "再见，孩子们，要乖哦！"
+     "zh": "再见，孩子们。要乖哦！"
     },
     {
      "speaker": "Tom",
-     "role": "汤姆",
-     "en": "They'll be fine, Aunt Rita.",
-     "zh": "他们会没事的，丽塔姑姑。"
+     "role": "clerk",
+     "en": "Don't worry, Mom. They'll be fine.",
+     "zh": "别担心，妈妈。他们会很乖的。"
     },
     {
-     "speaker": "children's mother",
-     "role": "孩子的妈妈",
-     "en": "Come on kids. Time to go. Thanks, Tom.",
-     "zh": "来吧孩子们，该走了。谢谢你，汤姆。"
+     "speaker": "Tom's sister",
+     "role": "girl",
+     "en": "Tom, can we watch a cartoon?",
+     "zh": "汤姆，我们能看动画片吗？"
     },
     {
      "speaker": "Tom",
-     "role": "汤姆",
-     "en": "Sure. Any time.",
-     "zh": "不客气，随时都行。"
+     "role": "clerk",
+     "en": "Sure. After the puzzle.",
+     "zh": "可以，拼完拼图就看。"
     }
    ],
    "china": [
     {
-     "en": "In China, grandparents often help raise grandchildren, so formal babysitting jobs are less common than in the US.",
-     "zh": "在中国，祖父母常帮忙带孙辈，因此正式的临时保姆工作不如美国普遍。"
+     "en": "In two-child families, big siblings often help look after the little ones.",
+     "zh": "在二胎家庭里，大孩子常帮忙照顾弟弟妹妹。"
     },
     {
-     "en": "Chinese community playgrounds usually have swings, slides, and sandpits just like in the US.",
-     "zh": "中国小区里的儿童游乐场通常也有秋千、滑梯和沙坑，和美国类似。"
+     "en": "Community playgrounds with slides and swings are common in Chinese neighborhoods.",
+     "zh": "中国小区里常见带滑梯和秋千的儿童游乐场。"
     }
    ],
    "en": "Babysitting",
-   "zh": "照看小孩",
+   "zh": "照顾弟弟妹妹",
    "grammarZh": "一般过去时"
   },
   {
@@ -8080,101 +7730,48 @@
      "zh": "今天晚些时候，我要洗衣服。"
     },
     {
-     "en": "I'll carry the laundry basket to the laundry room.",
-     "zh": "我把洗衣篮拿到洗衣房。"
+     "en": "I'll put my dirty clothes in the laundry basket.",
+     "zh": "我把脏衣服放进洗衣篮。"
     },
     {
-     "en": "I'll take the laundry out of the basket...",
-     "zh": "我把衣服从篮子里拿出来……"
+     "en": "I'll sort them by separating dark colors from light.",
+     "zh": "我把深色和浅色的衣服分开。"
     },
     {
-     "en": "...and then I'll sort it by separating dark colors from light.",
-     "zh": "然后把深色和浅色分开。"
+     "en": "I'll check the pockets and take out anything in them.",
+     "zh": "我检查口袋，把里面的东西都拿出来。"
     },
     {
-     "en": "I'll check the pockets of the pants and shirts...",
-     "zh": "我检查裤子和衬衫的口袋……"
+     "en": "I'll put a load of laundry into the washing machine.",
+     "zh": "我把一批衣服放进洗衣机。"
     },
     {
-     "en": "...and take out anything I find in them.",
-     "zh": "把里面发现的东西都拿出来。"
+     "en": "I'll put in some detergent and turn the machine on.",
+     "zh": "我放一些洗衣液，然后开机。"
     },
     {
-     "en": "Then I'll put a load of laundry into the washing machine.",
-     "zh": "然后把要洗的一批衣服放进洗衣机。"
+     "en": "The machine will wash and spin the laundry.",
+     "zh": "洗衣机会洗涤、脱水。"
     },
     {
-     "en": "I'll adjust the settings on the machine.",
-     "zh": "我调节洗衣机的设置。"
+     "en": "I'll take the wet clothes out and hang them on the balcony rack.",
+     "zh": "我把湿衣服拿出来，挂到阳台晾衣架上。"
     },
     {
-     "en": "Then I'll put in some detergent...",
-     "zh": "然后放一些洗衣液/洗衣粉……"
+     "en": "When they're dry, I'll fold the clothes.",
+     "zh": "衣服干了，我就叠好。"
     },
     {
-     "en": "...and turn the machine on.",
-     "zh": "然后开机。"
-    },
-    {
-     "en": "The machine will wash,...",
-     "zh": "洗衣机将洗涤……"
-    },
-    {
-     "en": "...rinse,...",
-     "zh": "漂洗……"
-    },
-    {
-     "en": "...and spin the laundry.",
-     "zh": "然后脱水。"
-    },
-    {
-     "en": "I'll take the wet clothes out of the machine.",
-     "zh": "我把湿衣服从洗衣机里拿出来。"
-    },
-    {
-     "en": "I'll hang some of the laundry out to dry.",
-     "zh": "我把一些衣服挂出去晾干。"
-    },
-    {
-     "en": "I'll put some other laundry into the dryer.",
-     "zh": "我把另一些放进烘干机。"
-    },
-    {
-     "en": "The dryer will dry it by heating and tumbling it.",
-     "zh": "烘干机通过加热和翻滚来烘干衣服。"
-    },
-    {
-     "en": "Then I'll take it out of the machine.",
-     "zh": "然后把它从烘干机里拿出来。"
-    },
-    {
-     "en": "I'll fold some of the dry laundry...",
-     "zh": "我把一些干衣服叠好……"
-    },
-    {
-     "en": "...and put it into drawers.",
-     "zh": "放进抽屉。"
-    },
-    {
-     "en": "I'll iron other things...",
-     "zh": "我熨烫其他衣服……"
-    },
-    {
-     "en": "...and hang them up in the closet.",
-     "zh": "然后挂进衣柜。"
+     "en": "I'll put them into the drawers.",
+     "zh": "我把叠好的衣服放进抽屉。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "adjust",
-      "ipa": "/əˈdʒʌst/",
-      "zh": "调节；调整"
-     },
-     {
       "w": "be going to (aux.)",
       "ipa": "/bi ˈɡoʊɪŋ tuː/",
-      "zh": "将要（助动词）"
+      "zh": "将要"
      },
      {
       "w": "check",
@@ -8182,64 +7779,24 @@
       "zh": "检查"
      },
      {
-      "w": "carry",
-      "ipa": "/ˈkæri/",
-      "zh": "搬运；提"
-     },
-     {
       "w": "do laundry",
       "ipa": "/duː ˈlɔːndri/",
       "zh": "洗衣服"
      },
      {
-      "w": "dry",
-      "ipa": "/draɪ/",
-      "zh": "烘干；变干"
-     },
-     {
-      "w": "find",
-      "ipa": "/faɪnd/",
-      "zh": "发现；找到"
-     },
-     {
       "w": "fold",
       "ipa": "/foʊld/",
-      "zh": "折叠"
+      "zh": "叠"
      },
      {
       "w": "hang out",
       "ipa": "/hæŋ aʊt/",
-      "zh": "晾出"
+      "zh": "晾晒"
      },
      {
-      "w": "hang up",
-      "ipa": "/hæŋ ʌp/",
-      "zh": "挂起"
-     },
-     {
-      "w": "heat",
-      "ipa": "/hiːt/",
-      "zh": "加热"
-     },
-     {
-      "w": "iron",
-      "ipa": "/ˈaɪərn/",
-      "zh": "熨烫"
-     },
-     {
-      "w": "put into",
+      "w": "put",
       "ipa": "/pʊt/",
-      "zh": "放入"
-     },
-     {
-      "w": "rinse",
-      "ipa": "/rɪns/",
-      "zh": "漂洗"
-     },
-     {
-      "w": "separate",
-      "ipa": "/ˈsepəreɪt/",
-      "zh": "分开"
+      "zh": "放"
      },
      {
       "w": "sort",
@@ -8253,40 +7810,25 @@
      },
      {
       "w": "take out",
-      "ipa": "/teɪk/",
-      "zh": "取出"
-     },
-     {
-      "w": "tumble",
-      "ipa": "/ˈtʌmbl/",
-      "zh": "翻滚"
+      "ipa": "/teɪk aʊt/",
+      "zh": "拿出"
      },
      {
       "w": "turn on",
       "ipa": "/tɜːrn ɑːn/",
-      "zh": "打开"
+      "zh": "打开（开关）"
      },
      {
       "w": "wash",
       "ipa": "/wɑːʃ/",
       "zh": "洗"
-     },
-     {
-      "w": "will ('ll) (aux.)",
-      "ipa": "/wɪl/",
-      "zh": "将（助动词）"
      }
     ],
     "nouns": [
      {
-      "w": "basket",
-      "ipa": "/ˈbæskɪt/",
-      "zh": "篮子"
-     },
-     {
-      "w": "closet",
-      "ipa": "/ˈklɑːzɪt/",
-      "zh": "壁橱"
+      "w": "balcony",
+      "ipa": "/ˈbælkəni/",
+      "zh": "阳台"
      },
      {
       "w": "clothes",
@@ -8294,24 +7836,9 @@
       "zh": "衣服"
      },
      {
-      "w": "clothesline",
-      "ipa": "/ˈkloʊðzlaɪn/",
-      "zh": "晾衣绳"
-     },
-     {
-      "w": "clothespin",
-      "ipa": "/ˈkloʊðzpɪn/",
-      "zh": "衣夹"
-     },
-     {
-      "w": "color",
-      "ipa": "/ˈkʌlər/",
-      "zh": "颜色"
-     },
-     {
       "w": "detergent",
       "ipa": "/dɪˈtɜːrdʒənt/",
-      "zh": "洗涤剂"
+      "zh": "洗衣液"
      },
      {
       "w": "drawer",
@@ -8319,44 +7846,14 @@
       "zh": "抽屉"
      },
      {
-      "w": "dryer",
-      "ipa": "/ˈdraɪər/",
-      "zh": "烘干机"
-     },
-     {
-      "w": "hanger",
-      "ipa": "/ˈhæŋər/",
-      "zh": "衣架"
-     },
-     {
-      "w": "iron",
-      "ipa": "/ˈaɪərn/",
-      "zh": "熨斗"
-     },
-     {
-      "w": "ironing board",
-      "ipa": "/ˈaɪərnɪŋ bɔːrd/",
-      "zh": "熨衣板"
-     },
-     {
       "w": "laundry",
       "ipa": "/ˈlɔːndri/",
-      "zh": "要洗的衣服"
+      "zh": "待洗衣物"
      },
      {
-      "w": "load",
-      "ipa": "/loʊd/",
-      "zh": "一批（洗衣量）"
-     },
-     {
-      "w": "machine",
-      "ipa": "/məˈʃiːn/",
-      "zh": "机器"
-     },
-     {
-      "w": "pants",
-      "ipa": "/pænts/",
-      "zh": "裤子"
+      "w": "laundry basket",
+      "ipa": "/ˈlɔːndri ˈbæskɪt/",
+      "zh": "洗衣篮"
      },
      {
       "w": "pocket",
@@ -8364,19 +7861,9 @@
       "zh": "口袋"
      },
      {
-      "w": "room",
-      "ipa": "/ruːm/",
-      "zh": "房间"
-     },
-     {
-      "w": "setting",
-      "ipa": "/ˈsetɪŋ/",
-      "zh": "设置"
-     },
-     {
-      "w": "shirt",
-      "ipa": "/ʃɜːrt/",
-      "zh": "衬衫"
+      "w": "rack",
+      "ipa": "/ræk/",
+      "zh": "晾衣架"
      },
      {
       "w": "washing machine",
@@ -8391,29 +7878,9 @@
       "zh": "深色的"
      },
      {
-      "w": "dry (adj.)",
-      "ipa": "/draɪ/",
-      "zh": "干的"
-     },
-     {
-      "w": "later (adv.)",
-      "ipa": "/ˈleɪtər/",
-      "zh": "稍后"
-     },
-     {
       "w": "light (adj.)",
       "ipa": "/laɪt/",
       "zh": "浅色的"
-     },
-     {
-      "w": "other (adj.)",
-      "ipa": "/ˈʌðər/",
-      "zh": "其他的"
-     },
-     {
-      "w": "today (adv.)",
-      "ipa": "/təˈdeɪ/",
-      "zh": "今天"
      },
      {
       "w": "wet (adj.)",
@@ -8424,31 +7891,23 @@
    },
    "notes": [
     {
-     "en": "A load of laundry is the amount you do at one time.",
-     "zh": "a load of laundry 指一次洗的衣服量。"
+     "en": "Sort dark and light clothes before washing.",
+     "zh": "洗之前把深色和浅色衣服分开。"
     },
     {
-     "en": "laundry = a bunch of clothes to be (or being) washed.",
-     "zh": "laundry 指要洗（或正在洗）的一堆衣服。"
-    },
-    {
-     "en": "To sort something is to divide it into different groups.",
-     "zh": "sort 就是把东西分成不同的组。"
-    },
-    {
-     "en": "A dryer tumbles clothes by turning them over and over many times.",
-     "zh": "烘干机通过反复翻滚来烘干衣服。"
+     "en": "Hang the laundry on the balcony rack to dry in the sun.",
+     "zh": "把衣服挂到阳台晾衣架上晒太阳晾干。"
     }
    ],
    "dialogue": [],
    "china": [
     {
-     "en": "In China, most apartments have fully automatic washing machines, and many people use laundry pods or liquid detergent instead of powder.",
-     "zh": "在中国，大多数公寓有全自动洗衣机，很多人用洗衣凝珠或洗衣液而不是洗衣粉。"
+     "en": "Most Chinese apartments have an automatic washing machine; people use detergent or pods.",
+     "zh": "中国公寓大多有全自动洗衣机，用洗衣液或洗衣凝珠。"
     },
     {
-     "en": "Electric dryers are less common; many Chinese families hang clothes on balcony racks to dry naturally in the sun.",
-     "zh": "烘干机不太常见，很多中国家庭把衣服挂在阳台晾衣架上自然晒干。"
+     "en": "Dryers are uncommon; many families hang clothes on the balcony to dry.",
+     "zh": "烘干机不常见，很多家庭把衣服晾在阳台。"
     }
    ],
    "en": "Doing Laundry",
@@ -9474,60 +8933,40 @@
    },
    "steps": [
     {
-     "en": "Tom will turn the soil with a spade.",
-     "zh": "汤姆会用铲子翻土。"
+     "en": "Tom will turn the soil in a flowerpot with a small spade.",
+     "zh": "汤姆会用小铲子翻花盆里的土。"
     },
     {
      "en": "He'll plant some seeds...",
      "zh": "他会播一些种子……"
     },
     {
-     "en": "...and cover them with a mound of soil.",
-     "zh": "然后用一小堆土盖上。"
+     "en": "...and cover them with a little soil.",
+     "zh": "然后用一点土盖上。"
     },
     {
-     "en": "He'll plant some seedlings...",
-     "zh": "他会种一些幼苗……"
+     "en": "He'll water the flowerpot every day.",
+     "zh": "他每天给花盆浇水。"
     },
     {
-     "en": "...and tie them to small stakes.",
-     "zh": "然后把它们绑在小支架上。"
+     "en": "He'll put the flowerpot on the sunny balcony.",
+     "zh": "他会把花盆放到阳光充足的阳台上。"
     },
     {
-     "en": "Then he'll water the garden.",
-     "zh": "然后他给花园浇水。"
-    },
-    {
-     "en": "Tom will weed the garden.",
-     "zh": "汤姆会给花园除草。"
-    },
-    {
-     "en": "He'll prune extra leaves from some plants.",
-     "zh": "他会给一些植物剪掉多余的叶子。"
-    },
-    {
-     "en": "He'll check for harmful insects...",
-     "zh": "他会检查有没有害虫……"
-    },
-    {
-     "en": "...and spray insecticide on some plants.",
-     "zh": "然后给一些植物喷杀虫剂。"
-    },
-    {
-     "en": "He'll put some fertilizer on the soil.",
-     "zh": "他会在土壤上施一些肥。"
+     "en": "When the seedlings come up, he'll weed the pot.",
+     "zh": "幼苗长出来后，他会给花盆除草。"
     },
     {
      "en": "Finally, he'll pick some flowers for the house.",
-     "zh": "最后，他会摘一些花插在家里。"
+     "zh": "最后，他会摘一些花放进家里。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "check",
-      "ipa": "/tʃek/",
-      "zh": "检查"
+      "w": "come up",
+      "ipa": "/kʌm ʌp/",
+      "zh": "长出来"
      },
      {
       "w": "cover",
@@ -9537,37 +8976,12 @@
      {
       "w": "pick",
       "ipa": "/pɪk/",
-      "zh": "采摘"
+      "zh": "摘"
      },
      {
       "w": "plant",
       "ipa": "/plænt/",
       "zh": "种植"
-     },
-     {
-      "w": "prune",
-      "ipa": "/pruːn/",
-      "zh": "修剪"
-     },
-     {
-      "w": "put on",
-      "ipa": "/pʊt/",
-      "zh": "撒在……上"
-     },
-     {
-      "w": "spray",
-      "ipa": "/spreɪ/",
-      "zh": "喷"
-     },
-     {
-      "w": "tie",
-      "ipa": "/taɪ/",
-      "zh": "绑；系"
-     },
-     {
-      "w": "take care of",
-      "ipa": "/teɪk/",
-      "zh": "照顾"
      },
      {
       "w": "turn",
@@ -9587,9 +9001,9 @@
     ],
     "nouns": [
      {
-      "w": "fertilizer",
-      "ipa": "/ˈfɜːrtəlaɪzər/",
-      "zh": "肥料"
+      "w": "balcony",
+      "ipa": "/ˈbælkəni/",
+      "zh": "阳台"
      },
      {
       "w": "flower",
@@ -9597,54 +9011,9 @@
       "zh": "花"
      },
      {
-      "w": "garden",
-      "ipa": "/ˈɡɑːrdn/",
-      "zh": "花园"
-     },
-     {
-      "w": "gardening",
-      "ipa": "/ˈɡɑːrdnɪŋ/",
-      "zh": "园艺"
-     },
-     {
-      "w": "hose",
-      "ipa": "/hoʊz/",
-      "zh": "水管"
-     },
-     {
-      "w": "house",
-      "ipa": "/haʊs/",
-      "zh": "房子"
-     },
-     {
-      "w": "insect",
-      "ipa": "/ˈɪnsekt/",
-      "zh": "昆虫"
-     },
-     {
-      "w": "insecticide",
-      "ipa": "/ɪnˈsektɪsaɪd/",
-      "zh": "杀虫剂"
-     },
-     {
-      "w": "leaf / leaves",
-      "ipa": "/liːf/",
-      "zh": "叶子"
-     },
-     {
-      "w": "mound",
-      "ipa": "/maʊnd/",
-      "zh": "小土堆"
-     },
-     {
-      "w": "nozzle",
-      "ipa": "/ˈnɑːzl/",
-      "zh": "喷头"
-     },
-     {
-      "w": "plant",
-      "ipa": "/plænt/",
-      "zh": "植物"
+      "w": "flowerpot",
+      "ipa": "/ˈflaʊərpɑːt/",
+      "zh": "花盆"
      },
      {
       "w": "seed",
@@ -9657,11 +9026,6 @@
       "zh": "幼苗"
      },
      {
-      "w": "shears",
-      "ipa": "/ʃɪrz/",
-      "zh": "修枝剪"
-     },
-     {
       "w": "soil",
       "ipa": "/sɔɪl/",
       "zh": "土壤"
@@ -9669,72 +9033,50 @@
      {
       "w": "spade",
       "ipa": "/speɪd/",
-      "zh": "铲子"
+      "zh": "小铲子"
      },
      {
-      "w": "stake",
-      "ipa": "/steɪk/",
-      "zh": "支架；桩"
+      "w": "sun",
+      "ipa": "/sʌn/",
+      "zh": "阳光"
      }
     ],
     "others": [
-     {
-      "w": "extra (adj.)",
-      "ipa": "/ˈekstrə/",
-      "zh": "额外的"
-     },
      {
       "w": "finally (adv.)",
       "ipa": "/ˈfaɪnəli/",
       "zh": "最后"
      },
      {
-      "w": "harmful (adj.)",
-      "ipa": "/ˈhɑːrmfl/",
-      "zh": "有害的"
-     },
-     {
-      "w": "small (adj.)",
-      "ipa": "/smɔːl/",
-      "zh": "小的"
+      "w": "sunny (adj.)",
+      "ipa": "/ˈsʌni/",
+      "zh": "阳光充足的"
      }
     ]
    },
    "notes": [
     {
-     "en": "A seedling is a very young plant. The ones you plant in your garden started growing somewhere else first.",
-     "zh": "seedling 就是很小的植物幼苗，你种到花园里的苗是先在别处长出来的。"
+     "en": "You can grow flowers or vegetables in a flowerpot on the balcony.",
+     "zh": "在阳台花盆里可以种花或种菜。"
     },
     {
-     "en": "You weed a garden by pulling out the weeds — unwanted plants.",
-     "zh": "除草就是把花园里不需要的杂草拔掉。"
-    },
-    {
-     "en": "Harmful insects are those that are bad for plants.",
-     "zh": "害虫就是对植物有害的昆虫。"
-    },
-    {
-     "en": "Fertilizer adds useful chemicals to soil.",
-     "zh": "肥料给土壤添加有用的化学物质。"
-    },
-    {
-     "en": "To check for harmful insects is to look at something for a short time trying to find the insects.",
-     "zh": "check for harmful insects 就是短时间查看，试图找到害虫。"
+     "en": "Water the plants every day and put them in the sun.",
+     "zh": "每天浇水，把植物放在阳光下。"
     }
    ],
    "dialogue": [],
    "china": [
     {
-     "en": "In China, many urban residents grow vegetables and herbs in balcony containers rather than in a backyard garden.",
-     "zh": "在中国，很多城市居民在阳台花盆里种蔬菜和香草，而不是在后院花园里。"
+     "en": "Many Chinese city families grow flowers and herbs in pots on their balconies.",
+     "zh": "很多中国城市家庭在阳台花盆里种花种草。"
     },
     {
-     "en": "Community shared gardens are becoming popular in Chinese cities, where residents rent small plots to grow their own vegetables.",
-     "zh": "城市里社区共享菜园越来越流行，居民租小块地自己种蔬菜。"
+     "en": "Community shared gardens are becoming popular in some cities.",
+     "zh": "一些城市里社区共享菜园越来越流行。"
     }
    ],
    "en": "Gardening",
-   "zh": "园艺",
+   "zh": "阳台种花",
    "grammarZh": "一般将来时"
   },
   {
@@ -11055,434 +10397,217 @@
    },
    "steps": [
     {
-     "en": "Tom gets a shopping cart.",
-     "zh": "汤姆推了一辆购物车。"
+     "en": "Jenny and Mom get a shopping cart.",
+     "zh": "珍妮和妈妈推了一辆购物车。"
     },
     {
-     "en": "Some people use a basket instead of a cart.",
-     "zh": "有些人用购物篮而不用购物车。"
+     "en": "Jenny checks her shopping list.",
+     "zh": "珍妮看着购物清单。"
     },
     {
-     "en": "He checks his shopping list to see what he should buy.",
-     "zh": "他对照购物清单看自己该买什么。"
+     "en": "In the fresh produce section, she feels and smells the fruit.",
+     "zh": "在生鲜区，她摸摸、闻闻水果挑新鲜。"
     },
     {
-     "en": "In the fresh produce section, he checks the fruit and vegetables by feeling...",
-     "zh": "在生鲜区，他通过摸……来挑选蔬菜水果……"
+     "en": "She puts some apples in a plastic bag.",
+     "zh": "她把一些苹果装进塑料袋。"
     },
     {
-     "en": "...and smelling them.",
-     "zh": "……和闻味道。"
+     "en": "She weighs the fruit on a scale.",
+     "zh": "她在秤上给水果称重。"
     },
     {
-     "en": "He puts some fruit in a plastic bag...",
-     "zh": "他把一些水果装进塑料袋……"
+     "en": "Next, they pick up some fresh vegetables.",
+     "zh": "接着，他们买了一些新鲜蔬菜。"
     },
     {
-     "en": "...and weighs the fruit on a scale.",
-     "zh": "……然后在秤上称水果。"
+     "en": "Then they get some milk in the dairy section.",
+     "zh": "然后他们在乳制品区买了牛奶。"
     },
     {
-     "en": "Next, he picks up some fresh meat at the meat counter.",
-     "zh": "接着，他在肉类柜台买了一些鲜肉。"
+     "en": "They go through the snack aisle.",
+     "zh": "他们走过零食货架。"
     },
     {
-     "en": "Then, at the deli, he gets some cold cuts...",
-     "zh": "然后在熟食柜台，他买了一些冷切肉……"
+     "en": "Finally, they go to the checkout counter.",
+     "zh": "最后，他们走到收银台。"
     },
     {
-     "en": "...and cheese.",
-     "zh": "……还有奶酪。"
-    },
-    {
-     "en": "He goes through the canned goods aisle.",
-     "zh": "他走过罐装食品货架通道。"
-    },
-    {
-     "en": "He checks the prices on two brands of canned peas...",
-     "zh": "他比较两个品牌罐装豌豆的价格……"
-    },
-    {
-     "en": "...and chooses the cheaper one.",
-     "zh": "……然后选了便宜的那个。"
-    },
-    {
-     "en": "As he shops, he looks for specials.",
-     "zh": "购物时，他留意特价商品。"
-    },
-    {
-     "en": "He picks up some toilet paper in the household goods section...",
-     "zh": "他在家居用品区拿了一些卫生纸……"
-    },
-    {
-     "en": "...and gets some milk in the dairy section.",
-     "zh": "……然后在乳制品区买了一些牛奶。"
-    },
-    {
-     "en": "He tries a free sample of some pizza...",
-     "zh": "他试吃了一份免费的披萨样品……"
-    },
-    {
-     "en": "...and takes some frozen pizza from the frozen-food case.",
-     "zh": "……然后从冷冻柜里拿了一些冷冻披萨。"
-    },
-    {
-     "en": "Finally, he goes to the checkout counter.",
-     "zh": "最后，他走到收银台。"
+     "en": "Mom pays with her phone.",
+     "zh": "妈妈用手机付了钱。"
     }
    ],
    "vocab": {
     "verbs": [
      {
-      "w": "buy",
-      "ipa": "/baɪ/",
-      "zh": "v. 买"
-     },
-     {
       "w": "check",
       "ipa": "/tʃek/",
-      "zh": "v. 查看，核对"
-     },
-     {
-      "w": "choose",
-      "ipa": "/tʃuːz/",
-      "zh": "v. 选择"
+      "zh": "查看"
      },
      {
       "w": "feel",
       "ipa": "/fiːl/",
-      "zh": "v. 摸，触摸"
+      "zh": "摸"
      },
      {
       "w": "get",
       "ipa": "/ɡet/",
-      "zh": "v. 买，拿到"
+      "zh": "拿；买"
      },
      {
       "w": "go through",
       "ipa": "/ɡoʊ θruː/",
-      "zh": "v. 走过，穿过"
+      "zh": "走过"
      },
      {
-      "w": "look for",
-      "ipa": "/lʊk fɔːr/",
-      "zh": "v. 寻找"
+      "w": "pay",
+      "ipa": "/peɪ/",
+      "zh": "支付"
      },
      {
       "w": "pick up",
       "ipa": "/pɪk ʌp/",
-      "zh": "v. 拿起，取下"
+      "zh": "挑选"
      },
      {
       "w": "put in",
       "ipa": "/pʊt ɪn/",
-      "zh": "v. 放入，装进"
-     },
-     {
-      "w": "see",
-      "ipa": "/siː/",
-      "zh": "v. 看，查看"
-     },
-     {
-      "w": "shop",
-      "ipa": "/ʃɑːp/",
-      "zh": "v. 购物"
+      "zh": "放进"
      },
      {
       "w": "smell",
       "ipa": "/smel/",
-      "zh": "v. 闻，嗅"
-     },
-     {
-      "w": "take",
-      "ipa": "/teɪk/",
-      "zh": "v. 拿，取"
-     },
-     {
-      "w": "try",
-      "ipa": "/traɪ/",
-      "zh": "v. 试吃，尝试"
-     },
-     {
-      "w": "use",
-      "ipa": "/juːz/",
-      "zh": "v. 使用"
+      "zh": "闻"
      },
      {
       "w": "weigh",
       "ipa": "/weɪ/",
-      "zh": "v. 称重"
+      "zh": "称重"
      }
     ],
     "nouns": [
      {
-      "w": "aisle",
-      "ipa": "/aɪl/",
-      "zh": "n. （货架间的）通道"
-     },
-     {
-      "w": "bag",
-      "ipa": "/bæɡ/",
-      "zh": "n. 袋子"
-     },
-     {
-      "w": "basket",
-      "ipa": "/ˈbæskɪt/",
-      "zh": "n. 购物篮"
-     },
-     {
-      "w": "brand",
-      "ipa": "/brænd/",
-      "zh": "n. 品牌"
-     },
-     {
-      "w": "canned goods",
-      "ipa": "/kænd ɡʊdz/",
-      "zh": "n. 罐装食品"
+      "w": "apple",
+      "ipa": "/ˈæpl/",
+      "zh": "苹果"
      },
      {
       "w": "cart",
       "ipa": "/kɑːrt/",
-      "zh": "n. 购物车"
+      "zh": "购物车"
      },
      {
-      "w": "case",
-      "ipa": "/keɪs/",
-      "zh": "n. 冷藏柜，陈列柜"
+      "w": "checkout counter",
+      "ipa": "/ˈtʃekaʊt ˈkaʊntər/",
+      "zh": "收银台"
      },
      {
-      "w": "checkout",
-      "ipa": "/ˈtʃekaʊt/",
-      "zh": "n. 结账处"
-     },
-     {
-      "w": "counter",
-      "ipa": "/ˈkaʊntər/",
-      "zh": "n. 柜台"
-     },
-     {
-      "w": "cheese",
-      "ipa": "/tʃiːz/",
-      "zh": "n. 奶酪"
-     },
-     {
-      "w": "cold cut",
-      "ipa": "/koʊld kʌt/",
-      "zh": "n. 冷切熟肉"
-     },
-     {
-      "w": "dairy",
-      "ipa": "/ˈderi/",
-      "zh": "n. 乳制品区"
-     },
-     {
-      "w": "deli",
-      "ipa": "/ˈdeli/",
-      "zh": "n. 熟食柜台"
-     },
-     {
-      "w": "food",
-      "ipa": "/fuːd/",
-      "zh": "n. 食物"
+      "w": "dairy section",
+      "ipa": "/ˈderi ˈsekʃn/",
+      "zh": "乳制品区"
      },
      {
       "w": "fruit",
       "ipa": "/fruːt/",
-      "zh": "n. 水果"
-     },
-     {
-      "w": "goods",
-      "ipa": "/ɡʊdz/",
-      "zh": "n. 商品，货物"
-     },
-     {
-      "w": "groceries",
-      "ipa": "/ˈɡroʊsəriz/",
-      "zh": "n. 食品杂货"
-     },
-     {
-      "w": "household",
-      "ipa": "/ˈhaʊshoʊld/",
-      "zh": "adj./n. 家庭的；家用物品"
+      "zh": "水果"
      },
      {
       "w": "list",
       "ipa": "/lɪst/",
-      "zh": "n. 清单"
-     },
-     {
-      "w": "meat",
-      "ipa": "/miːt/",
-      "zh": "n. 肉"
+      "zh": "清单"
      },
      {
       "w": "milk",
       "ipa": "/mɪlk/",
-      "zh": "n. 牛奶"
+      "zh": "牛奶"
      },
      {
-      "w": "pea",
-      "ipa": "/piː/",
-      "zh": "n. 豌豆"
-     },
-     {
-      "w": "people",
-      "ipa": "/ˈpiːpl/",
-      "zh": "n. 人们"
-     },
-     {
-      "w": "pizza",
-      "ipa": "/ˈpiːtsə/",
-      "zh": "n. 披萨"
-     },
-     {
-      "w": "price",
-      "ipa": "/praɪs/",
-      "zh": "n. 价格"
-     },
-     {
-      "w": "produce",
-      "ipa": "/ˈprɑːduːs/",
-      "zh": "n. 农产品，生鲜"
-     },
-     {
-      "w": "sample",
-      "ipa": "/ˈsæmpl/",
-      "zh": "n. 样品，试吃品"
+      "w": "plastic bag",
+      "ipa": "/ˈplæstɪk bæɡ/",
+      "zh": "塑料袋"
      },
      {
       "w": "scale",
       "ipa": "/skeɪl/",
-      "zh": "n. 秤"
+      "zh": "秤"
      },
      {
-      "w": "section",
-      "ipa": "/ˈsekʃn/",
-      "zh": "n. 区域，区"
-     },
-     {
-      "w": "shelf-shelves",
-      "ipa": "/ʃelf/",
-      "zh": "n. 货架（复数 shelves）"
-     },
-     {
-      "w": "special",
-      "ipa": "/ˈspeʃl/",
-      "zh": "n. 特价商品"
-     },
-     {
-      "w": "toilet paper",
-      "ipa": "/ˈtɔɪlɪt ˈpeɪpər/",
-      "zh": "n. 卫生纸"
+      "w": "snack",
+      "ipa": "/snæk/",
+      "zh": "零食"
      },
      {
       "w": "vegetable",
       "ipa": "/ˈvedʒtəbl/",
-      "zh": "n. 蔬菜"
+      "zh": "蔬菜"
+     },
+     {
+      "w": "yogurt",
+      "ipa": "/ˈjoʊɡərt/",
+      "zh": "酸奶"
      }
     ],
     "others": [
      {
-      "w": "canned",
-      "ipa": "/kænd/",
-      "zh": "adj. 罐装的"
-     },
-     {
-      "w": "cheap",
-      "ipa": "/tʃiːp/",
-      "zh": "adj. 便宜的"
-     },
-     {
-      "w": "finally",
-      "ipa": "/ˈfaɪnəli/",
-      "zh": "adv. 最后"
-     },
-     {
-      "w": "free",
-      "ipa": "/friː/",
-      "zh": "adj. 免费的"
-     },
-     {
-      "w": "fresh",
+      "w": "fresh (adj.)",
       "ipa": "/freʃ/",
-      "zh": "adj. 新鲜的"
+      "zh": "新鲜的"
      },
      {
-      "w": "frozen",
-      "ipa": "/ˈfroʊzn/",
-      "zh": "adj. 冷冻的"
-     },
-     {
-      "w": "plastic",
-      "ipa": "/ˈplæstɪk/",
-      "zh": "adj. 塑料的"
+      "w": "finally (adv.)",
+      "ipa": "/ˈfaɪnəli/",
+      "zh": "最后"
      }
     ]
    },
    "notes": [
     {
-     "en": "A section is a part of something—here it's part of a store.",
-     "zh": "section 指某物的一部分，这里指超市里的一个区域。"
+     "en": "Feel and smell the fruit to check if it is fresh.",
+     "zh": "摸摸、闻闻水果能判断新不新鲜。"
     },
     {
-     "en": "Cold cuts are already cooked meats that you eat cold in a sandwich.",
-     "zh": "cold cuts 是已经做熟的冷切肉，可以夹在三明治里冷吃。"
-    },
-    {
-     "en": "Tom checks his list—looks quickly at it to see what it says.",
-     "zh": "check his list 是指快速看一眼清单，确认要买什么。"
-    },
-    {
-     "en": "Tom checks the fruit—looks at it, smells it, and feels it quickly to see if it's good.",
-     "zh": "check the fruit 是指看一看、闻一闻、摸一摸，快速判断水果新不新鲜。"
-    },
-    {
-     "en": "Something that is on special is at a lower price than usual. This lower price is called a special.",
-     "zh": "on special 表示比平时便宜；这种特价商品本身也叫 special。"
+     "en": "In China, people often pay at the supermarket with their phones.",
+     "zh": "在中国，超市购物常用手机支付。"
     }
    ],
    "dialogue": [
     {
-     "speaker": "Customer",
-     "role": "顾客",
-     "en": "I'll have four chicken breasts, please.",
-     "zh": "请给我四块鸡胸肉。"
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Mom, can we get some yogurt?",
+     "zh": "妈妈，我们能买点酸奶吗？"
     },
     {
-     "speaker": "Customer",
-     "role": "顾客",
-     "en": "Some beef pastrami, please. Six slices.",
-     "zh": "请来一些熏牛肉，六片。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Sure. Put it in the cart.",
+     "zh": "当然可以，放进车里吧。"
     },
     {
-     "speaker": "Customer",
-     "role": "顾客",
-     "en": "And a half pound of cheddar.",
-     "zh": "再来半磅切达奶酪。"
+     "speaker": "Cashier",
+     "role": "clerk",
+     "en": "That's 45 yuan.",
+     "zh": "一共 45 元。"
     },
     {
-     "speaker": "Promoter",
-     "role": "试吃促销员",
-     "en": "Try some, sir? It's on special!",
-     "zh": "先生，尝一点吗？特价哦！"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "I'll pay by phone.",
+     "zh": "我用手机支付。"
     }
    ],
    "china": [
     {
-     "en": "In China, many people buy groceries on apps like Hema (Freshippo) or Meituan, and goods are delivered to the door in about 30 minutes.",
-     "zh": "在中国，很多人用盒马、美团等 App 买菜，大约30分钟送货上门。"
+     "en": "Many Chinese people buy groceries with apps like Hema or Meituan; supermarkets also have self-checkout.",
+     "zh": "很多人用盒马、美团等 App 买菜，超市也普遍有自助结账机。"
     },
     {
-     "en": "Chinese supermarkets have self-checkout lanes where you scan items and pay by QR code; plastic bags are charged separately.",
-     "zh": "中国超市普遍有自助结账机，扫商品后扫码支付；塑料袋需要单独付费。"
-    },
-    {
-     "en": "Traditional wet markets (caishichang) are still popular; vendors weigh, bag and even bargain for you.",
-     "zh": "传统菜市场仍然很常见，摊贩会帮你称重、装袋，还可以讲价。"
+     "en": "Plastic bags cost a little money at Chinese supermarkets, so people bring their own bags.",
+     "zh": "中国超市塑料袋收费，很多人自带购物袋。"
     }
    ],
    "en": "Shopping for Groceries",
-   "zh": "采购食品杂货",
+   "zh": "帮妈妈买菜",
    "grammarZh": "一般现在时"
   },
   {
