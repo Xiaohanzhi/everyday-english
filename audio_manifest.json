@@ -11,7 +11,7 @@
   {
    "file": "assets/audio/u001_s1.mp3",
    "voice": "narrator",
-   "text": "Dan's alarm clock rings.",
+   "text": "Tom's phone alarm rings.",
    "src_text": "unit1 step1"
   },
   {
@@ -437,7 +437,7 @@
   {
    "file": "assets/audio/u003_s1.mp3",
    "voice": "narrator",
-   "text": "Dan pulls the shower curtain shut.",
+   "text": "Tom pulls the shower curtain shut.",
    "src_text": "unit3 step1"
   },
   {
@@ -485,7 +485,7 @@
   {
    "file": "assets/audio/u003_s9.mp3",
    "voice": "narrator",
-   "text": "He puts some deodorant under his arms.",
+   "text": "Then he puts on his pajamas.",
    "src_text": "unit3 step9"
   },
   {
@@ -1013,7 +1013,7 @@
   {
    "file": "assets/audio/u005_s1.mp3",
    "voice": "narrator",
-   "text": "Pam puts on some panties, a bra, and a dress, or a blouse and a skirt, or some pants.",
+   "text": "Jenny puts on a dress, or a blouse and a skirt.",
    "src_text": "unit5 step1"
   },
   {
@@ -1031,7 +1031,7 @@
   {
    "file": "assets/audio/u005_s3.mp3",
    "voice": "narrator",
-   "text": "If it's hot, Pam wears light clothes: a short-sleeved cotton shirt and a pair of cotton shorts.",
+   "text": "If it's hot, Jenny wears light clothes: a short-sleeved cotton shirt and a skirt or shorts.",
    "src_text": "unit5 step3"
   },
   {
@@ -1049,13 +1049,13 @@
   {
    "file": "assets/audio/u005_s6.mp3",
    "voice": "narrator",
-   "text": "If it's cold, Pam wears heavy clothes: a long-sleeved shirt, a wool sweater, and long pants.",
+   "text": "If it's cold, Jenny wears heavy clothes: a long-sleeved shirt, a wool sweater, and pants.",
    "src_text": "unit5 step6"
   },
   {
    "file": "assets/audio/u005_s7.mp3",
    "voice": "narrator",
-   "text": "She wears thick wool socks.",
+   "text": "She wears thick wool socks and pantyhose to keep her legs warm.",
    "src_text": "unit5 step7"
   },
   {
@@ -1583,55 +1583,55 @@
   {
    "file": "assets/audio/u007_s1.mp3",
    "voice": "narrator",
-   "text": "Pam scoops some ground coffee into the filter.",
+   "text": "Dad drinks coffee in the morning.",
    "src_text": "unit7 step1"
   },
   {
    "file": "assets/audio/u007_s2.mp3",
    "voice": "narrator",
-   "text": "Then she pours some water into the coffee maker.",
+   "text": "Jenny wants to make some tea for Grandpa.",
    "src_text": "unit7 step2"
   },
   {
    "file": "assets/audio/u007_s3.mp3",
    "voice": "narrator",
-   "text": "She turns the coffee maker on by pressing the switch.",
+   "text": "She puts some tea leaves in a glass.",
    "src_text": "unit7 step3"
   },
   {
    "file": "assets/audio/u007_s4.mp3",
    "voice": "narrator",
-   "text": "The water heats up and drips through the ground coffee into the coffeepot.",
+   "text": "She pours hot water into the glass.",
    "src_text": "unit7 step4"
   },
   {
    "file": "assets/audio/u007_s5.mp3",
    "voice": "narrator",
-   "text": "Dan boils water in a teakettle.",
+   "text": "The tea leaves soak in the water, and the water becomes tea.",
    "src_text": "unit7 step5"
   },
   {
    "file": "assets/audio/u007_s6.mp3",
    "voice": "narrator",
-   "text": "He pours the hot water into a teapot and adds some tea leaves.",
+   "text": "Jenny brings the glass of tea to Grandpa.",
    "src_text": "unit7 step6"
   },
   {
    "file": "assets/audio/u007_s7.mp3",
    "voice": "narrator",
-   "text": "As the tea leaves soak in the water, the water becomes tea.",
+   "text": "Grandpa takes the glass and sips the tea.",
    "src_text": "unit7 step7"
   },
   {
    "file": "assets/audio/u007_s8.mp3",
    "voice": "narrator",
-   "text": "Dan strains the tea.",
+   "text": "He says, \"Thank you, Jenny. It's delicious!\"",
    "src_text": "unit7 step8"
   },
   {
    "file": "assets/audio/u007_s9.mp3",
    "voice": "narrator",
-   "text": "Then he adds sugar and milk, and stirs his tea.",
+   "text": "Jenny smiles and says, \"You're welcome, Grandpa.\"",
    "src_text": "unit7 step9"
   },
   {
@@ -1829,31 +1829,31 @@
   {
    "file": "assets/audio/u008_s1.mp3",
    "voice": "narrator",
-   "text": "Pam pours some cereal from the box into her bowl.",
+   "text": "Tom pours some cereal from the box into his bowl.",
    "src_text": "unit8 step1"
   },
   {
    "file": "assets/audio/u008_s2.mp3",
    "voice": "narrator",
-   "text": "She pours in some milk and sprinkles some sugar on her cereal.",
+   "text": "He pours in some milk and sprinkles some sugar on his cereal.",
    "src_text": "unit8 step2"
   },
   {
    "file": "assets/audio/u008_s3.mp3",
    "voice": "narrator",
-   "text": "Then she peels a banana, slices it, and puts the slices on her cereal.",
+   "text": "Then he peels a banana, slices it, and puts the slices on his cereal.",
    "src_text": "unit8 step3"
   },
   {
    "file": "assets/audio/u008_s4.mp3",
    "voice": "narrator",
-   "text": "Dan puts two slices of bread into the toaster.",
+   "text": "His mom puts two slices of bread into the toaster.",
    "src_text": "unit8 step4"
   },
   {
    "file": "assets/audio/u008_s5.mp3",
    "voice": "narrator",
-   "text": "By pressing the starter, he lowers the bread into the toaster.",
+   "text": "By pressing the starter, she lowers the bread into the toaster.",
    "src_text": "unit8 step5"
   },
   {
@@ -1871,7 +1871,7 @@
   {
    "file": "assets/audio/u008_s8.mp3",
    "voice": "narrator",
-   "text": "Dan spreads some butter and jam on his toast.",
+   "text": "Tom spreads some peanut butter and jam on his toast.",
    "src_text": "unit8 step8"
   },
   {
@@ -2063,19 +2063,19 @@
   {
    "file": "assets/audio/u009_s1.mp3",
    "voice": "narrator",
-   "text": "There are four burners on Dan's stove.",
+   "text": "There are four burners on our stove.",
    "src_text": "unit9 step1"
   },
   {
    "file": "assets/audio/u009_s2.mp3",
    "voice": "narrator",
-   "text": "He turns on the gas, and one of the burners lights.",
+   "text": "Dad turns on the gas, and one of the burners lights.",
    "src_text": "unit9 step2"
   },
   {
    "file": "assets/audio/u009_s3.mp3",
    "voice": "narrator",
-   "text": "He puts a frying pan on the burner and melts some butter in the pan.",
+   "text": "He puts a frying pan on the burner and pours some cooking oil into the pan.",
    "src_text": "unit9 step3"
   },
   {
@@ -2093,7 +2093,7 @@
   {
    "file": "assets/audio/u009_s6.mp3",
    "voice": "narrator",
-   "text": "Dan flips it over once with a spatula and then takes it out of the pan.",
+   "text": "Dad flips it over once with a spatula and then takes it out of the pan.",
    "src_text": "unit9 step6"
   },
   {
@@ -2429,13 +2429,13 @@
   {
    "file": "assets/audio/u011_s3.mp3",
    "voice": "narrator",
-   "text": "He picks up his keys and wallet and puts them in his pockets.",
+   "text": "He picks up his key card and his school bag.",
    "src_text": "unit11 step3"
   },
   {
    "file": "assets/audio/u011_s4.mp3",
    "voice": "narrator",
-   "text": "He picks up his backpack.",
+   "text": "He puts the key card in his pocket.",
    "src_text": "unit11 step4"
   },
   {
@@ -2795,49 +2795,49 @@
   {
    "file": "assets/audio/u013_s1.mp3",
    "voice": "narrator",
-   "text": "Kate sat in the driver's seat, and her friends sat in the passenger seats.",
+   "text": "Dad sat in the driver's seat, and Tom sat in the back seat.",
    "src_text": "unit13 step1"
   },
   {
    "file": "assets/audio/u013_s2.mp3",
    "voice": "narrator",
-   "text": "She adjusted her seat and the rear-view mirror.",
+   "text": "Dad adjusted his seat and the rear-view mirror.",
    "src_text": "unit13 step2"
   },
   {
    "file": "assets/audio/u013_s3.mp3",
    "voice": "narrator",
-   "text": "She buckled her seat belt.",
+   "text": "He buckled his seat belt.",
    "src_text": "unit13 step3"
   },
   {
    "file": "assets/audio/u013_s4.mp3",
    "voice": "narrator",
-   "text": "Kate put the key into the ignition.",
+   "text": "He put the key into the ignition.",
    "src_text": "unit13 step4"
   },
   {
    "file": "assets/audio/u013_s5.mp3",
    "voice": "narrator",
-   "text": "She turned the key.",
+   "text": "He turned the key.",
    "src_text": "unit13 step5"
   },
   {
    "file": "assets/audio/u013_s6.mp3",
    "voice": "narrator",
-   "text": "She started the car.",
+   "text": "He started the car.",
    "src_text": "unit13 step6"
   },
   {
    "file": "assets/audio/u013_s7.mp3",
    "voice": "narrator",
-   "text": "She looked over her shoulder.",
+   "text": "He looked over his shoulder.",
    "src_text": "unit13 step7"
   },
   {
    "file": "assets/audio/u013_s8.mp3",
    "voice": "narrator",
-   "text": "She backed out of the driveway.",
+   "text": "He backed out of the driveway.",
    "src_text": "unit13 step8"
   },
   {
@@ -3257,128 +3257,62 @@
   {
    "file": "assets/audio/u015_d1.mp3",
    "voice": "clerk",
-   "text": "You were speeding, ma'am.",
+   "text": "Dad, the light is red.",
    "src_text": "unit15 dialogue1 (officer)"
   },
   {
    "file": "assets/audio/u015_d2.mp3",
-   "voice": "girl",
-   "text": "Really, Officer? Sorry.",
+   "voice": "mom",
+   "text": "Yes, we stop at red lights and go on green.",
    "src_text": "unit15 dialogue2 (Kate)"
-  },
-  {
-   "file": "assets/audio/u015_d3.mp3",
-   "voice": "clerk",
-   "text": "Yes, ma'am.",
-   "src_text": "unit15 dialogue3 (attendant)"
-  },
-  {
-   "file": "assets/audio/u015_d4.mp3",
-   "voice": "girl",
-   "text": "Unleaded. Fill it up, please.",
-   "src_text": "unit15 dialogue4 (Kate)"
-  },
-  {
-   "file": "assets/audio/u015_d5.mp3",
-   "voice": "clerk",
-   "text": "Oil's okay, ma'am.",
-   "src_text": "unit15 dialogue5 (attendant)"
-  },
-  {
-   "file": "assets/audio/u015_d6.mp3",
-   "voice": "clerk",
-   "text": "That'll be fifteen dollars.",
-   "src_text": "unit15 dialogue6 (attendant)"
-  },
-  {
-   "file": "assets/audio/u015_d7.mp3",
-   "voice": "girl",
-   "text": "Here you go.",
-   "src_text": "unit15 dialogue7 (Kate)"
   },
   {
    "file": "assets/audio/u015_s1.mp3",
    "voice": "narrator",
-   "text": "At an intersection Kate stopped for a red light.",
+   "text": "At an intersection, Dad stopped for a red light.",
    "src_text": "unit15 step1"
-  },
-  {
-   "file": "assets/audio/u015_s10.mp3",
-   "voice": "narrator",
-   "text": "...and pulled up to a pump.",
-   "src_text": "unit15 step10"
-  },
-  {
-   "file": "assets/audio/u015_s11.mp3",
-   "voice": "narrator",
-   "text": "She told the attendant what kind of gas she wanted and how much.",
-   "src_text": "unit15 step11"
-  },
-  {
-   "file": "assets/audio/u015_s12.mp3",
-   "voice": "narrator",
-   "text": "He pumped the gas for her...",
-   "src_text": "unit15 step12"
-  },
-  {
-   "file": "assets/audio/u015_s13.mp3",
-   "voice": "narrator",
-   "text": "...and checked the oil.",
-   "src_text": "unit15 step13"
-  },
-  {
-   "file": "assets/audio/u015_s14.mp3",
-   "voice": "narrator",
-   "text": "Then she paid him.",
-   "src_text": "unit15 step14"
   },
   {
    "file": "assets/audio/u015_s2.mp3",
    "voice": "narrator",
-   "text": "When the light turned green, she went ahead.",
+   "text": "When the light turned green, he went ahead.",
    "src_text": "unit15 step2"
   },
   {
    "file": "assets/audio/u015_s3.mp3",
    "voice": "narrator",
-   "text": "Once, she went over the speed limit.",
+   "text": "Tom sat in the back and wore his seat belt.",
    "src_text": "unit15 step3"
   },
   {
    "file": "assets/audio/u015_s4.mp3",
    "voice": "narrator",
-   "text": "A police officer stopped her and gave her a ticket.",
+   "text": "At the end of the trip, Dad parked...",
    "src_text": "unit15 step4"
   },
   {
    "file": "assets/audio/u015_s5.mp3",
    "voice": "narrator",
-   "text": "At the end of her trip, she parked...",
+   "text": "...and turned the car off.",
    "src_text": "unit15 step5"
   },
   {
    "file": "assets/audio/u015_s6.mp3",
    "voice": "narrator",
-   "text": "...and turned the car off.",
+   "text": "Dad and Tom got out of the car...",
    "src_text": "unit15 step6"
   },
   {
    "file": "assets/audio/u015_s7.mp3",
    "voice": "narrator",
-   "text": "Kate and her friends got out of the car...",
+   "text": "...and Dad locked it.",
    "src_text": "unit15 step7"
   },
   {
    "file": "assets/audio/u015_s8.mp3",
    "voice": "narrator",
-   "text": "...and Kate locked it.",
+   "text": "Tom held Dad's hand when they crossed the street.",
    "src_text": "unit15 step8"
-  },
-  {
-   "file": "assets/audio/u015_s9.mp3",
-   "voice": "narrator",
-   "text": "Kate pulled into a gas station...",
-   "src_text": "unit15 step9"
   },
   {
    "file": "assets/audio/u015_v1.mp3",
@@ -4097,7 +4031,7 @@
   {
    "file": "assets/audio/u018_s1.mp3",
    "voice": "narrator",
-   "text": "Dan walked on the sidewalk.",
+   "text": "Tom walked to school on the sidewalk.",
    "src_text": "unit18 step1"
   },
   {
@@ -4127,7 +4061,7 @@
   {
    "file": "assets/audio/u018_s6.mp3",
    "voice": "narrator",
-   "text": "Once he took a shortcut across a parking lot.",
+   "text": "Once he took a shortcut through the park.",
    "src_text": "unit18 step6"
   },
   {
@@ -4655,25 +4589,25 @@
   {
    "file": "assets/audio/u021_s2.mp3",
    "voice": "narrator",
-   "text": "He also rinsed some tomatoes and cucumbers, and sliced them with a knife on a cutting board.",
+   "text": "He also rinsed some tomatoes and cucumbers, and sliced them with a knife.",
    "src_text": "unit21 step2"
   },
   {
    "file": "assets/audio/u021_s3.mp3",
    "voice": "narrator",
-   "text": "He mixed the lettuce and the cucumber in a salad bowl, and laid the tomato slices on top.",
+   "text": "He mixed the lettuce and the cucumber in a salad bowl, and laid the tomatoes on top.",
    "src_text": "unit21 step3"
   },
   {
    "file": "assets/audio/u021_s4.mp3",
    "voice": "narrator",
-   "text": "Then he sprinkled some grated cheese on the salad.",
+   "text": "Then he sprinkled some raisins on the salad.",
    "src_text": "unit21 step4"
   },
   {
    "file": "assets/audio/u021_s5.mp3",
    "voice": "narrator",
-   "text": "He poured some dressing on his salad.",
+   "text": "He poured some salad dressing on his salad.",
    "src_text": "unit21 step5"
   },
   {
@@ -6419,7 +6353,7 @@
   {
    "file": "assets/audio/u031_d3.mp3",
    "voice": "clerk",
-   "text": "That's the end of the news.",
+   "text": "That's the end of the cartoon.",
    "src_text": "unit31 dialogue3 (news anchor)"
   },
   {
@@ -6431,7 +6365,7 @@
   {
    "file": "assets/audio/u031_s10.mp3",
    "voice": "narrator",
-   "text": "He watched the news,...",
+   "text": "He watched his favorite cartoon again...",
    "src_text": "unit31 step10"
   },
   {
@@ -6455,7 +6389,7 @@
   {
    "file": "assets/audio/u031_s3.mp3",
    "voice": "narrator",
-   "text": "A game show was on.",
+   "text": "A cartoon was on.",
    "src_text": "unit31 step3"
   },
   {
@@ -7025,7 +6959,7 @@
   {
    "file": "assets/audio/u034_s15.mp3",
    "voice": "narrator",
-   "text": "She set her alarm clock...",
+   "text": "She set the alarm on her phone...",
    "src_text": "unit34 step15"
   },
   {
@@ -7553,7 +7487,7 @@
   {
    "file": "assets/audio/u036_s1.mp3",
    "voice": "narrator",
-   "text": "Pam picks up things that are lying around.",
+   "text": "Tom and Jenny help Mom clean the house.",
    "src_text": "unit36 step1"
   },
   {
@@ -7619,7 +7553,7 @@
   {
    "file": "assets/audio/u036_s2.mp3",
    "voice": "narrator",
-   "text": "She dusts the furniture...",
+   "text": "Tom dusts the furniture...",
    "src_text": "unit36 step2"
   },
   {
@@ -7637,13 +7571,13 @@
   {
    "file": "assets/audio/u036_s4.mp3",
    "voice": "narrator",
-   "text": "Then she vacuums the carpet.",
+   "text": "Then Mom vacuums the carpet.",
    "src_text": "unit36 step4"
   },
   {
    "file": "assets/audio/u036_s5.mp3",
    "voice": "narrator",
-   "text": "Dan cleans the refrigerator...",
+   "text": "Mom cleans the refrigerator...",
    "src_text": "unit36 step5"
   },
   {
@@ -7655,7 +7589,7 @@
   {
    "file": "assets/audio/u036_s7.mp3",
    "voice": "narrator",
-   "text": "Pam wipes the countertops...",
+   "text": "Jenny wipes the countertops...",
    "src_text": "unit36 step7"
   },
   {
@@ -7667,7 +7601,7 @@
   {
    "file": "assets/audio/u036_s9.mp3",
    "voice": "narrator",
-   "text": "Dan scrubs the toilet with a toilet brush,...",
+   "text": "Dad scrubs the toilet with a toilet brush,...",
    "src_text": "unit36 step9"
   },
   {
@@ -9359,7 +9293,7 @@
   {
    "file": "assets/audio/u044_s3.mp3",
    "voice": "narrator",
-   "text": "I turned on a flashlight...",
+   "text": "I turned on the flashlight on Mom's phone...",
    "src_text": "unit44 step3"
   },
   {
@@ -10529,20 +10463,14 @@
   {
    "file": "assets/audio/u050_d1.mp3",
    "voice": "clerk",
-   "text": "Oops. I'd better find a cash machine.",
+   "text": "Oops. Mom, where is the ATM?",
    "src_text": "unit50 dialogue1 (Kate)"
   },
   {
    "file": "assets/audio/u050_s1.mp3",
    "voice": "narrator",
-   "text": "Kate needed money...",
+   "text": "Mom needed some money...",
    "src_text": "unit50 step1"
-  },
-  {
-   "file": "assets/audio/u050_s10.mp3",
-   "voice": "narrator",
-   "text": "...and gave her her money.",
-   "src_text": "unit50 step10"
   },
   {
    "file": "assets/audio/u050_s2.mp3",
@@ -10553,43 +10481,43 @@
   {
    "file": "assets/audio/u050_s3.mp3",
    "voice": "narrator",
-   "text": "She took her cash card out of her purse.",
+   "text": "She took her bank card out of her purse.",
    "src_text": "unit50 step3"
   },
   {
    "file": "assets/audio/u050_s4.mp3",
    "voice": "narrator",
-   "text": "She lined up the magnetic strip properly...",
+   "text": "She inserted the card into the slot on the ATM.",
    "src_text": "unit50 step4"
   },
   {
    "file": "assets/audio/u050_s5.mp3",
    "voice": "narrator",
-   "text": "...and inserted the card into the slot on the ATM.",
+   "text": "A message on the screen asked for her PIN...",
    "src_text": "unit50 step5"
   },
   {
    "file": "assets/audio/u050_s6.mp3",
    "voice": "narrator",
-   "text": "A message on the screen asked for her PIN...",
+   "text": "...so she entered her PIN by pressing keys on the keypad.",
    "src_text": "unit50 step6"
   },
   {
    "file": "assets/audio/u050_s7.mp3",
    "voice": "narrator",
-   "text": "...so she entered her PIN by pressing keys on the keypad.",
+   "text": "Then she entered the amount of money she needed.",
    "src_text": "unit50 step7"
   },
   {
    "file": "assets/audio/u050_s8.mp3",
    "voice": "narrator",
-   "text": "Then she entered the amount of money she needed.",
+   "text": "The machine returned her card...",
    "src_text": "unit50 step8"
   },
   {
    "file": "assets/audio/u050_s9.mp3",
    "voice": "narrator",
-   "text": "The machine returned her card...",
+   "text": "...and gave her her money.",
    "src_text": "unit50 step9"
   },
   {
@@ -10967,7 +10895,7 @@
   {
    "file": "assets/audio/u052_s2.mp3",
    "voice": "narrator",
-   "text": "...and picked up the receiver.",
+   "text": "...and tapped the screen to answer the call.",
    "src_text": "unit52 step2"
   },
   {
@@ -11135,7 +11063,7 @@
   {
    "file": "assets/audio/u053_d1.mp3",
    "voice": "clerk",
-   "text": "Can I speak to Dan, please?",
+   "text": "Can I speak to Leo, please?",
    "src_text": "unit53 dialogue1 (Alex)"
   },
   {
@@ -11147,7 +11075,7 @@
   {
    "file": "assets/audio/u053_d3.mp3",
    "voice": "clerk",
-   "text": "This is Alex. I work with Dan. Could you please take a message for him?",
+   "text": "This is Tom, Leo's classmate. Could you please take a message for him?",
    "src_text": "unit53 dialogue3 (Alex)"
   },
   {
@@ -11159,7 +11087,7 @@
   {
    "file": "assets/audio/u053_d5.mp3",
    "voice": "clerk",
-   "text": "It's Alex. Alex Rivera.",
+   "text": "It's Tom. Tom Wang.",
    "src_text": "unit53 dialogue5 (Alex)"
   },
   {
@@ -11171,25 +11099,25 @@
   {
    "file": "assets/audio/u053_d7.mp3",
    "voice": "clerk",
-   "text": "Sure. That's R-I-V-E-R-A.",
+   "text": "Sure. That's T-O-M W-A-N-G.",
    "src_text": "unit53 dialogue7 (Alex)"
   },
   {
    "file": "assets/audio/u053_d8.mp3",
-   "voice": "clerk",
-   "text": "And my number is 555-5959.",
+   "voice": "mom",
+   "text": "And your number?",
    "src_text": "unit53 dialogue8 (Alex)"
   },
   {
    "file": "assets/audio/u053_d9.mp3",
    "voice": "clerk",
-   "text": "Could you ask him to give me a call, please? Thanks.",
+   "text": "It's 138-1234-5678. Could you ask him to give me a call, please? Thanks.",
    "src_text": "unit53 dialogue9 (Alex)"
   },
   {
    "file": "assets/audio/u053_s1.mp3",
    "voice": "narrator",
-   "text": "I asked to speak to Dan...",
+   "text": "I asked to speak to Leo...",
    "src_text": "unit53 step1"
   },
   {
@@ -11225,7 +11153,7 @@
   {
    "file": "assets/audio/u053_s7.mp3",
    "voice": "narrator",
-   "text": "I also left my number...",
+   "text": "I also left my phone number...",
    "src_text": "unit53 step7"
   },
   {
@@ -11332,56 +11260,56 @@
   },
   {
    "file": "assets/audio/u054_d2.mp3",
-   "voice": "clerk",
-   "text": "Is Dan there, please?",
+   "voice": "teacher",
+   "text": "Is your mom there, please?",
    "src_text": "unit54 dialogue2 (Lester)"
   },
   {
    "file": "assets/audio/u054_d3.mp3",
-   "voice": "clerk",
-   "text": "Sorry. He can't come to the phone right now. Can I take a message?",
+   "voice": "girl",
+   "text": "Sorry. She can't come to the phone right now. Can I take a message?",
    "src_text": "unit54 dialogue3 (Pam)"
   },
   {
    "file": "assets/audio/u054_d4.mp3",
-   "voice": "clerk",
-   "text": "Yes, please tell him that Lester called.",
+   "voice": "teacher",
+   "text": "Yes, please tell her that Ms. Wang called.",
    "src_text": "unit54 dialogue4 (Lester)"
   },
   {
    "file": "assets/audio/u054_d5.mp3",
-   "voice": "clerk",
-   "text": "Hi, Lester. This is Dan. You called?",
+   "voice": "mom",
+   "text": "Hi, Ms. Wang. This is Jenny's mom. You called?",
    "src_text": "unit54 dialogue5 (Dan)"
   },
   {
    "file": "assets/audio/u054_s1.mp3",
    "voice": "narrator",
-   "text": "Pam answered the phone...",
+   "text": "Jenny answered the phone...",
    "src_text": "unit54 step1"
   },
   {
    "file": "assets/audio/u054_s2.mp3",
    "voice": "narrator",
-   "text": "...and the caller asked for Dan.",
+   "text": "...and the caller asked for Mom.",
    "src_text": "unit54 step2"
   },
   {
    "file": "assets/audio/u054_s3.mp3",
    "voice": "narrator",
-   "text": "She said he wasn't available and offered to take a message.",
+   "text": "She said Mom wasn't available and offered to take a message.",
    "src_text": "unit54 step3"
   },
   {
    "file": "assets/audio/u054_s4.mp3",
    "voice": "narrator",
-   "text": "The caller left a message for Dan.",
+   "text": "The caller left a message for Mom.",
    "src_text": "unit54 step4"
   },
   {
    "file": "assets/audio/u054_s5.mp3",
    "voice": "narrator",
-   "text": "Pam wrote the message on some notepaper...",
+   "text": "Jenny wrote the message on some notepaper...",
    "src_text": "unit54 step5"
   },
   {
@@ -11393,13 +11321,13 @@
   {
    "file": "assets/audio/u054_s7.mp3",
    "voice": "narrator",
-   "text": "Later, Dan got the message...",
+   "text": "Later, Mom got the message...",
    "src_text": "unit54 step7"
   },
   {
    "file": "assets/audio/u054_s8.mp3",
    "voice": "narrator",
-   "text": "...and returned Lester's call.",
+   "text": "...and returned Ms. Wang's call.",
    "src_text": "unit54 step8"
   },
   {
@@ -12071,13 +11999,13 @@
   {
    "file": "assets/audio/u058_d2.mp3",
    "voice": "clerk",
-   "text": "Thanks, Alex. Come on in.",
+   "text": "Thanks, Tom. Come on in.",
    "src_text": "unit58 dialogue2 (Leo)"
   },
   {
    "file": "assets/audio/u058_d3.mp3",
    "voice": "clerk",
-   "text": "Hey, I've been wanting this CD. Thanks.",
+   "text": "Hey, I've been wanting this toy car. Thanks!",
    "src_text": "unit58 dialogue3 (Leo)"
   },
   {
@@ -12742,8 +12670,8 @@
   },
   {
    "file": "assets/audio/u061_d4.mp3",
-   "voice": "clerk",
-   "text": "That'll be five-twenty.",
+   "voice": "teacher",
+   "text": "That'll be twenty-eight yuan.",
    "src_text": "unit61 dialogue4 (Clerk)"
   },
   {
@@ -14977,6 +14905,12 @@
    "text": "boarding pass",
    "voice": "narrator",
    "src_text": "unit73 vocab boarding pass"
+  },
+  {
+   "file": "assets/audio/u002_s11.mp3",
+   "voice": "narrator",
+   "text": "Then she smiles at herself in the mirror. Her teeth are clean!",
+   "src_text": "u002_s11.mp3"
   }
  ]
 }

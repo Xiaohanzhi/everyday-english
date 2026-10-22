@@ -59,8 +59,8 @@
    },
    "steps": [
     {
-     "en": "Dan's alarm clock rings.",
-     "zh": "丹的闹钟响了。"
+     "en": "Tom's phone alarm rings.",
+     "zh": "汤姆的手机闹铃响了。"
     },
     {
      "en": "He wakes up.",
@@ -68,15 +68,15 @@
     },
     {
      "en": "He gets out of bed.",
-     "zh": "他下床了。"
+     "zh": "他下了床。"
     },
     {
      "en": "He goes into the bathroom.",
-     "zh": "他走进浴室。"
+     "zh": "他走进卫生间。"
     },
     {
      "en": "He uses the toilet and flushes it.",
-     "zh": "他使用马桶并冲水。"
+     "zh": "他上完厕所冲了水。"
     },
     {
      "en": "He washes his hands.",
@@ -260,12 +260,12 @@
    ],
    "china": [
     {
-     "en": "In China, many people wake up with a phone alarm instead of an alarm clock.",
-     "zh": "在中国，很多人用手机闹铃叫自己起床，而不是传统闹钟。可以说 set a phone alarm（定手机闹铃）。"
+     "en": "In China, many children wake up with a phone alarm instead of an alarm clock.",
+     "zh": "在中国，很多孩子用手机闹铃叫自己起床，而不是传统闹钟。可以说 set a phone alarm（定手机闹铃）。"
     },
     {
-     "en": "“Wake up” (wake up) vs “get up” (get out of bed) is a very common pair in daily talk.",
-     "zh": "wake up（醒来）和 get up（起床离床）是日常对话里非常常用的一对词，注意区分。"
+     "en": "Parents often call their children to get up: 'Time to get up!'",
+     "zh": "爸爸妈妈也常常喊孩子起床：“该起床啦！”可以说 Time to get up!"
     }
    ]
   },
@@ -291,15 +291,15 @@
     },
     {
      "en": "She moves her toothbrush up and down and back and forth.",
-     "zh": "她把牙刷上下、来回地刷。"
+     "zh": "她上下、来回地移动牙刷。"
     },
     {
      "en": "To rinse her mouth, she takes some water and swishes it back and forth in her mouth.",
-     "zh": "为了漱口，她含了一口水，在嘴里来回漱。"
+     "zh": "为了漱口，她喝了一点水，在嘴里来回漱了漱。"
     },
     {
      "en": "Then she spits it into the sink.",
-     "zh": "然后她把水吐进水池里。"
+     "zh": "然后她把水吐进水槽。"
     },
     {
      "en": "She rinses off her toothbrush.",
@@ -307,19 +307,23 @@
     },
     {
      "en": "Then she puts it back in the toothbrush rack.",
-     "zh": "然后把牙刷放回牙刷架上。"
+     "zh": "然后她把牙刷放回牙刷架。"
     },
     {
      "en": "She flosses her teeth by pulling out a long piece of floss.",
-     "zh": "她用牙线洁牙：先抽出一段长长的牙线。"
+     "zh": "她拉出一长段牙线来清洁牙齿。"
     },
     {
      "en": "She slips it between her teeth.",
-     "zh": "她把牙线滑进牙缝里。"
+     "zh": "她把牙线滑进牙缝。"
     },
     {
      "en": "She moves it back and forth and up and down.",
-     "zh": "然后前后、上下地移动牙线。"
+     "zh": "她来回、上下地移动牙线。"
+    },
+    {
+     "en": "Then she smiles at herself in the mirror. Her teeth are clean!",
+     "zh": "然后她对着镜子里的自己笑了笑。她的牙齿真干净！"
     }
    ],
    "vocab": {
@@ -481,16 +485,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Many Chinese families store toothbrushes upright in a rinsing cup, not on a wall-mounted rack.",
-     "zh": "中国家庭常把牙刷头朝上放在漱口杯里，而不是挂在壁挂牙刷架上。"
+     "en": "In China, children brush their teeth twice a day, in the morning and before bed.",
+     "zh": "在中国，孩子每天早晚各刷一次牙。可以说 brush teeth twice a day（每天刷两次牙）。"
     },
     {
-     "en": "Many people in China use a cup to hold water for brushing, rather than running water directly from the faucet.",
-     "zh": "很多中国人刷牙时用杯子接水，而不是直接对着水龙头冲。"
-    },
-    {
-     "en": "Electric toothbrushes and water flossers are becoming common in Chinese cities.",
-     "zh": "电动牙刷和冲牙器在中国城市家庭中越来越常见。"
+     "en": "Parents often check: 'Did you brush your teeth?'",
+     "zh": "爸爸妈妈常会检查：“你刷牙了吗？”可以说 Did you brush your teeth?"
     }
    ],
    "en": "Brushing Your Teeth / Flossing",
@@ -509,20 +509,20 @@
    },
    "steps": [
     {
-     "en": "Dan pulls the shower curtain shut.",
-     "zh": "丹拉上浴帘。"
+     "en": "Tom pulls the shower curtain shut.",
+     "zh": "汤姆把淋浴帘拉上了。"
     },
     {
      "en": "By turning the knob, he turns the water on.",
-     "zh": "他转动旋钮，打开水龙头。"
+     "zh": "他转动旋钮，打开了水。"
     },
     {
      "en": "He washes his hair with shampoo and the rest of his body with soap.",
-     "zh": "他用洗发水洗头，用香皂洗身体其他部位。"
+     "zh": "他用洗发水洗头发，用香皂洗身上。"
     },
     {
      "en": "Then he rinses off with water.",
-     "zh": "然后他用水把身上冲干净。"
+     "zh": "然后他用清水冲干净。"
     },
     {
      "en": "After turning the water off, he steps out of the shower.",
@@ -530,19 +530,19 @@
     },
     {
      "en": "He takes a towel from the towel rack.",
-     "zh": "他从毛巾架上取下毛巾。"
+     "zh": "他从毛巾架上拿了一条毛巾。"
     },
     {
      "en": "Then he dries himself off.",
-     "zh": "然后他把身上擦干。"
+     "zh": "然后他把自己擦干。"
     },
     {
      "en": "He wraps a towel around himself and dries his hair.",
-     "zh": "他把毛巾裹在身上，擦干头发。"
+     "zh": "他用毛巾裹住身体，把头发擦干。"
     },
     {
-     "en": "He puts some deodorant under his arms.",
-     "zh": "他在腋下抹一些除臭剂。"
+     "en": "Then he puts on his pajamas.",
+     "zh": "然后他穿上睡衣。"
     }
    ],
    "vocab": {
@@ -728,16 +728,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Chinese bathrooms usually have a glass shower screen or wet-dry separation, not a cloth shower curtain.",
-     "zh": "中国浴室常用玻璃隔断做干湿分离，而不是布浴帘。"
+     "en": "In China, children usually take a shower in the evening before bed.",
+     "zh": "在中国，孩子一般晚上睡觉前洗澡。可以说 take a shower before bed（睡前洗个淋浴）。"
     },
     {
-     "en": "Most Chinese homes use a gas or electric water heater; the shower head is often hand-held.",
-     "zh": "中国家庭多用燃气或电热水器，淋浴喷头多为手持花洒。"
-    },
-    {
-     "en": "Deodorant is less common in China; many people use antiperspirant roll-ons or perfume instead.",
-     "zh": "除臭剂在中国不太普及，很多人用止汗走珠或香水代替。"
+     "en": "Tom puts on his pajamas after the shower, just like you!",
+     "zh": "汤姆洗完澡后穿上睡衣，和你一样！可以说 put on pajamas（穿睡衣）。"
     }
    ],
    "en": "Taking a Shower",
@@ -1090,32 +1086,32 @@
    },
    "steps": [
     {
-     "en": "Pam puts on some panties, a bra, and a dress, or a blouse and a skirt, or some pants.",
-     "zh": "帕姆穿上内裤、文胸，再穿连衣裙，或女式衬衫配短裙，或裤子。"
+     "en": "Jenny puts on a dress, or a blouse and a skirt.",
+     "zh": "珍妮穿上一条连衣裙，或者一件衬衫加一条裙子。"
     },
     {
      "en": "She puts on some socks, or some nylons (stockings), or some pantyhose.",
-     "zh": "她穿上袜子，或尼龙长袜，或连裤袜。"
+     "zh": "她穿上袜子，或者尼龙长筒袜、连裤袜。"
     },
     {
-     "en": "If it's hot, Pam wears light clothes: a short-sleeved cotton shirt and a pair of cotton shorts.",
-     "zh": "天热时，帕姆穿轻薄衣服：短袖棉质衬衫和一条棉短裤。"
+     "en": "If it's hot, Jenny wears light clothes: a short-sleeved cotton shirt and a skirt or shorts.",
+     "zh": "如果天气热，珍妮穿清凉的衣服：短袖棉T恤配裙子或短裤。"
     },
     {
      "en": "She goes barefoot indoors and wears sandals outdoors.",
-     "zh": "她在家里光脚，出门时穿凉鞋。"
+     "zh": "她在室内光着脚，出门就穿凉鞋。"
     },
     {
      "en": "Dressing this way keeps her cool.",
-     "zh": "这样穿让她保持凉爽。"
+     "zh": "这样穿让她很凉快。"
     },
     {
-     "en": "If it's cold, Pam wears heavy clothes: a long-sleeved shirt, a wool sweater, and long pants.",
-     "zh": "天冷时，帕姆穿厚衣服：长袖衬衫、羊毛毛衣和长裤。"
+     "en": "If it's cold, Jenny wears heavy clothes: a long-sleeved shirt, a wool sweater, and pants.",
+     "zh": "如果天气冷，珍妮穿厚实的衣服：长袖衬衫、羊毛衫和长裤。"
     },
     {
-     "en": "She wears thick wool socks.",
-     "zh": "她穿厚羊毛袜。"
+     "en": "She wears thick wool socks and pantyhose to keep her legs warm.",
+     "zh": "她穿上厚羊毛袜和连裤袜，让腿暖暖的。"
     },
     {
      "en": "Before going outdoors, she puts on a heavy coat and some gloves or mittens.",
@@ -1123,11 +1119,11 @@
     },
     {
      "en": "She wraps a scarf around her neck, puts on a hat, and wears some boots.",
-     "zh": "她把围巾围在脖子上，戴上帽子，穿上靴子。"
+     "zh": "她围上围巾、戴上帽子，穿上靴子。"
     },
     {
      "en": "Dressing this way keeps her warm.",
-     "zh": "这样穿让她保暖。"
+     "zh": "这样穿让她很暖和。"
     }
    ],
    "vocab": {
@@ -1486,16 +1482,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Chinese women often wear pants or skirts to work; pantyhose/stockings are more common in winter.",
-     "zh": "中国女性上班多穿裤装或裙装，连裤袜/长袜在冬季更常见。"
+     "en": "In China, girls often wear dresses or skirts, and in winter pantyhose are very common.",
+     "zh": "在中国，女孩常穿连衣裙或裙子，冬天穿连裤袜很常见。可以说 pantyhose（连裤袜）。"
     },
     {
-     "en": "Homes in northern China have central heating in winter, so people take off heavy coats indoors.",
-     "zh": "中国北方冬季室内有暖气，进屋后常脱掉厚外套。"
-    },
-    {
-     "en": "The cheongsam (qipao) is a traditional Chinese dress with frog buttons and often made of silk.",
-     "zh": "旗袍是中国传统女装，使用盘扣，面料常为丝绸。"
+     "en": "School uniforms are also common for Chinese children.",
+     "zh": "中国孩子上学也常穿校服。可以说 school uniform（校服）。"
     }
    ],
    "en": "Getting Dressed – A Woman",
@@ -1662,40 +1654,40 @@
    },
    "steps": [
     {
-     "en": "Pam scoops some ground coffee into the filter.",
-     "zh": "帕姆把磨好的咖啡舀进滤篮。"
+     "en": "Dad drinks coffee in the morning.",
+     "zh": "爸爸早上喝咖啡。"
     },
     {
-     "en": "Then she pours some water into the coffee maker.",
-     "zh": "然后她把水倒进咖啡机。"
+     "en": "Jenny wants to make some tea for Grandpa.",
+     "zh": "珍妮想给爷爷泡杯茶。"
     },
     {
-     "en": "She turns the coffee maker on by pressing the switch.",
-     "zh": "她按下开关启动咖啡机。"
+     "en": "She puts some tea leaves in a glass.",
+     "zh": "她在玻璃杯里放了一些茶叶。"
     },
     {
-     "en": "The water heats up and drips through the ground coffee into the coffeepot.",
-     "zh": "水加热后滴过咖啡粉，滴进咖啡壶里。"
+     "en": "She pours hot water into the glass.",
+     "zh": "她把热水倒进玻璃杯。"
     },
     {
-     "en": "Dan boils water in a teakettle.",
-     "zh": "丹用烧水壶烧水。"
+     "en": "The tea leaves soak in the water, and the water becomes tea.",
+     "zh": "茶叶在水里泡开，水就变成了茶。"
     },
     {
-     "en": "He pours the hot water into a teapot and adds some tea leaves.",
-     "zh": "他把热水倒进茶壶，加入一些茶叶。"
+     "en": "Jenny brings the glass of tea to Grandpa.",
+     "zh": "珍妮把泡好的茶端给爷爷。"
     },
     {
-     "en": "As the tea leaves soak in the water, the water becomes tea.",
-     "zh": "茶叶泡在水里时，水就变成了茶。"
+     "en": "Grandpa takes the glass and sips the tea.",
+     "zh": "爷爷接过杯子，小口地喝着茶。"
     },
     {
-     "en": "Dan strains the tea.",
-     "zh": "丹把茶滤出来。"
+     "en": "He says, \"Thank you, Jenny. It's delicious!\"",
+     "zh": "他说：“谢谢你，珍妮。真好喝！”"
     },
     {
-     "en": "Then he adds sugar and milk, and stirs his tea.",
-     "zh": "然后他加糖和牛奶，搅拌茶水。"
+     "en": "Jenny smiles and says, \"You're welcome, Grandpa.\"",
+     "zh": "珍妮笑着说：“不客气，爷爷。”"
     }
    ],
    "vocab": {
@@ -1891,16 +1883,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Chinese people usually drink hot tea in the morning, often steeping tea leaves directly in a glass or mug rather than using a teapot.",
-     "zh": "中国人早上多喝热茶，常用玻璃杯或马克杯直接泡茶，而不是用 teapot。"
+     "en": "In China, children often make tea for grandparents, usually in a glass.",
+     "zh": "在中国，孩子常给爷爷奶奶泡茶，一般直接用玻璃杯泡。可以说 make tea（泡茶）。"
     },
     {
-     "en": "Coffee is popular in cities, but many people drink instant coffee or use capsule/pod machines rather than drip coffee makers.",
-     "zh": "咖啡在中国城市很流行，但很多人喝速溶咖啡或用胶囊机，而不是滴漏式咖啡机。"
-    },
-    {
-     "en": "Gongfu tea uses a small clay teapot and tiny cups, without milk or sugar.",
-     "zh": "功夫茶用小紫砂壶和小茶杯，不加奶也不加糖。"
+     "en": "Tea is a common gift for elders in China.",
+     "zh": "在中国，茶叶是送给长辈常见的礼物。可以说 a gift of tea（茶叶礼物）。"
     }
    ],
    "en": "Making Coffee / Making Tea",
@@ -1919,36 +1907,36 @@
    },
    "steps": [
     {
-     "en": "Pam pours some cereal from the box into her bowl.",
-     "zh": "帕姆把麦片从盒子里倒进碗里。"
+     "en": "Tom pours some cereal from the box into his bowl.",
+     "zh": "汤姆从盒子里把麦片倒进碗里。"
     },
     {
-     "en": "She pours in some milk and sprinkles some sugar on her cereal.",
-     "zh": "她倒入一些牛奶，在麦片上撒一些糖。"
+     "en": "He pours in some milk and sprinkles some sugar on his cereal.",
+     "zh": "他倒了些牛奶，又在麦片上撒了点糖。"
     },
     {
-     "en": "Then she peels a banana, slices it, and puts the slices on her cereal.",
-     "zh": "然后她剥一根香蕉，切片，放在麦片上。"
+     "en": "Then he peels a banana, slices it, and puts the slices on his cereal.",
+     "zh": "然后他剥了一根香蕉，切成片，放到麦片上。"
     },
     {
-     "en": "Dan puts two slices of bread into the toaster.",
-     "zh": "丹把两片面包放进烤面包机。"
+     "en": "His mom puts two slices of bread into the toaster.",
+     "zh": "妈妈把两片面包放进烤面包机。"
     },
     {
-     "en": "By pressing the starter, he lowers the bread into the toaster.",
-     "zh": "按下启动杆，他把面包降进烤面包机里。"
+     "en": "By pressing the starter, she lowers the bread into the toaster.",
+     "zh": "她按下开关，把面包降进烤面包机。"
     },
     {
      "en": "Hot wires inside the toaster toast the bread.",
-     "zh": "烤面包机里的电热丝把面包烤成吐司。"
+     "zh": "烤面包机里的电热丝把面包烤好。"
     },
     {
      "en": "The toast pops up when it's done.",
-     "zh": "吐司烤好时会弹起来。"
+     "zh": "面包烤好后会弹出来。"
     },
     {
-     "en": "Dan spreads some butter and jam on his toast.",
-     "zh": "丹在吐司上涂一些黄油和果酱。"
+     "en": "Tom spreads some peanut butter and jam on his toast.",
+     "zh": "汤姆在吐司上抹了花生酱和果酱。"
     }
    ],
    "vocab": {
@@ -2143,16 +2131,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Cold cereal with milk is uncommon in China; Chinese breakfast is usually hot porridge, soy milk, steamed buns, or fried dough sticks.",
-     "zh": "冷麦片加牛奶在中国不常见；中式早餐多为热粥、豆浆、包子、油条。"
+     "en": "In China, breakfast is often porridge or baozi, but some children enjoy cereal and toast too.",
+     "zh": "在中国，早餐常是粥或包子，不过也有孩子喜欢麦片和烤吐司。可以说 cereal（麦片）、toast（烤吐司）。"
     },
     {
-     "en": "Toasters are not common in Chinese homes; people heat mantou (steamed buns) or bread in a pan or oven.",
-     "zh": "烤面包机在中国家庭不普及，人们用平底锅或烤箱加热馒头片或面包。"
-    },
-    {
-     "en": "Chinese toast is often spread with condensed milk, bean paste, or rou sauce instead of butter and jam.",
-     "zh": "中式吐司常抹炼乳、豆沙或肉酱，而不是黄油和果酱。"
+     "en": "Peanut butter is a common spread for toast at home.",
+     "zh": "花生酱是家里常见的吐司抹酱。可以说 peanut butter（花生酱）。"
     }
    ],
    "en": "Preparing Cold Cereal / Making Toast",
@@ -2171,32 +2155,32 @@
    },
    "steps": [
     {
-     "en": "There are four burners on Dan's stove.",
-     "zh": "丹的炉子上有四个炉头。"
+     "en": "There are four burners on our stove.",
+     "zh": "我们家的炉灶上有四个炉眼。"
     },
     {
-     "en": "He turns on the gas, and one of the burners lights.",
-     "zh": "他打开煤气，其中一个炉头点燃了。"
+     "en": "Dad turns on the gas, and one of the burners lights.",
+     "zh": "爸爸打开燃气，一个炉眼点着了。"
     },
     {
-     "en": "He puts a frying pan on the burner and melts some butter in the pan.",
-     "zh": "他把煎锅放在炉头上，在锅里融化一些黄油。"
+     "en": "He puts a frying pan on the burner and pours some cooking oil into the pan.",
+     "zh": "他把煎锅放到炉眼上，往锅里倒了些食用油。"
     },
     {
      "en": "He cracks an egg into the pan and throws the shell into the garbage.",
-     "zh": "他把一个鸡蛋磕进锅里，把蛋壳扔进垃圾桶。"
+     "zh": "他把鸡蛋打进锅里，把蛋壳扔进垃圾桶。"
     },
     {
      "en": "The egg fries.",
-     "zh": "鸡蛋在煎着。"
+     "zh": "鸡蛋煎熟了。"
     },
     {
-     "en": "Dan flips it over once with a spatula and then takes it out of the pan.",
-     "zh": "丹用锅铲把它翻一次，然后把它从锅里盛出来。"
+     "en": "Dad flips it over once with a spatula and then takes it out of the pan.",
+     "zh": "爸爸用锅铲把鸡蛋翻了一次面，然后把它盛出煎锅。"
     },
     {
      "en": "He puts the egg on a plate.",
-     "zh": "他把鸡蛋放在盘子里。"
+     "zh": "他把鸡蛋放进盘子。"
     }
    ],
    "vocab": {
@@ -2352,16 +2336,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Chinese people usually fry eggs in an iron wok or frying pan with more oil, often making a 'fried egg with a crispy edge' (jidan).",
-     "zh": "中国人常用铁锅或平底锅煎蛋，油较多，常煎成边缘酥脆的荷包蛋。"
+     "en": "In China, we use cooking oil, not butter, to fry eggs.",
+     "zh": "在中国，我们煎蛋用食用油，不用黄油。可以说 cooking oil（食用油）。"
     },
     {
-     "en": "Most Chinese kitchens use a gas stove or induction cooktop; four-burner ranges and ovens are less common.",
-     "zh": "中国厨房多用燃气灶或电磁炉，四眼灶和烤箱较少见。"
-    },
-    {
-     "en": "A Chinese fried egg is often eaten with congee, fried dough sticks, or soy milk, not with bacon and toast.",
-     "zh": "中式煎蛋常配粥、油条、豆浆，而不是培根和吐司。"
+     "en": "Tom watches Dad fry the egg and waits for breakfast.",
+     "zh": "汤姆看着爸爸煎蛋，等着吃早饭。可以说 watch（看）、wait for（等待）。"
     }
    ],
    "en": "Frying an Egg",
@@ -2552,27 +2532,27 @@
    "steps": [
     {
      "en": "Tom puts on a jacket and zips it up.",
-     "zh": "汤姆穿上外套，拉上拉链。"
+     "zh": "汤姆穿上夹克，拉上了拉链。"
     },
     {
      "en": "He puts on his shoes and ties them.",
      "zh": "他穿上鞋子，系好鞋带。"
     },
     {
-     "en": "He picks up his keys and wallet and puts them in his pockets.",
-     "zh": "他拿起钥匙和钱包，放进兜里。"
+     "en": "He picks up his key card and his school bag.",
+     "zh": "他拿起门禁卡和书包。"
     },
     {
-     "en": "He picks up his backpack.",
-     "zh": "他拿起双肩包。"
+     "en": "He puts the key card in his pocket.",
+     "zh": "他把门禁卡放进口袋。"
     },
     {
      "en": "Then he says goodbye to Jenny.",
-     "zh": "然后他跟珍妮道别。"
+     "zh": "然后他跟珍妮说了再见。"
     },
     {
      "en": "He opens the door, steps outside, and shuts the door.",
-     "zh": "他打开门，走到门外，然后关上门。"
+     "zh": "他打开门，走出去，又关上了门。"
     }
    ],
    "vocab": {
@@ -2705,23 +2685,19 @@
     },
     {
      "speaker": "Tom",
-     "role": "man",
+     "role": "clerk",
      "en": "See you later, Jen.",
      "zh": "回头见，珍。"
     }
    ],
    "china": [
     {
-     "en": "Many Chinese leave home with a phone instead of a wallet, paying by scanning QR codes; keys are often replaced by access cards or phone Bluetooth.",
-     "zh": "很多中国人出门带手机而不是钱包，扫码支付；钥匙常被门禁卡或手机蓝牙代替。"
+     "en": "In China, children often carry a key card or a bus card when going out.",
+     "zh": "在中国，孩子出门常带门禁卡或公交卡。可以说 key card（门禁卡）、bus card（公交卡）。"
     },
     {
-     "en": "Chinese farewell phrases include 'zàijiàn' (goodbye), 'lù shàng xiǎo xīn' (take care on the road), and 'màn zǒu' (take care).",
-     "zh": "中国人道别常说“再见”“路上小心”“慢走”。"
-    },
-    {
-     "en": "Urban commuters in China usually take the subway or bus with a backpack or commuter bag, rather than driving.",
-     "zh": "中国城市通勤族多背双肩包或通勤包，乘地铁/公交上班，而不是开车。"
+     "en": "Tom says goodbye before leaving, just like a polite Chinese child.",
+     "zh": "汤姆出门前会说再见，就像有礼貌的中国孩子。可以说 say goodbye（说再见）。"
     }
    ],
    "en": "Leaving the House",
@@ -2971,36 +2947,36 @@
    },
    "steps": [
     {
-     "en": "Kate sat in the driver's seat, and her friends sat in the passenger seats.",
-     "zh": "凯特坐在驾驶座上，朋友们坐在乘客座位上。"
+     "en": "Dad sat in the driver's seat, and Tom sat in the back seat.",
+     "zh": "爸爸坐在驾驶座，汤姆坐在后座。"
     },
     {
-     "en": "She adjusted her seat and the rear-view mirror.",
-     "zh": "她调整了座椅和后视镜。"
+     "en": "Dad adjusted his seat and the rear-view mirror.",
+     "zh": "爸爸调整了座位和后视镜。"
     },
     {
-     "en": "She buckled her seat belt.",
-     "zh": "她系好了安全带。"
+     "en": "He buckled his seat belt.",
+     "zh": "他系上了安全带。"
     },
     {
-     "en": "Kate put the key into the ignition.",
-     "zh": "凯特把钥匙插入点火开关。"
+     "en": "He put the key into the ignition.",
+     "zh": "他把钥匙插进点火开关。"
     },
     {
-     "en": "She turned the key.",
-     "zh": "她转动了钥匙。"
+     "en": "He turned the key.",
+     "zh": "他转动了钥匙。"
     },
     {
-     "en": "She started the car.",
-     "zh": "她发动了汽车。"
+     "en": "He started the car.",
+     "zh": "他发动了汽车。"
     },
     {
-     "en": "She looked over her shoulder.",
-     "zh": "她回头看了看（肩膀后方）。"
+     "en": "He looked over his shoulder.",
+     "zh": "他回头看了看。"
     },
     {
-     "en": "She backed out of the driveway.",
-     "zh": "她把车倒出车道。"
+     "en": "He backed out of the driveway.",
+     "zh": "他把车倒出了车道。"
     }
    ],
    "dialogue": [],
@@ -3127,16 +3103,12 @@
    ],
    "china": [
     {
-     "en": "In China, before starting out you also adjust the seat and mirrors, and you must wear a seat belt.",
-     "zh": "在中国开车前同样要先调座椅和后视镜，并且全车人员都必须系安全带。"
+     "en": "In China, children must sit in the back seat and wear a seat belt.",
+     "zh": "在中国，孩子要坐在后排并系好安全带。可以说 wear a seat belt（系安全带）。"
     },
     {
-     "en": "Many cars in China are automatic (自动挡), so people just put it in D, release the brake, and go.",
-     "zh": "中国很多车是自动挡，挂 D 挡、松刹车就能起步；手动挡（manual）则需要踩离合挂挡。"
-    },
-    {
-     "en": "Before backing up, Chinese drivers also check the rear-view mirror and the blind spot.",
-     "zh": "倒车前，中国司机同样要看后视镜和盲区（blind spot），确认安全。"
+     "en": "Tom watches Dad drive and learns car words.",
+     "zh": "汤姆看着爸爸开车，顺便学汽车词汇。可以说 watch Dad drive（看爸爸开车）。"
     }
    ]
   },
@@ -3382,60 +3354,36 @@
    },
    "steps": [
     {
-     "en": "At an intersection Kate stopped for a red light.",
-     "zh": "在十字路口，Kate 因红灯停了下来。"
+     "en": "At an intersection, Dad stopped for a red light.",
+     "zh": "在路口，爸爸看到红灯停了下来。"
     },
     {
-     "en": "When the light turned green, she went ahead.",
-     "zh": "灯变绿时，她继续向前开。"
+     "en": "When the light turned green, he went ahead.",
+     "zh": "绿灯亮了，他才继续往前走。"
     },
     {
-     "en": "Once, she went over the speed limit.",
-     "zh": "有一次，她超速了。"
+     "en": "Tom sat in the back and wore his seat belt.",
+     "zh": "汤姆坐在后排，系着安全带。"
     },
     {
-     "en": "A police officer stopped her and gave her a ticket.",
-     "zh": "一位警察拦住她，给她开了罚单。"
-    },
-    {
-     "en": "At the end of her trip, she parked...",
-     "zh": "行程结束时，她停好车……"
+     "en": "At the end of the trip, Dad parked...",
+     "zh": "到达目的地后，爸爸停好了车……"
     },
     {
      "en": "...and turned the car off.",
-     "zh": "然后熄火。"
+     "zh": "……然后熄了火。"
     },
     {
-     "en": "Kate and her friends got out of the car...",
-     "zh": "Kate 和朋友们下了车……"
+     "en": "Dad and Tom got out of the car...",
+     "zh": "爸爸和汤姆下了车……"
     },
     {
-     "en": "...and Kate locked it.",
-     "zh": "Kate 锁好了车。"
+     "en": "...and Dad locked it.",
+     "zh": "……爸爸锁好了车。"
     },
     {
-     "en": "Kate pulled into a gas station...",
-     "zh": "Kate 把车开进加油站……"
-    },
-    {
-     "en": "...and pulled up to a pump.",
-     "zh": "然后停到一个油泵前。"
-    },
-    {
-     "en": "She told the attendant what kind of gas she wanted and how much.",
-     "zh": "她告诉服务员要哪种汽油、加多少。"
-    },
-    {
-     "en": "He pumped the gas for her...",
-     "zh": "他帮她加油……"
-    },
-    {
-     "en": "...and checked the oil.",
-     "zh": "还检查了机油。"
-    },
-    {
-     "en": "Then she paid him.",
-     "zh": "然后她付了钱。"
+     "en": "Tom held Dad's hand when they crossed the street.",
+     "zh": "过马路时，汤姆紧紧拉着爸爸的手。"
     }
    ],
    "vocab": {
@@ -3747,60 +3695,26 @@
    ],
    "dialogue": [
     {
-     "speaker": "officer",
+     "speaker": "Tom",
      "role": "clerk",
-     "en": "You were speeding, ma'am.",
-     "zh": "您超速了，女士。"
+     "en": "Dad, the light is red.",
+     "zh": "爸爸，红灯亮了。"
     },
     {
-     "speaker": "Kate",
-     "role": "girl",
-     "en": "Really, Officer? Sorry.",
-     "zh": "真的吗，警官？对不起。"
-    },
-    {
-     "speaker": "attendant",
-     "role": "clerk",
-     "en": "Yes, ma'am.",
-     "zh": "好的，女士。"
-    },
-    {
-     "speaker": "Kate",
-     "role": "girl",
-     "en": "Unleaded. Fill it up, please.",
-     "zh": "无铅汽油，请加满。"
-    },
-    {
-     "speaker": "attendant",
-     "role": "clerk",
-     "en": "Oil's okay, ma'am.",
-     "zh": "机油没问题，女士。"
-    },
-    {
-     "speaker": "attendant",
-     "role": "clerk",
-     "en": "That'll be fifteen dollars.",
-     "zh": "一共十五美元。"
-    },
-    {
-     "speaker": "Kate",
-     "role": "girl",
-     "en": "Here you go.",
-     "zh": "给你。"
+     "speaker": "Dad",
+     "role": "mom",
+     "en": "Yes, we stop at red lights and go on green.",
+     "zh": "对，红灯停、绿灯行。"
     }
    ],
    "china": [
     {
-     "en": "In China, gas stations are often self-service or full-service; drivers usually pay inside the station or by scanning a QR code.",
-     "zh": "中国的加油站有自助也有全服务式；司机通常在站内付款或扫码支付。"
+     "en": "In China, everyone must follow the traffic light: stop at red, go on green.",
+     "zh": "在中国，人人都要遵守交通信号灯：红灯停、绿灯行。可以说 stop at red, go on green（红灯停、绿灯行）。"
     },
     {
-     "en": "Chinese expressways have toll gates where drivers pay by scanning an ETC card or stopping at a booth.",
-     "zh": "中国高速公路有收费站，司机通过 ETC 卡或停车缴费来付通行费。"
-    },
-    {
-     "en": "Speed cameras and red-light cameras are common on Chinese roads, and fines are paid via phone apps.",
-     "zh": "中国道路上常见测速摄像头和闯红灯摄像头，罚款通过手机 App 缴纳。"
+     "en": "Children hold their parents' hand when crossing the street.",
+     "zh": "孩子过马路时要拉好大人的手。可以说 hold hands（手拉手）。"
     }
    ],
    "en": "Driving Along",
@@ -4213,12 +4127,12 @@
    },
    "steps": [
     {
-     "en": "Dan walked on the sidewalk.",
-     "zh": "Dan 在人行道上走。"
+     "en": "Tom walked to school on the sidewalk.",
+     "zh": "汤姆沿着人行道走去学校。"
     },
     {
      "en": "Sometimes he stepped over dirt or puddles.",
-     "zh": "有时他跨过泥土或水坑。"
+     "zh": "有时他会跨过泥土或小水坑。"
     },
     {
      "en": "Once, he tripped on a crack in the sidewalk.",
@@ -4226,23 +4140,23 @@
     },
     {
      "en": "At a corner, he stopped at the curb and waited for traffic to pass.",
-     "zh": "在街角，他在路缘石边停下，等车辆通过。"
+     "zh": "在路口，他站在路边等车辆通过。"
     },
     {
      "en": "Then he crossed the street by walking in the crosswalk.",
-     "zh": "然后他走斑马线过了马路。"
+     "zh": "然后他沿着斑马线穿过了马路。"
     },
     {
-     "en": "Once he took a shortcut across a parking lot.",
-     "zh": "有一次他抄近路穿过一个停车场。"
+     "en": "Once he took a shortcut through the park.",
+     "zh": "有一次，他从公园里抄了近路。"
     },
     {
      "en": "When he could, he ran because he was late.",
-     "zh": "来得及的时候他就跑，因为要迟到了。"
+     "zh": "能跑的时候他就跑，因为他要迟到了。"
     },
     {
      "en": "He crossed a busy street by using a pedestrian overpass.",
-     "zh": "他走人行天桥穿过一条繁忙的马路。"
+     "zh": "他通过人行天桥穿过了繁忙的马路。"
     }
    ],
    "vocab": {
@@ -4413,12 +4327,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "In China, pedestrians often use subway crossings or footbridges instead of jaywalking, and many intersections have countdown traffic lights.",
-     "zh": "在中国，行人通常走地下通道或人行天桥，而不是乱穿马路；很多路口有红绿灯倒计时。"
+     "en": "In China, children often walk to school with their parents or grandparents.",
+     "zh": "在中国，孩子常由父母或爷爷奶奶陪着步行上学。可以说 walk to school（走路上学）。"
     },
     {
-     "en": "Chinese cities have sidewalks and bike lanes, but sidewalks are sometimes blocked by e-bikes or street vendors.",
-     "zh": "中国城市有人行道和自行车道，但人行道有时会被电动车或摊贩占用。"
+     "en": "Pedestrian overpasses are common near Chinese schools.",
+     "zh": "中国学校附近常见人行天桥。可以说 pedestrian overpass（人行天桥）。"
     }
    ],
    "en": "Walking Somewhere",
@@ -4802,23 +4716,23 @@
    "steps": [
     {
      "en": "Paul rinsed some lettuce by running water over it, and drained it in a colander.",
-     "zh": "保罗用水冲洗生菜，然后放在滤水篮里沥干。"
+     "zh": "保罗用水冲洗生菜，再用沥水篮把水沥干。"
     },
     {
-     "en": "He also rinsed some tomatoes and cucumbers, and sliced them with a knife on a cutting board.",
-     "zh": "他又冲洗了西红柿和黄瓜，在砧板上用刀切片。"
+     "en": "He also rinsed some tomatoes and cucumbers, and sliced them with a knife.",
+     "zh": "他还洗了西红柿和黄瓜，用刀切成片。"
     },
     {
-     "en": "He mixed the lettuce and the cucumber in a salad bowl, and laid the tomato slices on top.",
-     "zh": "他把生菜和黄瓜在沙拉碗里拌匀，再把西红柿片摆在上层。"
+     "en": "He mixed the lettuce and the cucumber in a salad bowl, and laid the tomatoes on top.",
+     "zh": "他把生菜和黄瓜在沙拉碗里拌好，把西红柿片摆在上面。"
     },
     {
-     "en": "Then he sprinkled some grated cheese on the salad.",
-     "zh": "接着他在沙拉上撒了一些擦碎的奶酪。"
+     "en": "Then he sprinkled some raisins on the salad.",
+     "zh": "然后他往沙拉上撒了一些葡萄干。"
     },
     {
-     "en": "He poured some dressing on his salad.",
-     "zh": "他又在沙拉上浇了一些沙拉酱。"
+     "en": "He poured some salad dressing on his salad.",
+     "zh": "他往沙拉上倒了些沙拉酱。"
     }
    ],
    "vocab": {
@@ -4974,16 +4888,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "Chinese home cooking rarely uses western salad dressing; cold dishes are usually tossed with soy sauce, vinegar, garlic and chili oil.",
-     "zh": "中国家庭很少用西式沙拉酱，凉菜一般用酱油、醋、蒜末、辣椒油凉拌。"
+     "en": "In China, children help make salad or cold dishes (liangcai) at home.",
+     "zh": "在中国，孩子在家会帮忙做沙拉或凉菜。可以说 cold dish（凉菜）、salad（沙拉）。"
     },
     {
-     "en": "Iceberg lettuce is now common in Chinese supermarkets, but many families still prefer to blanch vegetables instead of eating them raw.",
-     "zh": "现在超市能买到西生菜，但很多中国人仍习惯把蔬菜焯水后再吃，而不是生吃。"
-    },
-    {
-     "en": "A 'salad spinner' or colander is less common in Chinese kitchens; people usually just shake the washed greens in a basket.",
-     "zh": "中国家庭里沙拉脱水篮不太常见，洗好的菜一般放在菜筐里自然沥干。"
+     "en": "Raisins are a healthy sweet topping children love.",
+     "zh": "葡萄干是孩子喜欢的健康甜味配料。可以说 raisins（葡萄干）。"
     }
    ],
    "en": "Making a Salad",
@@ -6711,47 +6621,47 @@
     },
     {
      "en": "...and turned the TV on.",
-     "zh": "然后打开了电视。"
+     "zh": "……打开了电视。"
     },
     {
-     "en": "A game show was on.",
-     "zh": "一个游戏节目正在播出。"
+     "en": "A cartoon was on.",
+     "zh": "电视上正在播动画片。"
     },
     {
      "en": "Tom didn't want to watch it...",
-     "zh": "汤姆不想看这个节目……"
+     "zh": "汤姆不想看这个……"
     },
     {
      "en": "...so he used the remote...",
-     "zh": "于是他用遥控器……"
+     "zh": "……于是他拿起遥控器……"
     },
     {
      "en": "...to change channels.",
-     "zh": "换了频道。"
+     "zh": "……换频道。"
     },
     {
      "en": "He turned up the volume so he could hear better.",
-     "zh": "他调大了音量，以便听得更清楚。"
+     "zh": "他调大了音量，好听得更清楚。"
     },
     {
      "en": "During a commercial...",
-     "zh": "在广告期间……"
+     "zh": "放广告的时候……"
     },
     {
      "en": "...he went to the kitchen for a snack.",
-     "zh": "他去厨房找零食吃。"
+     "zh": "……他去厨房找零食吃。"
     },
     {
-     "en": "He watched the news,...",
-     "zh": "他看了新闻……"
+     "en": "He watched his favorite cartoon again...",
+     "zh": "他又看起了最喜欢的动画片……"
     },
     {
      "en": "...and when it ended,...",
-     "zh": "当新闻结束时……"
+     "zh": "……等动画片结束……"
     },
     {
      "en": "...he turned the TV off.",
-     "zh": "他关掉了电视。"
+     "zh": "……他关掉了电视。"
     }
    ],
    "vocab": {
@@ -6900,32 +6810,32 @@
    ],
    "dialogue": [
     {
-     "speaker": "game show host",
-     "role": "主持人",
+     "speaker": "TV",
+     "role": "teacher",
      "en": "Now, for fifty-three dollars, what's the name of...",
-     "zh": "现在，为了五十三美元，它叫什么名字……"
+     "zh": "现在，五十三美元奖金，请问……叫什么名字？"
     },
     {
      "speaker": "Tom",
-     "role": "汤姆",
+     "role": "clerk",
      "en": "That's boring.",
      "zh": "真无聊。"
     },
     {
-     "speaker": "news anchor",
-     "role": "新闻主播",
-     "en": "That's the end of the news.",
-     "zh": "新闻到此结束。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "That's the end of the cartoon.",
+     "zh": "动画片放完了。"
     }
    ],
    "china": [
     {
-     "en": "In China, most people watch shows through streaming apps on smart TVs or phones (like iQiyi and Youku) rather than tuning into over-the-air channels.",
-     "zh": "在中国，大多数人通过智能电视或手机上的流媒体应用（如爱奇艺、优酷）追剧，而不是调传统电视频道。"
+     "en": "In China, children watch cartoons on TV, and parents often limit screen time.",
+     "zh": "在中国，孩子看电视上的动画片，爸爸妈妈常常会限制看电视的时间。可以说 cartoon（动画片）、screen time（屏幕时间）。"
     },
     {
-     "en": "Chinese families often eat sunflower seeds or drink tea while watching TV together in the living room.",
-     "zh": "中国家庭在客厅一起看电视时，常嗑瓜子或喝茶当零食。"
+     "en": "The remote control is called yaokongqi (遥控器) in Chinese.",
+     "zh": "在中国，遥控器叫“遥控器”。可以说 remote control（遥控器）。"
     }
    ],
    "en": "Watching Television",
@@ -7320,23 +7230,23 @@
    "steps": [
     {
      "en": "When it got late,...",
-     "zh": "天色晚了……"
+     "zh": "天晚了……"
     },
     {
      "en": "...Jenny yawned.",
-     "zh": "珍妮打了个哈欠。"
+     "zh": "……珍妮打了个哈欠。"
     },
     {
      "en": "She said goodnight to her parents.",
-     "zh": "她向父母道了晚安。"
+     "zh": "她跟爸爸妈妈说了晚安。"
     },
     {
      "en": "She went upstairs to her room...",
-     "zh": "她上楼回房间……"
+     "zh": "她上楼回到自己的房间……"
     },
     {
      "en": "...and changed into her nightgown.",
-     "zh": "换上了睡衣。"
+     "zh": "……换上了睡裙。"
     },
     {
      "en": "She hung some of her clothes up in the closet...",
@@ -7344,59 +7254,59 @@
     },
     {
      "en": "...and put her dirty clothes in the laundry basket.",
-     "zh": "把脏衣服放进洗衣篮。"
+     "zh": "……把脏衣服放进洗衣篮。"
     },
     {
      "en": "She brushed her teeth,...",
-     "zh": "她刷牙……"
+     "zh": "她刷了牙……"
     },
     {
      "en": "...washed her face,...",
-     "zh": "洗脸……"
+     "zh": "……洗了脸……"
     },
     {
      "en": "...and used the toilet.",
-     "zh": "然后上厕所。"
+     "zh": "……上了厕所。"
     },
     {
      "en": "After turning on her bedside lamp,...",
-     "zh": "打开床头灯后……"
+     "zh": "打开床头灯之后……"
     },
     {
      "en": "...she turned off the room light.",
-     "zh": "她关掉了房间的灯。"
+     "zh": "……她关掉了房间的大灯。"
     },
     {
      "en": "She pulled back the covers...",
-     "zh": "她拉开被子……"
+     "zh": "她掀开被子……"
     },
     {
      "en": "...and got into bed.",
-     "zh": "然后上床。"
+     "zh": "……躺上了床。"
     },
     {
-     "en": "She set her alarm clock...",
-     "zh": "她设好闹钟……"
+     "en": "She set the alarm on her phone...",
+     "zh": "她在手机上设了闹铃……"
     },
     {
      "en": "...and put it on her nightstand.",
-     "zh": "把它放在床头柜上。"
+     "zh": "……把手机放在床头柜上。"
     },
     {
      "en": "She read in bed for a while.",
-     "zh": "她在床上看了一会儿书。"
+     "zh": "她靠在床上读了一会儿书。"
     },
     {
      "en": "Finally, she turned off the lamp,...",
-     "zh": "最后，她关掉灯……"
+     "zh": "最后，她关掉了台灯……"
     },
     {
      "en": "...lay down,...",
-     "zh": "躺下……"
+     "zh": "……躺好……"
     },
     {
      "en": "...and fell asleep.",
-     "zh": "然后睡着了。"
+     "zh": "……睡着了。"
     }
    ],
    "vocab": {
@@ -7627,26 +7537,26 @@
    ],
    "dialogue": [
     {
-     "speaker": "Jenny's parents",
-     "role": "珍妮的父母",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "Goodnight, Jen.",
      "zh": "晚安，珍。"
     },
     {
      "speaker": "Jenny",
-     "role": "珍妮",
+     "role": "girl",
      "en": "Goodnight, Mom, Dad.",
      "zh": "晚安，妈妈，爸爸。"
     }
    ],
    "china": [
     {
-     "en": "In many Chinese apartments, dirty clothes go into a washing machine, not a laundry basket; and drying happens on the balcony.",
-     "zh": "在很多中国公寓里，脏衣服直接进洗衣机，而不是放在洗衣篮里；衣服晾在阳台。"
+     "en": "In China, children often say 'wan an' (晚安) to parents before bed.",
+     "zh": "在中国，孩子睡前会对爸爸妈妈说“晚安”。可以说 say goodnight（说晚安）。"
     },
     {
-     "en": "Chinese bedrooms usually have a bedside table with a lamp and a phone charger (instead of an alarm clock).",
-     "zh": "中国卧室通常也有床头柜，上面放灯和手机充电器（而不是闹钟）。"
+     "en": "Many children use their phone as an alarm clock now.",
+     "zh": "现在很多孩子用手机当闹钟。可以说 set an alarm（定闹铃）。"
     }
    ],
    "en": "Going to Bed",
@@ -7865,60 +7775,60 @@
    },
    "steps": [
     {
-     "en": "Pam picks up things that are lying around.",
-     "zh": "帕姆把散落的东西收拾起来。"
+     "en": "Tom and Jenny help Mom clean the house.",
+     "zh": "汤姆和珍妮帮妈妈打扫房子。"
     },
     {
-     "en": "She dusts the furniture...",
-     "zh": "她给家具掸灰……"
+     "en": "Tom dusts the furniture...",
+     "zh": "汤姆掸掉家具上的灰尘……"
     },
     {
      "en": "...and the woodwork.",
-     "zh": "还有木制品（门框等）。"
+     "zh": "……还有木制门窗框。"
     },
     {
-     "en": "Then she vacuums the carpet.",
-     "zh": "然后她用吸尘器吸地毯。"
+     "en": "Then Mom vacuums the carpet.",
+     "zh": "然后妈妈用吸尘器吸地毯。"
     },
     {
-     "en": "Dan cleans the refrigerator...",
-     "zh": "丹清洁冰箱……"
+     "en": "Mom cleans the refrigerator...",
+     "zh": "妈妈清理冰箱……"
     },
     {
      "en": "...and throws out spoiled food.",
-     "zh": "把变质的食物扔掉。"
+     "zh": "……扔掉坏掉的食物。"
     },
     {
-     "en": "Pam wipes the countertops...",
-     "zh": "帕姆擦厨房台面……"
+     "en": "Jenny wipes the countertops...",
+     "zh": "珍妮擦拭台面……"
     },
     {
      "en": "...and sweeps the floor.",
-     "zh": "然后扫地。"
+     "zh": "……还扫了地。"
     },
     {
-     "en": "Dan scrubs the toilet with a toilet brush,...",
-     "zh": "丹用马桶刷刷马桶……"
+     "en": "Dad scrubs the toilet with a toilet brush,...",
+     "zh": "爸爸用马桶刷刷洗马桶……"
     },
     {
      "en": "...cleans the sink...",
-     "zh": "清洗洗手池……"
+     "zh": "……清理水池……"
     },
     {
      "en": "...and scrubs the bathtub.",
-     "zh": "擦洗浴缸。"
+     "zh": "……刷洗浴缸。"
     },
     {
      "en": "He washes the mirror on the medicine cabinet.",
-     "zh": "他擦洗药柜上的镜子。"
+     "zh": "他擦干净镜柜上的镜子。"
     },
     {
      "en": "Then he sweeps the floor...",
-     "zh": "然后他扫地……"
+     "zh": "然后他扫了地……"
     },
     {
      "en": "...and mops it.",
-     "zh": "再拖地板。"
+     "zh": "……又拖了地。"
     },
     {
      "en": "They bundle old newspapers...",
@@ -7926,23 +7836,23 @@
     },
     {
      "en": "...and put empty bottles, cans and jars into bags.",
-     "zh": "把空瓶子、易拉罐和玻璃罐装进袋子。"
+     "zh": "……把空瓶子、易拉罐和瓶子装进袋子。"
     },
     {
      "en": "They set them out for recycling.",
-     "zh": "他们把它们摆出去等回收。"
+     "zh": "他们把这些东西放好等待回收。"
     },
     {
      "en": "Then they empty wastebaskets...",
-     "zh": "然后他们倒废纸篓……"
+     "zh": "然后他们倒掉废纸篓……"
     },
     {
      "en": "...and the kitchen garbage into a big garbage bag...",
-     "zh": "把厨房垃圾倒进大垃圾袋……"
+     "zh": "……把厨房垃圾倒进大垃圾袋……"
     },
     {
      "en": "...and take it out to the garbage can.",
-     "zh": "然后拿到外面的垃圾桶。"
+     "zh": "……把垃圾袋提出去扔进垃圾桶。"
     }
    ],
    "vocab": {
@@ -8221,24 +8131,20 @@
    ],
    "dialogue": [
     {
-     "speaker": "Dan",
-     "role": "丹",
+     "speaker": "Jenny",
+     "role": "girl",
      "en": "Yecch! This cucumber is mushy.",
-     "zh": "讨厌！这黄瓜都烂了。"
+     "zh": "咦！这根黄瓜都软烂了。"
     }
    ],
    "china": [
     {
-     "en": "In China, many families use robot vacuum cleaners (e.g., Ecovacs, Roborock) to clean floors automatically instead of a manual vacuum.",
-     "zh": "在中国，很多家庭使用扫地机器人（如科沃斯、石头）自动扫地，而不用手动吸尘器。"
+     "en": "In China, children help with housework: dust, sweep, and tidy up.",
+     "zh": "在中国，孩子会帮忙做家务：掸灰、扫地、收拾。可以说 do housework（做家务）。"
     },
     {
-     "en": "Chinese cities like Beijing and Shanghai require mandatory garbage sorting: kitchen waste, recyclables, hazardous waste, and residual waste go in separate bins.",
-     "zh": "北京、上海等中国城市实行强制垃圾分类：厨余、可回收物、有害垃圾和其他垃圾分别投放。"
-    },
-    {
-     "en": "Many Chinese apartments don't have a full bathtub; the bathroom usually has just a shower and a toilet.",
-     "zh": "很多中国公寓没有完整的浴缸，浴室通常只有淋浴和马桶。"
+     "en": "Waste sorting (recycling) is common in Chinese cities.",
+     "zh": "中国城市里垃圾分类很普遍。可以说 sort the garbage（垃圾分类）。"
     }
    ],
    "en": "Cleaning the House",
@@ -9031,39 +8937,39 @@
    "steps": [
     {
      "en": "I wash the windows inside,...",
-     "zh": "我清洗车内的车窗……"
+     "zh": "我先擦车窗里面……"
     },
     {
      "en": "...wipe off the dashboard...",
-     "zh": "……擦掉仪表板上的灰尘……"
+     "zh": "……擦干净仪表台……"
     },
     {
      "en": "...and vacuum the floor.",
-     "zh": "……然后用吸尘器把地板吸干净。"
+     "zh": "……再用吸尘器吸地板。"
     },
     {
      "en": "I dip a sponge into soapy water...",
-     "zh": "我把海绵蘸进肥皂水里……"
+     "zh": "我把海绵蘸上肥皂水……"
     },
     {
      "en": "...and wash the car with it.",
-     "zh": "……然后用它清洗汽车。"
+     "zh": "……用它擦洗车身。"
     },
     {
      "en": "To rinse the car, I spray it with water.",
-     "zh": "要冲洗汽车，我用水喷洒它。"
+     "zh": "为了冲掉泡沫，我用清水喷洗车身。"
     },
     {
      "en": "I dry it with some rags.",
-     "zh": "我用一些抹布把它擦干。"
+     "zh": "我用干布把车擦干。"
     },
     {
      "en": "Then I spread some wax on the car.",
-     "zh": "然后我在车上打一些车蜡。"
+     "zh": "然后我往车上打蜡。"
     },
     {
      "en": "After it has dried,...",
-     "zh": "等蜡干了之后……"
+     "zh": "等蜡干了……"
     },
     {
      "en": "...I wipe the wax off...",
@@ -9071,11 +8977,11 @@
     },
     {
      "en": "...and buff the car with a soft cloth.",
-     "zh": "……然后用软布把汽车擦亮。"
+     "zh": "……用软布把车身擦亮。"
     },
     {
      "en": "Finally, I wash the windows outside.",
-     "zh": "最后，我清洗车外的车窗。"
+     "zh": "最后，我擦干净车窗外侧。"
     }
    ],
    "vocab": {
@@ -9241,12 +9147,12 @@
    "dialogue": [],
    "china": [
     {
-     "en": "In China, many car owners drive to a car wash shop or gas station to have their cars washed; self-service home washing is less common in cities.",
-     "zh": "在中国，车主多开车去洗车店或加油站洗车，城市里自己在家洗车的情况较少。"
+     "en": "In China, many families go to a self-service car wash; you wash and vacuum the car yourself.",
+     "zh": "在中国，很多家庭去自助洗车房，自己动手冲洗和吸尘。可以说 self-service car wash（自助洗车房）。"
     },
     {
-     "en": "Chinese car owners often get a free car wash as part of regular maintenance at a 4S dealership.",
-     "zh": "中国车主去4S店做保养时，常常会获赠一次免费洗车。"
+     "en": "You can learn car words: wax, buff, vacuum.",
+     "zh": "可以学到汽车词汇：打蜡 wax、擦亮 buff、吸尘 vacuum。"
     }
    ],
    "en": "Cleaning a Car",
@@ -9671,19 +9577,19 @@
    "steps": [
     {
      "en": "During a thunderstorm...",
-     "zh": "雷雨期间……"
+     "zh": "下雷阵雨的时候……"
     },
     {
      "en": "...our power went out.",
      "zh": "……我们家停电了。"
     },
     {
-     "en": "I turned on a flashlight...",
-     "zh": "我打开手电筒……"
+     "en": "I turned on the flashlight on Mom's phone...",
+     "zh": "我打开妈妈手机上的手电筒……"
     },
     {
      "en": "...and my sister lit some candles.",
-     "zh": "……我妹妹点了几根蜡烛。"
+     "zh": "……妹妹点了几根蜡烛。"
     },
     {
      "en": "We found the circuit-breaker box...",
@@ -9691,15 +9597,15 @@
     },
     {
      "en": "...and found the breakers that had tripped.",
-     "zh": "……找到了跳闸的断路器。"
+     "zh": "……找到了跳闸的开关。"
     },
     {
      "en": "We reset the breakers...",
-     "zh": "我们把断路器复位……"
+     "zh": "我们把开关复位……"
     },
     {
      "en": "...and the power came back on.",
-     "zh": "……然后电就来了。"
+     "zh": "……电就来了。"
     }
    ],
    "vocab": {
@@ -9833,26 +9739,26 @@
    ],
    "dialogue": [
     {
-     "speaker": "Man",
-     "role": "男士",
+     "speaker": "Tom",
+     "role": "clerk",
      "en": "Good!",
      "zh": "太好了！"
     },
     {
-     "speaker": "Woman",
-     "role": "女士",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "It worked.",
-     "zh": "成功了。"
+     "zh": "管用了。"
     }
    ],
    "china": [
     {
-     "en": "In Chinese cities, scheduled power outages are usually announced in advance by the grid company; unexpected outages are relatively rare.",
-     "zh": "在中国城市，计划停电一般会由电网公司提前通知，突发停电相对少见。"
+     "en": "In China, when the power goes out, people use the flashlight on their phone or candles.",
+     "zh": "在中国，停电时人们会用手机手电筒或蜡烛照明。可以说 flashlight（手电筒）。"
     },
     {
-     "en": "Chinese people often use their phones as flashlights during a blackout and keep power banks charged for emergencies.",
-     "zh": "停电时中国人常用手机当手电筒，并平时备好充电宝应急。"
+     "en": "The breaker box is usually near the door; children can watch adults reset it.",
+     "zh": "配电箱一般在门边，孩子可以看大人把跳闸开关复位。可以说 circuit-breaker box（配电箱）。"
     }
    ],
    "en": "Dealing with a Power Failure",
@@ -10898,44 +10804,40 @@
    },
    "steps": [
     {
-     "en": "Kate needed money...",
-     "zh": "凯特需要钱……"
+     "en": "Mom needed some money...",
+     "zh": "妈妈需要取一些钱……"
     },
     {
      "en": "...so she went to an ATM in the store.",
-     "zh": "……于是她去了商店里的一台自动取款机。"
+     "zh": "……于是她去了超市里的 ATM 机。"
     },
     {
-     "en": "She took her cash card out of her purse.",
-     "zh": "她从钱包里取出银行卡。"
+     "en": "She took her bank card out of her purse.",
+     "zh": "她从钱包里拿出银行卡。"
     },
     {
-     "en": "She lined up the magnetic strip properly...",
-     "zh": "她把磁条正确对准……"
-    },
-    {
-     "en": "...and inserted the card into the slot on the ATM.",
-     "zh": "……然后把卡插入ATM的插卡口。"
+     "en": "She inserted the card into the slot on the ATM.",
+     "zh": "她把卡插进 ATM 机的插卡口。"
     },
     {
      "en": "A message on the screen asked for her PIN...",
-     "zh": "屏幕上的信息提示她输入密码……"
+     "zh": "屏幕上提示输入密码……"
     },
     {
      "en": "...so she entered her PIN by pressing keys on the keypad.",
-     "zh": "……于是她在键盘上输入了密码。"
+     "zh": "……于是她按下键盘上的数字，输入了密码。"
     },
     {
      "en": "Then she entered the amount of money she needed.",
-     "zh": "然后她输入了需要取的金额。"
+     "zh": "然后她输入需要的金额。"
     },
     {
      "en": "The machine returned her card...",
-     "zh": "机器吐出了她的卡……"
+     "zh": "机器把卡退了出来……"
     },
     {
      "en": "...and gave her her money.",
-     "zh": "……然后吐出了钱。"
+     "zh": "……把钱给了她。"
     }
    ],
    "vocab": {
@@ -11100,24 +11002,20 @@
    ],
    "dialogue": [
     {
-     "speaker": "Kate",
-     "role": "顾客",
-     "en": "Oops. I'd better find a cash machine.",
-     "zh": "哎呀，我最好找台取款机。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Oops. Mom, where is the ATM?",
+     "zh": "哎呀，妈妈，ATM 机在哪里？"
     }
    ],
    "china": [
     {
-     "en": "In China, ATMs are used less and less; people rely on mobile payment and rarely carry cash.",
-     "zh": "在中国，ATM 使用频率越来越低；大家主要靠手机支付，很少带现金。"
+     "en": "In China, ATM is called ATM 机; people insert the card, enter the PIN, and take out money.",
+     "zh": "在中国，ATM 机就叫 ATM 机：插卡、输密码、取钱。可以说 insert the card（插卡）、enter the PIN（输密码）。"
     },
     {
-     "en": "Chinese ATMs accept UnionPay cards; many newer ones support facial recognition and cardless withdrawals via mobile banking.",
-     "zh": "中国的ATM支持银联卡，很多新机支持刷脸和手机银行无卡取款。"
-    },
-    {
-     "en": "Small convenience stores even offer \"cash-back\" services where you can withdraw small amounts when paying.",
-     "zh": "一些便利店还提供小额取现服务，付款时可以顺便取现金。"
+     "en": "Children can go with Mom to the ATM and watch her take out money.",
+     "zh": "孩子可以陪妈妈去 ATM 机，看她取钱。可以说 take out money（取钱）。"
     }
    ],
    "en": "Using an ATM",
@@ -11319,39 +11217,39 @@
    "steps": [
     {
      "en": "Kate heard the phone ringing...",
-     "zh": "凯特听到电话在响……"
+     "zh": "凯特听到手机响了……"
     },
     {
-     "en": "...and picked up the receiver.",
-     "zh": "……然后拿起了听筒。"
+     "en": "...and tapped the screen to answer the call.",
+     "zh": "……她轻点屏幕接听了电话。"
     },
     {
      "en": "She answered the phone by saying hello...",
-     "zh": "她说了“喂”来接电话……"
+     "zh": "她接起电话说了声你好……"
     },
     {
      "en": "...and then let the caller speak.",
-     "zh": "……然后让来电者说话。"
+     "zh": "……然后让对方说话。"
     },
     {
      "en": "They talked for a while,...",
-     "zh": "他们聊了一会儿，……"
+     "zh": "她们聊了一会儿……"
     },
     {
      "en": "...and then she hung up.",
-     "zh": "……然后她挂了电话。"
+     "zh": "……然后她挂断了电话。"
     },
     {
      "en": "Kate didn't know the person the caller asked for.",
-     "zh": "凯特不认识来电者要找的人。"
+     "zh": "凯特不认识对方要找的人。"
     },
     {
      "en": "She told him that he had the wrong number.",
-     "zh": "她告诉他打错了。"
+     "zh": "她告诉对方打错电话了。"
     },
     {
      "en": "He apologized and hung up.",
-     "zh": "他道了歉然后挂了电话。"
+     "zh": "对方道了歉，挂断了电话。"
     }
    ],
    "vocab": {
@@ -11479,7 +11377,7 @@
    "dialogue": [
     {
      "speaker": "Kate",
-     "role": "receiver",
+     "role": "girl",
      "en": "Hello?",
      "zh": "喂？"
     },
@@ -11493,45 +11391,41 @@
      "speaker": "Jenny",
      "role": "girl",
      "en": "...whether you'd like to go swimming.",
-     "zh": "……想问你想不想去游泳。"
+     "zh": "……想问问你要不要去游泳。"
     },
     {
      "speaker": "Kate",
-     "role": "receiver",
+     "role": "girl",
      "en": "I'd love to, Jenny. When?",
      "zh": "我很想去，珍妮。什么时候？"
     },
     {
-     "speaker": "Caller",
-     "role": "man",
+     "speaker": "Man",
+     "role": "teacher",
      "en": "Could I speak with Mike?",
      "zh": "请问迈克在吗？"
     },
     {
      "speaker": "Kate",
-     "role": "receiver",
+     "role": "girl",
      "en": "I'm sorry. There's no one here by that name. You've got the wrong number.",
-     "zh": "抱歉，这里没有叫这个名字的人。你打错了。"
+     "zh": "对不起，这里没有叫这个名字的人。你打错电话了。"
     },
     {
-     "speaker": "Caller",
-     "role": "man",
+     "speaker": "Man",
+     "role": "teacher",
      "en": "Ooops! Sorry!",
      "zh": "哎呀！对不起！"
     }
    ],
    "china": [
     {
-     "en": "Wrong numbers are rare in China because people save contacts and redial from them.",
-     "zh": "在中国，打错电话的情况很少，因为人们都保存联系人并直接回拨。"
+     "en": "In China, people tap the screen to answer a call on their phone.",
+     "zh": "在中国，大家用手机都是点一下屏幕接听电话。可以说 tap to answer（点按接听）。"
     },
     {
-     "en": "People often use speakerphone or Bluetooth earphones to talk while doing other things.",
-     "zh": "人们常常在做事时用免提或蓝牙耳机通话。"
-    },
-    {
-     "en": "Missed calls are usually returned with a WeChat message rather than a phone callback.",
-     "zh": "未接来电通常通过微信消息回复，而不是回拨电话。"
+     "en": "It's polite to say 'Wei?' (Hello?) when answering.",
+     "zh": "接电话时礼貌地说“喂？”。可以说 answer the phone（接电话）。"
     }
    ],
    "en": "Answering a Telephone",
@@ -11550,8 +11444,8 @@
    },
    "steps": [
     {
-     "en": "I asked to speak to Dan...",
-     "zh": "我请求和丹说话……"
+     "en": "I asked to speak to Leo...",
+     "zh": "我打电话想找利奥……"
     },
     {
      "en": "...but he wasn't available.",
@@ -11559,27 +11453,27 @@
     },
     {
      "en": "I identified myself and asked her to take a message.",
-     "zh": "我报上姓名，请她捎个口信。"
+     "zh": "我报上自己的名字，请她帮忙带个口信。"
     },
     {
      "en": "She agreed and asked me to repeat my name.",
-     "zh": "她答应了，并让我重复一遍名字。"
+     "zh": "她答应了，请我把名字再说一遍。"
     },
     {
      "en": "I repeated it...",
-     "zh": "我重复了一遍……"
+     "zh": "我又说了一遍……"
     },
     {
      "en": "...and spelled my last name.",
-     "zh": "……然后拼写了我的姓氏。"
+     "zh": "……还拼写了自己的姓。"
     },
     {
-     "en": "I also left my number...",
-     "zh": "我还留下了我的号码……"
+     "en": "I also left my phone number...",
+     "zh": "我还留下了电话号码……"
     },
     {
      "en": "...and asked that he call me back.",
-     "zh": "……并请他给我回电话。"
+     "zh": "……请他给我回电话。"
     }
    ],
    "vocab": {
@@ -11685,72 +11579,68 @@
    ],
    "dialogue": [
     {
-     "speaker": "Alex",
-     "role": "man",
-     "en": "Can I speak to Dan, please?",
-     "zh": "请问丹在吗？"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Can I speak to Leo, please?",
+     "zh": "请问利奥在吗？"
     },
     {
-     "speaker": "Woman",
-     "role": "receiver",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "I'm sorry, but he's not here right now.",
-     "zh": "抱歉，他现在不在。"
+     "zh": "对不起，他现在不在。"
     },
     {
-     "speaker": "Alex",
-     "role": "man",
-     "en": "This is Alex. I work with Dan. Could you please take a message for him?",
-     "zh": "我是亚历克斯，和丹一起工作。能麻烦你帮我捎个口信给他吗？"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "This is Tom, Leo's classmate. Could you please take a message for him?",
+     "zh": "我是汤姆，利奥的同学。你能帮我带个口信吗？"
     },
     {
-     "speaker": "Woman",
-     "role": "receiver",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "Sure. I'm sorry. I didn't catch your name.",
-     "zh": "好的。抱歉，我没听清你的名字。"
+     "zh": "当然可以。对不起，我没听清你的名字。"
     },
     {
-     "speaker": "Alex",
-     "role": "man",
-     "en": "It's Alex. Alex Rivera.",
-     "zh": "我是亚历克斯，亚历克斯·里维拉。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "It's Tom. Tom Wang.",
+     "zh": "我叫汤姆。汤姆·王。"
     },
     {
-     "speaker": "Woman",
-     "role": "receiver",
+     "speaker": "Mom",
+     "role": "mom",
      "en": "Could you spell that out, please?",
-     "zh": "能麻烦你拼写一下吗？"
+     "zh": "能拼一下吗？"
     },
     {
-     "speaker": "Alex",
-     "role": "man",
-     "en": "Sure. That's R-I-V-E-R-A.",
-     "zh": "好的，R-I-V-E-R-A。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "Sure. That's T-O-M W-A-N-G.",
+     "zh": "好的。T-O-M W-A-N-G。"
     },
     {
-     "speaker": "Alex",
-     "role": "man",
-     "en": "And my number is 555-5959.",
-     "zh": "我的号码是 555-5959。"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "And your number?",
+     "zh": "你的电话是多少？"
     },
     {
-     "speaker": "Alex",
-     "role": "man",
-     "en": "Could you ask him to give me a call, please? Thanks.",
-     "zh": "能请他给我回个电话吗？谢谢。"
+     "speaker": "Tom",
+     "role": "clerk",
+     "en": "It's 138-1234-5678. Could you ask him to give me a call, please? Thanks.",
+     "zh": "138-1234-5678。请让他给我回个电话，谢谢。"
     }
    ],
    "china": [
     {
-     "en": "In China, if someone can't answer, people usually leave a WeChat voice or text message instead of asking a third person to take a message.",
-     "zh": "在中国，如果对方不方便接听，人们通常直接发微信语音或文字留言，而不是请第三人捎口信。"
+     "en": "In China, phone numbers have 11 digits and start with 1 (like 138-...).",
+     "zh": "在中国，手机号是 11 位，以 1 开头（比如 138-……）。可以说 phone number（电话号码）。"
     },
     {
-     "en": "Business contacts often use call-back on the phone or simply send a WeChat message.",
-     "zh": "商务联系常用手机回拨功能，或直接在微信上发消息。"
-    },
-    {
-     "en": "There is no need to spell out names because contacts are saved with notes and numbers are dialed automatically.",
-     "zh": "不需要拼写名字，因为联系人都存了备注，号码自动拨出。"
+     "en": "Children can leave a message for classmates politely.",
+     "zh": "孩子可以礼貌地给同学留口信。可以说 leave a message（留言）。"
     }
    ],
    "en": "Leaving a Message",
@@ -11769,36 +11659,36 @@
    },
    "steps": [
     {
-     "en": "Pam answered the phone...",
-     "zh": "帕姆接了电话……"
+     "en": "Jenny answered the phone...",
+     "zh": "珍妮接了电话……"
     },
     {
-     "en": "...and the caller asked for Dan.",
-     "zh": "……来电者找丹。"
+     "en": "...and the caller asked for Mom.",
+     "zh": "……对方要找妈妈。"
     },
     {
-     "en": "She said he wasn't available and offered to take a message.",
-     "zh": "她说他没空，并主动提出可以捎口信。"
+     "en": "She said Mom wasn't available and offered to take a message.",
+     "zh": "她说妈妈现在不方便接电话，并提出帮忙带口信。"
     },
     {
-     "en": "The caller left a message for Dan.",
-     "zh": "来电者给丹留了言。"
+     "en": "The caller left a message for Mom.",
+     "zh": "对方给妈妈留了口信。"
     },
     {
-     "en": "Pam wrote the message on some notepaper...",
-     "zh": "帕姆把留言写在便签纸上……"
+     "en": "Jenny wrote the message on some notepaper...",
+     "zh": "珍妮把口信写在便条纸上……"
     },
     {
      "en": "...and put it next to the phone.",
-     "zh": "……然后把它放在电话旁边。"
+     "zh": "……放在电话旁边。"
     },
     {
-     "en": "Later, Dan got the message...",
-     "zh": "后来，丹收到了留言……"
+     "en": "Later, Mom got the message...",
+     "zh": "后来，妈妈看到了留言……"
     },
     {
-     "en": "...and returned Lester's call.",
-     "zh": "……然后给莱斯特回了电话。"
+     "en": "...and returned Ms. Wang's call.",
+     "zh": "……给王女士回了电话。"
     }
    ],
    "vocab": {
@@ -11898,48 +11788,44 @@
    ],
    "dialogue": [
     {
-     "speaker": "Pam",
-     "role": "receiver",
+     "speaker": "Jenny",
+     "role": "girl",
      "en": "Hello!",
      "zh": "喂！"
     },
     {
-     "speaker": "Lester",
-     "role": "man",
-     "en": "Is Dan there, please?",
-     "zh": "请问丹在吗？"
+     "speaker": "Ms. Wang",
+     "role": "teacher",
+     "en": "Is your mom there, please?",
+     "zh": "请问你妈妈在吗？"
     },
     {
-     "speaker": "Pam",
-     "role": "receiver",
-     "en": "Sorry. He can't come to the phone right now. Can I take a message?",
-     "zh": "抱歉，他现在没法来接电话。需要我捎个口信吗？"
+     "speaker": "Jenny",
+     "role": "girl",
+     "en": "Sorry. She can't come to the phone right now. Can I take a message?",
+     "zh": "对不起，她现在接不了电话。要我带个口信吗？"
     },
     {
-     "speaker": "Lester",
-     "role": "man",
-     "en": "Yes, please tell him that Lester called.",
-     "zh": "好的，请告诉他莱斯特来过电话。"
+     "speaker": "Ms. Wang",
+     "role": "teacher",
+     "en": "Yes, please tell her that Ms. Wang called.",
+     "zh": "好的，请告诉她王女士来过电话。"
     },
     {
-     "speaker": "Dan",
-     "role": "man",
-     "en": "Hi, Lester. This is Dan. You called?",
-     "zh": "嗨，莱斯特。我是丹。你找我？"
+     "speaker": "Mom",
+     "role": "mom",
+     "en": "Hi, Ms. Wang. This is Jenny's mom. You called?",
+     "zh": "嗨，王女士。我是珍妮的妈妈。您打过电话？"
     }
    ],
    "china": [
     {
-     "en": "In China, people rarely write phone messages on paper; they send text or WeChat messages directly.",
-     "zh": "在中国，人们很少用纸写电话留言，而是直接发短信或微信。"
+     "en": "In China, children often write a note (便条) when taking a message for parents.",
+     "zh": "在中国，孩子帮大人记口信时常常写便条。可以说 take a message（记留言）、notepaper（便条纸）。"
     },
     {
-     "en": "Missed calls show the caller's name and number on the phone screen, so no written message is needed.",
-     "zh": "未接来电会在手机屏幕上显示来电者姓名和号码，无需书面留言。"
-    },
-    {
-     "en": "Smartphones can transcribe voicemail to text automatically.",
-     "zh": "智能手机可以自动把语音信箱转成文字。"
+     "en": "Politely say 'Wei?' when answering the phone.",
+     "zh": "接电话时礼貌地说“喂？”。"
     }
    ],
    "en": "Taking a Message",
@@ -12555,15 +12441,15 @@
    "steps": [
     {
      "en": "Before the party, I wrap a present for my friend...",
-     "zh": "聚会前，我给朋友包了一份礼物……"
+     "zh": "派对开始前，我给朋友包了一份礼物……"
     },
     {
      "en": "...and sign a card for him.",
-     "zh": "……并给他签了一张贺卡。"
+     "zh": "……还给他写了一张贺卡。"
     },
     {
      "en": "At the party, I give him the present and the card.",
-     "zh": "聚会上，我把礼物和贺卡给他。"
+     "zh": "派对上，我把礼物和贺卡送给他。"
     },
     {
      "en": "Someone lights the candles on the birthday cake.",
@@ -12571,7 +12457,7 @@
     },
     {
      "en": "We all sing \"Happy Birthday\"...",
-     "zh": "我们大家一起唱“生日快乐”……"
+     "zh": "我们一起唱“祝你生日快乐”……"
     },
     {
      "en": "...and Leo blows out the candles.",
@@ -12579,11 +12465,11 @@
     },
     {
      "en": "He opens his birthday presents...",
-     "zh": "他打开生日礼物……"
+     "zh": "他拆开生日礼物……"
     },
     {
      "en": "...and then everyone eats cake and ice cream.",
-     "zh": "……然后大家吃蛋糕和冰淇淋。"
+     "zh": "……然后大家一起吃蛋糕和冰淇淋。"
     }
    ],
    "vocab": {
@@ -12713,36 +12599,32 @@
    ],
    "dialogue": [
     {
-     "speaker": "Alex",
-     "role": "narrator",
+     "speaker": "Tom",
+     "role": "clerk",
      "en": "Here you go, Leo. Happy birthday.",
-     "zh": "给你，利奥。生日快乐。"
+     "zh": "给你，利奥。生日快乐！"
     },
     {
      "speaker": "Leo",
-     "role": "host",
-     "en": "Thanks, Alex. Come on in.",
-     "zh": "谢谢，亚历克斯。进来吧。"
+     "role": "clerk",
+     "en": "Thanks, Tom. Come on in.",
+     "zh": "谢谢你，汤姆。快进来。"
     },
     {
      "speaker": "Leo",
-     "role": "host",
-     "en": "Hey, I've been wanting this CD. Thanks.",
-     "zh": "嘿，我一直想要这张 CD。谢谢。"
+     "role": "clerk",
+     "en": "Hey, I've been wanting this toy car. Thanks!",
+     "zh": "嘿，我正想要这辆玩具车呢。谢谢！"
     }
    ],
    "china": [
     {
-     "en": "In China, birthday gifts are often red envelopes (hongbao) with money, or practical items bought online.",
-     "zh": "在中国，生日礼物常是红包，或网购的实用物品。"
+     "en": "In China, children celebrate birthdays with a cake, candles, and presents.",
+     "zh": "在中国，孩子过生日会吃蛋糕、吹蜡烛、收礼物。可以说 birthday cake（生日蛋糕）、birthday present（生日礼物）。"
     },
     {
-     "en": "Birthday cakes and singing \"Happy Birthday\" are popular, and friends also treat the birthday person to a meal.",
-     "zh": "生日蛋糕和唱“生日快乐”很流行，朋友们也会请客吃饭。"
-    },
-    {
-     "en": "People often post birthday wishes on WeChat Moments rather than hand-making cards.",
-     "zh": "人们常在微信朋友圈发生日祝福，而不是手写贺卡。"
+     "en": "The birthday child makes a wish before blowing out the candles.",
+     "zh": "吹蜡烛前，小寿星会先许个愿。可以说 make a wish（许愿）。"
     }
    ],
    "en": "Going to a Birthday Party",
@@ -13230,23 +13112,23 @@
    "steps": [
     {
      "en": "Jenny stood in line and read the menu.",
-     "zh": "珍妮排着队，看了看菜单。"
+     "zh": "珍妮排着队，看着菜单。"
     },
     {
      "en": "She ordered her food and a drink at the counter.",
-     "zh": "她在柜台点了食物和饮料。"
+     "zh": "她在柜台点了吃的和一杯饮料。"
     },
     {
      "en": "The clerk put the food on her tray, and Jenny paid her.",
-     "zh": "店员把食物放到托盘上，珍妮付了钱。"
+     "zh": "店员把食物放到她的托盘上，珍妮付了钱。"
     },
     {
      "en": "Jenny took some paper napkins and a straw from the dispensers.",
-     "zh": "珍妮从取用架拿了纸巾和吸管。"
+     "zh": "珍妮从纸巾盒和吸管盒里拿了纸巾和吸管。"
     },
     {
      "en": "She ate her lunch at her table.",
-     "zh": "她在自己的桌旁吃了午餐。"
+     "zh": "她坐在自己的位子上吃午餐。"
     },
     {
      "en": "Other people got their food to go.",
@@ -13254,7 +13136,7 @@
     },
     {
      "en": "When she finished eating, she threw the empty wrappers in the trash.",
-     "zh": "吃完后，她把空的包装扔进垃圾桶。"
+     "zh": "吃完后，她把空包装扔进垃圾桶。"
     }
    ],
    "dialogue": [
@@ -13262,25 +13144,25 @@
      "speaker": "Jenny",
      "role": "girl",
      "en": "I'd like one Big Burger, a small order of fries, and a medium cola, please.",
-     "zh": "我想要一个巨无霸汉堡、一份小薯条和一杯中杯可乐。"
+     "zh": "我要一个巨无霸汉堡、一份小薯条和一杯中杯可乐。"
     },
     {
      "speaker": "Clerk",
-     "role": "clerk",
+     "role": "teacher",
      "en": "For here or to go?",
-     "zh": "堂食还是打包？"
+     "zh": "在这儿吃还是带走？"
     },
     {
      "speaker": "Jenny",
      "role": "girl",
      "en": "For here, please.",
-     "zh": "堂食，谢谢。"
+     "zh": "在这儿吃。"
     },
     {
      "speaker": "Clerk",
-     "role": "clerk",
-     "en": "That'll be five-twenty.",
-     "zh": "一共五块二。"
+     "role": "teacher",
+     "en": "That'll be twenty-eight yuan.",
+     "zh": "一共二十八元。"
     },
     {
      "speaker": "Jenny",
@@ -13453,16 +13335,12 @@
    ],
    "china": [
     {
-     "en": "In China, you can also pay by scanning a QR code with WeChat Pay or Alipay.",
-     "zh": "在中国快餐店，还可以用微信支付或支付宝扫码付款：scan the QR code（扫码）。"
+     "en": "In China, fast food restaurants like KFC and McDonald's are popular with children.",
+     "zh": "在中国，肯德基、麦当劳这类快餐店很受孩子欢迎。可以说 fast food restaurant（快餐店）。"
     },
     {
-     "en": "“For here or to go?” is just like “堂食还是打包？” in Chinese fast-food restaurants.",
-     "zh": "For here or to go? 就相当于中国快餐店的“堂食还是打包？”"
-    },
-    {
-     "en": "Many people in China order fast food on their phones and get it delivered.",
-     "zh": "中国很多人用手机 App 点快餐外卖（order food delivery），在家就能吃。也可以说 order food on the app。"
+     "en": "The clerk may ask: 'For here or to go?' 在这里吃还是打包带走？",
+     "zh": "店员会问：“在这里吃还是打包带走？”可以说 for here or to go（堂食还是外带）。"
     }
    ]
   },
