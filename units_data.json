@@ -267,6 +267,28 @@
      "en": "Parents often call their children to get up: 'Time to get up!'",
      "zh": "爸爸妈妈也常常喊孩子起床：“该起床啦！”可以说 Time to get up!"
     }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "What's the first thing you do in the morning?",
+      "zh": "早上起床第一件事做什么？"
+     },
+     "child": {
+      "en": "My phone alarm rings, and I wake up.",
+      "zh": "手机闹铃响，我就醒了。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Do you make your bed every day?",
+      "zh": "你每天叠被子吗？"
+     },
+     "child": {
+      "en": "Yes, I do it right after I get up.",
+      "zh": "是，我起床后就叠好。"
+     }
+    }
    ]
   },
   {
@@ -494,7 +516,29 @@
     }
    ],
    "en": "Brushing Your Teeth / Flossing",
-   "zh": "刷牙/用牙线"
+   "zh": "刷牙/用牙线",
+   "family": [
+    {
+     "parent": {
+      "en": "How long do you brush your teeth?",
+      "zh": "你刷牙要多久？"
+     },
+     "child": {
+      "en": "I brush up and down, and then I floss.",
+      "zh": "我上下刷，然后用牙线。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Do you rinse your toothbrush after using it?",
+      "zh": "刷完牙会冲洗牙刷吗？"
+     },
+     "child": {
+      "en": "Yes, I rinse it and put it back on the rack.",
+      "zh": "会，我冲干净放回牙刷架。"
+     }
+    }
+   ]
   },
   {
    "id": 3,
@@ -737,7 +781,19 @@
     }
    ],
    "en": "Taking a Shower",
-   "zh": "洗淋浴"
+   "zh": "洗淋浴",
+   "family": [
+    {
+     "parent": {
+      "en": "What do you wash first in the shower?",
+      "zh": "洗澡时你先洗哪里？"
+     },
+     "child": {
+      "en": "I wash my hair with shampoo first.",
+      "zh": "我先用洗发水洗头。"
+     }
+    }
+   ]
   },
   {
    "id": 4,
@@ -1071,7 +1127,19 @@
     }
    ],
    "en": "Getting Dressed – A Man",
-   "zh": "穿衣—男士"
+   "zh": "穿衣—男士",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you dress yourself today?",
+      "zh": "今天你自己穿衣服吗？"
+     },
+     "child": {
+      "en": "Yes. I put on my school uniform and socks.",
+      "zh": "是的，我穿上校服和袜子。"
+     }
+    }
+   ]
   },
   {
    "id": 5,
@@ -1491,7 +1559,19 @@
     }
    ],
    "en": "Getting Dressed – A Woman",
-   "zh": "穿衣—女士"
+   "zh": "穿衣—女士",
+   "family": [
+    {
+     "parent": {
+      "en": "What will you wear today?",
+      "zh": "你今天穿什么？"
+     },
+     "child": {
+      "en": "If it's hot, I wear a dress and sandals.",
+      "zh": "如果热，我就穿连衣裙和凉鞋。"
+     }
+    }
+   ]
   },
   {
    "id": 6,
@@ -1639,7 +1719,19 @@
     }
    ],
    "en": "Making a Bed",
-   "zh": "叠被子"
+   "zh": "叠被子",
+   "family": [
+    {
+     "parent": {
+      "en": "Who makes the bed at home?",
+      "zh": "家里谁叠被子？"
+     },
+     "child": {
+      "en": "I do. I pull up the sheet and smooth the blanket.",
+      "zh": "我呀。我拉好床单、铺平被子。"
+     }
+    }
+   ]
   },
   {
    "id": 7,
@@ -1892,7 +1984,19 @@
     }
    ],
    "en": "Making Coffee / Making Tea",
-   "zh": "煮咖啡/泡茶"
+   "zh": "煮咖啡/泡茶",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you make tea for Grandpa?",
+      "zh": "你能给爷爷泡茶吗？"
+     },
+     "child": {
+      "en": "Yes. I put tea leaves in a glass and pour hot water.",
+      "zh": "能。我把茶叶放进杯子，再倒热水。"
+     }
+    }
+   ]
   },
   {
    "id": 8,
@@ -2140,7 +2244,29 @@
     }
    ],
    "en": "Preparing Cold Cereal / Making Toast",
-   "zh": "冲冷麦片/烤吐司"
+   "zh": "冲冷麦片/烤吐司",
+   "family": [
+    {
+     "parent": {
+      "en": "What do you want for breakfast?",
+      "zh": "早餐想吃什么？"
+     },
+     "child": {
+      "en": "Cereal with milk, and toast with peanut butter.",
+      "zh": "牛奶麦片，还有花生酱吐司。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Can you help set the table?",
+      "zh": "你能帮忙摆餐具吗？"
+     },
+     "child": {
+      "en": "Sure. I put the bowls and spoons on the table.",
+      "zh": "好呀。我把碗和勺子摆到桌上。"
+     }
+    }
+   ]
   },
   {
    "id": 9,
@@ -2345,7 +2471,19 @@
     }
    ],
    "en": "Frying an Egg",
-   "zh": "煎鸡蛋"
+   "zh": "煎鸡蛋",
+   "family": [
+    {
+     "parent": {
+      "en": "How does Dad fry an egg?",
+      "zh": "爸爸怎么煎蛋？"
+     },
+     "child": {
+      "en": "He heats the pan and pours in some oil first.",
+      "zh": "他先热锅，再倒一些食用油。"
+     }
+    }
+   ]
   },
   {
    "id": 10,
@@ -2516,7 +2654,29 @@
     }
    ],
    "en": "Eating Breakfast",
-   "zh": "吃早餐"
+   "zh": "吃早餐",
+   "family": [
+    {
+     "parent": {
+      "en": "Do you eat breakfast every day?",
+      "zh": "你每天吃早餐吗？"
+     },
+     "child": {
+      "en": "Yes, I eat breakfast before school.",
+      "zh": "是的，上学前我都会吃早餐。"
+     }
+    },
+    {
+     "parent": {
+      "en": "What do you drink in the morning?",
+      "zh": "早上你喝什么？"
+     },
+     "child": {
+      "en": "A glass of milk, please.",
+      "zh": "请给我一杯牛奶。"
+     }
+    }
+   ]
   },
   {
    "id": 11,
@@ -2701,7 +2861,19 @@
     }
    ],
    "en": "Leaving the House",
-   "zh": "出门"
+   "zh": "出门",
+   "family": [
+    {
+     "parent": {
+      "en": "Do you have your key and bag?",
+      "zh": "门禁卡和书包带了吗？"
+     },
+     "child": {
+      "en": "Yes. I take my bus card and my bag.",
+      "zh": "带了。我带上门禁卡和书包。"
+     }
+    }
+   ]
   },
   {
    "id": 12,
@@ -2930,7 +3102,19 @@
    ],
    "en": "Taking a Bus",
    "zh": "乘公交",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Which bus do you take to school?",
+      "zh": "你坐几路公交上学？"
+     },
+     "child": {
+      "en": "I take the bus and get off at the next stop.",
+      "zh": "我坐公交，在下一站下车。"
+     }
+    }
+   ]
   },
   {
    "id": 13,
@@ -3109,6 +3293,18 @@
     {
      "en": "Tom watches Dad drive and learns car words.",
      "zh": "汤姆看着爸爸开车，顺便学汽车词汇。可以说 watch Dad drive（看爸爸开车）。"
+    }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "Are you ready to go?",
+      "zh": "准备好出发了吗？"
+     },
+     "child": {
+      "en": "Yes. I buckled my seat belt.",
+      "zh": "好了，我系好安全带了。"
+     }
     }
    ]
   },
@@ -3340,7 +3536,19 @@
    ],
    "en": "Operating a Car",
    "zh": "开自动挡汽车",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What does Dad do before he drives?",
+      "zh": "爸爸开车前做什么？"
+     },
+     "child": {
+      "en": "He puts the gear in D and steps on the gas.",
+      "zh": "他挂 D 挡，然后踩油门。"
+     }
+    }
+   ]
   },
   {
    "id": 15,
@@ -3719,7 +3927,19 @@
    ],
    "en": "Driving Along",
    "zh": "沿路驾驶",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What do we do at a red light?",
+      "zh": "遇到红灯怎么办？"
+     },
+     "child": {
+      "en": "We stop at the red light and go at the green.",
+      "zh": "红灯停，绿灯行。"
+     }
+    }
+   ]
   },
   {
    "id": 16,
@@ -3924,7 +4144,19 @@
    ],
    "en": "Taking a Train",
    "zh": "乘火车",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Which platform is our train on?",
+      "zh": "我们的火车在几号站台？"
+     },
+     "child": {
+      "en": "Let's look at the ticket.",
+      "zh": "我们看看车票吧。"
+     }
+    }
+   ]
   },
   {
    "id": 17,
@@ -4113,7 +4345,19 @@
    ],
    "en": "Taking a Taxi",
    "zh": "打出租车",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Where are we going by taxi?",
+      "zh": "我们打车去哪儿？"
+     },
+     "child": {
+      "en": "To the train station, please.",
+      "zh": "去火车站，谢谢。"
+     }
+    }
+   ]
   },
   {
    "id": 18,
@@ -4337,7 +4581,19 @@
    ],
    "en": "Walking Somewhere",
    "zh": "步行去某处",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "How do you walk to school safely?",
+      "zh": "怎么走路去学校才安全？"
+     },
+     "child": {
+      "en": "I walk on the sidewalk and cross at the crossing.",
+      "zh": "我走人行道，在路口过马路。"
+     }
+    }
+   ]
   },
   {
    "id": 19,
@@ -4519,7 +4775,19 @@
    ],
    "en": "Riding a Bicycle",
    "zh": "骑自行车",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Do you wear a helmet on your bike?",
+      "zh": "骑车戴头盔了吗？"
+     },
+     "child": {
+      "en": "Yes, I always wear my helmet.",
+      "zh": "戴了，我每次都戴。"
+     }
+    }
+   ]
   },
   {
    "id": 20,
@@ -4701,7 +4969,19 @@
    ],
    "en": "Returning Home",
    "zh": "放学回家",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "How was school today?",
+      "zh": "今天在学校怎么样？"
+     },
+     "child": {
+      "en": "Good! I came home and put my bag down.",
+      "zh": "很好！我回家就放下了书包。"
+     }
+    }
+   ]
   },
   {
    "id": 21,
@@ -4898,7 +5178,19 @@
    ],
    "en": "Making a Salad",
    "zh": "做沙拉",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What do you put in the salad?",
+      "zh": "沙拉里放什么？"
+     },
+     "child": {
+      "en": "Lettuce, tomatoes, and some raisins.",
+      "zh": "生菜、番茄，还有一些葡萄干。"
+     }
+    }
+   ]
   },
   {
    "id": 22,
@@ -5086,7 +5378,19 @@
    ],
    "en": "Preparing Vegetables",
    "zh": "准备蔬菜",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you help wash the vegetables?",
+      "zh": "你能帮忙洗菜吗？"
+     },
+     "child": {
+      "en": "Sure. I rinse them under the tap.",
+      "zh": "好呀，我在水龙头下冲洗。"
+     }
+    }
+   ]
   },
   {
    "id": 23,
@@ -5271,7 +5575,19 @@
    ],
    "en": "Making Spaghetti",
    "zh": "做番茄鸡蛋面",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What's for dinner tonight?",
+      "zh": "今晚吃什么？"
+     },
+     "child": {
+      "en": "Tomato and egg noodles!",
+      "zh": "番茄鸡蛋面！"
+     }
+    }
+   ]
   },
   {
    "id": 24,
@@ -5442,7 +5758,19 @@
    ],
    "en": "Cooking Rice",
    "zh": "煮米饭",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "How do we cook rice?",
+      "zh": "米饭怎么煮？"
+     },
+     "child": {
+      "en": "We wash the rice and press the cook button.",
+      "zh": "我们洗好米，按煮饭键。"
+     }
+    }
+   ]
   },
   {
    "id": 25,
@@ -5675,7 +6003,19 @@
    ],
    "en": "Eating Dinner",
    "zh": "一家人吃晚餐",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What do we use for dinner tonight?",
+      "zh": "今晚吃饭用什么？"
+     },
+     "child": {
+      "en": "Chopsticks and a round table!",
+      "zh": "筷子和圆桌！"
+     }
+    }
+   ]
   },
   {
    "id": 26,
@@ -5875,7 +6215,19 @@
    ],
    "en": "Clearing the Table",
    "zh": "收拾餐桌",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you help clear the table?",
+      "zh": "你能帮忙收拾桌子吗？"
+     },
+     "child": {
+      "en": "Yes. I put the bowls in the sink.",
+      "zh": "能。我把碗放进水池。"
+     }
+    }
+   ]
   },
   {
    "id": 27,
@@ -6076,7 +6428,19 @@
    ],
    "en": "Doing Dishes",
    "zh": "洗碗",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Who washes the dishes tonight?",
+      "zh": "今晚谁洗碗？"
+     },
+     "child": {
+      "en": "I do. I rinse and wipe them.",
+      "zh": "我洗。我冲干净再擦干。"
+     }
+    }
+   ]
   },
   {
    "id": 28,
@@ -6248,7 +6612,19 @@
    ],
    "en": "Listening to Music on a Phone",
    "zh": "用手机听歌",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What music do you like?",
+      "zh": "你喜欢什么音乐？"
+     },
+     "child": {
+      "en": "I listen to songs on my phone.",
+      "zh": "我用手机听歌。"
+     }
+    }
+   ]
   },
   {
    "id": 29,
@@ -6410,7 +6786,19 @@
    ],
    "en": "Listening with Earphones",
    "zh": "戴耳机听音频",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you hear me with earphones on?",
+      "zh": "戴着耳机还能听见我吗？"
+     },
+     "child": {
+      "en": "No, I take one earphone off.",
+      "zh": "听不见，我摘下一只耳机。"
+     }
+    }
+   ]
   },
   {
    "id": 30,
@@ -6602,7 +6990,19 @@
    ],
    "en": "Reading",
    "zh": "阅读",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What book are you reading?",
+      "zh": "你在读什么书？"
+     },
+     "child": {
+      "en": "A story book. I read a little every day.",
+      "zh": "一本故事书。我每天读一点。"
+     }
+    }
+   ]
   },
   {
    "id": 31,
@@ -6840,7 +7240,29 @@
    ],
    "en": "Watching Television",
    "zh": "看电视",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What are you watching?",
+      "zh": "你在看什么？"
+     },
+     "child": {
+      "en": "A cartoon! I turned it on with the remote.",
+      "zh": "动画片！我用遥控器打开的。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Can I watch with you?",
+      "zh": "我能和你一起看吗？"
+     },
+     "child": {
+      "en": "Sure! It's a funny one.",
+      "zh": "当然！这个可好玩了。"
+     }
+    }
+   ]
   },
   {
    "id": 32,
@@ -7009,7 +7431,19 @@
    ],
    "en": "Watching a Video",
    "zh": "看视频",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can we watch a video together?",
+      "zh": "我们一起看个视频好吗？"
+     },
+     "child": {
+      "en": "Sure, let's watch a short one.",
+      "zh": "好呀，看个短的。"
+     }
+    }
+   ]
   },
   {
    "id": 33,
@@ -7215,7 +7649,19 @@
    ],
    "en": "Babysitting",
    "zh": "照顾弟弟妹妹",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you look after your little sister?",
+      "zh": "你能照顾妹妹吗？"
+     },
+     "child": {
+      "en": "Yes. I play with her and help her eat.",
+      "zh": "能。我陪她玩，帮她吃饭。"
+     }
+    }
+   ]
   },
   {
    "id": 34,
@@ -7561,7 +8007,29 @@
    ],
    "en": "Going to Bed",
    "zh": "上床睡觉",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What time do you go to bed?",
+      "zh": "你几点睡觉？"
+     },
+     "child": {
+      "en": "At nine. I set my phone alarm and turn off the light.",
+      "zh": "九点。我设好手机闹铃，然后关灯。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Did you brush your teeth before bed?",
+      "zh": "睡前刷牙了吗？"
+     },
+     "child": {
+      "en": "Yes, and I put on my pajamas.",
+      "zh": "刷了，睡衣也穿好了。"
+     }
+    }
+   ]
   },
   {
    "id": 35,
@@ -7761,7 +8229,19 @@
    ],
    "en": "Doing Laundry",
    "zh": "洗衣服",
-   "grammarZh": "一般将来时"
+   "grammarZh": "一般将来时",
+   "family": [
+    {
+     "parent": {
+      "en": "Where do the dirty clothes go?",
+      "zh": "脏衣服放哪儿？"
+     },
+     "child": {
+      "en": "In the laundry basket.",
+      "zh": "放进洗衣篮。"
+     }
+    }
+   ]
   },
   {
    "id": 36,
@@ -8149,7 +8629,29 @@
    ],
    "en": "Cleaning the House",
    "zh": "打扫房屋",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "Who cleans the house?",
+      "zh": "谁打扫房子？"
+     },
+     "child": {
+      "en": "We all do! I sweep the floor.",
+      "zh": "我们一起！我扫地。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Can you wipe the table?",
+      "zh": "你能擦桌子吗？"
+     },
+     "child": {
+      "en": "Sure, I'll wipe it with a cloth.",
+      "zh": "可以，我用抹布擦干净。"
+     }
+    }
+   ]
   },
   {
    "id": 37,
@@ -8369,7 +8871,19 @@
    ],
    "en": "Taking Care of a Cat",
    "zh": "照顾猫",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Did you feed the cat?",
+      "zh": "喂猫了吗？"
+     },
+     "child": {
+      "en": "Yes. I gave her some fish and fresh water.",
+      "zh": "喂了。我给了她鱼和干净的水。"
+     }
+    }
+   ]
   },
   {
    "id": 38,
@@ -8595,7 +9109,19 @@
    ],
    "en": "Taking Care of a Dog",
    "zh": "照顾狗",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Has the dog had a walk today?",
+      "zh": "今天狗散步了吗？"
+     },
+     "child": {
+      "en": "Yes, I walked him after school.",
+      "zh": "散了，放学后我带他去的。"
+     }
+    }
+   ]
   },
   {
    "id": 39,
@@ -8764,7 +9290,19 @@
    ],
    "en": "Taking Care of Potted Plants",
    "zh": "养护盆栽",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Do the plants need water?",
+      "zh": "花要浇水吗？"
+     },
+     "child": {
+      "en": "Yes. I water them twice a week.",
+      "zh": "要。我一周浇两次。"
+     }
+    }
+   ]
   },
   {
    "id": 40,
@@ -8922,7 +9460,19 @@
    ],
    "en": "Gardening",
    "zh": "阳台种花",
-   "grammarZh": "一般将来时"
+   "grammarZh": "一般将来时",
+   "family": [
+    {
+     "parent": {
+      "en": "What are you planting?",
+      "zh": "你在种什么？"
+     },
+     "child": {
+      "en": "Flowers on the balcony.",
+      "zh": "阳台上种花。"
+     }
+    }
+   ]
   },
   {
    "id": 41,
@@ -9157,7 +9707,19 @@
    ],
    "en": "Cleaning a Car",
    "zh": "洗车",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you help wash the car?",
+      "zh": "你能帮忙洗车吗？"
+     },
+     "child": {
+      "en": "Yes. I spray it with water first.",
+      "zh": "能。我先用水把它冲一遍。"
+     }
+    }
+   ]
   },
   {
    "id": 42,
@@ -9368,7 +9930,19 @@
    ],
    "en": "Taking a Car to a Garage for Repairs",
    "zh": "送车去 4S 店维修",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Where is Dad's car today?",
+      "zh": "爸爸的车今天在哪儿？"
+     },
+     "child": {
+      "en": "At the 4S shop for repairs.",
+      "zh": "在 4S 店维修呢。"
+     }
+    }
+   ]
   },
   {
    "id": 43,
@@ -9562,7 +10136,19 @@
    ],
    "en": "Changing a Flat Tire",
    "zh": "车胎瘪了，爸爸叫救援",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What happened to the car?",
+      "zh": "车怎么了？"
+     },
+     "child": {
+      "en": "A tire went flat, so Dad called for help.",
+      "zh": "车胎瘪了，爸爸叫了救援。"
+     }
+    }
+   ]
   },
   {
    "id": 44,
@@ -9763,7 +10349,19 @@
    ],
    "en": "Dealing with a Power Failure",
    "zh": "应对停电",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What do we do when the power goes out?",
+      "zh": "停电了怎么办？"
+     },
+     "child": {
+      "en": "I turn on the phone flashlight and Mom lights candles.",
+      "zh": "我打开手机电筒，妈妈点蜡烛。"
+     }
+    }
+   ]
   },
   {
    "id": 45,
@@ -9962,7 +10560,19 @@
    ],
    "en": "Working with Wood",
    "zh": "装书架",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can you help build the shelf?",
+      "zh": "你能帮忙装书架吗？"
+     },
+     "child": {
+      "en": "Yes. I hand Dad the screws.",
+      "zh": "能。我给爸爸递螺丝。"
+     }
+    }
+   ]
   },
   {
    "id": 46,
@@ -10010,6 +10620,10 @@
     {
      "en": "To loosen the screw, you turn it counter-clockwise.",
      "zh": "要拧松螺丝，就逆时针转动。"
+    },
+    {
+     "en": "I help Dad pass the tools.",
+     "zh": "我帮爸爸递工具。"
     }
    ],
    "vocab": {
@@ -10166,7 +10780,19 @@
    ],
    "en": "Joining Things with Bolts/Screws",
    "zh": "用螺栓/螺丝拼接",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "Do you know how to use a screwdriver?",
+      "zh": "会用螺丝刀吗？"
+     },
+     "child": {
+      "en": "Yes. I help Dad pass the tools.",
+      "zh": "会。我帮爸爸递工具。"
+     }
+    }
+   ]
   },
   {
    "id": 47,
@@ -10391,7 +11017,19 @@
    ],
    "en": "Shopping for Groceries",
    "zh": "帮妈妈买菜",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "What's on the shopping list?",
+      "zh": "购物清单上有什么？"
+     },
+     "child": {
+      "en": "Tomatoes, eggs, and milk.",
+      "zh": "番茄、鸡蛋和牛奶。"
+     }
+    }
+   ]
   },
   {
    "id": 48,
@@ -10601,7 +11239,19 @@
    ],
    "en": "Paying for Things",
    "zh": "付款",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "How do we pay at the store?",
+      "zh": "在店里怎么付款？"
+     },
+     "child": {
+      "en": "Mom scans the code with her phone.",
+      "zh": "妈妈用手机扫码。"
+     }
+    }
+   ]
   },
   {
    "id": 49,
@@ -10790,7 +11440,19 @@
    ],
    "en": "Going to a Bank",
    "zh": "去银行",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Why are we going to the bank?",
+      "zh": "我们去银行做什么？"
+     },
+     "child": {
+      "en": "To get some money and change.",
+      "zh": "取一些钱，再换点零钱。"
+     }
+    }
+   ]
   },
   {
    "id": 50,
@@ -11020,7 +11682,19 @@
    ],
    "en": "Using an ATM",
    "zh": "使用ATM",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "How does Mom get money from the ATM?",
+      "zh": "妈妈怎么从 ATM 取钱？"
+     },
+     "child": {
+      "en": "She puts in her card and enters her PIN.",
+      "zh": "她插卡，再输入密码。"
+     }
+    }
+   ]
   },
   {
    "id": 51,
@@ -11202,7 +11876,19 @@
    ],
    "en": "Making a Phone Call",
    "zh": "用手机打电话",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Who are you calling?",
+      "zh": "你在给谁打电话？"
+     },
+     "child": {
+      "en": "My friend. I tap the screen to call.",
+      "zh": "我朋友。我点屏幕拨号。"
+     }
+    }
+   ]
   },
   {
    "id": 52,
@@ -11430,7 +12116,19 @@
    ],
    "en": "Answering a Telephone",
    "zh": "接电话",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Who was on the phone?",
+      "zh": "刚才谁打的电话？"
+     },
+     "child": {
+      "en": "A boy. He had the wrong number.",
+      "zh": "一个男孩，打错电话了。"
+     }
+    }
+   ]
   },
   {
    "id": 53,
@@ -11645,7 +12343,19 @@
    ],
    "en": "Leaving a Message",
    "zh": "留言",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Did anyone call while I was out?",
+      "zh": "我出门时有人打电话吗？"
+     },
+     "child": {
+      "en": "Yes, I left a message for you.",
+      "zh": "有，我给您留了言。"
+     }
+    }
+   ]
   },
   {
    "id": 54,
@@ -11830,7 +12540,19 @@
    ],
    "en": "Taking a Message",
    "zh": "记留言",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "What did the caller say?",
+      "zh": "对方说了什么？"
+     },
+     "child": {
+      "en": "He asked for you, so I took a message.",
+      "zh": "他找您，我就记了留言。"
+     }
+    }
+   ]
   },
   {
    "id": 55,
@@ -12016,7 +12738,19 @@
    ],
    "en": "Leaving a Voice Message",
    "zh": "微信语音留言",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Did you send Grandma a voice message?",
+      "zh": "给奶奶发语音了吗？"
+     },
+     "child": {
+      "en": "Yes, I sent her a short one.",
+      "zh": "发了，发了一条短的。"
+     }
+    }
+   ]
   },
   {
    "id": 56,
@@ -12196,7 +12930,19 @@
    ],
    "en": "Writing a Personal Letter",
    "zh": "写信给表姐",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Who are you writing to?",
+      "zh": "你在给谁写信？"
+     },
+     "child": {
+      "en": "My cousin. I'm writing a letter.",
+      "zh": "我表姐，我在写信。"
+     }
+    }
+   ]
   },
   {
    "id": 57,
@@ -12426,7 +13172,19 @@
    ],
    "en": "Sending a Package",
    "zh": "寄包裹",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "Can we send this package today?",
+      "zh": "今天能寄这个包裹吗？"
+     },
+     "child": {
+      "en": "Yes. We weigh it and buy a stamp.",
+      "zh": "能。我们称重、买邮票。"
+     }
+    }
+   ]
   },
   {
    "id": 58,
@@ -12629,7 +13387,29 @@
    ],
    "en": "Going to a Birthday Party",
    "zh": "参加生日派对",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "What do you bring to a birthday party?",
+      "zh": "去生日派对带什么？"
+     },
+     "child": {
+      "en": "A present and a card.",
+      "zh": "一个礼物和一张卡片。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Did you say thank you?",
+      "zh": "你说谢谢了吗？"
+     },
+     "child": {
+      "en": "Yes, I did.",
+      "zh": "说了。"
+     }
+    }
+   ]
   },
   {
    "id": 59,
@@ -12879,7 +13659,19 @@
    ],
    "en": "Going to a Dinner Party",
    "zh": "去爷爷家聚餐",
-   "grammarZh": "一般现在时"
+   "grammarZh": "一般现在时",
+   "family": [
+    {
+     "parent": {
+      "en": "What do we bring to Grandpa's?",
+      "zh": "去爷爷家带什么？"
+     },
+     "child": {
+      "en": "Some fruit and tea.",
+      "zh": "一些水果和茶叶。"
+     }
+    }
+   ]
   },
   {
    "id": 60,
@@ -13094,7 +13886,19 @@
    ],
    "en": "Going to a Movie",
    "zh": "看电影",
-   "grammarZh": "一般过去时"
+   "grammarZh": "一般过去时",
+   "family": [
+    {
+     "parent": {
+      "en": "Which movie shall we watch?",
+      "zh": "我们看哪部电影？"
+     },
+     "child": {
+      "en": "The cartoon one!",
+      "zh": "那部动画片！"
+     }
+    }
+   ]
   },
   {
    "id": 61,
@@ -13342,6 +14146,18 @@
      "en": "The clerk may ask: 'For here or to go?' 在这里吃还是打包带走？",
      "zh": "店员会问：“在这里吃还是打包带走？”可以说 for here or to go（堂食还是外带）。"
     }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "What did you order?",
+      "zh": "你点了什么？"
+     },
+     "child": {
+      "en": "A burger and a drink, please.",
+      "zh": "一个汉堡和一杯饮料，谢谢。"
+     }
+    }
    ]
   },
   {
@@ -13513,6 +14329,18 @@
     {
      "en": "“Have a good day!” is like saying “好好学习，再见！” at the school gate.",
      "zh": "Have a good day! 就像在校门口说“好好学习，再见！”"
+    }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "How do you go to school?",
+      "zh": "你怎么上学？"
+     },
+     "child": {
+      "en": "I walk with my friend.",
+      "zh": "我和朋友一起走。"
+     }
     }
    ]
   },
@@ -13709,6 +14537,18 @@
     {
      "en": "During the ten-minute recess, children play in the hallway or on the playground.",
      "zh": "课间十分钟，孩子们在走廊或操场上玩。"
+    }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "What did you do at recess?",
+      "zh": "课间你做什么了？"
+     },
+     "child": {
+      "en": "I played with my classmates.",
+      "zh": "我和同学一起玩了。"
+     }
     }
    ]
   },
@@ -13917,6 +14757,18 @@
      "en": "Many supermarkets charge a little for plastic bags, so people bring their own shopping bags.",
      "zh": "很多中国超市塑料袋收费，所以大家会自己带购物袋（环保袋）。"
     }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "Can you find the milk?",
+      "zh": "你能找到牛奶吗？"
+     },
+     "child": {
+      "en": "Yes, it's on the shelf over there.",
+      "zh": "能，在那边货架上。"
+     }
+    }
    ]
   },
   {
@@ -14098,6 +14950,18 @@
     {
      "en": "Parents usually call their children home before dark.",
      "zh": "天黑前家长一般会叫孩子回家。"
+    }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "What do you want to play first?",
+      "zh": "你想先玩什么？"
+     },
+     "child": {
+      "en": "The slide!",
+      "zh": "滑梯！"
+     }
     }
    ]
   },
@@ -14287,6 +15151,18 @@
      "en": "Tidying up toys is usually the first chore a Chinese child learns at home.",
      "zh": "收玩具通常是中国孩子在家学会的第一件家务。"
     }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "Are your toys put away?",
+      "zh": "玩具收好了吗？"
+     },
+     "child": {
+      "en": "Yes, I put them in the box.",
+      "zh": "收好了，我放进箱子里了。"
+     }
+    }
    ]
   },
   {
@@ -14468,6 +15344,18 @@
     {
      "en": "Saying “晚安，妈妈” and “做个好梦” is just like Jenny's goodnight in the unit.",
      "zh": "“晚安，妈妈”“做个好梦”正是本单元里珍妮和妈妈的对话。"
+    }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "Which story tonight?",
+      "zh": "今晚讲哪个故事？"
+     },
+     "child": {
+      "en": "The one about the little bear, please.",
+      "zh": "讲小熊那个吧。"
+     }
     }
    ]
   },
@@ -14651,7 +15539,19 @@
      "zh": "家长常在下课后接孩子，并问“今天学了什么？”。"
     }
    ],
-   "img": "assets/img/unit68.jpg"
+   "img": "assets/img/unit68.jpg",
+   "family": [
+    {
+     "parent": {
+      "en": "What class do you have today?",
+      "zh": "你今天有什么课？"
+     },
+     "child": {
+      "en": "Drawing class. I like it.",
+      "zh": "画画课，我喜欢。"
+     }
+    }
+   ]
   },
   {
    "id": 69,
@@ -14844,7 +15744,19 @@
      "zh": "家长常会拍照并分享到微信朋友圈。"
     }
    ],
-   "img": "assets/img/unit69.jpg"
+   "img": "assets/img/unit69.jpg",
+   "family": [
+    {
+     "parent": {
+      "en": "Whose birthday is it today?",
+      "zh": "今天是谁的生日？"
+     },
+     "child": {
+      "en": "Mine! I made a wish.",
+      "zh": "我的！我许了愿。"
+     }
+    }
+   ]
   },
   {
    "id": 70,
@@ -15058,7 +15970,29 @@
      "zh": "儿科医生常在打针后用贴纸或小礼物安抚孩子。"
     }
    ],
-   "img": "assets/img/unit70.jpg"
+   "img": "assets/img/unit70.jpg",
+   "family": [
+    {
+     "parent": {
+      "en": "Are you afraid of the doctor?",
+      "zh": "你怕看医生吗？"
+     },
+     "child": {
+      "en": "A little. But the doctor is kind.",
+      "zh": "有一点。不过医生很温柔。"
+     }
+    },
+    {
+     "parent": {
+      "en": "Did the doctor give you a sticker?",
+      "zh": "医生给你贴纸了吗？"
+     },
+     "child": {
+      "en": "Yes! A star one.",
+      "zh": "给了！一颗星星的。"
+     }
+    }
+   ]
   },
   {
    "id": 71,
@@ -15232,7 +16166,19 @@
      "zh": "孩子们喜欢在视频里展示自己的画、玩具或作业。"
     }
    ],
-   "img": "assets/img/unit71.jpg"
+   "img": "assets/img/unit71.jpg",
+   "family": [
+    {
+     "parent": {
+      "en": "Who are you video-calling?",
+      "zh": "你在跟谁视频？"
+     },
+     "child": {
+      "en": "My classmate Kate.",
+      "zh": "我同学 Kate。"
+     }
+    }
+   ]
   },
   {
    "id": 72,
@@ -15426,7 +16372,19 @@
      "zh": "天黑了家长会喊孩子回家，“天黑前回家”是常见的家规。"
     }
    ],
-   "img": "assets/img/unit72.jpg"
+   "img": "assets/img/unit72.jpg",
+   "family": [
+    {
+     "parent": {
+      "en": "Where are you playing?",
+      "zh": "你在哪儿玩？"
+     },
+     "child": {
+      "en": "Downstairs with my friends.",
+      "zh": "在楼下和朋友们。"
+     }
+    }
+   ]
   },
   {
    "id": 73,
@@ -15624,6 +16582,18 @@
     {
      "en": "Many Chinese families fly to visit grandparents or travel during summer and winter vacations.",
      "zh": "很多中国家庭在寒暑假坐飞机探亲或旅行。"
+    }
+   ],
+   "family": [
+    {
+     "parent": {
+      "en": "Is this your first flight?",
+      "zh": "这是你第一次坐飞机吗？"
+     },
+     "child": {
+      "en": "Yes! I have a window seat.",
+      "zh": "是！我是靠窗的座位。"
+     }
     }
    ]
   }

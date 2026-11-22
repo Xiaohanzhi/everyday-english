@@ -14911,6 +14911,12 @@
    "voice": "narrator",
    "text": "Then she smiles at herself in the mirror. Her teeth are clean!",
    "src_text": "u002_s11.mp3"
+  },
+  {
+   "file": "assets/audio/u046_s10.mp3",
+   "voice": "narrator",
+   "text": "I help Dad pass the tools.",
+   "src_text": "unit46 step10"
   }
  ]
 }
