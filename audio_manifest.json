@@ -2991,36 +2991,6 @@
    "src_text": "unit14 step1"
   },
   {
-   "file": "assets/audio/u014_s10.mp3",
-   "voice": "narrator",
-   "text": "Kate stepped on the brake.",
-   "src_text": "unit14 step10"
-  },
-  {
-   "file": "assets/audio/u014_s11.mp3",
-   "voice": "narrator",
-   "text": "Kate put her turn signal on...",
-   "src_text": "unit14 step11"
-  },
-  {
-   "file": "assets/audio/u014_s12.mp3",
-   "voice": "narrator",
-   "text": "...and turned the steering wheel.",
-   "src_text": "unit14 step12"
-  },
-  {
-   "file": "assets/audio/u014_s13.mp3",
-   "voice": "narrator",
-   "text": "When it got dark, she turned on the lights.",
-   "src_text": "unit14 step13"
-  },
-  {
-   "file": "assets/audio/u014_s14.mp3",
-   "voice": "narrator",
-   "text": "When it rained, she turned on the windshield wipers.",
-   "src_text": "unit14 step14"
-  },
-  {
    "file": "u014_s2.mp3",
    "voice": "narrator",
    "text": "He put the gearshift into D for Drive.",
@@ -3171,52 +3141,10 @@
    "src_text": "unit14 vocab forward (adv.)"
   },
   {
-   "file": "assets/audio/u014_v25.mp3",
-   "voice": "narrator",
-   "text": "steering wheel",
-   "src_text": "unit14 vocab steering wheel"
-  },
-  {
-   "file": "assets/audio/u014_v26.mp3",
-   "voice": "narrator",
-   "text": "turn signal",
-   "src_text": "unit14 vocab turn signal"
-  },
-  {
-   "file": "assets/audio/u014_v27.mp3",
-   "voice": "narrator",
-   "text": "windshield wiper",
-   "src_text": "unit14 vocab windshield wiper"
-  },
-  {
-   "file": "assets/audio/u014_v28.mp3",
-   "voice": "narrator",
-   "text": "dark (adj.)",
-   "src_text": "unit14 vocab dark (adj.)"
-  },
-  {
-   "file": "assets/audio/u014_v29.mp3",
-   "voice": "narrator",
-   "text": "fast(er)",
-   "src_text": "unit14 vocab fast(er)"
-  },
-  {
    "file": "u014_v3.mp3",
    "voice": "narrator",
    "text": "let up on",
    "src_text": "unit14 vocab let up on"
-  },
-  {
-   "file": "assets/audio/u014_v30.mp3",
-   "voice": "narrator",
-   "text": "high(er)",
-   "src_text": "unit14 vocab high(er)"
-  },
-  {
-   "file": "assets/audio/u014_v31.mp3",
-   "voice": "narrator",
-   "text": "low(er)",
-   "src_text": "unit14 vocab low(er)"
   },
   {
    "file": "u014_v4.mp3",
@@ -5431,30 +5359,6 @@
    "voice": "narrator",
    "text": "together (adv.)",
    "src_text": "unit25 vocab together (adv.)"
-  },
-  {
-   "file": "assets/audio/u025_v24.mp3",
-   "voice": "narrator",
-   "text": "serving dish",
-   "src_text": "unit25 vocab serving dish"
-  },
-  {
-   "file": "assets/audio/u025_v25.mp3",
-   "voice": "narrator",
-   "text": "spaghetti",
-   "src_text": "unit25 vocab spaghetti"
-  },
-  {
-   "file": "assets/audio/u025_v26.mp3",
-   "voice": "narrator",
-   "text": "spoon",
-   "src_text": "unit25 vocab spoon"
-  },
-  {
-   "file": "assets/audio/u025_v27.mp3",
-   "voice": "narrator",
-   "text": "table",
-   "src_text": "unit25 vocab table"
   },
   {
    "file": "u025_v3.mp3",
@@ -8877,30 +8781,6 @@
    "src_text": "unit42 dialogue4"
   },
   {
-   "file": "assets/audio/u042_d5.mp3",
-   "voice": "clerk",
-   "text": "It's ready.",
-   "src_text": "unit42 dialogue5 (Mechanic)"
-  },
-  {
-   "file": "assets/audio/u042_d6.mp3",
-   "voice": "clerk",
-   "text": "Is it ready yet?",
-   "src_text": "unit42 dialogue6 (Customer)"
-  },
-  {
-   "file": "assets/audio/u042_d7.mp3",
-   "voice": "clerk",
-   "text": "That'll be two ninety-four for parts and labor.",
-   "src_text": "unit42 dialogue7 (Mechanic)"
-  },
-  {
-   "file": "assets/audio/u042_d8.mp3",
-   "voice": "clerk",
-   "text": "$294! Ouch!",
-   "src_text": "unit42 dialogue8 (Customer)"
-  },
-  {
    "file": "u042_s1.mp3",
    "voice": "narrator",
    "text": "Dad called the 4S shop to book a repair for the car.",
@@ -9031,12 +8911,6 @@
    "voice": "narrator",
    "text": "later (adv.)",
    "src_text": "unit42 vocab later (adv.)"
-  },
-  {
-   "file": "assets/audio/u042_v22.mp3",
-   "voice": "narrator",
-   "text": "later",
-   "src_text": "unit42 vocab later"
   },
   {
    "file": "u042_v3.mp3",
@@ -9211,12 +9085,6 @@
    "voice": "narrator",
    "text": "flat (adj.)",
    "src_text": "unit43 vocab flat (adj.)"
-  },
-  {
-   "file": "assets/audio/u043_v19.mp3",
-   "voice": "narrator",
-   "text": "spare",
-   "src_text": "unit43 vocab spare"
   },
   {
    "file": "u043_v2.mp3",
@@ -9583,54 +9451,6 @@
    "voice": "narrator",
    "text": "together (adv.)",
    "src_text": "unit45 vocab together (adv.)"
-  },
-  {
-   "file": "assets/audio/u045_v22.mp3",
-   "voice": "narrator",
-   "text": "saw",
-   "src_text": "unit45 vocab saw"
-  },
-  {
-   "file": "assets/audio/u045_v23.mp3",
-   "voice": "narrator",
-   "text": "sawdust",
-   "src_text": "unit45 vocab sawdust"
-  },
-  {
-   "file": "assets/audio/u045_v24.mp3",
-   "voice": "narrator",
-   "text": "screw",
-   "src_text": "unit45 vocab screw"
-  },
-  {
-   "file": "assets/audio/u045_v25.mp3",
-   "voice": "narrator",
-   "text": "screwdriver",
-   "src_text": "unit45 vocab screwdriver"
-  },
-  {
-   "file": "assets/audio/u045_v26.mp3",
-   "voice": "narrator",
-   "text": "shavings",
-   "src_text": "unit45 vocab shavings"
-  },
-  {
-   "file": "assets/audio/u045_v27.mp3",
-   "voice": "narrator",
-   "text": "wood",
-   "src_text": "unit45 vocab wood"
-  },
-  {
-   "file": "assets/audio/u045_v28.mp3",
-   "voice": "narrator",
-   "text": "smooth",
-   "src_text": "unit45 vocab smooth"
-  },
-  {
-   "file": "assets/audio/u045_v29.mp3",
-   "voice": "narrator",
-   "text": "together",
-   "src_text": "unit45 vocab together"
   },
   {
    "file": "u045_v3.mp3",
@@ -10743,12 +10563,6 @@
    "src_text": "unit51 step7"
   },
   {
-   "file": "assets/audio/u051_s8.mp3",
-   "voice": "narrator",
-   "text": "Then she said why she called.",
-   "src_text": "unit51 step8"
-  },
-  {
    "file": "assets/audio/u051_v1.mp3",
    "voice": "narrator",
    "text": "answer",
@@ -11643,12 +11457,6 @@
    "src_text": "unit56 step8"
   },
   {
-   "file": "assets/audio/u056_s9.mp3",
-   "voice": "narrator",
-   "text": "...and signed the letter.",
-   "src_text": "unit56 step9"
-  },
-  {
    "file": "u056_v1.mp3",
    "voice": "narrator",
    "text": "ask",
@@ -11697,34 +11505,10 @@
    "src_text": "unit56 vocab personal (adj.)"
   },
   {
-   "file": "assets/audio/u056_v17.mp3",
-   "voice": "narrator",
-   "text": "top",
-   "src_text": "unit56 vocab top"
-  },
-  {
-   "file": "assets/audio/u056_v18.mp3",
-   "voice": "narrator",
-   "text": "last (adj.)",
-   "src_text": "unit56 vocab last (adj.)"
-  },
-  {
-   "file": "assets/audio/u056_v19.mp3",
-   "voice": "narrator",
-   "text": "personal (adj.)",
-   "src_text": "unit56 vocab personal (adj.)"
-  },
-  {
    "file": "u056_v2.mp3",
    "voice": "narrator",
    "text": "put (put) in",
    "src_text": "unit56 vocab put (put) in"
-  },
-  {
-   "file": "assets/audio/u056_v20.mp3",
-   "voice": "narrator",
-   "text": "soon / sooner (adv.)",
-   "src_text": "unit56 vocab soon / sooner (adv.)"
   },
   {
    "file": "u056_v3.mp3",
@@ -12177,36 +11961,6 @@
    "src_text": "unit59 dialogue1"
   },
   {
-   "file": "assets/audio/u059_d10.mp3",
-   "voice": "clerk",
-   "text": "Same here, Tom.",
-   "src_text": "unit59 dialogue10 (John)"
-  },
-  {
-   "file": "assets/audio/u059_d11.mp3",
-   "voice": "clerk",
-   "text": "Sure was a hot one today.",
-   "src_text": "unit59 dialogue11 (Guest)"
-  },
-  {
-   "file": "assets/audio/u059_d12.mp3",
-   "voice": "clerk",
-   "text": "Yeah.",
-   "src_text": "unit59 dialogue12 (Guest)"
-  },
-  {
-   "file": "assets/audio/u059_d13.mp3",
-   "voice": "clerk",
-   "text": "Thanks, Dan. Great party.",
-   "src_text": "unit59 dialogue13 (Tom)"
-  },
-  {
-   "file": "assets/audio/u059_d14.mp3",
-   "voice": "clerk",
-   "text": "Glad you could come. Drive safely.",
-   "src_text": "unit59 dialogue14 (Dan)"
-  },
-  {
    "file": "u059_d2.mp3",
    "voice": "girl",
    "text": "Hi, Grandpa.",
@@ -12247,12 +12001,6 @@
    "voice": "teacher",
    "text": "Glad you could come. See you soon!",
    "src_text": "unit59 dialogue8"
-  },
-  {
-   "file": "assets/audio/u059_d9.mp3",
-   "voice": "clerk",
-   "text": "Glad to meet you, John.",
-   "src_text": "unit59 dialogue9 (Tom)"
   },
   {
    "file": "u059_s1.mp3",
@@ -12598,12 +12346,6 @@
   },
   {
    "file": "u060_v21.mp3",
-   "voice": "narrator",
-   "text": "main (adj.)",
-   "src_text": "unit60 vocab main (adj.)"
-  },
-  {
-   "file": "assets/audio/u060_v22.mp3",
    "voice": "narrator",
    "text": "main (adj.)",
    "src_text": "unit60 vocab main (adj.)"
